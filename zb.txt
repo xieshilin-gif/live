@@ -142,13 +142,13 @@ CHC家庭影院,http://live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playli
 广元综合,https://taijitv.zhonglong1.repl.co/sxg.php?id=gyzhH265_4000
 苍溪综合,https://taijitv.zhonglong1.repl.co/sxg.php?id=cxxwgqH265_4000
 
-成都新闻综合,http://cdn1.cditv.cn/cdtv1/CDTV1.flv/playlist.m3u8?wsSecret=565bdfe8d2ab49ded2d108c3fb200e3e&wsTime=65794c5d
-成都经济资讯,http://cdn1.cditv.cn/cdtv2/CDTV2.flv/playlist.m3u8?wsSecret=cd12c6d59419312140a17114689594fc&wsTime=65794ca7
-成都都市生活,http://cdn1.cditv.cn/cdtv3/CDTV3.flv/playlist.m3u8?wsSecret=1010bb50705f15ff1dcc70b510c65170&wsTime=65794cd5
-成都影视文艺,http://cdn1.cditv.cn/cdtv4/CDTV4.flv/playlist.m3u8?wsSecret=d804fe31b81afe3c60f4005f946a2602&wsTime=65794ce1
-成都公共频道,http://cdn1.cditv.cn/cdtv5/CDTV5.flv/playlist.m3u8?wsSecret=b34b424eb607feaa881897397e01bf93&wsTime=65794cfc
+成都新闻综合,
+成都经济资讯,
+成都都市生活,
+成都影视文艺,
+成都公共频道,
 成都高新区,
-成都少儿频道,http://cdn1.cditv.cn/cdtv6/CDTV6.flv/playlist.m3u8?wsSecret=b3dfd3a17720261174dcbdc87ec57017&wsTime=65794d08
+成都少儿频道,
 广元公共,
 广元文化,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 广元综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
@@ -164,6 +164,7 @@ CHC家庭影院,http://live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playli
 北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 安徽卫视,http://live.aishang.ctlcdn.com/00000110240256_1/playlist.m3u8?CONTENTID=00000110240256_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 北京卫视,http://live.aishang.ctlcdn.com/00000110240129_1/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+北京卫视,http://live.aishang.ctlcdn.com/00000110240129_1/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614gdYS5bnDqtoUOBkWQoH6rTvTlu5Aw3evv7yy0u2BlOsOEVg8724ObgLgS2tj%2FSq8xWZ1p4rvSaCId2u7KLjn%2F6NEU%2Fb%2FYbiy8suzx2wGcwqJMhivxx1S8fcvB8Encq%2BryRG2SCfnknIN%2FzYUY2f6hMd7FvBvQe0iob6jTaq%2BIc40cshMBHHylL8I%2F%2BPT8H7sA%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 东方卫视,http://live.aishang.ctlcdn.com/00000110240242_1/playlist.m3u8?CONTENTID=00000110240242_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 东南卫视,http://live.aishang.ctlcdn.com/00000110240588_1/playlist.m3u8?CONTENTID=00000110240588_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 广东卫视,http://live.aishang.ctlcdn.com/00000110240137_1/playlist.m3u8?CONTENTID=00000110240137_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
