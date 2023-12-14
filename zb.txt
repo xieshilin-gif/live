@@ -793,10 +793,10 @@ IPTV少儿动画,http://49.235.110.121:9090/daili/IPTV.php?id=iptvsedh
 军事迷必看大片,
 热剧联播,
 新片放映厅,
+电影1905国际,http://8.217.77.255:9999/1905.php?id=1905
+电影1905国内,http://8.217.77.255:9999/1905.php?id=1905-2
 电影1905国际,http://49.235.110.121:9090/daili/1905.php?id=1905
 电影1905国内,http://49.235.110.121:9090/daili/1905.php?id=1905-2
-电影1905国际,http://47.242.38.45:9999/1905.php?id=1905
-电影1905国内,http://47.242.38.45:9999/1905.php?id=1905-2
 山东影视,rtmp://livealone.iqilu.com/iqilu/yspdhjOF03kn
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 西安影视,http://49.235.110.121:9090/daili/xa.php?id=xays
