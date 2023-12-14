@@ -1,4 +1,24 @@
 央视,#genre#
+CCTV1,http://43.142.32.164:9999/小果.php?id=CCTV-1H265_4000&Cf.m3u8
+CCTV2,http://43.142.32.164:9999/小果.php?id=CCTV-2H265_4000&Cf.m3u8
+CCTV3,http://43.142.32.164:9999/小果.php?id=CCTV-3H265_4000&Cf.m3u8
+CCTV4,http://43.142.32.164:9999/小果.php?id=CCTV-4H265_4000&Cf.m3u8
+CCTV5,http://43.142.32.164:9999/小果.php?id=CCTV-5H265_4000&Cf.m3u8
+CCTV5+,http://43.142.32.164:9999/小果.php?id=CCTV-5plusH265_4000&Cf.m3u8
+CCTV6,http://43.142.32.164:9999/小果.php?id=CCTV-6H265_4000&Cf.m3u8
+CCTV7,http://43.142.32.164:9999/小果.php?id=CCTV-7H265_4000&Cf.m3u8
+CCTV8,http://43.142.32.164:9999/小果.php?id=CCTV-8H265_4000&Cf.m3u8
+CCTV9,http://43.142.32.164:9999/小果.php?id=CCTV-9H265_4000&Cf.m3u8
+CCTV10,http://43.142.32.164:9999/小果.php?id=CCTV-10H265_4000&Cf.m3u8
+CCTV11,http://43.142.32.164:9999/小果.php?id=CCTV-11-H265_4000&Cf.m3u8
+CCTV12,http://43.142.32.164:9999/小果.php?id=CCTV-12H265_4000&Cf.m3u8
+CCTV13,http://43.142.32.164:9999/小果.php?id=CCTV-xw_4000&Cf.m3u8
+CCTV14,http://43.142.32.164:9999/小果.php?id=CCTV-14H265_4000&Cf.m3u8
+CCTV15,http://43.142.32.164:9999/小果.php?id=CCTV-15-yyH265_4000&Cf.m3u8
+CCTV16,http://43.142.32.164:9999/小果.php?id=CCTV-16_4000&Cf.m3u8
+CCTV16-4K,http://43.142.32.164:9999/小果.php?id=CCTV-16-4K_8000&Cf.m3u8
+CCTV17,http://43.142.32.164:9999/小果.php?id=CCTV-17_4000&Cf.m3u8
+
 CCTV1,http://live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV2,http://live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV3,http://live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTENTID=00000110240245_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -28,7 +48,6 @@ CETV4,http://live.aishang.ctlcdn.com/00000110245252_1/playlist.m3u8?CONTENTID=00
 CHC家庭影院,http://live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC动作电影,http://live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC高清电影,http://live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-都市剧场,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
 第一剧场,http://121.29.111.117:8888/rtp/239.253.93.138:6428
 怀旧剧场,http://121.29.111.117:8888/rtp/239.253.93.252:6430
 风云剧场,http://121.29.111.117:8888/rtp/239.253.93.251:6429
@@ -133,6 +152,15 @@ CCTV17,http://cfss.cc/ds/ysp/qp.php?id=cctv17&Cf.m3u8
 
 四川,#genre#
 四川卫视,http://121.29.111.117:8888/rtp/239.253.92.16:6043
+四川文化旅游,http://43.142.32.164:9999/小果.php?id=SCTV-3-H265_4000&Cf.m3u8
+四川经济,http://43.142.32.164:9999/小果.php?id=SCTV-2-H265_4000&Cf.m3u8
+四川新闻,http://43.142.32.164:9999/小果.php?id=SCTV-4H265_4000&Cf.m3u8
+四川影视文艺,http://43.142.32.164:9999/小果.php?id=SCTV-5-scysH265_4000&Cf.m3u8
+四川妇女儿童,http://43.142.32.164:9999/小果.php?id=SCTV-7-_4000&Cf.m3u8
+四川科教,http://43.142.32.164:9999/小果.php?id=SCTV-ggSCTV-8_4000&Cf.m3u8
+四川乡村,http://43.142.32.164:9999/小果.php?id=SCTV-kjSCTV-9-_4000&Cf.m3u8
+四川峨嵋电影,http://43.142.32.164:9999/小果.php?id=emdygqH265_4000&Cf.m3u8
+
 四川文化旅游,https://scgctvshow.sctv.com/hdlive/sctv38f9fb5888dedbe0c6a1b/1.m3u8?txSecret=0daccd56a40155ac25a1eed05deabd21&txTime=657A783E
 四川经济,https://scgctvshow.sctv.com/hdlive/sctv28f9fb5888dedbe0c6a1b/1.m3u8?txSecret=f401d83d9dd267e61533053719195ef1&txTime=657A783E
 四川新闻,https://scgctvshow.sctv.com/hdlive/sctv48f9fb5888dedbe0c6a1b/1.m3u8?txSecret=bda393d13756e77a9b24366cd1757c0a&txTime=657A783E
@@ -172,8 +200,13 @@ CCTV17,http://cfss.cc/ds/ysp/qp.php?id=cctv17&Cf.m3u8
 四川妇女儿童,http://120.79.196.2:8088/live/scm3u8.php?id=fnrt
 四川科教,
 四川乡村,http://dcpull.sctvcloud.com/live/6bcbdd9501881000b1f5f6b400000000/playlist.m3u8
-四川峨嵋电影,
+四川峨嵋电影,http://r.jdshipin.com/XIjta
 
+四川经济,http://183.223.157.33:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+四川科教,http://183.223.157.33:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+四川新闻,http://183.223.157.33:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+四川文化旅游,http://183.223.157.33:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+四川峨嵋电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 
 本地,#genre#
 
@@ -201,6 +234,12 @@ CCTV17,http://cfss.cc/ds/ysp/qp.php?id=cctv17&Cf.m3u8
 广元综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
 苍溪综合,
+
+成都高新区,http://43.142.32.164:9999/小果.php?id=cdgxdstgq_2000&Cf.m3u8
+成都公共频道,http://43.142.32.164:9999/小果.php?id=CDTV-5_4000&Cf.m3u8
+成都新闻综合,http://43.142.32.164:9999/小果.php?id=CDTV-1_4000&Cf.m3u8
+广元文化,http://43.142.32.164:9999/小果.php?id=gyggH265_4000&Cf.m3u8
+广元综合,http://43.142.32.164:9999/小果.php?id=gyzhH265_4000&Cf.m3u8
 
 卫视,#genre#
 北京卫视,http://8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/dongfang5g-pc-v51-live.bestvcdn.com.cn/live/program/live/bjwshd/2300000/2023121217/170237436.ts
@@ -310,7 +349,7 @@ CCTV17,http://cfss.cc/ds/ysp/qp.php?id=cctv17&Cf.m3u8
 西藏卫视,
 内蒙古卫视,
 延边卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
-
+都市剧场,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
 
 江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
 广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
@@ -337,6 +376,49 @@ CCTV17,http://cfss.cc/ds/ysp/qp.php?id=cctv17&Cf.m3u8
 云南卫视,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
 贵州卫视,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
 海南卫视,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
+
+四川卫视,http://43.142.32.164:9999/小果.php?id=scwsH265_4000&Cf.m3u8
+重庆卫视,http://43.142.32.164:9999/小果.php?id=cqwsH265_4000&Cf.m3u8
+安徽卫视,http://43.142.32.164:9999/小果.php?id=ahwsH265_4000&Cf.m3u8
+北京卫视,http://43.142.32.164:9999/小果.php?id=bjwsH265_4000&Cf.m3u8
+兵团卫视,http://43.142.32.164:9999/小果.php?id=btws_4000&Cf.m3u8
+东方卫视,http://43.142.32.164:9999/小果.php?id=dfwsH265_4000&Cf.m3u8
+东南卫视,http://43.142.32.164:9999/小果.php?id=dnwsfjwsH265_4000&Cf.m3u8
+甘肃卫视,http://43.142.32.164:9999/小果.php?id=gsws_4000&Cf.m3u8
+广东卫视,http://43.142.32.164:9999/小果.php?id=gdwsH265_4000&Cf.m3u8
+广西卫视,http://43.142.32.164:9999/小果.php?id=gxws_4000&Cf.m3u8
+贵州卫视,http://43.142.32.164:9999/小果.php?id=gzwsH265_4000&Cf.m3u8
+海南卫视,http://43.142.32.164:9999/小果.php?id=hnws_4000&Cf.m3u8
+河南卫视,http://43.142.32.164:9999/小果.php?id=hnws35_4000&Cf.m3u8
+湖北卫视,http://43.142.32.164:9999/小果.php?id=hbwsH265_4000&Cf.m3u8
+湖南卫视,http://43.142.32.164:9999/小果.php?id=hnwsH265_4000&Cf.m3u8
+吉林卫视,http://43.142.32.164:9999/小果.php?id=jlwsH265_4000&Cf.m3u8
+江苏卫视,http://43.142.32.164:9999/小果.php?id=jswsH265_4000&Cf.m3u8
+江西卫视,http://43.142.32.164:9999/小果.php?id=jxwsH265_4000&Cf.m3u8
+康巴卫视,http://43.142.32.164:9999/小果.php?id=kbwsH264_2000&Cf.m3u8
+辽宁卫视,http://43.142.32.164:9999/小果.php?id=lnwsHDH264_4000&Cf.m3u8
+山东卫视,http://43.142.32.164:9999/小果.php?id=sdwsH265_4000&Cf.m3u8
+山西卫视,http://43.142.32.164:9999/小果.php?id=sxws42_4000&Cf.m3u8
+陕西卫视,http://43.142.32.164:9999/小果.php?id=sxws_4000&Cf.m3u8
+深圳卫视,http://43.142.32.164:9999/小果.php?id=szwsH265_4000&Cf.m3u8
+天津卫视,http://43.142.32.164:9999/小果.php?id=tjwsH265_4000&Cf.m3u8
+西藏卫视,http://43.142.32.164:9999/小果.php?id=xzwsH264_2000&Cf.m3u8
+云南卫视,http://43.142.32.164:9999/小果.php?id=ynws_4000&Cf.m3u8
+浙江卫视,http://43.142.32.164:9999/小果.php?id=zjwsH265_4000&Cf.m3u8
+内蒙古卫视,http://43.142.32.164:9999/小果.php?id=nmgws_4000&Cf.m3u8
+黑龙江卫视,http://43.142.32.164:9999/小果.php?id=hljwsH265_4000&Cf.m3u8
+山东教育卫视,http://43.142.32.164:9999/小果.php?id=sdjy_4000&Cf.m3u8
+CETV-1,http://43.142.32.164:9999/小果.php?id=CETV-1H264_4000&Cf.m3u8
+CETV-4,http://43.142.32.164:9999/小果.php?id=CETV-4H264_2000&Cf.m3u8
+CHC动作电影,http://43.142.32.164:9999/小果.php?id=wqCHCdzdyH265_4000&Cf.m3u8
+CHC高清电影,http://43.142.32.164:9999/小果.php?id=lnwsCHC-HDH265_4000&Cf.m3u8
+CHC家庭影院,http://43.142.32.164:9999/小果.php?id=jbtygqCHCjtyyH265_4000&Cf.m3u8
+欢笑剧场-4K,http://43.142.32.164:9999/小果.php?id=hxjc-4k_8000&Cf.m3u8
+中央新影-老故事,http://43.142.32.164:9999/小果.php?id=lgs_2000&Cf.m3u8
+中央新影-中学生,http://43.142.32.164:9999/小果.php?id=zxs_4000&Cf.m3u8
+中央新影-发现之旅,http://43.142.32.164:9999/小果.php?id=fxzl_2000&Cf.m3u8
+动漫秀场,http://43.142.32.164:9999/小果.php?id=yybb-dmxc-H265_4000&Cf.m3u8
+都市剧场,http://43.142.32.164:9999/小果.php?id=yxfydsjcHDH265_4000&Cf.m3u8
 
 少儿,#genre#
 动画,http://49.235.110.121:9090/daili/IPTV.php?id=dh
@@ -594,6 +676,9 @@ IPTV少儿动画,http://49.235.110.121:9090/daili/IPTV.php?id=iptvsedh
 全球大片 8M,http://49.235.110.121:9090/daili/bestv.php?id=qqdp
 
 香港,#genre#
+凤凰中文,http://43.142.32.164:9999/小果.php?id=test1_4000&Cf.m3u8
+凤凰资讯,http://43.142.32.164:9999/小果.php?id=test2_4000&Cf.m3u8
+
 凤凰中文,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
 凤凰资讯,http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
 
