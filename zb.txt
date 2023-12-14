@@ -29,6 +29,18 @@ CHC家庭影院,http://live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CO
 CHC动作电影,http://live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC高清电影,http://live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 都市剧场,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
+第一剧场,http://121.29.111.117:8888/rtp/239.253.93.138:6428
+怀旧剧场,http://121.29.111.117:8888/rtp/239.253.93.252:6430
+风云剧场,http://121.29.111.117:8888/rtp/239.253.93.251:6429
+风云音乐,http://121.29.111.117:8888/rtp/239.253.93.253:6431
+风云足球,http://121.29.111.117:8888/rtp/239.253.93.254:6432
+高尔夫网球,http://121.29.111.117:8888/rtp/239.253.93.122:6465
+兵器科技,http://121.29.111.117:8888/rtp/239.253.93.47:6435
+世界地理,http://121.29.111.117:8888/rtp/239.253.92.131:6113
+女性时尚,http://121.29.111.117:8888/rtp/239.253.92.144:6114
+央视台球,http://121.29.111.117:8888/rtp/239.253.93.231:6409
+文化精品,http://121.29.111.117:8888/rtp/239.253.93.175:6439
+中华美食,http://121.29.111.117:8888/rtp/239.253.93.248:6426
 
 CCTV1,http://969266808.iptv.netsxz.com:61800/tsfile/live/0001_1.m3u8
 CCTV2,http://969266808.iptv.netsxz.com:61800/tsfile/live/0002_1.m3u8
@@ -110,11 +122,17 @@ CCTV10,https://www.sxtv.top/live/migu.php?id=cctv10
 CCTV13,https://www.sxtv.top/live/migu.php?id=cctv13
 CCTV14,https://www.sxtv.top/live/migu.php?id=cctv14
 
-
+CCTV8,http://cfss.cc/ds/ysp/qp.php?id=cctv8&Cf.m3u8
+CCTV6,http://cfss.cc/ds/ysp/qp.php?id=cctv6&Cf.m3u8
+CCTV12,http://cfss.cc/ds/ysp/qp.php?id=cctv12&Cf.m3u8
+CCTV7,http://cfss.cc/ds/ysp/qp.php?id=cctv7&Cf.m3u8
+CCTV11,http://cfss.cc/ds/ysp/qp.php?id=cctv11&Cf.m3u8
+CCTV10,http://cfss.cc/ds/ysp/qp.php?id=cctv10&Cf.m3u8
+CCTV17,http://cfss.cc/ds/ysp/qp.php?id=cctv17&Cf.m3u8
 
 
 四川,#genre#
-四川卫视,http://111.9.172.131:9901/tsfile/live/0004_1.m3u8
+四川卫视,http://121.29.111.117:8888/rtp/239.253.92.16:6043
 四川文化旅游,https://scgctvshow.sctv.com/hdlive/sctv38f9fb5888dedbe0c6a1b/1.m3u8?txSecret=0daccd56a40155ac25a1eed05deabd21&txTime=657A783E
 四川经济,https://scgctvshow.sctv.com/hdlive/sctv28f9fb5888dedbe0c6a1b/1.m3u8?txSecret=f401d83d9dd267e61533053719195ef1&txTime=657A783E
 四川新闻,https://scgctvshow.sctv.com/hdlive/sctv48f9fb5888dedbe0c6a1b/1.m3u8?txSecret=bda393d13756e77a9b24366cd1757c0a&txTime=657A783E
