@@ -152,6 +152,7 @@ CCTV17,http://cfss.cc/ds/ysp/qp.php?id=cctv17&Cf.m3u8
 
 四川,#genre#
 四川卫视,http://121.29.111.117:8888/rtp/239.253.92.16:6043
+四川卫视,http://43.142.32.164:9999/小果.php?id=scwsH265_4000&Cf.m3u8
 四川文化旅游,http://43.142.32.164:9999/小果.php?id=SCTV-3-H265_4000&Cf.m3u8
 四川经济,http://43.142.32.164:9999/小果.php?id=SCTV-2-H265_4000&Cf.m3u8
 四川新闻,http://43.142.32.164:9999/小果.php?id=SCTV-4H265_4000&Cf.m3u8
