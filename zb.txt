@@ -215,7 +215,7 @@ CCTV17,http://43.142.32.164:9999/小果.php?id=CCTV-17_4000&Cf.m3u8
 四川妇女儿童,http://43.142.32.164:9999/小果.php?id=SCTV-7-_4000&Cf.m3u8
 四川科教,http://43.142.32.164:9999/小果.php?id=SCTV-ggSCTV-8_4000&Cf.m3u8
 四川乡村,http://43.142.32.164:9999/小果.php?id=SCTV-kjSCTV-9-_4000&Cf.m3u8
-四川峨嵋电影,http://43.142.32.164:9999/小果.php?id=emdygqH265_4000&Cf.m3u8
+峨嵋电影,http://43.142.32.164:9999/小果.php?id=emdygqH265_4000&Cf.m3u8
 
 四川文化旅游,http://183.223.157.33:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 四川经济,http://183.223.157.33:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -224,7 +224,7 @@ CCTV17,http://43.142.32.164:9999/小果.php?id=CCTV-17_4000&Cf.m3u8
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四川科教,http://183.223.157.33:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 四川乡村,
-四川峨嵋电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+峨嵋电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://183.223.157.33:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
@@ -232,7 +232,7 @@ CCTV17,http://43.142.32.164:9999/小果.php?id=CCTV-17_4000&Cf.m3u8
 四川文化旅游,http://183.223.157.33:9901/tsfile/live/1001_1.m3u8
 四川新闻,http://183.223.157.33:9901/tsfile/live/1003_1.m3u8
 四川科教,http://183.223.157.33:9901/tsfile/live/1005_1.m3u8
-四川峨嵋电影,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8
+峨嵋电影,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8
 
 四川文化旅游,http://171.213.0.99:4022/udp/239.93.1.101:5140
 四川经济,http://171.213.0.99:4022/udp/239.93.1.102:5140
@@ -241,7 +241,7 @@ CCTV17,http://43.142.32.164:9999/小果.php?id=CCTV-17_4000&Cf.m3u8
 四川妇女儿童,http://171.213.0.99:4022/udp/239.93.0.219:5140
 四川科教,http://171.213.0.99:4022/udp/239.93.42.44:5140
 四川乡村,http://171.213.0.99:4022/udp/239.93.0.52:5140
-四川峨嵋电影,
+峨嵋电影,
 
 四川文化旅游,https://live.goodiptv.club/api/sxg.php?id=SCTV-2-H265_4000
 四川经济,https://live.goodiptv.club/api/sxg.php?id=SCTV-3-H265_4000
@@ -259,13 +259,13 @@ CCTV17,http://43.142.32.164:9999/小果.php?id=CCTV-17_4000&Cf.m3u8
 四川妇女儿童,http://120.79.196.2:8088/live/scm3u8.php?id=fnrt
 四川科教,
 四川乡村,http://dcpull.sctvcloud.com/live/6bcbdd9501881000b1f5f6b400000000/playlist.m3u8
-四川峨嵋电影,http://r.jdshipin.com/XIjta
+峨嵋电影,http://r.jdshipin.com/XIjta
 
 四川经济,http://183.223.157.33:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 四川科教,http://183.223.157.33:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 四川新闻,http://183.223.157.33:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 四川文化旅游,http://183.223.157.33:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-四川峨嵋电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+峨嵋电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 
 本地,#genre#
 
