@@ -1,4 +1,5 @@
 央视,#genre#
+CCTV1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 CCTV1,http://live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV2,http://live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV3,http://live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTENTID=00000110240245_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -106,25 +107,6 @@ CCTV13,http://111.9.172.131:9901/tsfile/live/0013_1.m3u8
 CCTV14,http://111.9.172.131:9901/tsfile/live/0014_1.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV17,
-
-CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-CCTV11,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225776/index.m3u8
-CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225774/index.m3u8
-CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV4,http://jycb.f3322.net:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV1,http://119.1.169.212:808/hls/1/index.m3u8?url=tvzb.com
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
@@ -235,13 +217,16 @@ CCTV17,http://43.142.32.164:9999/小果.php?id=CCTV-17_4000&Cf.m3u8
 四川乡村,http://43.142.32.164:9999/小果.php?id=SCTV-kjSCTV-9-_4000&Cf.m3u8
 四川峨嵋电影,http://43.142.32.164:9999/小果.php?id=emdygqH265_4000&Cf.m3u8
 
-四川文化旅游,
-四川经济,
-四川新闻,
+四川文化旅游,http://183.223.157.33:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+四川经济,http://183.223.157.33:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+四川新闻,http://183.223.157.33:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 四川妇女儿童,
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+四川科教,http://183.223.157.33:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 四川乡村,
-四川峨嵋电影,
+四川峨嵋电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://183.223.157.33:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 四川经济,http://183.223.157.33:9901/tsfile/live/1000_1.m3u8
 四川文化旅游,http://183.223.157.33:9901/tsfile/live/1001_1.m3u8
@@ -256,7 +241,7 @@ CCTV17,http://43.142.32.164:9999/小果.php?id=CCTV-17_4000&Cf.m3u8
 四川妇女儿童,http://171.213.0.99:4022/udp/239.93.0.219:5140
 四川科教,http://171.213.0.99:4022/udp/239.93.42.44:5140
 四川乡村,http://171.213.0.99:4022/udp/239.93.0.52:5140
-四川峨嵋电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+四川峨嵋电影,
 
 四川文化旅游,https://live.goodiptv.club/api/sxg.php?id=SCTV-2-H265_4000
 四川经济,https://live.goodiptv.club/api/sxg.php?id=SCTV-3-H265_4000
@@ -911,6 +896,7 @@ IPTV少儿动画,http://49.235.110.121:9090/daili/IPTV.php?id=iptvsedh
 电影1905国内,http://8.217.77.255:9999/1905.php?id=1905-2
 电影1905国际,http://49.235.110.121:9090/daili/1905.php?id=1905
 电影1905国内,http://49.235.110.121:9090/daili/1905.php?id=1905-2
+电影1905国内,http://nj001.x3322.net:88/ipv6/1905.php?id=1
 山东影视,rtmp://livealone.iqilu.com/iqilu/yspdhjOF03kn
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 西安影视,http://49.235.110.121:9090/daili/xa.php?id=xays
