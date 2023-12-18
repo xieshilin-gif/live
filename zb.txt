@@ -983,6 +983,7 @@ IPTV少儿动画,http://49.235.110.121:9090/daili/IPTV.php?id=iptvsedh
 体育频道,#genre#
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来体育,rtmp://9sv2.mine.nu/sat/tv721
+广东体育,http://r.jdshipin.com/LiYdg
 魅力足球,https://taijitv.zhonglong1.repl.co/sxg.php?id=mlyy_4000
 劲爆体育,https://taijitv.zhonglong1.repl.co/sxg.php?id=lqhxjcHDH265_4000
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
