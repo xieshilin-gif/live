@@ -18,6 +18,25 @@ CCTV17,http://183.223.157.33:9901/tsfile/live/0016_1.m3u8
 CCTV5+,http://183.223.157.33:9901/tsfile/live/0018_1.m3u8
 CGTN,http://183.223.157.33:9901/tsfile/live/0017_1.m3u8
 
+CCTV1,http://183.223.157.33:85/tsfile/live/0001_1.m3u8
+CCTV2,http://183.223.157.33:85/tsfile/live/0002_1.m3u8
+CCTV3,http://183.223.157.33:85/tsfile/live/0003_1.m3u8
+CCTV4,http://183.223.157.33:85/tsfile/live/0004_1.m3u8
+CCTV5,http://183.223.157.33:85/tsfile/live/0005_1.m3u8
+CCTV6,http://183.223.157.33:85/tsfile/live/0006_1.m3u8
+CCTV7,http://183.223.157.33:85/tsfile/live/0007_1.m3u8
+CCTV8,http://183.223.157.33:85/tsfile/live/0008_1.m3u8
+CCTV9,http://183.223.157.33:85/tsfile/live/0009_1.m3u8
+CCTV10,http://183.223.157.33:85/tsfile/live/0010_1.m3u8
+CCTV11,http://183.223.157.33:85/tsfile/live/0011_1.m3u8
+CCTV12,http://183.223.157.33:85/tsfile/live/0012_1.m3u8
+CCTV13,http://183.223.157.33:85/tsfile/live/0013_1.m3u8
+CCTV14,http://183.223.157.33:85/tsfile/live/0014_1.m3u8
+CCTV15,http://183.223.157.33:85/tsfile/live/0015_1.m3u8
+CCTV17,http://183.223.157.33:85/tsfile/live/0016_1.m3u8
+CCTV5+,http://183.223.157.33:85/tsfile/live/0018_1.m3u8
+CGTN,http://183.223.157.33:85/tsfile/live/0017_1.m3u8
+
 CCTV1,http://huangxin.quipor.cn:12999/hls/1/index.m3u8?url=tvzb.com
 CCTV2,http://huangxin.quipor.cn:12999/hls/2/index.m3u8?url=tvzb.com
 CCTV3,http://huangxin.quipor.cn:12999/hls/3/index.m3u8?url=tvzb.com
@@ -244,6 +263,20 @@ CCTV17,http://43.142.32.164:9999/小果.php?id=CCTV-17_4000&Cf.m3u8
 
 
 四川,#genre#
+四川卫视,http://183.223.157.33:9901/tsfile/live/0123_1.m3u8
+四川经济,http://183.223.157.33:9901/tsfile/live/1000_1.m3u8
+四川文旅,http://183.223.157.33:9901/tsfile/live/1001_1.m3u8
+四川新闻,http://183.223.157.33:9901/tsfile/live/1003_1.m3u8
+四川科教,http://183.223.157.33:9901/tsfile/live/1005_1.m3u8
+峨眉电影,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8
+
+四川卫视,http://183.223.157.33:85/tsfile/live/0123_1.m3u8
+四川经济,http://183.223.157.33:85/tsfile/live/1000_1.m3u8
+四川文旅,http://183.223.157.33:85/tsfile/live/1001_1.m3u8
+四川新闻,http://183.223.157.33:85/tsfile/live/1003_1.m3u8
+四川科教,http://183.223.157.33:85/tsfile/live/1005_1.m3u8
+峨眉电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8
+
 四川卫视,http://121.29.111.117:8888/rtp/239.253.92.16:6043
 四川卫视,http://111.59.63.32:9901/tsfile/live/1029_1.m3u8
 四川卫视,http://43.142.32.164:9999/小果.php?id=scwsH265_4000&Cf.m3u8
@@ -263,22 +296,8 @@ CCTV17,http://43.142.32.164:9999/小果.php?id=CCTV-17_4000&Cf.m3u8
 四川乡村,http://43.142.32.164:9999/小果.php?id=SCTV-kjSCTV-9-_4000&Cf.m3u8
 峨嵋电影,http://43.142.32.164:9999/小果.php?id=emdygqH265_4000&Cf.m3u8
 
-四川卫视,http://183.223.157.33:85/tsfile/live/0123_1.m3u8?key=txiptv&url=tvzb.com
-四川文化旅游,http://183.223.157.33:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-四川经济,http://183.223.157.33:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-四川新闻,http://183.223.157.33:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-四川妇女儿童,
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
-四川科教,http://183.223.157.33:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 四川乡村,
-峨嵋电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-海南卫视,http://183.223.157.33:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-
-四川经济,http://183.223.157.33:9901/tsfile/live/1000_1.m3u8
-四川文化旅游,http://183.223.157.33:9901/tsfile/live/1001_1.m3u8
-四川新闻,http://183.223.157.33:9901/tsfile/live/1003_1.m3u8
-四川科教,http://183.223.157.33:9901/tsfile/live/1005_1.m3u8
-峨嵋电影,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8
 
 四川文化旅游,https://live.goodiptv.club/api/sxg.php?id=SCTV-2-H265_4000
 四川经济,https://live.goodiptv.club/api/sxg.php?id=SCTV-3-H265_4000
@@ -290,7 +309,6 @@ CCTV17,http://43.142.32.164:9999/小果.php?id=CCTV-17_4000&Cf.m3u8
 
 
 四川文化旅游,http://120.79.196.2:8088/live/scm3u8.php?id=whly
-四川经济,http://183.223.157.33:9901/tsfile/live/1000_1.m3u8
 四川新闻,http://120.79.196.2:8088/live/scm3u8.php?id=scxw
 四川影视文艺,http://120.79.196.2:8088/live/scm3u8.php?id=yswy
 四川妇女儿童,http://120.79.196.2:8088/live/scm3u8.php?id=fnrt
@@ -333,6 +351,16 @@ CCTV17,http://43.142.32.164:9999/小果.php?id=CCTV-17_4000&Cf.m3u8
 苍溪综合,http://43.142.32.164:9999/小果.php?id=cxxwgqH265_4000&Cf.m3u8
 
 卫视,#genre#
+四川卫视,http://183.223.157.33:9901/tsfile/live/0123_1.m3u8
+湖南卫视,http://183.223.157.33:9901/tsfile/live/0019_1.m3u8
+江苏卫视,http://183.223.157.33:9901/tsfile/live/0127_1.m3u8
+海南卫视,http://183.223.157.33:9901/tsfile/live/1008_1.m3u8
+
+四川卫视,http://183.223.157.33:85/tsfile/live/0123_1.m3u8
+湖南卫视,http://183.223.157.33:85/tsfile/live/0019_1.m3u8
+江苏卫视,http://183.223.157.33:85/tsfile/live/0127_1.m3u8
+海南卫视,http://183.223.157.33:85/tsfile/live/1008_1.m3u8
+
 东方卫视,http://huangxin.quipor.cn:12999/hls/18/index.m3u8?url=tvzb.com
 东方影视,http://huangxin.quipor.cn:12999/hls/19/index.m3u8?url=tvzb.com
 五星体育,http://huangxin.quipor.cn:12999/hls/21/index.m3u8?url=tvzb.com
@@ -1044,4 +1072,3 @@ TVB星河,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&s
 纬来育乐,rtmp://9sv2.mine.nu/sat/tv701
 无线新闻台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153399
 中视,rtmp://9sv2.mine.nu/sat/tv091
-
