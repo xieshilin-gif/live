@@ -1068,6 +1068,10 @@ CCTV6,http://nj001.x3322.net:88/ipv6/1905.php?id=2
 烟台影视,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
 
 香港,#genre#
+凤凰中文,http://113.117.74.186:8081/hls/37/index.m3u8
+凤凰资讯,http://113.117.74.186:8081/hls/36/index.m3u8
+凤凰香港,http://113.117.74.186:8081/hls/38/index.m3u8
+
 凤凰中文,http://43.142.32.164:9999/小果.php?id=test1_4000&Cf.m3u8
 凤凰资讯,http://43.142.32.164:9999/小果.php?id=test2_4000&Cf.m3u8
 
