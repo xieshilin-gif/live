@@ -1,3 +1,18 @@
+本地,#genre#
+利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
+
+广元文化,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
+广元综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
+广元公共,http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
+
+广元文化,https://taijitv.zhonglong1.repl.co/sxg.php?id=gyggH265_4000
+广元综合,https://taijitv.zhonglong1.repl.co/sxg.php?id=gyzhH265_4000
+苍溪综合,https://taijitv.zhonglong1.repl.co/sxg.php?id=cxxwgqH265_4000
+
+广元文化,http://43.142.32.164:9999/小果.php?id=gyggH265_4000&Cf.m3u8
+广元综合,http://43.142.32.164:9999/小果.php?id=gyzhH265_4000&Cf.m3u8
+苍溪综合,http://43.142.32.164:9999/小果.php?id=cxxwgqH265_4000&Cf.m3u8
+
 央视,#genre#
 CCTV1,http://183.237.231.139:9901/tsfile/live/1001_1.m3u8
 CCTV2,http://183.237.231.139:9901/tsfile/live/1002_1.m3u8
@@ -293,7 +308,6 @@ CCTV17,http://43.142.32.164:9999/小果.php?id=CCTV-17_4000&Cf.m3u8
 四川科教,https://live.goodiptv.club/api/sxg.php?id=SCTV-ggSCTV-8_4000
 四川乡村,https://live.goodiptv.club/api/sxg.php?id=SCTV-kjSCTV-9-_4000
 
-
 四川文化旅游,http://120.79.196.2:8088/live/scm3u8.php?id=whly
 四川新闻,http://120.79.196.2:8088/live/scm3u8.php?id=scxw
 四川影视文艺,http://120.79.196.2:8088/live/scm3u8.php?id=yswy
@@ -302,8 +316,7 @@ CCTV17,http://43.142.32.164:9999/小果.php?id=CCTV-17_4000&Cf.m3u8
 四川乡村,http://dcpull.sctvcloud.com/live/6bcbdd9501881000b1f5f6b400000000/playlist.m3u8
 峨嵋电影,http://r.jdshipin.com/XIjta
 
-本地,#genre#
-
+成都,#genre#
 成都新闻综合,http://live.cooltv.top/tv/cdtv.php?id=cdxwzh
 成都经济资讯,http://live.cooltv.top/tv/cdtv.php?id=cdjjzx
 成都都市生活,http://live.cooltv.top/tv/cdtv.php?id=cddssh
@@ -311,10 +324,6 @@ CCTV17,http://43.142.32.164:9999/小果.php?id=CCTV-17_4000&Cf.m3u8
 成都公共频道,http://live.cooltv.top/tv/cdtv.php?id=cdgg
 成都少儿频道,http://live.cooltv.top/tv/cdtv.php?id=cdse
 成都高新区,https://taijitv.zhonglong1.repl.co/sxg.php?id=cdgxdstgq_2000
-广元公共,http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
-广元文化,https://taijitv.zhonglong1.repl.co/sxg.php?id=gyggH265_4000
-广元综合,https://taijitv.zhonglong1.repl.co/sxg.php?id=gyzhH265_4000
-苍溪综合,https://taijitv.zhonglong1.repl.co/sxg.php?id=cxxwgqH265_4000
 
 成都新闻综合,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv1hd&fmt=hls
 成都经济资讯,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv2hd&fmt=hls
@@ -323,18 +332,10 @@ CCTV17,http://43.142.32.164:9999/小果.php?id=CCTV-17_4000&Cf.m3u8
 成都公共频道,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv5hd&fmt=hls
 成都高新区,
 成都少儿频道,
-广元公共,
-广元文化,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
-广元综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
-利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
-苍溪综合,
 
 成都高新区,http://43.142.32.164:9999/小果.php?id=cdgxdstgq_2000&Cf.m3u8
 成都公共频道,http://43.142.32.164:9999/小果.php?id=CDTV-5_4000&Cf.m3u8
 成都新闻综合,http://43.142.32.164:9999/小果.php?id=CDTV-1_4000&Cf.m3u8
-广元文化,http://43.142.32.164:9999/小果.php?id=gyggH265_4000&Cf.m3u8
-广元综合,http://43.142.32.164:9999/小果.php?id=gyzhH265_4000&Cf.m3u8
-苍溪综合,http://43.142.32.164:9999/小果.php?id=cxxwgqH265_4000&Cf.m3u8
 
 卫视,#genre#
 四川卫视,http://183.223.157.33:9901/tsfile/live/0123_1.m3u8
@@ -366,8 +367,6 @@ CCTV17,http://43.142.32.164:9999/小果.php?id=CCTV-17_4000&Cf.m3u8
 广西卫视,http://183.237.231.139:9901/tsfile/live/1088_1.m3u8
 河南卫视,http://183.237.231.139:9901/tsfile/live/1089_1.m3u8
 甘肃卫视,http://183.237.231.139:9901/tsfile/live/1090_1.m3u8
-
-
 
 
 东方卫视,http://huangxin.quipor.cn:12999/hls/18/index.m3u8?url=tvzb.com
@@ -973,22 +972,16 @@ IPTV少儿动画,http://49.235.110.121:9090/daili/IPTV.php?id=iptvsedh
 犍为新闻综合,https://taijitv.zhonglong1.repl.co/sxg.php?id=qwxwzh_2000
 筠连TV,https://taijitv.zhonglong1.repl.co/sxg.php?id=ylyt_2000
 
-利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
-利州综合,http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
+利州综合,http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv
 攀枝花新闻综合,http://zb.pzhgd.com:9095/live/xwzh.m3u8
 
 影视,#genre#
-成龙作品集,
-掼蛋精英赛2,
-高清大片,
-军事迷必看大片,
-热剧联播,
-新片放映厅,
-电影1905国际,http://8.217.77.255:9999/1905.php?id=1905
-电影1905国内,http://8.217.77.255:9999/1905.php?id=1905-2
+「轮播」蓝光大片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24066336
+电影1905国内,http://nj001.x3322.net:88/ipv6/1905.php?id=1
+CCTV6,http://nj001.x3322.net:88/ipv6/1905.php?id=2
+电影1905国际,http://nj001.x3322.net:88/ipv6/1905.php?id=3
 电影1905国际,http://49.235.110.121:9090/daili/1905.php?id=1905
 电影1905国内,http://49.235.110.121:9090/daili/1905.php?id=1905-2
-电影1905国内,http://nj001.x3322.net:88/ipv6/1905.php?id=1
 山东影视,rtmp://livealone.iqilu.com/iqilu/yspdhjOF03kn
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 西安影视,http://49.235.110.121:9090/daili/xa.php?id=xays
@@ -1024,6 +1017,55 @@ IPTV少儿动画,http://49.235.110.121:9090/daili/IPTV.php?id=iptvsedh
 石首影视,http://p8.vzan.com/slowlive/798787236084269922/live.m3u8
 华语影院 8M,http://49.235.110.121:9090/daili/bestv.php?id=hyyy
 全球大片 8M,http://49.235.110.121:9090/daili/bestv.php?id=qqdp
+
+浙江影视,http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
+浙江影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+成都影视,http://live.cooltv.top/tv/cdtv.php?id=cdyswy
+欧美大片,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
+安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
+安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
+安徽影视,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
+广东影视,http://183.237.231.139:9901/tsfile/live/1051_1.m3u8
+广东影视,http://218.15.229.90:9901/tsfile/live/1002_1.m3u8
+广东影视,http://116.11.158.91:8181/tsfile/live/1071_1.m3u8
+山西影视,http://110.183.27.48:808/hls/17/index.m3u8
+广西影视,http://111.59.63.32:9901/tsfile/live/1006_1.m3u8
+广西影视,http://gxdl-lhs.8866.org:85/tsfile/live/1054_1.m3u8?key=txiptv&playlive=0&authid=0
+广西影视,http://116.11.158.91:8181/tsfile/live/1004_1.m3u8
+南宁影视,http://116.11.158.91:8181/tsfile/live/1126_1.m3u8
+山东影视,http://222.134.240.136:9901/tsfile/live/1001_1.m3u8
+胜利影视,http://222.134.240.136:9901/tsfile/live/1087_1.m3u8
+河北影视,http://111.225.92.130:8800/hls/20/index.m3u8
+吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
+浙江影视,https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+南宁影视娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+隆化影视频道,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
+浙江影视娱乐,http://hw-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8?zzhed
+浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
+浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel04/360p.m3u8?zzhed
+浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8?zzhed
+浙江影视娱乐,http://hw-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+山东高青影视,http://alivealone.litenews.cn/61/56d09086fb25449cb4eefb24f5042937.flv
+河北平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+浙江影视,https://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
+浙江绍兴上虞影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+浙江|绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+新昌休闲影视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+新疆石河子影视文体,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
+南宁影视娱乐,https://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+新昌休闲影视,https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+4K影视,http://nas.jdshipin.com:8801/4kys.php
+影视频道,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
+万州影视,http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
+溧水影视,http://live.lsrmw.cn/ysyl/sd/live.m3u8
+广西影视,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8
+万州影视,http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8
+固镇影视,http://www.guzhenm.com:7004/hls/hd-live.m3u8
+烟台影视,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
 
 香港,#genre#
 凤凰中文,http://43.142.32.164:9999/小果.php?id=test1_4000&Cf.m3u8
