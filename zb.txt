@@ -515,6 +515,7 @@ CCTV17,http://43.142.32.164:9999/小果.php?id=CCTV-17_4000&Cf.m3u8
 贵州卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
 贵州卫视,http://live.aishang.ctlcdn.com/00000110240318_1/playlist.m3u8?CONTENTID=00000110240318_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 陕西卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226326/index.m3u8
+陕西卫视,http://117.32.84.79:8011/rtp/239.111.205.35:5140
 广西卫视,http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
 广西卫视,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
@@ -612,6 +613,7 @@ CHC家庭影院,http://43.142.32.164:9999/小果.php?id=jbtygqCHCjtyyH265_4000&C
 中央新影-发现之旅,http://43.142.32.164:9999/小果.php?id=fxzl_2000&Cf.m3u8
 动漫秀场,http://43.142.32.164:9999/小果.php?id=yybb-dmxc-H265_4000&Cf.m3u8
 都市剧场,http://43.142.32.164:9999/小果.php?id=yxfydsjcHDH265_4000&Cf.m3u8
+百视通4K,http://223.166.61.142:4022/rtp/239.45.3.107:5140
 
 少儿,#genre#
 动画,http://49.235.110.121:9090/daili/IPTV.php?id=dh
