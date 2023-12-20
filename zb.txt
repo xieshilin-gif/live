@@ -1089,6 +1089,7 @@ CCTV6,http://nj001.x3322.net:88/ipv6/1905.php?id=2
 体育频道,#genre#
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来体育,rtmp://9sv2.mine.nu/sat/tv721
+广东体育,http://113.91.169.197:9999/rtp/239.77.0.112:5146
 广东体育,http://r.jdshipin.com/LiYdg
 魅力足球,https://taijitv.zhonglong1.repl.co/sxg.php?id=mlyy_4000
 劲爆体育,https://taijitv.zhonglong1.repl.co/sxg.php?id=lqhxjcHDH265_4000
