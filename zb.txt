@@ -302,7 +302,6 @@ CCTV17,http://43.142.32.164:9999/小果.php?id=CCTV-17_4000&Cf.m3u8
 
 四川卫视,http://121.29.111.117:8888/rtp/239.253.92.16:6043
 四川卫视,http://111.59.63.32:9901/tsfile/live/1029_1.m3u8
-四川卫视,http://43.142.32.164:9999/小果.php?id=scwsH265_4000&Cf.m3u8
 
 四川文化旅游,http://api2.52tb.xyz/info?id=603&token=20230405tndmhg
 四川影视,http://api2.52tb.xyz/info?id=601&token=20230405tndmhg
@@ -310,6 +309,7 @@ CCTV17,http://43.142.32.164:9999/小果.php?id=CCTV-17_4000&Cf.m3u8
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四川乡村,http://api2.52tb.xyz/info?id=606&token=20230405tndmhg
 
+四川卫视,http://43.142.32.164:9999/小果.php?id=scwsH265_4000&Cf.m3u8
 四川文化旅游,http://43.142.32.164:9999/小果.php?id=SCTV-3-H265_4000&Cf.m3u8
 四川经济,http://43.142.32.164:9999/小果.php?id=SCTV-2-H265_4000&Cf.m3u8
 四川新闻,http://43.142.32.164:9999/小果.php?id=SCTV-4H265_4000&Cf.m3u8
@@ -1209,6 +1209,18 @@ TVB星河,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&s
 纬来体育,rtmp://9sv2.mine.nu/sat/tv721
 纬来育乐,rtmp://9sv2.mine.nu/sat/tv701
 无线新闻台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153399
+TVB翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153401
+TVB星河台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153506
+TVB经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
+千禧经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153503
+娱乐新闻台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153504
+TVB-J1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153395
+TVB-1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153396
+TVB-E,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153398
+TVB DRAMA,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153400
+TVB JADE,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153505
+中天亚洲台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
+TVBS亚洲台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571185&extension=ts
 
 
 
