@@ -237,6 +237,12 @@ CCTV13,https://www.sxtv.top/live/migu.php?id=cctv13
 CCTV14,https://www.sxtv.top/live/migu.php?id=cctv14
 
 四川,#genre#
+四川文化旅游,http://lu1.cc/itv/sctv/scxl.php?id=scwhly
+四川经济,http://lu1.cc/itv/sctv/scxl.php?id=scjj
+四川新闻,http://lu1.cc/itv/sctv/scxl.php?id=scxw
+四川影视,http://lu1.cc/itv/sctv/scxl.php?id=scyswy
+四川妇女儿童,http://lu1.cc/itv/sctv/scxl.php?id=scfnet
+四川乡村,http://lu1.cc/itv/sctv/scxl.php?id=scxc
 //成都电信
 四川经济,http://110.185.47.8:8880/udp/239.93.1.101:5140
 四川文化旅游,http://110.185.47.8:8880/udp/239.93.1.102:5140
@@ -284,6 +290,12 @@ SCTV-6购物,http://182.136.212.130:4022/udp/239.93.1.144:5140
 四川乡村,https://live.goodiptv.club/api/sxg.php?id=SCTV-kjSCTV-9-_4000
 
 成都,#genre#
+成都新闻综合,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv1hd&fmt=hls
+成都经济资讯,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv2hd&fmt=hls
+成都都市生活,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv3hd&fmt=hls
+成都影视文艺,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv4hd&fmt=hls
+成都公共频道,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv5hd&fmt=hls
+
 成都新闻综合,http://live.cooltv.top/tv/cdtv.php?id=cdxwzh
 成都经济资讯,http://live.cooltv.top/tv/cdtv.php?id=cdjjzx
 成都都市生活,http://live.cooltv.top/tv/cdtv.php?id=cddssh
@@ -291,14 +303,6 @@ SCTV-6购物,http://182.136.212.130:4022/udp/239.93.1.144:5140
 成都公共频道,http://live.cooltv.top/tv/cdtv.php?id=cdgg
 成都少儿频道,http://live.cooltv.top/tv/cdtv.php?id=cdse
 成都高新区,https://taijitv.zhonglong1.repl.co/sxg.php?id=cdgxdstgq_2000
-
-成都新闻综合,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv1hd&fmt=hls
-成都经济资讯,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv2hd&fmt=hls
-成都都市生活,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv3hd&fmt=hls
-成都影视文艺,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv4hd&fmt=hls
-成都公共频道,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv5hd&fmt=hls
-成都高新区,
-成都少儿频道,
 
 成都新闻综合,http://a.dszb.cc/cdds.php?id=cdxw
 成都经济资讯,http://a.dszb.cc/cdds.php?id=cdjj
