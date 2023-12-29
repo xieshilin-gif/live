@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV41
-https://www.yangshipin.cn/#/tv/home?pid=600001859
+video://https://www.yangshipin.cn/#/tv/home?pid=600001859
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV4K
-https://www.yangshipin.cn/#/tv/home?pid=600002264
+video://https://www.yangshipin.cn/#/tv/home?pid=600002264
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1综合
 https://yangshipin.cn/#/tv/home?pid=600001859
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2财经
