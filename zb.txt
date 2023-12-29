@@ -867,12 +867,6 @@ CHC家庭影ipv6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 CHC高清影ipv6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$仅限ipv6线路
 
 影视,#genre#
-「轮播」蓝光大片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24066336
-电影1905国内,http://nj001.x3322.net:88/ipv6/1905.php?id=1
-CCTV6,http://nj001.x3322.net:88/ipv6/1905.php?id=2
-电影1905国际,http://nj001.x3322.net:88/ipv6/1905.php?id=3
-电影1905国际,http://49.235.110.121:9090/daili/1905.php?id=1905
-电影1905国内,http://49.235.110.121:9090/daili/1905.php?id=1905-2
 山东影视,rtmp://livealone.iqilu.com/iqilu/yspdhjOF03kn
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 西安影视,http://49.235.110.121:9090/daili/xa.php?id=xays
