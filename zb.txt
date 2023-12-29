@@ -17,6 +17,9 @@
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,https://0472.org/hls/cctv13.m3u8
+电影1905国内,http://nj001.x3322.net:88/ipv6/1905.php?id=1
+CCTV6,http://nj001.x3322.net:88/ipv6/1905.php?id=2
+电影1905国际,http://nj001.x3322.net:88/ipv6/1905.php?id=3
 
 CCTV1,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv1
 CCTV2,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv2
@@ -799,6 +802,69 @@ SCTV-6购物,http://182.136.212.130:4022/udp/239.93.1.144:5140
 筠连TV,https://taijitv.zhonglong1.repl.co/sxg.php?id=ylyt_2000
 
 攀枝花新闻综合,http://zb.pzhgd.com:9095/live/xwzh.m3u8
+
+🎬电影频道👉全网,#genre#
+电影1905国内,http://nj001.x3322.net:88/ipv6/1905.php?id=1
+CCTV6,http://nj001.x3322.net:88/ipv6/1905.php?id=2
+电影1905国际,http://nj001.x3322.net:88/ipv6/1905.php?id=3
+邵氏影院代,http://159.75.85.63:35455/douyu/4246519
+邵氏影院代,http://epg.112114.xyz/douyu/4246519
+邵氏影院代,http://43.138.170.29:35455/douyu/4246519
+CHC家庭影,https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226315/index.m3u8
+大吉大利代,https://pull.kktv8.com/livekktv/128600025.flv
+4k影院画质,http://epg.112114.xyz/douyu/9249162
+4k影院画质,http://159.75.85.63:35455/douyu/9249162
+漫威影片代,http://epg.112114.xyz/douyu/6140589
+霍格影片代,http://epg.112114.xyz/douyu/8814650
+吃米滴虫代,http://159.75.85.63:35455/douyu/315457
+吃米滴虫代,http://epg.112114.xyz/douyu/315457
+冰冰经典代,http://159.75.85.63:35455/douyu/74374
+星爷影院代,http://159.75.85.63:35455/douyu/508118
+虎牙 ·星星,https://live.metshop.top/huya/11342412
+鸿运当头㊣代,https://pull.kktv8.com/livekktv/99350550.flv
+凌儿影院㊣版,http://159.75.85.63:35455/douyu/1377142
+麓山迷踪㊣版,http://159.75.85.63:35455/douyu/4505431
+瑶瑶恐怖㊣版,http://159.75.85.63:35455/douyu/2935323
+怡寶影院㊣版,http://159.75.85.63:35455/douyu/434971
+小黛兮影㊣版,http://159.75.85.63:35455/douyu/11553944
+萌小鬼片✔原,http://159.75.85.63:35455/douyu/3928
+神乐影院-1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+神乐影院-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+神乐影院✔原,http://159.75.85.63:35455/douyu/122402
+可乐影院✔原,http://159.75.85.63:35455/douyu/20415
+小宇60帧✔原,http://159.75.85.63:35455/douyu/323876
+恐怖惊悚✔原,http://159.75.85.63:35455/douyu/96577
+電影劇場✔原,http://159.75.85.63:35455/douyu/7575350
+國語電影✔原,http://159.75.85.63:35455/douyu/2436390
+豆瓣高分✔原,http://159.75.85.63:35455/douyu/8770422
+花卷陪看✔原,http://159.75.85.63:35455/douyu/52787
+漫威剧情✔原,http://159.75.85.63:35455/douyu/6140589
+霍格沃茨✔原,http://159.75.85.63:35455/douyu/8814650
+鱼宝恐怖✔原,http://159.75.85.63:35455/douyu/1165374
+鬼片恐怖✔原,http://159.75.85.63:35455/douyu/2935323
+小U鬼片✔原,http://159.75.85.63:35455/douyu/96577
+吃奶滴虫✔原,http://159.75.85.63:35455/douyu/263824
+变种人片✔原,http://159.75.85.63:35455/douyu/9651304
+喜剧电影✔原,http://159.75.85.63:35455/douyu/9292492
+女神电影✔原,http://159.75.85.63:35455/douyu/747764
+华语经典✔原,http://159.75.85.63:35455/douyu/434971
+避风影院✔原,http://159.75.85.63:35455/douyu/9826611
+欧美大片✔原,http://159.75.85.63:35455/douyu/2793084
+贝爷MAX✔原,http://epg.112114.xyz/douyu/4332
+贝爷影厅✔原,http://159.75.85.63:35455/douyu/252802
+译制国语✔原,http://159.75.85.63:35455/douyu/2436390
+绍兴影院✪另,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+南宁影院娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+乌克兰影院,http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+CHC家庭仅移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$仅限电信移动线路
+CHC动作仅移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$仅限电信移动线路
+CHC高清仅移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$仅限电信移动线路
+CHC高清仅移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8$仅限电信移动线路
+CHC家庭仅移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8$仅限电信移动线路
+CHC动作仅ipv6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8$仅限电信移动线路
+CHC动作影ipv6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$仅限ipv6线路
+CHC家庭影ipv6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$仅限ipv6线路
+CHC高清影ipv6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$仅限ipv6线路
 
 影视,#genre#
 「轮播」蓝光大片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24066336
