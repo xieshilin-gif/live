@@ -1,17 +1,35 @@
-4GTV嗅探#genre#
-parse=1
-CCTV41,video://https://www.yangshipin.cn/#/tv/home?pid=600001859
-CCTV4K,video://https://www.yangshipin.cn/#/tv/home?pid=600002264
-CCTV1综合,video://https://yangshipin.cn/#/tv/home?pid=600001859
-CCTV2财经,video://https://yangshipin.cn/#/tv/home?pid=600001800
-CCTV3综艺,video://https://yangshipin.cn/#/tv/home?pid=600001801
-民视第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=22
-民视台湾台,https://www.4gtv.tv/2channel/4gtv-4gtv001?set=1&ch=22
-民视https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=22
-大爱雷视https://www.4gtv.tv/channel/4gtv-live007?set=1&ch=22
-中视https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=22
-中视典台,https://www.4gtv.tv/2channel/4gtv-4gtv080?set=1&ch=22
-苹视https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=22
-三立综合台,https://www.4gtv.tv/channel/4gtvlive207?set=1&ch=22
-客家雷视台,https://www.4gtv.tv/channel/4gtv-4gtv043?set=1&ch=22
-八大综婪台,https://www.4gtv.tv/channel/4gtv-4gtv039?set=1&ch=22
+#EXTM3U
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV41
+https://www.yangshipin.cn/#/tv/home?pid=600001859
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV4K
+https://www.yangshipin.cn/#/tv/home?pid=600002264
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1综合
+https://yangshipin.cn/#/tv/home?pid=600001859
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2财经
+https://yangshipin.cn/#/tv/home?pid=600001800
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3综艺
+https://yangshipin.cn/#/tv/home?pid=600001801
+#EXTINF:-1 tvg-id="7133" tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="港澳台",民视第一台
+https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=22
+#EXTINF:-1 tvg-id="7134" tvg-name="民视台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="港澳台",民视台湾台
+https://www.4gtv.tv/2channel/4gtv-4gtv001?set=1&ch=22
+#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
+https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=22
+#EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港澳台",大爱雷视
+https://www.4gtv.tv/channel/4gtv-live007?set=1&ch=22
+#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台",中视
+https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中视典台
+https://www.4gtv.tv/2channel/4gtv-4gtv080?set=1&ch=22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",苹视
+https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=22
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",三立综合台
+https://www.4gtv.tv/channel/4gtvlive207?set=1&ch=22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",客家雷视台
+https://www.4gtv.tv/channel/4gtv-4gtv043?set=1&ch=22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",八大综婪台
+https://www.4gtv.tv/channel/4gtv-4gtv039?set=1&ch=22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+http://gh.301.ee/https://raw.githubusercontent.com/xieshilin-gif/live/master/xt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知
+https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
