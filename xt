@@ -1,7 +1,10 @@
 4GTV嗅探#genre#
 parse=1
-CCTV41,https://www.yangshipin.cn/#/tv/home?pid=600001859
-CCTV4K,https://www.yangshipin.cn/#/tv/home?pid=600002264
+CCTV41,video://https://www.yangshipin.cn/#/tv/home?pid=600001859
+CCTV4K,video://https://www.yangshipin.cn/#/tv/home?pid=600002264
+CCTV1综合,video://https://yangshipin.cn/#/tv/home?pid=600001859
+CCTV2财经,video://https://yangshipin.cn/#/tv/home?pid=600001800
+CCTV3综艺,video://https://yangshipin.cn/#/tv/home?pid=600001801
 民视第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=22
 民视台湾台,https://www.4gtv.tv/2channel/4gtv-4gtv001?set=1&ch=22
 民视https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=22
