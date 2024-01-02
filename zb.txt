@@ -119,6 +119,20 @@ CETV4,http://61.170.251.165:1024/rtp/239.45.0.21:5140
 文化精品,http://121.29.111.117:8888/rtp/239.253.93.175:6439
 中华美食,http://121.29.111.117:8888/rtp/239.253.93.248:6426
 
+卫生健康,http://nas.tuyuannet.cn:8800/rtp/223.37.0.229:5540
+高尔夫,http://nas.tuyuannet.cn:8800/rtp/239.37.0.230:5540
+央视文化精品,http://nas.tuyuannet.cn:8800/rtp/239.37.0.083:5540
+兵器科技,http://nas.tuyuannet.cn:8800/rtp/239.37.0.084:5540
+第一剧场,http://nas.tuyuannet.cn:8800/rtp/239.37.0.078:5540
+电视指南,http://nas.tuyuannet.cn:8800/rtp/239.37.0.115:5540
+风云剧场,http://nas.tuyuannet.cn:8800/rtp/239.37.0.114:5540
+风云音乐,http://nas.tuyuannet.cn:8800/rtp/239.37.0.081:5540
+风云足球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.080:5540
+怀旧剧场,http://nas.tuyuannet.cn:8800/rtp/239.37.0.082:5540
+女性时尚,http://nas.tuyuannet.cn:8800/rtp/239.37.0.069:5540
+世界地理,http://nas.tuyuannet.cn:8800/rtp/239.37.0.079:5540
+央视台球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.163:5540
+
 CCTV1,http://182.136.212.130:4022/udp/239.93.0.184:5140
 CCTV2,http://182.136.212.130:4022/udp/239.93.1.23:6000
 CCTV3,http://182.136.212.130:4022/udp/239.93.1.11:2223
