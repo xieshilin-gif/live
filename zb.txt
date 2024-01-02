@@ -319,7 +319,7 @@ CCTV14,https://www.sxtv.top/live/migu.php?id=cctv14
 都江堰电视台,http://tvbox.cdtyk.com/live/cdtv.php?name=都江堰电视台
 简阳市广播电视台,http://tvbox.cdtyk.com/live/cdtv.php?name=简阳市广播电视台
 郫都区广播电视台,http://tvbox.cdtyk.com/live/cdtv.php?name=郫都区广播电视台
-双流区广播电视台,http://tvbox.cdtyk.com/live/cdtv.php?name=双流区广播电视台
+双流综合,http://tvbox.cdtyk.com/live/cdtv.php?name=双流区广播电视台
 温江电视台,http://tvbox.cdtyk.com/live/cdtv.php?name=温江电视台
 新都区广播电视台,http://tvbox.cdtyk.com/live/cdtv.php?name=新都区广播电视台
 龙泉驿区新闻中心,http://tvbox.cdtyk.com/live/cdtv.php?name=龙泉驿区新闻中心
@@ -583,8 +583,8 @@ CCTV14,https://www.sxtv.top/live/migu.php?id=cctv14
 甘肃卫视,http://huangxin.quipor.cn:12999/hls/42/index.m3u8
 广西卫视,http://huangxin.quipor.cn:12999/hls/43/index.m3u8
 
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 四川卫视,http://223.244.5.27/live.aishang.ctlcdn.com/00000110240071_1/encoder/0/playlist.m3u8?CONTENTID=00000110240071_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR&reqhost=ctgslb
 
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
@@ -674,7 +674,7 @@ CCTV14,https://www.sxtv.top/live/migu.php?id=cctv14
 新动漫,http://live.aishang.ctlcdn.com/00000110240321_1/playlist.m3u8?CONTENTID=00000110240321_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
 卡酷少儿,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 嘉佳卡通,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 哈哈炫动,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
 河北少儿科教,http://152.70.36.39:8080/jishi/shaoerkejiao.m3u8
@@ -917,8 +917,6 @@ CHC高清影ipv6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 南京影视,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-浙江影视,https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江影视,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
 太原影视,http://live.cooltv.top/tv/tide.php?id=tyys
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
 莱山影视,http://blivealone.litenews.cn/b245/bddf865636804b3d943b81a89fdf90de.flv
@@ -942,8 +940,7 @@ CHC高清影ipv6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 华语影院 8M,http://49.235.110.121:9090/daili/bestv.php?id=hyyy
 全球大片 8M,http://49.235.110.121:9090/daili/bestv.php?id=qqdp
 
-浙江影视,http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
-浙江影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江影视,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 成都影视,http://live.cooltv.top/tv/cdtv.php?id=cdyswy
 欧美大片,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
@@ -962,19 +959,19 @@ CHC高清影ipv6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 胜利影视,http://222.134.240.136:9901/tsfile/live/1087_1.m3u8
 河北影视,http://111.225.92.130:8800/hls/20/index.m3u8
 吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
-浙江影视,https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 南宁影视娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 隆化影视频道,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
-浙江影视娱乐,http://hw-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8?zzhed
+浙江影视娱乐,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8?zzhed
 浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
-浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel04/360p.m3u8?zzhed
-浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8?zzhed
-浙江影视娱乐,http://hw-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
+浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/360p.m3u8?zzhed
+浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8?zzhed
+浙江影视娱乐,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 山东高青影视,http://alivealone.litenews.cn/61/56d09086fb25449cb4eefb24f5042937.flv
 河北平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
-浙江影视,https://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
+浙江影视,https://ali-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
 浙江绍兴上虞影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 浙江|绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 新昌休闲影视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
@@ -1047,7 +1044,7 @@ CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 山东体育,
 山东体育,
 24小时体育,http://111.20.35.103:6610/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=?世界杯WorldCup
-杭州体育,https://hw-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
+杭州体育,https://ali-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
 天空体育 格斗,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15097/index.m3u8
 天空体育 德甲,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7234/index.m3u8
 天空体育 足球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7341/index.m3u8
