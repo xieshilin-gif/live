@@ -283,7 +283,7 @@ CCTV14,https://www.sxtv.top/live/migu.php?id=cctv14
 四川文化旅游,http://cdn.swes.cn:8089/udp/239.93.1.102:5140
 四川经济,http://cdn.swes.cn:8089/udp/239.93.1.101:5140
 四川新闻,http://cdn.swes.cn:8089/udp/239.93.0.47:5140
-四川影视文艺,http://cdn.swes.cn:8089/udp/239.93.0.166:5140
+四川影视,http://cdn.swes.cn:8089/udp/239.93.0.166:5140
 四川妇女儿童,http://cdn.swes.cn:8089/udp/239.93.0.219:5140
 四川科教,http://cdn.swes.cn:8089/udp/239.93.42.44:5140
 四川乡村,http://cdn.swes.cn:8089/udp/239.93.0.52:5140
@@ -296,7 +296,7 @@ CCTV14,https://www.sxtv.top/live/migu.php?id=cctv14
 四川文化旅游,https://live.goodiptv.club/api/sxg.php?id=SCTV-2-H265_4000
 四川经济,https://live.goodiptv.club/api/sxg.php?id=SCTV-3-H265_4000
 四川新闻,https://live.goodiptv.club/api/sxg.php?id=SCTV-4H265_4000
-四川影视文艺,https://live.goodiptv.club/api/sxg.php?id=SCTV-5-scysH265_4000
+四川影视,https://live.goodiptv.club/api/sxg.php?id=SCTV-5-scysH265_4000
 四川妇女儿童,https://live.goodiptv.club/api/sxg.php?id=SCTV-7-_4000
 四川科教,https://live.goodiptv.club/api/sxg.php?id=SCTV-ggSCTV-8_4000
 四川乡村,https://live.goodiptv.club/api/sxg.php?id=SCTV-kjSCTV-9-_4000
