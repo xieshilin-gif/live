@@ -112,18 +112,18 @@ CETV1,http://60.205.114.16/live/cetv1.m3u8?user=APTV66&line=3
 CETV2,http://60.205.114.16/live/cetv2.m3u8?user=APTV66&line=3
 CETV4,http://60.205.114.16/live/cetv4.m3u8?user=APTV66&line=3
 
-CCTV第一剧场,http://60.205.114.16/gitv/G_DIYIJC-CQ.m3u8?user=APTV66
-CCTV风云剧场,http://60.205.114.16/gitv/G_FENGYUNJC-CQ.m3u8?user=APTV66
-CCTV怀旧剧场,http://60.205.114.16/gitv/G_HUAIJIUJC-CQ.m3u8?user=APTV66
-CCTV风云足球,http://60.205.114.16/gitv/G_FENGSHANGZQ-CQ.m3u8?user=APTV66
-CCTV央视台球,http://60.205.114.16/gitv/G_TAIQIU-CQ.m3u8?user=APTV66
-CCTV兵器科技,http://60.205.114.16/gitv/G_BINGQIKJ-CQ.m3u8?user=APTV66
-CCTV风云音乐,http://60.205.114.16/gitv/G_FENGYUNYY-CQ.m3u8?user=APTV66
-CCTV高尔夫网球,http://60.205.114.16/gitv/G_CCTV-GOLF-CQ.m3u8?user=APTV66
-CCTV女性时尚,http://60.205.114.16/gitv/G_NVXINGSS-CQ.m3u8?user=APTV66
+第一剧场,http://60.205.114.16/gitv/G_DIYIJC-CQ.m3u8?user=APTV66
+风云剧场,http://60.205.114.16/gitv/G_FENGYUNJC-CQ.m3u8?user=APTV66
+怀旧剧场,http://60.205.114.16/gitv/G_HUAIJIUJC-CQ.m3u8?user=APTV66
+风云足球,http://60.205.114.16/gitv/G_FENGSHANGZQ-CQ.m3u8?user=APTV66
+央视台球,http://60.205.114.16/gitv/G_TAIQIU-CQ.m3u8?user=APTV66
+兵器科技,http://60.205.114.16/gitv/G_BINGQIKJ-CQ.m3u8?user=APTV66
+风云音乐,http://60.205.114.16/gitv/G_FENGYUNYY-CQ.m3u8?user=APTV66
+高尔夫网球,http://60.205.114.16/gitv/G_CCTV-GOLF-CQ.m3u8?user=APTV66
+女性时尚,http://60.205.114.16/gitv/G_NVXINGSS-CQ.m3u8?user=APTV66
 央视文化精品,http://60.205.114.16/gitv/G_CCTV-WENHUA-CQ.m3u8?user=APTV66
-CCTV世界地理,http://60.205.114.16/gitv/G_SHIJIEDL-CQ.m3u8?user=APTV66
-CCTV电视指南,http://60.205.114.16/gitv/G_DIANSHIZN-CQ.m3u8?user=APTV66
+世界地理,http://60.205.114.16/gitv/G_SHIJIEDL-CQ.m3u8?user=APTV66
+电视指南,http://60.205.114.16/gitv/G_DIANSHIZN-CQ.m3u8?user=APTV66
 
 CETV1,http://61.170.251.165:1024/rtp/239.45.1.125:5140
 CETV2,http://61.170.251.165:1024/rtp/239.45.1.52:5140
