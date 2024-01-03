@@ -104,6 +104,27 @@ CHC动作电影,http://live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CO
 CHC高清电影,http://live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
 
+CETV1,http://60.205.114.16/gitv/G_CETV-1.m3u8?user=APTV66
+CETV2,http://60.205.114.16/gitv/G_CETV-2.m3u8?user=APTV66
+CETV3,http://60.205.114.16/gitv/G_CETV-3.m3u8?user=APTV66
+CETV4,http://60.205.114.16/gitv/G_CETV-4.m3u8?user=APTV66
+CETV1,http://60.205.114.16/live/cetv1.m3u8?user=APTV66&line=3
+CETV2,http://60.205.114.16/live/cetv2.m3u8?user=APTV66&line=3
+CETV4,http://60.205.114.16/live/cetv4.m3u8?user=APTV66&line=3
+
+CCTV第一剧场,http://60.205.114.16/gitv/G_DIYIJC-CQ.m3u8?user=APTV66
+CCTV风云剧场,http://60.205.114.16/gitv/G_FENGYUNJC-CQ.m3u8?user=APTV66
+CCTV怀旧剧场,http://60.205.114.16/gitv/G_HUAIJIUJC-CQ.m3u8?user=APTV66
+CCTV风云足球,http://60.205.114.16/gitv/G_FENGSHANGZQ-CQ.m3u8?user=APTV66
+CCTV央视台球,http://60.205.114.16/gitv/G_TAIQIU-CQ.m3u8?user=APTV66
+CCTV兵器科技,http://60.205.114.16/gitv/G_BINGQIKJ-CQ.m3u8?user=APTV66
+CCTV风云音乐,http://60.205.114.16/gitv/G_FENGYUNYY-CQ.m3u8?user=APTV66
+CCTV高尔夫网球,http://60.205.114.16/gitv/G_CCTV-GOLF-CQ.m3u8?user=APTV66
+CCTV女性时尚,http://60.205.114.16/gitv/G_NVXINGSS-CQ.m3u8?user=APTV66
+央视文化精品,http://60.205.114.16/gitv/G_CCTV-WENHUA-CQ.m3u8?user=APTV66
+CCTV世界地理,http://60.205.114.16/gitv/G_SHIJIEDL-CQ.m3u8?user=APTV66
+CCTV电视指南,http://60.205.114.16/gitv/G_DIANSHIZN-CQ.m3u8?user=APTV66
+
 CETV1,http://61.170.251.165:1024/rtp/239.45.1.125:5140
 CETV2,http://61.170.251.165:1024/rtp/239.45.1.52:5140
 CETV3,http://123.118.6.123:8000/rtp/239.3.1.55:4120
@@ -260,6 +281,14 @@ CCTV14,https://www.sxtv.top/live/migu.php?id=cctv14
 四川影视,http://lu1.cc/itv/sctv/scxl.php?id=scyswy
 四川妇女儿童,http://lu1.cc/itv/sctv/scxl.php?id=scfnet
 四川乡村,http://lu1.cc/itv/sctv/scxl.php?id=scxc
+
+四川经济,http://171.214.202.74:4000/udp/239.93.1.101:5140
+四川文化旅游,http://171.214.202.74:4000/udp/239.93.1.102:5140
+四川新闻,http://171.214.202.74:4000/udp/239.93.0.47:5140
+四川影视,http://171.214.202.74:4000/udp/239.93.0.166:5140
+SCTV6高清,http://171.214.202.74:4000/udp/239.93.1.144:5140
+四川妇女儿童,http://171.214.202.74:4000/udp/239.93.0.219:5140
+四川科教,http://171.214.202.74:4000/udp/239.93.42.44:5140
 
 四川经济,http://kjrzxhb.top:2086/udp/239.11.0.2:5140
 四川文化旅游,http://kjrzxhb.top:2086/udp/239.11.0.3:5140
