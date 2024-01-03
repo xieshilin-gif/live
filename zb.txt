@@ -14,6 +14,8 @@
 广元唐家河慢直播,http://ali-show.live.dzsm.com/live/gytv_1025.m3u8?auth_key=1698052911-0-0-29a32bedfe885646a6839fb39c1104ee
 
 央视,#genre#
+CCTV1,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
+CCTV1,http://60.255.120.30:89/live2/live2.m3u8
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,https://0472.org/hls/cctv13.m3u8
