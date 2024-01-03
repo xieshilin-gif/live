@@ -609,6 +609,8 @@ SCTV6高清,http://171.214.202.74:4000/udp/239.93.1.144:5140
 河北少儿科教,http://152.70.36.39:8080/jishi/shaoerkejiao.m3u8
 山东少儿,rtmp://livealone.iqilu.com/iqilu/sepdhjOF03kn
 宝宝动画,https://taijitv.zhonglong1.repl.co/bestv.php?id=bbdh8m/8000000
+韩·EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+韩国EBS少儿童,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
 
 卡酷少儿,https://taijitv.zhonglong1.repl.co/sxg.php?id=kkkt_4000
 金鹰卡通,https://taijitv.zhonglong1.repl.co/sxg.php?id=jykt_2000
