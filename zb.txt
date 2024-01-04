@@ -79,33 +79,11 @@ CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
 CHC高清电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
 CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 
-CETV1,http://60.205.114.16/gitv/G_CETV-1.m3u8?user=APTV66
-CETV2,http://60.205.114.16/gitv/G_CETV-2.m3u8?user=APTV66
-CETV3,http://60.205.114.16/gitv/G_CETV-3.m3u8?user=APTV66
-CETV4,http://60.205.114.16/gitv/G_CETV-4.m3u8?user=APTV66
-
-CETV1,http://60.205.114.16/live/cetv1.m3u8?user=APTV66&line=3
-CETV2,http://60.205.114.16/live/cetv2.m3u8?user=APTV66&line=3
-CETV4,http://60.205.114.16/live/cetv4.m3u8?user=APTV66&line=3
 
 CETV1,http://61.170.251.165:1024/rtp/239.45.1.125:5140
 CETV2,http://61.170.251.165:1024/rtp/239.45.1.52:5140
 CETV3,http://123.118.6.123:8000/rtp/239.3.1.55:4120
 CETV4,http://61.170.251.165:1024/rtp/239.45.0.21:5140
-
-兵器科技,http://60.205.114.16/ysp/bqkj.m3u8?user=APTV66
-第一剧场,http://60.205.114.16/ysp/dyjc.m3u8?user=APTV66
-怀旧剧场,http://60.205.114.16/ysp/hjjc.m3u8?user=APTV66
-风云剧场,http://60.205.114.16/ysp/fyjc.m3u8?user=APTV66
-风云音乐,http://60.205.114.16/ysp/fyyy.m3u8?user=APTV66
-风云足球,http://60.205.114.16/ysp/fyzq.m3u8?user=APTV66
-电视指南,http://60.205.114.16/ysp/dszn.m3u8?user=APTV66
-女性时尚,http://60.205.114.16/ysp/nxss.m3u8?user=APTV66
-央视文化精品,http://60.205.114.16/ysp/whjp.m3u8?user=APTV66
-世界地理,http://60.205.114.16/ysp/sjdl.m3u8?user=APTV66
-高尔夫网球,http://60.205.114.16/ysp/gefwq.m3u8?user=APTV66
-央视台球,http://60.205.114.16/ysp/ystq.m3u8?user=APTV66
-卫生健康,http://60.205.114.16/ysp/wsjk.m3u8?user=APTV66
 
 第一剧场,http://121.29.111.117:8888/rtp/239.253.93.138:6428
 怀旧剧场,http://121.29.111.117:8888/rtp/239.253.93.252:6430
@@ -253,13 +231,26 @@ CCTV13,https://www.sxtv.top/live/migu.php?id=cctv13
 CCTV14,https://www.sxtv.top/live/migu.php?id=cctv14
 
 四川,#genre#
+四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+四川乡村,http://dcpull.sctvcloud.com/live/6bcbdd9501881000b1f5f6b400000000/playlist.m3u8
+//中国四川省成都市【电信】 222.212.159.117
+四川文化旅游,http://vl15191373.imwork.net:8880/rtp/239.93.1.102:5140
+四川经济,http://vl15191373.imwork.net:8880/udp/239.93.1.101:5140
+四川新闻,http://vl15191373.imwork.net:8880/udp/239.93.0.47:5140
+四川影视,http://vl15191373.imwork.net:8880/udp/239.93.0.166:5140
+四川妇女儿童,http://vl15191373.imwork.net:8880/udp/239.93.0.219:5140
+四川科教,http://vl15191373.imwork.net:8880/udp/239.93.42.44:5140
+四川乡村,http://vl15191373.imwork.net:8880/udp/239.93.0.52:5140
+康巴卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.41:5140
+峨眉电影,http://vl15191373.imwork.net:8880/udp/239.93.0.252:5140
+
 四川文化旅游,http://lu1.cc/itv/sctv/scxl.php?id=scwhly
 四川经济,http://lu1.cc/itv/sctv/scxl.php?id=scjj
 四川新闻,http://lu1.cc/itv/sctv/scxl.php?id=scxw
 四川影视,http://lu1.cc/itv/sctv/scxl.php?id=scyswy
 四川妇女儿童,http://lu1.cc/itv/sctv/scxl.php?id=scfnet
 四川乡村,http://lu1.cc/itv/sctv/scxl.php?id=scxc
-
+//中国四川省成都市【电信】 171.214.202.74
 四川经济,http://171.214.202.74:4000/udp/239.93.1.101:5140
 四川文化旅游,http://171.214.202.74:4000/udp/239.93.1.102:5140
 四川新闻,http://171.214.202.74:4000/udp/239.93.0.47:5140
@@ -267,7 +258,7 @@ CCTV14,https://www.sxtv.top/live/migu.php?id=cctv14
 SCTV6高清,http://171.214.202.74:4000/udp/239.93.1.144:5140
 四川妇女儿童,http://171.214.202.74:4000/udp/239.93.0.219:5140
 四川科教,http://171.214.202.74:4000/udp/239.93.42.44:5140
-
+//美国加利福尼亚旧金山 172.67.147.135
 四川经济,http://kjrzxhb.top:2086/udp/239.11.0.2:5140
 四川文化旅游,http://kjrzxhb.top:2086/udp/239.11.0.3:5140
 四川乡村,http://kjrzxhb.top:2086/udp/239.11.0.4:5140
@@ -278,7 +269,6 @@ SCTV6高清,http://171.214.202.74:4000/udp/239.93.1.144:5140
 四川文化旅游,http://api2.52tb.xyz/info?id=603&token=20230405tndmhg
 四川影视,http://api2.52tb.xyz/info?id=601&token=20230405tndmhg
 四川新闻,http://api2.52tb.xyz/info?id=602&token=20230405tndmhg
-四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四川乡村,http://api2.52tb.xyz/info?id=606&token=20230405tndmhg
 四川经济,http://api2.52tb.xyz/info?id=605&token=20230405tndmhg
 //南充移动
@@ -288,7 +278,7 @@ SCTV6高清,http://171.214.202.74:4000/udp/239.93.1.144:5140
 四川新闻,http://183.223.157.33:9901/tsfile/live/1003_1.m3u8
 四川科教,http://183.223.157.33:9901/tsfile/live/1005_1.m3u8
 峨眉电影,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8
-
+//中国四川省成都市【电信】 218.88.50.18
 四川文化旅游,http://cdn.swes.cn:8089/udp/239.93.1.102:5140
 四川经济,http://cdn.swes.cn:8089/udp/239.93.1.101:5140
 四川新闻,http://cdn.swes.cn:8089/udp/239.93.0.47:5140
@@ -299,7 +289,6 @@ SCTV6高清,http://171.214.202.74:4000/udp/239.93.1.144:5140
 康巴卫视,http://cdn.swes.cn:8089/udp/239.93.0.41:5140
 峨眉电影,http://cdn.swes.cn:8089/udp/239.93.0.252:5140
 
-四川乡村,http://dcpull.sctvcloud.com/live/6bcbdd9501881000b1f5f6b400000000/playlist.m3u8
 峨眉电影,http://r.jdshipin.com/XIjta
 
 四川文化旅游,https://live.goodiptv.club/api/sxg.php?id=SCTV-2-H265_4000
@@ -353,72 +342,6 @@ SCTV6高清,http://171.214.202.74:4000/udp/239.93.1.144:5140
 高新电视台,http://tvbox.cdtyk.com/live/cdtv.php?name=高新电视台
 
 卫视,#genre#
-安徽卫视,http://60.205.114.16/gitv/G_ANHUI-HD-265-8M.m3u8?user=APTV66
-北京卫视,http://60.205.114.16/gitv/G_BEIJING-HD-265-8M.m3u8?user=APTV66
-东方卫视,http://60.205.114.16/gitv/G_DONGFANG-HD-265-8M.m3u8?user=APTV66
-东南卫视,http://60.205.114.16/gitv/G_DONGNAN-HQ.m3u8?user=APTV66
-广东卫视,http://60.205.114.16/gitv/G_GUANGDONG-HD-265-8M.m3u8?user=APTV66
-广西卫视,http://60.205.114.16/gitv/GXWS.m3u8?user=APTV66
-贵州卫视,http://60.205.114.16/gitv/G_GUIZHOU-CQ.m3u8?user=APTV66
-海南卫视,http://60.205.114.16/gitv/LYWS.m3u8?user=APTV66
-河南卫视,http://60.205.114.16/gitv/G_HENAN-CQ.m3u8?user=APTV66
-黑龙江卫视,http://60.205.114.16/gitv/G_HEILONGJIANG-HD-265-8M.m3u8?user=APTV66
-湖北卫视,http://60.205.114.16/gitv/G_HUBEI-HD-265-8M.m3u8?user=APTV66
-湖南卫视,http://60.205.114.16/gitv/G_HUNAN-CQ.m3u8?user=APTV66
-吉林卫视,http://60.205.114.16/gitv/G_JILIN-CQ.m3u8?user=APTV66
-江苏卫视,http://60.205.114.16/gitv/G_JIANGSU-CQ.m3u8?user=APTV66
-江西卫视,http://60.205.114.16/gitv/G_JIANGXI-CQ.m3u8?user=APTV66
-辽宁卫视,http://60.205.114.16/gitv/G_LIAONING-HD-265-8M.m3u8?user=APTV66
-山东卫视,http://60.205.114.16/gitv/G_SHANDONG-HD-265-8M.m3u8?user=APTV66
-深圳卫视,http://60.205.114.16/gitv/G_SHENZHEN-HD-265-8M.m3u8?user=APTV66
-四川卫视,http://60.205.114.16/gitv/G_SICHUAN-CQ.m3u8?user=APTV66
-天津卫视,http://60.205.114.16/gitv/G_TIANJIN-HD-265-8M.m3u8?user=APTV66
-云南卫视,http://60.205.114.16/gitv/G_YUNNAN-HQ.m3u8?user=APTV66
-浙江卫视,http://60.205.114.16/gitv/G_ZHEJIANG-CQ.m3u8?user=APTV66
-重庆卫视,http://60.205.114.16/gitv/G_CHONGQING-CQ.m3u8?user=APTV66
-河北卫视,http://60.205.114.16/gitv/G_HEBEI-CQ.m3u8?user=APTV66
-甘肃卫视,http://60.205.114.16/gitv/G_GANSU.m3u8?user=APTV66
-厦门卫视,http://60.205.114.16/gitv/G_XIAMEN.m3u8?user=APTV66
-陕西卫视,http://60.205.114.16/gitv/G_SHANXI.m3u8?user=APTV66
-山西卫视,http://60.205.114.16/gitv/SXWS.m3u8?user=APTV66
-延边卫视,http://60.205.114.16/gitv/G_YANBIAN.m3u8?user=APTV66
-南方卫视,http://60.205.114.16/gitv/G_NANFANG.m3u8?user=APTV66
-新疆卫视,http://60.205.114.16/gitv/G_XINJIANG.m3u8?user=APTV66
-西藏卫视,http://60.205.114.16/gitv/G_XIZANG.m3u8?user=APTV66
-内蒙古卫视,http://60.205.114.16/gitv/G_NEIMENGGU.m3u8?user=APTV66
-宁夏卫视,http://60.205.114.16/gitv/G_NINGXIA.m3u8?user=APTV66
-青海卫视,http://60.205.114.16/gitv/G_QINGHAI.m3u8?user=APTV66
-大湾区卫视,http://60.205.114.16/gitv/G_NANFANG.m3u8?user=APTV66
-安多卫视,http://60.205.114.16/gitv/G_ANDUO.m3u8?user=APTV66
-农林卫视,http://60.205.114.16/gitv/G_NONGLIN.m3u8?user=APTV66
-兵团卫视,http://60.205.114.16/gitv/G_BINGTUAN.m3u8?user=APTV66
-康巴卫视,http://60.205.114.16/gitv/G_KANGBA.m3u8?user=APTV66
-北京纪实,http://60.205.114.16/gitv/HD-8000k-1080P-beijingjishi.m3u8?user=APTV66
-上海纪实人文,http://60.205.114.16/gitv/HD-8000k-1080P-shanghaijishi.m3u8?user=APTV66
-山东教育卫视,http://60.205.114.16/gitv/G_SDETV.m3u8?user=APTV66
-北京卫视,http://60.205.114.16/ysp/bjws.m3u8?user=APTV66
-东方卫视,http://60.205.114.16/ysp/dfws.m3u8?user=APTV66
-天津卫视,http://60.205.114.16/ysp/tjws.m3u8?user=APTV66
-重庆卫视,http://60.205.114.16/ysp/cqws.m3u8?user=APTV66
-黑龙江卫视,http://60.205.114.16/ysp/hljws.m3u8?user=APTV66
-辽宁卫视,http://60.205.114.16/ysp/lnws.m3u8?user=APTV66
-河北卫视,http://60.205.114.16/ysp/hbws.m3u8?user=APTV66
-山东卫视,http://60.205.114.16/ysp/sdws.m3u8?user=APTV66
-安徽卫视,http://60.205.114.16/ysp/ahws.m3u8?user=APTV66
-河南卫视,http://60.205.114.16/ysp/hnws.m3u8?user=APTV66
-湖北卫视,http://60.205.114.16/ysp/hubws.m3u8?user=APTV66
-湖南卫视,http://60.205.114.16/ysp/hunws.m3u8?user=APTV66
-江西卫视,http://60.205.114.16/ysp/jxws.m3u8?user=APTV66
-江苏卫视,http://60.205.114.16/ysp/jsws.m3u8?user=APTV66
-浙江卫视,http://60.205.114.16/ysp/zjws.m3u8?user=APTV66
-东南卫视,http://60.205.114.16/ysp/dnws.m3u8?user=APTV66
-广东卫视,http://60.205.114.16/ysp/gdws.m3u8?user=APTV66
-深圳卫视,http://60.205.114.16/ysp/szws.m3u8?user=APTV66
-广西卫视,http://60.205.114.16/ysp/gxws.m3u8?user=APTV66
-贵州卫视,http://60.205.114.16/ysp/gzws.m3u8?user=APTV66
-四川卫视,http://60.205.114.16/ysp/scws.m3u8?user=APTV66
-新疆卫视,http://60.205.114.16/ysp/xjws.m3u8?user=APTV66
-海南卫视,http://60.205.114.16/ysp/hinws.m3u8?user=APTV66
 //央视频
 辽宁卫视,http://hrare.gnway.cc/tv/ysp.php?id=lnws
 北京卫视,http://hrare.gnway.cc/tv/ysp.php?id=bjws
@@ -664,11 +587,6 @@ SCTV6高清,http://171.214.202.74:4000/udp/239.93.1.144:5140
 百视通4K,http://223.166.61.142:4022/rtp/239.45.3.107:5140
 
 少儿,#genre#
-卡酷少儿,http://60.205.114.16/gitv/G_KAKU.m3u8?user=APTV66
-炫动卡通,http://60.205.114.16/gitv/G_XUANDONG.m3u8?user=APTV66
-金鹰卡通,http://60.205.114.16/gitv/G_JINYING.m3u8?user=APTV66
-嘉佳卡通,http://60.205.114.16/gitv/G_JIAJIA.m3u8?user=APTV66
-优漫卡通,http://60.205.114.16/gitv/G_YOUMAN.m3u8?user=APTV66
 //重庆市渝北区 电信
 卡酷少儿,http://183.66.49.230:9901/tsfile/live/1001_1.m3u8
 金鹰卡通,http://183.66.49.230:9901/tsfile/live/1002_1.m3u8
