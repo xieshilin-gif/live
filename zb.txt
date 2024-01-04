@@ -230,9 +230,22 @@ CCTV10,https://www.sxtv.top/live/migu.php?id=cctv10
 CCTV13,https://www.sxtv.top/live/migu.php?id=cctv13
 CCTV14,https://www.sxtv.top/live/migu.php?id=cctv14
 
+http://61.188.26.181:4022/rtp/239.93.0.252:5140
+
 四川,#genre#
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四川乡村,http://dcpull.sctvcloud.com/live/6bcbdd9501881000b1f5f6b400000000/playlist.m3u8
+//中国四川省成都市【电信】 218.88.50.18
+四川文化旅游,http://cdn.swes.cn:8089/udp/239.93.1.102:5140
+四川经济,http://cdn.swes.cn:8089/udp/239.93.1.101:5140
+四川新闻,http://cdn.swes.cn:8089/udp/239.93.0.47:5140
+四川影视,http://cdn.swes.cn:8089/udp/239.93.0.166:5140
+四川妇女儿童,http://cdn.swes.cn:8089/udp/239.93.0.219:5140
+四川科教,http://cdn.swes.cn:8089/udp/239.93.42.44:5140
+四川乡村,http://cdn.swes.cn:8089/udp/239.93.0.52:5140
+康巴卫视,http://cdn.swes.cn:8089/udp/239.93.0.41:5140
+峨眉电影,http://cdn.swes.cn:8089/udp/239.93.0.252:5140
+
 //中国四川省成都市【电信】 222.212.159.117
 四川文化旅游,http://vl15191373.imwork.net:8880/rtp/239.93.1.102:5140
 四川经济,http://vl15191373.imwork.net:8880/udp/239.93.1.101:5140
@@ -243,7 +256,6 @@ CCTV14,https://www.sxtv.top/live/migu.php?id=cctv14
 四川乡村,http://vl15191373.imwork.net:8880/udp/239.93.0.52:5140
 康巴卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.41:5140
 峨眉电影,http://vl15191373.imwork.net:8880/udp/239.93.0.252:5140
-
 四川文化旅游,http://lu1.cc/itv/sctv/scxl.php?id=scwhly
 四川经济,http://lu1.cc/itv/sctv/scxl.php?id=scjj
 四川新闻,http://lu1.cc/itv/sctv/scxl.php?id=scxw
@@ -265,7 +277,6 @@ SCTV6高清,http://171.214.202.74:4000/udp/239.93.1.144:5140
 四川新闻,http://kjrzxhb.top:2086/udp/239.11.0.5:5140
 四川影视,http://kjrzxhb.top:2086/udp/239.11.0.8:5140
 峨眉电影,http://kjrzxhb.top:2086/udp/239.11.0.11:5140
-
 四川文化旅游,http://api2.52tb.xyz/info?id=603&token=20230405tndmhg
 四川影视,http://api2.52tb.xyz/info?id=601&token=20230405tndmhg
 四川新闻,http://api2.52tb.xyz/info?id=602&token=20230405tndmhg
@@ -278,17 +289,6 @@ SCTV6高清,http://171.214.202.74:4000/udp/239.93.1.144:5140
 四川新闻,http://183.223.157.33:9901/tsfile/live/1003_1.m3u8
 四川科教,http://183.223.157.33:9901/tsfile/live/1005_1.m3u8
 峨眉电影,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8
-//中国四川省成都市【电信】 218.88.50.18
-四川文化旅游,http://cdn.swes.cn:8089/udp/239.93.1.102:5140
-四川经济,http://cdn.swes.cn:8089/udp/239.93.1.101:5140
-四川新闻,http://cdn.swes.cn:8089/udp/239.93.0.47:5140
-四川影视,http://cdn.swes.cn:8089/udp/239.93.0.166:5140
-四川妇女儿童,http://cdn.swes.cn:8089/udp/239.93.0.219:5140
-四川科教,http://cdn.swes.cn:8089/udp/239.93.42.44:5140
-四川乡村,http://cdn.swes.cn:8089/udp/239.93.0.52:5140
-康巴卫视,http://cdn.swes.cn:8089/udp/239.93.0.41:5140
-峨眉电影,http://cdn.swes.cn:8089/udp/239.93.0.252:5140
-
 峨眉电影,http://r.jdshipin.com/XIjta
 
 四川文化旅游,https://live.goodiptv.club/api/sxg.php?id=SCTV-2-H265_4000
@@ -300,6 +300,17 @@ SCTV6高清,http://171.214.202.74:4000/udp/239.93.1.144:5140
 四川乡村,https://live.goodiptv.club/api/sxg.php?id=SCTV-kjSCTV-9-_4000
 
 成都,#genre#
+成都新闻综合,http://cdn.swes.cn:8089/udp/239.93.0.16:5140
+成都经济资讯,http://cdn.swes.cn:8089/udp/239.93.0.17:1239
+成都都市生活,http://cdn.swes.cn:8089/udp/239.93.0.18:1238
+成都影视文艺,http://cdn.swes.cn:8089/udp/239.93.0.19:1250
+成都公共频道,http://cdn.swes.cn:8089/udp/239.93.1.231:5140
+成都少儿频道,http://cdn.swes.cn:8089/udp/239.93.0.21:1251
+GDTV 蓉城先锋,http://cdn.swes.cn:8089/udp/239.93.0.91:2101
+成都体育,http://cdn.swes.cn:8089/udp/239.93.0.224:1281
+熊猫频道1,http://cdn.swes.cn:8089/udp/239.93.0.211:9148
+熊猫频道2,http://cdn.swes.cn:8089/udp/239.93.1.178:5140
+
 成都新闻综合,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv1hd&fmt=hls
 成都经济资讯,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv2hd&fmt=hls
 成都都市生活,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv3hd&fmt=hls
