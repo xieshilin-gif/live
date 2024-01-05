@@ -15,7 +15,6 @@
 CCTV1,http://iptv.8t.cx:8180/udp/239.3.1.129:8008
 CCTV1,http://www.kkk8861.tk:8888/rtp/239.121.4.113:8636
 CCTV2,http://www.kkk8861.tk:8888/rtp/239.121.4.155:8914
-CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 CCTV3,http://iptv.8t.cx:8180/udp/239.3.1.172:8001
 CCTV3,http://www.kkk8861.tk:8888/rtp/239.121.4.151:8890
 CCTV4,http://iptv.8t.cx:8180/udp/239.3.1.105:8092
@@ -25,13 +24,10 @@ CCTV5,http://www.kkk8861.tk:8888/rtp/239.121.4.152:8896
 CCTV6,http://iptv.8t.cx:8180/udp/239.3.1.174:8001
 CCTV6,http://www.kkk8861.tk:8888/rtp/239.121.4.153:8902
 CCTV7,http://www.kkk8861.tk:8888/rtp/239.121.4.156:8920
-CCTV7,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
 CCTV8,http://iptv.8t.cx:8180/udp/239.3.1.175:8001
 CCTV8,http://www.kkk8861.tk:8888/rtp/239.121.4.154:8908
 CCTV9,http://iptv.8t.cx:8180/udp/239.3.1.62:8112
 CCTV9,http://www.kkk8861.tk:8888/rtp/239.121.4.157:8926
-CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-CCTV10,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 CCTV11,http://iptv.8t.cx:8180/udp/239.3.1.152:8120
 CCTV11,http://www.kkk8861.tk:8888/rtp/239.121.4.150:9202
 CCTV12,http://iptv.8t.cx:8180/udp/239.3.1.64:8124
@@ -48,7 +44,6 @@ CCTV16,http://www.kkk8861.tk:8888/rtp/239.121.4.122:8008
 CCTV17,http://www.kkk8861.tk:8888/rtp/239.121.4.61:8340
 CCTV5+,http://iptv.8t.cx:8180/udp/239.3.1.130:8004
 CCTV5+,http://www.kkk8861.tk:8888/rtp/239.121.4.140:8852
-CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CETV1,http://iptv.8t.cx:8180/udp/239.3.1.57:8152
 CETV1,http://www.kkk8861.tk:8888/rtp/239.121.4.180:9064
 CETV2,http://iptv.8t.cx:8180/udp/239.3.1.54:4120
