@@ -656,6 +656,8 @@ GDTV 蓉城先锋,http://iptvhome.npsv.top:4022/udp/239.93.0.91:2101
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 
 其他,#genre#
+三台电视一套,http://125.65.94.91:12351/live
+三台电视二套,http://125.65.94.91:12353/live
 4K超高清电影4K,https://taijitv.zhonglong1.repl.co/sxg.php?id=emdy4k_8000
 金鹰纪实,http://111.225.92.130:8800/hls/100/index.m3u8
 纪实科教,https://taijitv.zhonglong1.repl.co/sxg.php?id=bjjs_2000
@@ -1024,7 +1026,7 @@ CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 澳门体育,http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
 
 
-备用_112332,#genre#
+备用,#genre#
 CCTV1,http://amail.lacool.tk:8086/udp/239.93.0.184:5140
 CCTV2,http://amail.lacool.tk:8086/udp/239.93.1.23:6000
 CCTV3,http://amail.lacool.tk:8086/udp/239.93.1.11:2223
