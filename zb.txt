@@ -88,7 +88,7 @@ CCTV13,http://amail.lacool.tk:8086/udp/239.93.0.66:5140
 CCTV14,http://amail.lacool.tk:8086/udp/239.93.1.29:6000
 CCTV15,http://amail.lacool.tk:8086/udp/239.93.0.103:5140
 CCTV17,http://amail.lacool.tk:8086/udp/239.93.0.92:5140
-CCTV5＋,http://amail.lacool.tk:8086/udp/239.93.1.36:8004
+CCTV5+,http://amail.lacool.tk:8086/udp/239.93.1.36:8004
 CGTN英语,http://amail.lacool.tk:8086/udp/239.93.0.104:5140
 CGTN西班牙语,http://amail.lacool.tk:8086/udp/239.93.42.49:5140
 CGTN法语,http://amail.lacool.tk:8086/udp/239.93.42.50:5140
@@ -211,6 +211,19 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212269
 CCTV16,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV17,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227577/index.m3u8
 
+//中国河北省石家庄市【联通】
+第一剧场,http://newzxl.top:4022/rtp/239.253.93.138:6428
+怀旧剧场,http://newzxl.top:4022/rtp/239.253.93.252:6430
+风云剧场,http://newzxl.top:4022/rtp/239.253.93.251:6429
+风云音乐,http://newzxl.top:4022/rtp/239.253.93.253:6431
+风云足球,http://newzxl.top:4022/rtp/239.253.93.254:6432
+高尔夫网球,http://newzxl.top:4022/rtp/239.253.93.122:6465
+兵器科技,http://newzxl.top:4022/rtp/239.253.93.47:6435
+世界地理,http://newzxl.top:4022/rtp/239.253.92.131:6113
+女性时尚,http://newzxl.top:4022/rtp/239.253.92.144:6114
+央视台球,http://newzxl.top:4022/rtp/239.253.93.231:6409
+文化精品,http://newzxl.top:4022/rtp/239.253.93.175:6439
+中华美食,http://newzxl.top:4022/rtp/239.253.93.248:6426
 //中国吉林省长春市【电信】
 CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
 CHC高清电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
@@ -232,19 +245,6 @@ CETV1,http://61.170.251.165:1024/rtp/239.45.1.125:5140
 CETV2,http://61.170.251.165:1024/rtp/239.45.1.52:5140
 CETV3,http://123.118.6.123:8000/rtp/239.3.1.55:4120
 CETV4,http://61.170.251.165:1024/rtp/239.45.0.21:5140
-//中国河北省石家庄市【联通】
-第一剧场,http://newzxl.top:4022/rtp/239.253.93.138:6428
-怀旧剧场,http://newzxl.top:4022/rtp/239.253.93.252:6430
-风云剧场,http://newzxl.top:4022/rtp/239.253.93.251:6429
-风云音乐,http://newzxl.top:4022/rtp/239.253.93.253:6431
-风云足球,http://newzxl.top:4022/rtp/239.253.93.254:6432
-高尔夫网球,http://newzxl.top:4022/rtp/239.253.93.122:6465
-兵器科技,http://newzxl.top:4022/rtp/239.253.93.47:6435
-世界地理,http://newzxl.top:4022/rtp/239.253.92.131:6113
-女性时尚,http://newzxl.top:4022/rtp/239.253.92.144:6114
-央视台球,http://newzxl.top:4022/rtp/239.253.93.231:6409
-文化精品,http://newzxl.top:4022/rtp/239.253.93.175:6439
-中华美食,http://newzxl.top:4022/rtp/239.253.93.248:6426
 
 四川,#genre#
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
