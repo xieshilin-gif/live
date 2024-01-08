@@ -220,6 +220,15 @@ CETV4,http://61.170.251.165:1024/rtp/239.45.0.21:5140
 文化精品,http://newzxl.top:4022/rtp/239.253.93.175:6439
 中华美食,http://newzxl.top:4022/rtp/239.253.93.248:6426
 
+CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+cctv1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+cctv3,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
+cctv7,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+cctv9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+cctv14,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
+
 四川,#genre#
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四川乡村,http://dcpull.sctvcloud.com/live/6bcbdd9501881000b1f5f6b400000000/playlist.m3u8
@@ -793,7 +802,7 @@ CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 极限运动,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
-山东体育,
+山东体育,http://221.2.146.228:8888/newlive/live/hls/53/live.m3u8
 山东体育,
 24小时体育,http://111.20.35.103:6610/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=?世界杯WorldCup
 杭州体育,https://ali-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
