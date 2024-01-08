@@ -223,6 +223,15 @@ CETV4,http://61.170.251.165:1024/rtp/239.45.0.21:5140
 四川,#genre#
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四川乡村,http://dcpull.sctvcloud.com/live/6bcbdd9501881000b1f5f6b400000000/playlist.m3u8
+//成都电信
+四川经济,http://amail.lacool.tk:8086/udp/239.93.1.101:5140
+四川文化旅游,http://amail.lacool.tk:8086/udp/239.93.1.102:5140
+四川新闻,http://amail.lacool.tk:8086/udp/239.93.0.47:5140
+四川影视,http://amail.lacool.tk:8086/udp/239.93.0.166:5140
+四川妇女儿童,http://amail.lacool.tk:8086/udp/239.93.0.219:5140
+四川科教,http://amail.lacool.tk:8086/udp/239.93.42.44:5140
+四川乡村,http://amail.lacool.tk:8086/udp/239.93.0.52:5140
+峨眉电影,http://amail.lacool.tk:8086/udp/239.93.0.252:5140
 //中国四川省成都市【电信】 218.88.50.18
 四川文化旅游,http://iptvhome.npsv.top:4022/udp/239.93.1.102:5140
 四川经济,http://iptvhome.npsv.top:4022/udp/239.93.1.101:5140
@@ -243,6 +252,7 @@ CETV4,http://61.170.251.165:1024/rtp/239.45.0.21:5140
 四川乡村,http://vl15191373.imwork.net:8880/udp/239.93.0.52:5140
 康巴卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.41:5140
 峨眉电影,http://vl15191373.imwork.net:8880/udp/239.93.0.252:5140
+
 四川文化旅游,http://lu1.cc/itv/sctv/scxl.php?id=scwhly
 四川经济,http://lu1.cc/itv/sctv/scxl.php?id=scjj
 四川新闻,http://lu1.cc/itv/sctv/scxl.php?id=scxw
@@ -274,6 +284,14 @@ CETV4,http://61.170.251.165:1024/rtp/239.45.0.21:5140
 四川乡村,https://live.goodiptv.club/api/sxg.php?id=SCTV-kjSCTV-9-_4000
 
 成都,#genre#
+成都新闻综合,http://amail.lacool.tk:8086/udp/239.93.0.16:5140
+成都经济资讯,http://amail.lacool.tk:8086/udp/239.93.0.17:1239
+成都都市生活,http://amail.lacool.tk:8086/udp/239.93.0.18:1238
+成都影视文艺,http://amail.lacool.tk:8086/udp/239.93.0.19:1250
+成都公共频道,http://amail.lacool.tk:8086/udp/239.93.1.231:5140
+成都少儿频道,http://amail.lacool.tk:8086/udp/239.93.0.21:1251
+成都体育,http://amail.lacool.tk:8086/udp/239.93.0.224:1281
+
 成都新闻综合,http://iptvhome.npsv.top:4022/udp/239.93.0.16:5140
 成都经济资讯,http://iptvhome.npsv.top:4022/udp/239.93.0.17:1239
 成都都市生活,http://iptvhome.npsv.top:4022/udp/239.93.0.18:1238
@@ -342,6 +360,45 @@ GDTV 蓉城先锋,http://iptvhome.npsv.top:4022/udp/239.93.0.91:2101
 青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8
 海南卫视,http://livelyws.chinamcache.com/lyws/zb01.m3u8
 苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+//成都电信
+四川卫视,http://amail.lacool.tk:8086/udp/239.93.0.20:1235
+湖南卫视,http://amail.lacool.tk:8086/udp/239.93.0.88:5140
+江苏卫视,http://amail.lacool.tk:8086/udp/239.93.0.89:5140
+浙江卫视,http://amail.lacool.tk:8086/udp/239.93.0.124:5140
+东方卫视,http://amail.lacool.tk:8086/udp/239.93.0.123:5140
+北京卫视,http://amail.lacool.tk:8086/udp/239.93.0.180:5140
+深圳卫视,http://amail.lacool.tk:8086/udp/239.93.0.182:5140
+广东卫视,http://amail.lacool.tk:8086/udp/239.93.0.181:5140
+天津卫视,http://amail.lacool.tk:8086/udp/239.93.0.167:5140
+山东卫视,http://amail.lacool.tk:8086/udp/239.93.0.168:5140
+康巴卫视,http://amail.lacool.tk:8086/udp/239.93.0.41:5140
+江西卫视,http://amail.lacool.tk:8086/udp/239.93.0.134:5140
+东南卫视 ,http://amail.lacool.tk:8086/udp/239.93.0.42:5140
+黑龙江卫视,http://amail.lacool.tk:8086/udp/239.93.0.183:5140
+重庆卫视,http://amail.lacool.tk:8086/udp/239.93.1.107:5140
+贵州卫视,http://amail.lacool.tk:8086/udp/239.93.0.131:5140
+湖北卫视,http://amail.lacool.tk:8086/udp/239.93.0.250:5140
+安徽卫视,http://amail.lacool.tk:8086/udp/239.93.1.106:5140
+河北卫视,http://amail.lacool.tk:8086/udp/239.93.0.132:5140
+辽宁卫视,http://amail.lacool.tk:8086/udp/239.93.1.108:5140
+河南卫视,http://amail.lacool.tk:8086/udp/239.93.42.45:5140
+广西卫视,http://amail.lacool.tk:8086/udp/239.93.42.46:5140
+云南卫视,http://amail.lacool.tk:8086/udp/239.93.0.174:5140
+吉林卫视,http://amail.lacool.tk:8086/udp/239.93.0.248:5140
+陕西卫视,http://amail.lacool.tk:8086/udp/239.93.0.176:5140
+山西卫视,http://amail.lacool.tk:8086/udp/239.93.0.6:5140
+内蒙古卫视,http://amail.lacool.tk:8086/udp/239.93.0.8:5140
+青海卫视,http://amail.lacool.tk:8086/udp/239.93.0.192:5140
+宁夏卫视,http://amail.lacool.tk:8086/udp/239.93.0.247:5140
+西藏卫视,http://amail.lacool.tk:8086/udp/239.93.0.175:5140
+新疆卫视,http://amail.lacool.tk:8086/udp/239.93.0.194:5140
+甘肃卫视,http://amail.lacool.tk:8086/udp/239.93.0.81:5140
+海南卫视,http://amail.lacool.tk:8086/udp/239.93.0.80:5140
+陕西农林,http://amail.lacool.tk:8086/udp/239.93.0.100:5140
+兵团卫视,http://amail.lacool.tk:8086/udp/239.93.42.43:5140
+厦门卫视,http://amail.lacool.tk:8086/udp/239.93.42.57:5140
+三沙卫视,http://amail.lacool.tk:8086/udp/239.93.42.58:5140
+山东教育卫视,http://amail.lacool.tk:8086/udp/239.93.1.196:5140
 //央视频
 辽宁卫视,http://cdn.jdshipin.com:8880/ysp.php?id=lnws
 北京卫视,http://cdn.jdshipin.com:8880/ysp.php?id=bjws
@@ -533,13 +590,6 @@ GDTV 蓉城先锋,http://iptvhome.npsv.top:4022/udp/239.93.0.91:2101
 反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
 熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
-
-其他,#genre#
-三台电视一套,http://125.65.94.91:12351/live
-三台电视二套,http://125.65.94.91:12353/live
-金鹰纪实,http://111.225.92.130:8800/hls/100/index.m3u8
-
-攀枝花新闻综合,http://zb.pzhgd.com:9095/live/xwzh.m3u8
 
 🎬电影频道👉全网,#genre#
 电影1905国内,http://nj001.x3322.net:88/ipv6/1905.php?id=1
@@ -754,98 +804,14 @@ CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 澳门体育,http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
 
 
-备用,#genre#
-CCTV1,http://amail.lacool.tk:8086/udp/239.93.0.184:5140
-CCTV2,http://amail.lacool.tk:8086/udp/239.93.1.23:6000
-CCTV3,http://amail.lacool.tk:8086/udp/239.93.1.11:2223
-CCTV4,http://amail.lacool.tk:8086/udp/239.93.1.105:5140
-CCTV5,http://amail.lacool.tk:8086/udp/239.93.1.12:2224
-CCTV6,http://amail.lacool.tk:8086/udp/239.93.1.13:2226
-CCTV7,http://amail.lacool.tk:8086/udp/239.93.1.67:5140
-CCTV8,http://amail.lacool.tk:8086/udp/239.93.42.39:5140
-CCTV9,http://amail.lacool.tk:8086/udp/239.93.1.24:5140
-CCTV10,http://amail.lacool.tk:8086/udp/239.93.1.28:5140
-CCTV11,http://amail.lacool.tk:8086/udp/239.93.0.102:5140
-CCTV12,http://amail.lacool.tk:8086/udp/239.93.1.30:8124
-CCTV13,http://amail.lacool.tk:8086/udp/239.93.0.66:5140
-CCTV14,http://amail.lacool.tk:8086/udp/239.93.1.29:6000
-CCTV15,http://amail.lacool.tk:8086/udp/239.93.0.103:5140
-CCTV16,http://amail.lacool.tk:8086/udp/239.93.42.53:5140
-CCTV17,http://amail.lacool.tk:8086/udp/239.93.0.92:5140
-CCTV1杜比,http://amail.lacool.tk:8086/udp/239.93.0.69:5140
-CCTV5＋,http://amail.lacool.tk:8086/udp/239.93.1.36:8004
-CGTN英语,http://amail.lacool.tk:8086/udp/239.93.0.104:5140
-CGTN西班牙语,http://amail.lacool.tk:8086/udp/239.93.42.49:5140
-CGTN法语,http://amail.lacool.tk:8086/udp/239.93.42.50:5140
-CETV-1,http://amail.lacool.tk:8086/udp/239.93.1.111:5140
-CETV-2,http://amail.lacool.tk:8086/udp/239.93.0.113:5140
-CETV-4,http://amail.lacool.tk:8086/udp/239.93.0.50:5140
-四川卫视,http://amail.lacool.tk:8086/udp/239.93.0.20:1235
-湖南卫视,http://amail.lacool.tk:8086/udp/239.93.0.88:5140
-江苏卫视,http://amail.lacool.tk:8086/udp/239.93.0.89:5140
-浙江卫视,http://amail.lacool.tk:8086/udp/239.93.0.124:5140
-东方卫视,http://amail.lacool.tk:8086/udp/239.93.0.123:5140
-北京卫视,http://amail.lacool.tk:8086/udp/239.93.0.180:5140
-深圳卫视,http://amail.lacool.tk:8086/udp/239.93.0.182:5140
-广东卫视,http://amail.lacool.tk:8086/udp/239.93.0.181:5140
-天津卫视,http://amail.lacool.tk:8086/udp/239.93.0.167:5140
-山东卫视,http://amail.lacool.tk:8086/udp/239.93.0.168:5140
-康巴卫视,http://amail.lacool.tk:8086/udp/239.93.0.41:5140
-江西卫视,http://amail.lacool.tk:8086/udp/239.93.0.134:5140
-东南卫视 ,http://amail.lacool.tk:8086/udp/239.93.0.42:5140
-黑龙江卫视,http://amail.lacool.tk:8086/udp/239.93.0.183:5140
-重庆卫视,http://amail.lacool.tk:8086/udp/239.93.1.107:5140
-贵州卫视,http://amail.lacool.tk:8086/udp/239.93.0.131:5140
-湖北卫视,http://amail.lacool.tk:8086/udp/239.93.0.250:5140
-安徽卫视,http://amail.lacool.tk:8086/udp/239.93.1.106:5140
-河北卫视,http://amail.lacool.tk:8086/udp/239.93.0.132:5140
-辽宁卫视,http://amail.lacool.tk:8086/udp/239.93.1.108:5140
-河南卫视,http://amail.lacool.tk:8086/udp/239.93.42.45:5140
-广西卫视,http://amail.lacool.tk:8086/udp/239.93.42.46:5140
-云南卫视,http://amail.lacool.tk:8086/udp/239.93.0.174:5140
-吉林卫视,http://amail.lacool.tk:8086/udp/239.93.0.248:5140
-陕西卫视,http://amail.lacool.tk:8086/udp/239.93.0.176:5140
-山西卫视,http://amail.lacool.tk:8086/udp/239.93.0.6:5140
-内蒙古卫视,http://amail.lacool.tk:8086/udp/239.93.0.8:5140
-青海卫视,http://amail.lacool.tk:8086/udp/239.93.0.192:5140
-宁夏卫视,http://amail.lacool.tk:8086/udp/239.93.0.247:5140
-西藏卫视,http://amail.lacool.tk:8086/udp/239.93.0.175:5140
-新疆卫视,http://amail.lacool.tk:8086/udp/239.93.0.194:5140
-甘肃卫视,http://amail.lacool.tk:8086/udp/239.93.0.81:5140
-海南卫视,http://amail.lacool.tk:8086/udp/239.93.0.80:5140
-陕西农林,http://amail.lacool.tk:8086/udp/239.93.0.100:5140
-兵团卫视,http://amail.lacool.tk:8086/udp/239.93.42.43:5140
-厦门卫视,http://amail.lacool.tk:8086/udp/239.93.42.57:5140
-三沙卫视,http://amail.lacool.tk:8086/udp/239.93.42.58:5140
-山东教育卫视,http://amail.lacool.tk:8086/udp/239.93.1.196:5140
-SCTV2,http://amail.lacool.tk:8086/udp/239.93.1.101:5140
-SCTV3,http://amail.lacool.tk:8086/udp/239.93.1.102:5140
-SCTV4,http://amail.lacool.tk:8086/udp/239.93.0.47:5140
-SCTV5,http://amail.lacool.tk:8086/udp/239.93.0.166:5140
-SCTV6,http://amail.lacool.tk:8086/udp/239.93.1.144:5140
-SCTV7,http://amail.lacool.tk:8086/udp/239.93.0.219:5140
-SCTV科教,http://amail.lacool.tk:8086/udp/239.93.42.44:5140
-四川乡村,http://amail.lacool.tk:8086/udp/239.93.0.52:5140
-峨眉电影,http://amail.lacool.tk:8086/udp/239.93.0.252:5140
+其他,#genre#
 绚影4K,http://amail.lacool.tk:8086/udp/239.93.42.33:5140
 无台标4K,http://amail.lacool.tk:8086/udp/239.93.0.43:5140
 爱上4K,http://amail.lacool.tk:8086/udp/239.93.0.97:5140
-爱上4K,http://amail.lacool.tk:8086/udp/239.93.1.251:8224
-4K电影,http://amail.lacool.tk:8086/udp/239.93.1.156:5140
 中录动漫4K,http://amail.lacool.tk:8086/udp/239.93.1.188:5140
 亲子趣学4K,http://amail.lacool.tk:8086/udp/239.93.1.191:5140
-津津悦读4K,http://amail.lacool.tk:8086/udp/239.93.1.197:5140
 军情观察4K,http://amail.lacool.tk:8086/udp/239.93.1.198:5140
 CCTV16 4K,http://amail.lacool.tk:8086/udp/239.93.42.54:5140
-CCTV16 4K,http://amail.lacool.tk:8086/udp/239.93.42.63:5140
-CDTV1,http://amail.lacool.tk:8086/udp/239.93.0.16:5140
-CDTV2,http://amail.lacool.tk:8086/udp/239.93.0.17:1239
-CDTV3,http://amail.lacool.tk:8086/udp/239.93.0.18:1238
-CDTV4,http://amail.lacool.tk:8086/udp/239.93.0.19:1250
-CDTV5,http://amail.lacool.tk:8086/udp/239.93.1.231:5140
-CDTV6,http://amail.lacool.tk:8086/udp/239.93.0.21:1251
-CDTV8,http://amail.lacool.tk:8086/udp/239.93.0.22:1252
-成都体育,http://amail.lacool.tk:8086/udp/239.93.0.224:1281
 上海纪实,http://amail.lacool.tk:8086/udp/239.93.1.137:5140
 东方财经,http://amail.lacool.tk:8086/udp/239.93.1.165:5140
 金鹰纪实,http://amail.lacool.tk:8086/udp/239.93.0.130:5140
@@ -855,7 +821,6 @@ CDTV8,http://amail.lacool.tk:8086/udp/239.93.0.22:1252
 熊猫少儿,http://amail.lacool.tk:8086/udp/239.93.1.189:5140
 熊猫影院,http://amail.lacool.tk:8086/udp/239.93.0.214:5140
 睛彩四川,http://amail.lacool.tk:8086/udp/239.93.0.126:5140
-成都大运,http://amail.lacool.tk:8086/udp/239.93.0.224:1281
 熊猫频道,http://amail.lacool.tk:8086/udp/239.93.0.211:9148
 金熊猫卡通,http://amail.lacool.tk:8086/udp/239.93.1.172:5140
 炫动卡通,http://amail.lacool.tk:8086/udp/239.93.0.173:5140
@@ -867,8 +832,6 @@ CDTV8,http://amail.lacool.tk:8086/udp/239.93.0.22:1252
 大爱生活,http://amail.lacool.tk:8086/udp/239.93.42.71:5140
 大爱时尚,http://amail.lacool.tk:8086/udp/239.93.42.72:5140
 斗牛财经,http://amail.lacool.tk:8086/udp/239.93.42.62:5140
-HD看电影,http://amail.lacool.tk:8086/udp/239.93.42.47:5140
-家政频道,http://amail.lacool.tk:8086/udp/239.93.42.48:5140
 经典电影,http://amail.lacool.tk:8086/udp/239.93.0.57:9024
 华语影院,http://amail.lacool.tk:8086/udp/239.93.0.138:5140
 星光院线,http://amail.lacool.tk:8086/udp/239.93.0.139:5140
@@ -889,9 +852,6 @@ HD看电影,http://amail.lacool.tk:8086/udp/239.93.42.47:5140
 戏曲,http://amail.lacool.tk:8086/udp/239.93.0.217:9208
 魅力时尚,http://amail.lacool.tk:8086/udp/239.93.0.190:9012
 生活时尚,http://amail.lacool.tk:8086/udp/239.93.0.106:5140
-大爱旅游,http://amail.lacool.tk:8086/udp/239.93.1.234:5140
-大爱生活,http://amail.lacool.tk:8086/udp/239.93.1.235:5140
-大爱时尚,http://amail.lacool.tk:8086/udp/239.93.1.157:4120
 爱生活,http://amail.lacool.tk:8086/udp/239.93.0.206:8028
 财富天下,http://amail.lacool.tk:8086/udp/239.93.0.116:9136
 东方财经,http://amail.lacool.tk:8086/udp/239.93.0.249:5140
@@ -899,7 +859,6 @@ HD看电影,http://amail.lacool.tk:8086/udp/239.93.42.47:5140
 爱体育,http://amail.lacool.tk:8086/udp/239.93.0.135:9008
 电竞天堂,http://amail.lacool.tk:8086/udp/239.93.1.135:5140
 游戏风云,http://amail.lacool.tk:8086/udp/239.93.0.136:5140
-汽车频道,http://amail.lacool.tk:8086/udp/239.93.0.117:1292
 足球,http://amail.lacool.tk:8086/udp/239.93.0.197:9040
 高网,http://amail.lacool.tk:8086/udp/239.93.0.202:9068
 台球,http://amail.lacool.tk:8086/udp/239.93.0.203:9072
@@ -910,7 +869,6 @@ HD看电影,http://amail.lacool.tk:8086/udp/239.93.42.47:5140
 地理,http://amail.lacool.tk:8086/udp/239.93.0.200:9052
 传奇,http://amail.lacool.tk:8086/udp/239.93.0.235:1282
 收视指南,http://amail.lacool.tk:8086/udp/239.93.0.195:8012
-资讯新干线,http://amail.lacool.tk:8086/udp/239.93.0.236:1283
 蓉城先锋,http://amail.lacool.tk:8086/udp/239.93.0.91:2101
 星空精选,http://amail.lacool.tk:8086/udp/239.93.1.171:5140
 每日影院,http://amail.lacool.tk:8086/udp/239.93.42.35:5140
@@ -950,8 +908,13 @@ CHC动作电影,http://amail.lacool.tk:8086/udp/239.93.42.7:5140
 凤凰中文,http://amail.lacool.tk:8086/udp/239.93.0.162:2192
 凤凰资讯,http://amail.lacool.tk:8086/udp/239.93.0.118:2191
 星空卫视,http://amail.lacool.tk:8086/udp/239.93.0.156:2193
-Channel V,http://amail.lacool.tk:8086/239.93.0.157:2194
 i成都,http://amail.lacool.tk:8086/udp/239.93.1.104:1234
-乐山,http://amail.lacool.tk:8086/udp/239.93.1.55:8302
+
+省内其他,#genre#
+三台电视一套,http://125.65.94.91:12351/live
+三台电视二套,http://125.65.94.91:12353/live
+金鹰纪实,http://111.225.92.130:8800/hls/100/index.m3u8
+
+攀枝花新闻综合,http://zb.pzhgd.com:9095/live/xwzh.m3u8
 
 
