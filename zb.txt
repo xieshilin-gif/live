@@ -223,11 +223,11 @@ CETV4,http://61.170.251.165:1024/rtp/239.45.0.21:5140
 CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-cctv1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-cctv3,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
-cctv7,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
-cctv9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-cctv14,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
+CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV3,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
+CCTV7,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV14,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
 
 四川,#genre#
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
@@ -276,7 +276,7 @@ cctv14,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
 四川影视,http://kjrzxhb.top:2086/udp/239.11.0.8:5140
 峨眉电影,http://kjrzxhb.top:2086/udp/239.11.0.11:5140
 //南充移动
-四川卫视,http://183.223.157.33:9901/tsfile/live/0123_1.m3u8
+四川卫视,http://http://111.9.163.109:85/tsfile/live/0123_1.m3u8
 四川经济,http://183.223.157.33:9901/tsfile/live/1000_1.m3u8
 四川文化旅游,http://183.223.157.33:9901/tsfile/live/1001_1.m3u8
 四川新闻,http://183.223.157.33:9901/tsfile/live/1003_1.m3u8
