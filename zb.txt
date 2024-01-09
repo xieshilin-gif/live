@@ -253,11 +253,19 @@ CETV4,http://61.170.251.165:1024/rtp/239.45.0.21:5140
 四川,#genre#
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四川乡村,http://dcpull.sctvcloud.com/live/6bcbdd9501881000b1f5f6b400000000/playlist.m3u8
+//达州 电信
+四川经济,http://ikuai4.zzy789.xyz:6600/rtp/239.93.22.71:8420
+四川文化旅游,http://ikuai4.zzy789.xyz:6600/rtp/239.93.22.41:8240
+四川新闻,http://ikuai4.zzy789.xyz:6600/rtp/239.93.23.179:7720
+四川影视文艺,http://ikuai4.zzy789.xyz:6600/rtp/239.93.22.188:9600
+四川妇女儿童,http://ikuai4.zzy789.xyz:6600/rtp/239.93.23.87:7348
+四川科教,http://ikuai4.zzy789.xyz:6600/rtp/239.93.22.209:8274
+峨眉电影,http://ikuai4.zzy789.xyz:6600/rtp/239.93.22.116:8696
 //成都电信
 四川经济,http://amail.lacool.tk:8086/udp/239.93.1.101:5140
 四川文化旅游,http://amail.lacool.tk:8086/udp/239.93.1.102:5140
 四川新闻,http://amail.lacool.tk:8086/udp/239.93.0.47:5140
-四川影视,http://amail.lacool.tk:8086/udp/239.93.0.166:5140
+四川影视文艺,http://amail.lacool.tk:8086/udp/239.93.0.166:5140
 四川妇女儿童,http://amail.lacool.tk:8086/udp/239.93.0.219:5140
 四川科教,http://amail.lacool.tk:8086/udp/239.93.42.44:5140
 四川乡村,http://amail.lacool.tk:8086/udp/239.93.0.52:5140
@@ -266,7 +274,7 @@ CETV4,http://61.170.251.165:1024/rtp/239.45.0.21:5140
 四川文化旅游,http://iptvhome.npsv.top:4022/udp/239.93.1.102:5140
 四川经济,http://iptvhome.npsv.top:4022/udp/239.93.1.101:5140
 四川新闻,http://iptvhome.npsv.top:4022/udp/239.93.0.47:5140
-四川影视,http://iptvhome.npsv.top:4022/udp/239.93.0.166:5140
+四川影视文艺,http://iptvhome.npsv.top:4022/udp/239.93.0.166:5140
 四川妇女儿童,http://iptvhome.npsv.top:4022/udp/239.93.0.219:5140
 四川科教,http://iptvhome.npsv.top:4022/udp/239.93.42.44:5140
 四川乡村,http://iptvhome.npsv.top:4022/udp/239.93.0.52:5140
@@ -276,7 +284,7 @@ CETV4,http://61.170.251.165:1024/rtp/239.45.0.21:5140
 四川文化旅游,http://vl15191373.imwork.net:8880/rtp/239.93.1.102:5140
 四川经济,http://vl15191373.imwork.net:8880/udp/239.93.1.101:5140
 四川新闻,http://vl15191373.imwork.net:8880/udp/239.93.0.47:5140
-四川影视,http://vl15191373.imwork.net:8880/udp/239.93.0.166:5140
+四川影视文艺,http://vl15191373.imwork.net:8880/udp/239.93.0.166:5140
 四川妇女儿童,http://vl15191373.imwork.net:8880/udp/239.93.0.219:5140
 四川科教,http://vl15191373.imwork.net:8880/udp/239.93.42.44:5140
 四川乡村,http://vl15191373.imwork.net:8880/udp/239.93.0.52:5140
@@ -286,7 +294,7 @@ CETV4,http://61.170.251.165:1024/rtp/239.45.0.21:5140
 四川文化旅游,http://lu1.cc/itv/sctv/scxl.php?id=scwhly
 四川经济,http://lu1.cc/itv/sctv/scxl.php?id=scjj
 四川新闻,http://lu1.cc/itv/sctv/scxl.php?id=scxw
-四川影视,http://lu1.cc/itv/sctv/scxl.php?id=scyswy
+四川影视文艺,http://lu1.cc/itv/sctv/scxl.php?id=scyswy
 四川妇女儿童,http://lu1.cc/itv/sctv/scxl.php?id=scfnet
 四川乡村,http://lu1.cc/itv/sctv/scxl.php?id=scxc
 //美国加利福尼亚旧金山 172.67.147.135
@@ -294,7 +302,7 @@ CETV4,http://61.170.251.165:1024/rtp/239.45.0.21:5140
 四川文化旅游,http://kjrzxhb.top:2086/udp/239.11.0.3:5140
 四川乡村,http://kjrzxhb.top:2086/udp/239.11.0.4:5140
 四川新闻,http://kjrzxhb.top:2086/udp/239.11.0.5:5140
-四川影视,http://kjrzxhb.top:2086/udp/239.11.0.8:5140
+四川影视文艺,http://kjrzxhb.top:2086/udp/239.11.0.8:5140
 峨眉电影,http://kjrzxhb.top:2086/udp/239.11.0.11:5140
 //南充移动
 四川卫视,http://183.223.157.33:9901/tsfile/live/0123_1.m3u8
