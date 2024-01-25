@@ -115,7 +115,7 @@ CETV-1,http://iptvhome.npsv.top:4022/udp/239.93.1.111:5140
 CETV-2,http://iptvhome.npsv.top:4022/udp/239.93.0.113:5140
 CETV-4,http://iptvhome.npsv.top:4022/udp/239.93.0.50:5140
 //南充移动
-CCTV1,http://edh25hsr.v3n.szbdyd.com:85/tsfile/live/0001_1.m3u8$南充移动酒店
+CCTV1,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0001_1.m3u8$南充移动酒店
 CCTV2,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0002_1.m3u8$南充移动酒店
 CCTV3,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0003_1.m3u8$南充移动酒店
 CCTV4,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0004_1.m3u8$南充移动酒店
