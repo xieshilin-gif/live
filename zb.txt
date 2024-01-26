@@ -27,6 +27,7 @@ CCTV7,https://live3.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8?E=1&U=1&A=1&K=1&P
 CCTV8,https://live3.rxip.sc96655.com/live/CCTV-8H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 CCTV9,https://live3.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 CCTV10,https://live3.rxip.sc96655.com/live/CCTV-10H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
+CCTV11,
 CCTV12,https://live3.rxip.sc96655.com/live/CCTV-12H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 CCTV13,https://live3.rxip.sc96655.com/live/CCTV-xw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 CCTV14,https://live3.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
@@ -34,18 +35,18 @@ CCTV15,https://live3.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8?E=1&U=1&A=1&
 CCTV16,https://live3.rxip.sc96655.com/live/CCTV-16_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 CCTV17,https://live3.rxip.sc96655.com/live/CCTV-17_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 CCTV4K,https://live3.rxip.sc96655.com/live/ys4Kcq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
-CETV1,https://live3.rxip.sc96655.com/live/CETV-1H264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
-CETV4,https://live3.rxip.sc96655.com/live/CETV-4H264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
-CHC动作电影,https://live3.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
-CHC高清电影,https://live3.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
-CHC家庭电影,https://live3.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
-4K电影,https://live3.rxip.sc96655.com/live/emdy4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
-欢笑剧场,https://live3.rxip.sc96655.com/live/hxjc-4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 CCTV-发现之旅,https://live3.rxip.sc96655.com/live/fxzl.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 CCTV-发现之旅,https://live3.rxip.sc96655.com/live/fxzl_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 CCTV-老故事,https://live3.rxip.sc96655.com/live/lgs_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 CCTV-老故事,https://live3.rxip.sc96655.com/live/lgs.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 CCTV-中学生,https://live3.rxip.sc96655.com/live/zxs.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
+CETV-1,https://live3.rxip.sc96655.com/live/CETV-1H264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
+CETV-4,https://live3.rxip.sc96655.com/live/CETV-4H264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
+CHC动作电影,https://live3.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
+CHC高清电影,https://live3.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
+CHC家庭电影,https://live3.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
+4K电影,https://live3.rxip.sc96655.com/live/emdy4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
+欢笑剧场,https://live3.rxip.sc96655.com/live/hxjc-4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 动漫秀场,https://live3.rxip.sc96655.com/live/yybb-dmxc-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 都市剧场,https://live3.rxip.sc96655.com/live/yxfydsjcHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 
@@ -125,7 +126,7 @@ CCTV5+,http://amail.lacool.tk:8086/udp/239.93.1.36:8004$成电组域
 CETV-1,http://amail.lacool.tk:8086/udp/239.93.1.111:5140$成电组域
 CETV-2,http://amail.lacool.tk:8086/udp/239.93.0.113:5140$成电组域
 CETV-4,http://amail.lacool.tk:8086/udp/239.93.0.50:5140$成电组域
-CHC电影,http://amail.lacool.tk:8086/udp/239.93.42.5:5140$成电组域
+CHC高清电影,http://amail.lacool.tk:8086/udp/239.93.42.5:5140$成电组域
 CHC家庭电影,http://amail.lacool.tk:8086/udp/239.93.42.6:5140$成电组域
 CHC动作电影,http://amail.lacool.tk:8086/udp/239.93.42.7:5140$成电组域
 CETV-1：http://amail.lacool.tk:8086/udp/239.93.1.111:5140$成电组域
@@ -149,7 +150,7 @@ CCTV14,http://iptvhome.npsv.top:4022/udp/239.93.1.29:6000$成电组域
 CCTV15,http://iptvhome.npsv.top:4022/udp/239.93.0.103:5140$成电组域
 CCTV16,http://iptvhome.npsv.top:4022/udp/239.93.42.53:5140$成电组域
 CCTV17,http://iptvhome.npsv.top:4022/udp/239.93.0.92:5140$成电组域
-CHC电影,http://iptvhome.npsv.top:4022/udp/239.93.42.5:5140$成电组域
+CHC高清电影,http://iptvhome.npsv.top:4022/udp/239.93.42.5:5140$成电组域
 CHC家庭电影,http://iptvhome.npsv.top:4022/udp/239.93.42.6:5140$成电组域
 CHC动作电影,http://iptvhome.npsv.top:4022/udp/239.93.42.7:5140$成电组域
 CETV-1,http://iptvhome.npsv.top:4022/udp/239.93.1.111:5140$成电组域
@@ -255,6 +256,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 中华美食,http://newzxl.top:4022/rtp/239.253.93.248:6426
 
 四川,#genre#
+四川卫视,https://live3.rxip.sc96655.com/live/scwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 四川妇女,https://live3.rxip.sc96655.com/live/SCTV-7-_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 四川经济,https://live3.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 四川科教,https://live3.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
@@ -267,6 +269,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四川乡村,http://dcpull.sctvcloud.com/live/6bcbdd9501881000b1f5f6b400000000/playlist.m3u8
 //达州 电信
+四川卫视,http://ikuai4.zzy789.xyz:6600/rtp/239.93.22.107:8636$达州电信组播
 四川经济,http://ikuai4.zzy789.xyz:6600/rtp/239.93.22.71:8420$达州电信组播
 四川文化旅游,http://ikuai4.zzy789.xyz:6600/rtp/239.93.22.41:8240$达州电信组播
 四川新闻,http://ikuai4.zzy789.xyz:6600/rtp/239.93.23.179:7720$达州电信组播
@@ -274,7 +277,6 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 四川妇女儿童,http://ikuai4.zzy789.xyz:6600/rtp/239.93.23.87:7348$达州电信组播
 四川科教,http://ikuai4.zzy789.xyz:6600/rtp/239.93.22.209:8274$达州电信组播
 峨眉电影,http://ikuai4.zzy789.xyz:6600/rtp/239.93.22.116:8696$达州电信组播
-四川卫视,http://ikuai4.zzy789.xyz:6600/rtp/239.93.22.107:8636$达州电信组播
 //成都电信
 四川经济,http://amail.lacool.tk:8086/udp/239.93.1.101:5140$成都电信组播
 四川文化旅游,http://amail.lacool.tk:8086/udp/239.93.1.102:5140$成都电信组播
@@ -509,7 +511,6 @@ GDTV 蓉城先锋,http://iptvhome.npsv.top:4022/udp/239.93.0.91:2101$成电组�
 海南卫视,http://ikuai4.zzy789.xyz:6600/rtp/239.93.22.227:9834$达州电信组播
 陕西农林,http://ikuai4.zzy789.xyz:6600/rtp/239.93.22.173:7942$达州电信组播
 兵团卫视,http://ikuai4.zzy789.xyz:6600/rtp/239.93.23.254:7796$达州电信组播
-峨眉电影,http://ikuai4.zzy789.xyz:6600/rtp/239.93.22.116:8696$达州电信组播
 厦门卫视,http://ikuai4.zzy789.xyz:6600/rtp/239.93.22.242:9924$达州电信组播
 三沙卫视,http://ikuai4.zzy789.xyz:6600/rtp/239.93.22.50:8294$达州电信组播
 每日影院,http://ikuai4.zzy789.xyz:6600/rtp/239.93.23.250:8808$达州电信组播
@@ -712,13 +713,9 @@ GDTV 蓉城先锋,http://iptvhome.npsv.top:4022/udp/239.93.0.91:2101$成电组�
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 
 🎬电影频道👉全网,#genre#
-电影1905国内,http://nj001.x3322.net:88/ipv6/1905.php?id=1
-CCTV6,http://nj001.x3322.net:88/ipv6/1905.php?id=2
-电影1905国际,http://nj001.x3322.net:88/ipv6/1905.php?id=3
 邵氏影院代,http://159.75.85.63:35455/douyu/4246519
 邵氏影院代,http://epg.112114.xyz/douyu/4246519
 邵氏影院代,http://43.138.170.29:35455/douyu/4246519
-CHC家庭影,https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226315/index.m3u8
 大吉大利代,https://pull.kktv8.com/livekktv/128600025.flv
 4k影院画质,http://epg.112114.xyz/douyu/9249162
 4k影院画质,http://159.75.85.63:35455/douyu/9249162
@@ -935,7 +932,7 @@ CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 澳门体育,http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
 
 
-其他,#genre#
+成都组播其他,#genre#
 绚影4K,http://amail.lacool.tk:8086/udp/239.93.42.33:5140
 无台标4K,http://amail.lacool.tk:8086/udp/239.93.0.43:5140
 爱上4K,http://amail.lacool.tk:8086/udp/239.93.0.97:5140
@@ -1038,12 +1035,6 @@ BesTV 4K,http://amail.lacool.tk:8086/udp/239.93.42.75:5140
 凤凰资讯,http://amail.lacool.tk:8086/udp/239.93.0.118:2191
 星空卫视,http://amail.lacool.tk:8086/udp/239.93.0.156:2193
 成都,http://amail.lacool.tk:8086/udp/239.93.1.104:1234
-
-省内其他,#genre#
-三台电视一套,http://125.65.94.91:12351/live
-三台电视二套,http://125.65.94.91:12353/live
-金鹰纪实,http://111.225.92.130:8800/hls/100/index.m3u8
-攀枝花新闻综合,http://zb.pzhgd.com:9095/live/xwzh.m3u8
 
 备用1（成都电信酒店）,#genre#
 2,http://182.150.48.83:8888/newlive/live/hls/2/live.m3u8
