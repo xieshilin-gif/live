@@ -1,15 +1,13 @@
 本地,#genre#
+广元文化生活,https://live3.rxip.sc96655.com/live/gyggH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
+广元综合,https://live3.rxip.sc96655.com/live/gyzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
 利州综合,http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv
 广元文化生活,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 广元综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
-广元文化,https://live3.rxip.sc96655.com/live/gyggH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
-广元综合,https://live3.rxip.sc96655.com/live/gyzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 苍溪综合,
-
-//广元唐家河慢直播,http://ali-show.live.dzsm.com/live/gytv_1025.m3u8?auth_key=1698052911-0-0-29a32bedfe885646a6839fb39c1104ee
 
 央视,#genre#
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
