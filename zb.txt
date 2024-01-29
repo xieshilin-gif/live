@@ -255,7 +255,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 
 四川,#genre#
 四川卫视,https://live3.rxip.sc96655.com/live/scwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
-四川妇女,https://live3.rxip.sc96655.com/live/SCTV-7-_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
+四川妇女儿童,https://live3.rxip.sc96655.com/live/SCTV-7-_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 四川经济,https://live3.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 四川科教,https://live3.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 四川文旅,https://live3.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
@@ -1215,7 +1215,6 @@ CCTV16 4K,http://amail.lacool.tk:8086/udp/239.93.42.54:5140
 来钓鱼吧,http://amail.lacool.tk:8086/udp/239.93.42.8:5140
 麻辣体育,http://amail.lacool.tk:8086/udp/239.93.42.2:5140
 BesTV 4K,http://amail.lacool.tk:8086/udp/239.93.42.75:5140
-
 中数汽摩,http://amail.lacool.tk:8086/udp/239.93.0.62:5140
 中数梨园,http://amail.lacool.tk:8086/udp/239.93.1.195:5140
 中数天元围棋,http://amail.lacool.tk:8086/udp/239.93.42.55:5140
@@ -1309,7 +1308,7 @@ CHC高清电影,http://117.174.81.63:50080/newlive/live/hls/41/live.m3u8
 42,http://117.174.81.63:50080/newlive/live/hls/42/live.m3u8
 43,http://117.174.81.63:50080/newlive/live/hls/43/live.m3u8
 44,http://117.174.81.63:50080/newlive/live/hls/44/live.m3u8
-四川妇女,http://117.174.81.63:50080/newlive/live/hls/45/live.m3u8
+四川妇女儿童,http://117.174.81.63:50080/newlive/live/hls/45/live.m3u8
 峨眉电影,http://117.174.81.63:50080/newlive/live/hls/46/live.m3u8
 CHC家庭影院,http://117.174.81.63:50080/newlive/live/hls/47/live.m3u8
 CHC动作电影,http://117.174.81.63:50080/newlive/live/hls/48/live.m3u8
