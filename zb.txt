@@ -154,25 +154,25 @@ CHC动作电影,http://iptvhome.npsv.top:4022/udp/239.93.42.7:5140$成电组域
 CETV-1,http://iptvhome.npsv.top:4022/udp/239.93.1.111:5140$成电组域
 CETV-2,http://iptvhome.npsv.top:4022/udp/239.93.0.113:5140$成电组域
 CETV-4,http://iptvhome.npsv.top:4022/udp/239.93.0.50:5140$成电组域
-//南充移动
-CCTV1,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0001_1.m3u8$南充移动酒店域名
-CCTV2,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0002_1.m3u8$南充移动酒店域名
-CCTV3,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0003_1.m3u8$南充移动酒店域名
-CCTV4,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0004_1.m3u8$南充移动酒店域名
-CCTV5,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0005_1.m3u8$南充移动酒店域名
-CCTV6,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0006_1.m3u8$南充移动酒店域名
-CCTV7,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0007_1.m3u8$南充移动酒店域名
-CCTV8,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0008_1.m3u8$南充移动酒店域名
-CCTV9,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0009_1.m3u8$南充移动酒店域名
-CCTV10,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0010_1.m3u8$南充移动酒店域名
-CCTV11,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0011_1.m3u8$南充移动酒店域名
-CCTV12,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0012_1.m3u8$南充移动酒店域名
-CCTV13,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0013_1.m3u8$南充移动酒店域名
-CCTV14,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0014_1.m3u8$南充移动酒店域名
-CCTV15,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0015_1.m3u8$南充移动酒店域名
-CCTV17,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0016_1.m3u8$南充移动酒店域名
-CCTV5+,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0018_1.m3u8$南充移动酒店域名
-CGTN,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0017_1.m3u8$南充移动酒店域名
+//南充移动 edh25hsr.v3n.szbdyd.com
+CCTV1,http://111.9.163.186:9901/tsfile/live/0001_1.m3u8$南充移动酒店域名
+CCTV2,http://111.9.163.186:9901/tsfile/live/0002_1.m3u8$南充移动酒店域名
+CCTV3,http://111.9.163.186:9901/tsfile/live/0003_1.m3u8$南充移动酒店域名
+CCTV4,http://111.9.163.186:9901/tsfile/live/0004_1.m3u8$南充移动酒店域名
+CCTV5,http://111.9.163.186:9901/tsfile/live/0005_1.m3u8$南充移动酒店域名
+CCTV6,http://111.9.163.186:9901/tsfile/live/0006_1.m3u8$南充移动酒店域名
+CCTV7,http://111.9.163.186:9901/tsfile/live/0007_1.m3u8$南充移动酒店域名
+CCTV8,http://111.9.163.186:9901/tsfile/live/0008_1.m3u8$南充移动酒店域名
+CCTV9,http://111.9.163.186:9901/tsfile/live/0009_1.m3u8$南充移动酒店域名
+CCTV10,http://111.9.163.186:9901/tsfile/live/0010_1.m3u8$南充移动酒店域名
+CCTV11,http://111.9.163.186:9901/tsfile/live/0011_1.m3u8$南充移动酒店域名
+CCTV12,http://111.9.163.186:9901/tsfile/live/0012_1.m3u8$南充移动酒店域名
+CCTV13,http://111.9.163.186:9901/tsfile/live/0013_1.m3u8$南充移动酒店域名
+CCTV14,http://111.9.163.186:9901/tsfile/live/0014_1.m3u8$南充移动酒店域名
+CCTV15,http://111.9.163.186:9901/tsfile/live/0015_1.m3u8$南充移动酒店域名
+CCTV17,http://111.9.163.186:9901/tsfile/live/0016_1.m3u8$南充移动酒店域名
+CCTV5+,http://111.9.163.186:9901/tsfile/live/0018_1.m3u8$南充移动酒店域名
+CGTN,http://111.9.163.186:9901/tsfile/live/0017_1.m3u8$南充移动酒店域名
 //福建省泉州市安溪县 电信
 CCTV1,http://110.81.206.138:50080/tsfile/live/23001_1.m3u8$福建酒店
 CCTV2,http://110.81.206.138:50080/tsfile/live/23002_1.m3u8$福建酒店
@@ -305,12 +305,14 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 康巴卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.41:5140$成都电信组播
 峨眉电影,http://vl15191373.imwork.net:8880/udp/239.93.0.252:5140$成都电信组播
 //南充移动
-四川卫视,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0123_1.m3u8$南充酒店
-四川经济,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/1000_1.m3u8$南充酒店
-四川文化旅游,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/1001_1.m3u8$南充酒店
-四川新闻,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/1003_1.m3u8$南充酒店
-四川科教,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/1005_1.m3u8$南充酒店
-峨眉电影,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/1006_1.m3u8$南充酒店
+四川卫视,http://111.9.163.186:9901/tsfile/live/0123_1.m3u8$南充酒店
+四川经济,http://111.9.163.186:9901/tsfile/live/1000_1.m3u8$南充酒店
+四川文化旅游,http://111.9.163.186:9901/tsfile/live/1001_1.m3u8$南充酒店
+四川乡村,http://111.9.163.186:9901/tsfile/live/1002_1.m3u8$南充酒店
+四川新闻,http://111.9.163.186:9901/tsfile/live/1003_1.m3u8$南充酒店
+四川科教,http://111.9.163.186:9901/tsfile/live/1005_1.m3u8$南充酒店
+峨眉电影,http://111.9.163.186:9901/tsfile/live/1006_1.m3u8$南充酒店
+四川影视文艺,http://111.9.163.186:9901/tsfile/live/1007_1.m3u8$南充酒店
 
 四川文化旅游,http://lu1.cc/itv/sctv/scxl.php?id=scwhly
 四川经济,http://lu1.cc/itv/sctv/scxl.php?id=scjj
@@ -626,16 +628,16 @@ GDTV 蓉城先锋,http://iptvhome.npsv.top:4022/udp/239.93.0.91:2101$成电组�
 山西卫视,http://222.223.119.21:8888/newlive/live/hls/47/live.m3u8$邢台酒店
 河北卫视,http://222.223.119.21:8888/newlive/live/hls/48/live.m3u8$邢台酒店
 //南充移动
-湖南卫视,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0019_1.m3u8$南充酒店
-东方卫视,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0107_1.m3u8$南充酒店
-北京卫视,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0122_1.m3u8$南充酒店
-四川卫视,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0123_1.m3u8$南充酒店
-浙江卫视,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0124_1.m3u8$南充酒店
-广东卫视,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0125_1.m3u8$南充酒店
-深证卫视,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0126_1.m3u8$南充酒店
-江苏卫视,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0127_1.m3u8$南充酒店
-东南卫视,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0137_1.m3u8$南充酒店
-江西卫视,http://edh25hsr.v3n.szbdyd.com:9901/tsfile/live/0138_1.m3u8$南充酒店
+湖南卫视,http://111.9.163.186:9901/tsfile/live/0019_1.m3u8$南充酒店
+东方卫视,http://111.9.163.186:9901/tsfile/live/0107_1.m3u8$南充酒店
+北京卫视,http://111.9.163.186:9901/tsfile/live/0122_1.m3u8$南充酒店
+四川卫视,http://111.9.163.186:9901/tsfile/live/0123_1.m3u8$南充酒店
+浙江卫视,http://111.9.163.186:9901/tsfile/live/0124_1.m3u8$南充酒店
+广东卫视,http://111.9.163.186:9901/tsfile/live/0125_1.m3u8$南充酒店
+深证卫视,http://111.9.163.186:9901/tsfile/live/0126_1.m3u8$南充酒店
+江苏卫视,http://111.9.163.186:9901/tsfile/live/0127_1.m3u8$南充酒店
+东南卫视,http://111.9.163.186:9901/tsfile/live/0137_1.m3u8$南充酒店
+江西卫视,http://111.9.163.186:9901/tsfile/live/0138_1.m3u8$南充酒店
 //福建省泉州市安溪县 电信
 厦门卫视,http://110.81.206.138:50080/tsfile/live/23032_1.m3u8$福建酒店
 湖南卫视,http://110.81.206.138:50080/tsfile/live/23034_1.m3u8$福建酒店
@@ -693,7 +695,6 @@ GDTV 蓉城先锋,http://iptvhome.npsv.top:4022/udp/239.93.0.91:2101$成电组�
 //中国 河北 邢台 电信
 卡酷少儿,http://222.223.119.21:8888/newlive/live/hls/56/live.m3u8
 金鹰卡通,http://222.223.119.21:8888/newlive/live/hls/57/live.m3u8
-//重庆市渝北区 电信
 卡酷少儿,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 嘉佳卡通,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
