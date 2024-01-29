@@ -42,7 +42,7 @@ CETV-1,https://live3.rxip.sc96655.com/live/CETV-1H264_4000.m3u8?E=1&U=1&A=1&K=1&
 CETV-4,https://live3.rxip.sc96655.com/live/CETV-4H264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 CHC动作电影,https://live3.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 CHC高清电影,https://live3.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
-CHC家庭电影,https://live3.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
+CHC家庭影院,https://live3.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 4K电影,https://live3.rxip.sc96655.com/live/emdy4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 欢笑剧场,https://live3.rxip.sc96655.com/live/hxjc-4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 动漫秀场,https://live3.rxip.sc96655.com/live/yybb-dmxc-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
@@ -125,7 +125,7 @@ CETV-1,http://amail.lacool.tk:8086/udp/239.93.1.111:5140$成电组域
 CETV-2,http://amail.lacool.tk:8086/udp/239.93.0.113:5140$成电组域
 CETV-4,http://amail.lacool.tk:8086/udp/239.93.0.50:5140$成电组域
 CHC高清电影,http://amail.lacool.tk:8086/udp/239.93.42.5:5140$成电组域
-CHC家庭电影,http://amail.lacool.tk:8086/udp/239.93.42.6:5140$成电组域
+CHC家庭影院,http://amail.lacool.tk:8086/udp/239.93.42.6:5140$成电组域
 CHC动作电影,http://amail.lacool.tk:8086/udp/239.93.42.7:5140$成电组域
 CETV-1：http://amail.lacool.tk:8086/udp/239.93.1.111:5140$成电组域
 CETV-2：http://amail.lacool.tk:8086/udp/239.93.0.113:5140$成电组域
@@ -149,7 +149,7 @@ CCTV15,http://iptvhome.npsv.top:4022/udp/239.93.0.103:5140$成电组域
 CCTV16,http://iptvhome.npsv.top:4022/udp/239.93.42.53:5140$成电组域
 CCTV17,http://iptvhome.npsv.top:4022/udp/239.93.0.92:5140$成电组域
 CHC高清电影,http://iptvhome.npsv.top:4022/udp/239.93.42.5:5140$成电组域
-CHC家庭电影,http://iptvhome.npsv.top:4022/udp/239.93.42.6:5140$成电组域
+CHC家庭影院,http://iptvhome.npsv.top:4022/udp/239.93.42.6:5140$成电组域
 CHC动作电影,http://iptvhome.npsv.top:4022/udp/239.93.42.7:5140$成电组域
 CETV-1,http://iptvhome.npsv.top:4022/udp/239.93.1.111:5140$成电组域
 CETV-2,http://iptvhome.npsv.top:4022/udp/239.93.0.113:5140$成电组域
@@ -225,7 +225,7 @@ CCTV17,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227577/index.m3u8
 //中国吉林省长春市【电信】
 CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
 CHC高清电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
-CHC家庭电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 第一剧场,http://nas.tuyuannet.cn:8800/rtp/239.37.0.78:5540
 电视指南,http://nas.tuyuannet.cn:8800/rtp/239.37.0.115:5540
 风云剧场,http://nas.tuyuannet.cn:8800/rtp/239.37.0.114:5540
@@ -1119,7 +1119,7 @@ CHC高清电影,http://117.174.81.63:50080/newlive/live/hls/41/live.m3u8
 44,http://117.174.81.63:50080/newlive/live/hls/44/live.m3u8
 四川妇女,http://117.174.81.63:50080/newlive/live/hls/45/live.m3u8
 峨眉电影,http://117.174.81.63:50080/newlive/live/hls/46/live.m3u8
-CHC家庭电影,http://117.174.81.63:50080/newlive/live/hls/47/live.m3u8
+CHC家庭影院,http://117.174.81.63:50080/newlive/live/hls/47/live.m3u8
 CHC动作电影,http://117.174.81.63:50080/newlive/live/hls/48/live.m3u8
 49,http://117.174.81.63:50080/newlive/live/hls/49/live.m3u8
 50,http://117.174.81.63:50080/newlive/live/hls/50/live.m3u8
