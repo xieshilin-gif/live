@@ -377,45 +377,12 @@ GDTV 蓉城先锋,http://iptvhome.npsv.top:4022/udp/239.93.0.91:2101$成电组�
 熊猫频道1,http://iptvhome.npsv.top:4022/udp/239.93.0.211:9148$成电组域
 熊猫频道2,http://iptvhome.npsv.top:4022/udp/239.93.1.178:5140$成电组域
 
-成都新闻综合,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv1hd&fmt=hls
-成都经济资讯,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv2hd&fmt=hls
-成都都市生活,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv3hd&fmt=hls
-成都影视文艺,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv4hd&fmt=hls
-成都公共频道,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv5hd&fmt=hls
-
 成都新闻综合,http://live.cooltv.top/tv/cdtv.php?id=cdxwzh
 成都经济资讯,http://live.cooltv.top/tv/cdtv.php?id=cdjjzx
 成都都市生活,http://live.cooltv.top/tv/cdtv.php?id=cddssh
 成都影视文艺,http://live.cooltv.top/tv/cdtv.php?id=cdyswy
 成都公共频道,http://live.cooltv.top/tv/cdtv.php?id=cdgg
 成都少儿频道,http://live.cooltv.top/tv/cdtv.php?id=cdse
-
-成都新闻综合,http://tvbox.cdtyk.com/live/cdtv.php?name=新闻综合频道
-成都经济资讯,http://tvbox.cdtyk.com/live/cdtv.php?name=经济资讯频道
-成都都市生活,http://tvbox.cdtyk.com/live/cdtv.php?name=都市生活频道
-成都影视文艺,http://tvbox.cdtyk.com/live/cdtv.php?name=影视文艺频道
-成都公共频道,http://tvbox.cdtyk.com/live/cdtv.php?name=公共频道
-成都少儿频道,http://tvbox.cdtyk.com/live/cdtv.php?name=少儿频道
-彭州市广播电视台,http://tvbox.cdtyk.com/live/cdtv.php?name=彭州市广播电视台
-新津电视台,http://tvbox.cdtyk.com/live/cdtv.php?name=新津电视台
-青白江融媒体中心,http://tvbox.cdtyk.com/live/cdtv.php?name=青白江融媒体中心
-蒲江电视台,http://tvbox.cdtyk.com/live/cdtv.php?name=蒲江电视台
-大邑广播电视台,http://tvbox.cdtyk.com/live/cdtv.php?name=大邑广播电视台
-金堂电视台,http://tvbox.cdtyk.com/live/cdtv.php?name=金堂电视台
-邛崃电视台综合,http://tvbox.cdtyk.com/live/cdtv.php?name=邛崃电视台综合频道
-都江堰电视台,http://tvbox.cdtyk.com/live/cdtv.php?name=都江堰电视台
-简阳市广播电视台,http://tvbox.cdtyk.com/live/cdtv.php?name=简阳市广播电视台
-郫都区广播电视台,http://tvbox.cdtyk.com/live/cdtv.php?name=郫都区广播电视台
-双流综合,http://tvbox.cdtyk.com/live/cdtv.php?name=双流区广播电视台
-温江电视台,http://tvbox.cdtyk.com/live/cdtv.php?name=温江电视台
-新都区广播电视台,http://tvbox.cdtyk.com/live/cdtv.php?name=新都区广播电视台
-龙泉驿区新闻中心,http://tvbox.cdtyk.com/live/cdtv.php?name=龙泉驿区新闻中心
-成华有线电视,http://tvbox.cdtyk.com/live/cdtv.php?name=成华有线电视
-武侯电视,http://tvbox.cdtyk.com/live/cdtv.php?name=武侯电视
-金牛区有线电视台,http://tvbox.cdtyk.com/live/cdtv.php?name=金牛区有线电视台
-青羊区融媒体中心,http://tvbox.cdtyk.com/live/cdtv.php?name=青羊区融媒体中心
-锦江电视,http://tvbox.cdtyk.com/live/cdtv.php?name=锦江电视
-高新电视台,http://tvbox.cdtyk.com/live/cdtv.php?name=高新电视台
 
 卫视,#genre#
 安徽卫视,https://live3.rxip.sc96655.com/live/ahwsH265.m3u8$果果
@@ -1113,7 +1080,7 @@ CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 山东体育,http://221.2.146.228:8888/newlive/live/hls/53/live.m3u8
 山东体育,
-24小时体育,http://111.20.35.103:6610/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=?世界杯WorldCup
+体育休闲,http://111.20.35.103:6610/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=?世界杯WorldCup
 杭州体育,https://ali-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
 天空体育 格斗,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15097/index.m3u8
 天空体育 德甲,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7234/index.m3u8
