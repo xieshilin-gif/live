@@ -1023,20 +1023,26 @@ CGTN-英语,https://live3.rxip.sc96655.com/live/CGTN.m3u8$果果
 亚洲,#genre#
 凤凰中文,https://live3.rxip.sc96655.com/live/test1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
 凤凰资讯,https://live3.rxip.sc96655.com/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1$果果
-凤凰中文,http://dqr028.oicp.net:4022/udp/239.93.0.162:2192
-凤凰资讯,http://dqr028.oicp.net:4022/udp/239.93.0.118:2191
-凤凰中文,http://xindu125.myds.me:4000/udp/239.93.0.162:2192
-凤凰资讯,http://xindu125.myds.me:4000/udp/239.93.0.118:2191
-凤凰中文,http://tom028.top:55555/udp/239.93.0.162:2192
-凤凰资讯,http://tom028.top:55555/udp/239.93.0.118:2191
+
+凤凰资讯,http://dqr028.oicp.net:4022/udp/239.93.0.118:2191$dqr028
+凤凰中文,http://dqr028.oicp.net:4022/udp/239.93.0.162:2192$dqr028
+
+凤凰资讯,http://xindu125.myds.me:4000/udp/239.93.0.118:2191$xindu125
+凤凰中文,http://xindu125.myds.me:4000/udp/239.93.0.162:2192$xindu125
+
+凤凰资讯,http://cdtriot.cn:9999/udp/239.93.0.162:2192$cdtriot
+凤凰资讯,http://cdtriot.cn:9999/udp/239.93.0.118:2191$cdtriot
+
+凤凰资讯,http://tom028.top:55555/udp/239.93.0.118:2191$tom028
+凤凰中文,http://tom028.top:55555/udp/239.93.0.162:2192$tom028
+
 凤凰资讯台,http://110.81.206.138:50080/tsfile/live/23019_1.m3u8
 凤凰中文台,http://110.81.206.138:50080/tsfile/live/23020_1.m3u8
+
 星空卫视,http://113.86.206.78:9999/tsfile/live/1060_1.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-
 无线新闻台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153399
 TVB1,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153401
 TVB1,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153396
@@ -1306,7 +1312,7 @@ CHC动作电影,http://117.174.81.63:50080/newlive/live/hls/48/live.m3u8
 54,http://117.174.81.63:50080/newlive/live/hls/54/live.m3u8
 55,http://117.174.81.63:50080/newlive/live/hls/55/live.m3u8
 
-备用2（达州移动组播）,#genre#
+备用2（达州移动组播）,#genre# 德阳：223.86.26.6:3000 泸州：112.45.192.49:9999
 咪咕体育,http://dns.laolang.club:10086/udp/239.11.0.122:5140
 爱上4K,http://dns.laolang.club:10086/udp/239.11.0.120:5140
 CCTV1,http://dns.laolang.club:10086/udp/239.11.0.65:5140
