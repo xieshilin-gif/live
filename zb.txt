@@ -187,6 +187,10 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212269
 CCTV16,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV17,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227577/index.m3u8
 
+CHC家庭影院,http://60.208.113.114:8001/newlive/live/hls/87/live.m3u8$济南美达
+CHC动作电影,http://60.208.113.114:8001/newlive/live/hls/88/live.m3u8$济南美达
+CHC高清电影,http://60.208.113.114:8001/newlive/live/hls/89/live.m3u8$济南美达
+
 CHC动作电影,http://a.codeapp.top:7777/rtp/239.37.0.186:5540$吉林辽源电
 CHC高清电影,http://a.codeapp.top:7777/rtp/239.37.0.187:5540$吉林辽源电
 CHC家庭影院,http://a.codeapp.top:7777/rtp/239.37.0.188:5540$吉林辽源电
