@@ -72,9 +72,6 @@ CETV-4,http://amail.lacool.tk:8086/udp/239.93.0.50:5140$成电组域
 CHC高清电影,http://amail.lacool.tk:8086/udp/239.93.42.5:5140$成电组域
 CHC家庭影院,http://amail.lacool.tk:8086/udp/239.93.42.6:5140$成电组域
 CHC动作电影,http://amail.lacool.tk:8086/udp/239.93.42.7:5140$成电组域
-CETV-1：http://amail.lacool.tk:8086/udp/239.93.1.111:5140$成电组域
-CETV-2：http://amail.lacool.tk:8086/udp/239.93.0.113:5140$成电组域
-CETV-4：http://amail.lacool.tk:8086/udp/239.93.0.50:5140$成电组域
 //成都电信
 CCTV1,http://iptvhome.npsv.top:4022/udp/239.93.0.184:5140$成电组域2
 CCTV2,http://iptvhome.npsv.top:4022/udp/239.93.1.23:6000$成电组域2
@@ -756,6 +753,7 @@ NOW sports,http://ali.hlspull.yximgs.com/live/nowyct3a888221300-cfuu78258.flv
 
 星空卫视,http://113.86.206.78:9999/tsfile/live/1060_1.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 无线新闻台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153399
