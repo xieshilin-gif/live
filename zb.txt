@@ -984,6 +984,12 @@ CGTN,http://182.150.48.83:8888/newlive/live/hls/18/live.m3u8
 金鹰卡通,http://182.150.48.83:8888/newlive/live/hls/57/live.m3u8
 
 备用2（成都移动酒店）,#genre#
+四川卫视,http://117.174.81.63:50080/newlive/live/hls/16/live.m3u8
+CHC高清电影,http://117.174.81.63:50080/newlive/live/hls/41/live.m3u8
+四川妇女儿童,http://117.174.81.63:50080/newlive/live/hls/45/live.m3u8
+峨眉电影,http://117.174.81.63:50080/newlive/live/hls/46/live.m3u8
+CHC家庭影院,http://117.174.81.63:50080/newlive/live/hls/47/live.m3u8
+CHC动作电影,http://117.174.81.63:50080/newlive/live/hls/48/live.m3u8
 1,http://117.174.81.63:50080/newlive/live/hls/1/live.m3u8
 2,http://117.174.81.63:50080/newlive/live/hls/2/live.m3u8
 3,http://117.174.81.63:50080/newlive/live/hls/3/live.m3u8
@@ -999,7 +1005,6 @@ CGTN,http://182.150.48.83:8888/newlive/live/hls/18/live.m3u8
 13,http://117.174.81.63:50080/newlive/live/hls/13/live.m3u8
 14,http://117.174.81.63:50080/newlive/live/hls/14/live.m3u8
 15,http://117.174.81.63:50080/newlive/live/hls/15/live.m3u8
-四川卫视,http://117.174.81.63:50080/newlive/live/hls/16/live.m3u8
 17,http://117.174.81.63:50080/newlive/live/hls/17/live.m3u8
 18,http://117.174.81.63:50080/newlive/live/hls/18/live.m3u8
 19,http://117.174.81.63:50080/newlive/live/hls/19/live.m3u8
@@ -1024,14 +1029,9 @@ CGTN,http://182.150.48.83:8888/newlive/live/hls/18/live.m3u8
 38,http://117.174.81.63:50080/newlive/live/hls/38/live.m3u8
 39,http://117.174.81.63:50080/newlive/live/hls/39/live.m3u8
 40,http://117.174.81.63:50080/newlive/live/hls/40/live.m3u8
-CHC高清电影,http://117.174.81.63:50080/newlive/live/hls/41/live.m3u8
 42,http://117.174.81.63:50080/newlive/live/hls/42/live.m3u8
 43,http://117.174.81.63:50080/newlive/live/hls/43/live.m3u8
 44,http://117.174.81.63:50080/newlive/live/hls/44/live.m3u8
-四川妇女儿童,http://117.174.81.63:50080/newlive/live/hls/45/live.m3u8
-峨眉电影,http://117.174.81.63:50080/newlive/live/hls/46/live.m3u8
-CHC家庭影院,http://117.174.81.63:50080/newlive/live/hls/47/live.m3u8
-CHC动作电影,http://117.174.81.63:50080/newlive/live/hls/48/live.m3u8
 49,http://117.174.81.63:50080/newlive/live/hls/49/live.m3u8
 50,http://117.174.81.63:50080/newlive/live/hls/50/live.m3u8
 51,http://117.174.81.63:50080/newlive/live/hls/51/live.m3u8
