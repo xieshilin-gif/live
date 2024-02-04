@@ -756,8 +756,14 @@ CHC高清影ipv6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 凤凰资讯,http://tom028.top:55555/udp/239.93.0.118:2191$tom028
 凤凰中文,http://tom028.top:55555/udp/239.93.0.162:2192$tom028
 
-凤凰资讯台,http://110.81.206.138:50080/tsfile/live/23019_1.m3u8
-凤凰中文台,http://110.81.206.138:50080/tsfile/live/23020_1.m3u8
+凤凰资讯,http://110.81.206.138:50080/tsfile/live/23019_1.m3u8
+凤凰中文,http://110.81.206.138:50080/tsfile/live/23020_1.m3u8
+
+翡翠台,http://202.168.187.208:2024/tsfile/live/1006_1.m3u8
+明珠台,http://202.168.187.208:2024/tsfile/live/1007_1.m3u8
+星空卫视,http://202.168.187.208:2024/tsfile/live/1008_1.m3u8
+凤凰中文,http://202.168.187.208:2024/tsfile/live/1009_1.m3u8
+澳亚卫视,http://202.168.187.208:2024/tsfile/live/1010_1.m3u8
 
 Now 星影台,http://ali.hlspull.yximgs.com/live/nowxyot3a888221300-cfuu78258.flv
 Now 爆谷台,http://ali.hlspull.yximgs.com/live/nowbgggggt3a888221300-cfuu78258.flv
