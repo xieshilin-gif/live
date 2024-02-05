@@ -194,12 +194,12 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212269
 CCTV16,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV17,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227577/index.m3u8
 
-CHC动作电影,http://123.150.67.78:8888/newlive/live/hls/55/live.m3u8$天津华视电
-CHC高清电影,http://123.150.67.78:8888/newlive/live/hls/56/live.m3u8$天津华视电
-CHC家庭影院,http://123.150.67.78:8888/newlive/live/hls/57/live.m3u8$天津华视电
 CHC家庭影院,http://60.208.113.114:8001/newlive/live/hls/87/live.m3u8$济南华视联
 CHC动作电影,http://60.208.113.114:8001/newlive/live/hls/88/live.m3u8$济南华视联
 CHC高清电影,http://60.208.113.114:8001/newlive/live/hls/89/live.m3u8$济南华视联
+CHC动作电影,http://123.150.67.78:8888/newlive/live/hls/55/live.m3u8$天津华视电
+CHC高清电影,http://123.150.67.78:8888/newlive/live/hls/56/live.m3u8$天津华视电
+CHC家庭影院,http://123.150.67.78:8888/newlive/live/hls/57/live.m3u8$天津华视电
 
 //中国河北省石家庄市【联通】
 第一剧场,http://www.unnas.top:4000/rtp/239.253.93.138:6428$秦皇岛联通
