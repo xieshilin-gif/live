@@ -285,6 +285,7 @@ CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
 CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
+卫生健康,http://47.115.231.242/tv/live/ysp.php?/PLTV/&token=pA1iL2aL8zY5rQ0z&id=wsjk
 CETV早期教育,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226304/1/index.m3u8?fmt=ts2hls
 
 四川,#genre#
