@@ -285,6 +285,7 @@ CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
 CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
+早期教育,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226304/1/index.m3u8?fmt=ts2hls
 
 四川,#genre#
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
@@ -410,12 +411,12 @@ GDTV 蓉城先锋,http://qb.lacool.top:8086/udp/239.93.0.91:2101$成电组域3
 
 卫视,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 安徽卫视,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829313317020.m3u8
 重庆卫视,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_2.stream/chunklist.m3u8
 吉林卫视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 黄河卫视,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
@@ -669,6 +670,15 @@ GDTV 蓉城先锋,http://qb.lacool.top:8086/udp/239.93.0.91:2101$成电组域3
 哈哈炫动,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
 河北少儿科教,http://152.70.36.39:8080/jishi/shaoerkejiao.m3u8
 山东少儿,rtmp://livealone.iqilu.com/iqilu/sepdhjOF03kn
+动漫秀场,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226211/1/index.m3u8?fmt=ts2hls
+山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
+内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+河北少儿,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=35e8479f6ac81ee25729454e88afa17c
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
+成都少儿,http://47.115.231.242/tv/live/cds.php?token=pA1iL2aL8zY5rQ0z&id=cdse
+济南少儿,http://47.115.231.242/tv/live/jns.php?token=pA1iL2aL8zY5rQ0z&id=se
 宝宝动画,https://taijitv.zhonglong1.repl.co/bestv.php?id=bbdh8m/8000000
 韩国EBS少儿童,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
 
@@ -680,6 +690,9 @@ GDTV 蓉城先锋,http://qb.lacool.top:8086/udp/239.93.0.91:2101$成电组域3
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 
 🎬电影频道👉全网,#genre#
+CCTV6,http://47.115.231.242/tv/live/dy.php?token=pA1iL2aL8zY5rQ0z&id=1
+功夫影院,http://47.115.231.242/tv/live/dy.php?token=pA1iL2aL8zY5rQ0z&id=2
+环球经典,http://47.115.231.242/tv/live/dy.php?token=pA1iL2aL8zY5rQ0z&id=3
 邵氏影院代,http://159.75.85.63:35455/douyu/4246519
 邵氏影院代,http://epg.112114.xyz/douyu/4246519
 邵氏影院代,http://43.138.170.29:35455/douyu/4246519
@@ -765,6 +778,8 @@ NOW sports,http://ali.hlspull.yximgs.com/live/nowyct3a888221300-cfuu78258.flv
 
 星空卫视,http://113.86.206.78:9999/tsfile/live/1060_1.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+喀秋莎中文台,http://sz123.ueuo.com/kqs.php
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -793,6 +808,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 澳视澳门,http://tdm.jdshipin.com/ch1/ch1.live/playlist.m3u8
+莲花卫视,http://47.115.231.242/tv/live/lh.php?token=pA1iL2aL8zY5rQ0z
 澳视卫星,http://tdm.jdshipin.com/ch3/ch3.live/playlist.m3u8
 澳门资讯,http://tdm.jdshipin.com/ch5/info_ch5.live/playlist.m3u8
 澳门体育,http://tdm.jdshipin.com/ch4/sport_ch4.live/playlist.m3u8
@@ -810,7 +826,8 @@ CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 极限运动,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 山东体育,http://221.2.146.228:8888/newlive/live/hls/53/live.m3u8
-山东体育,
+山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
+辽宁体育,http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
 体育休闲,http://111.20.35.103:6610/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=?世界杯WorldCup
 杭州体育,https://ali-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
 天空体育 格斗,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15097/index.m3u8
