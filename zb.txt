@@ -285,7 +285,7 @@ CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
 CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
-早期教育,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226304/1/index.m3u8?fmt=ts2hls
+CETV早期教育,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226304/1/index.m3u8?fmt=ts2hls
 
 四川,#genre#
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
