@@ -303,7 +303,7 @@ CETV早期教育,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 四川科教,http://dqr028.oicp.net:4022/udp/239.93.42.44:5140$成电组域
 四川乡村,http://dqr028.oicp.net:4022/udp/239.93.0.52:5140$成电组域
 峨眉电影,http://dqr028.oicp.net:4022/udp/239.93.0.252:5140$成电组域
-//中国四川省成都市【电信】 19890216.xyz:4000 qinqin.19890216.xyz:4000
+//中国四川省成都市【电信】 qinqin.19890216.xyz:4000
 四川文化旅游,http://lacool.tk:8086/udp/239.93.1.102:5140$成电组域2
 四川经济,http://lacool.tk:8086/udp/239.93.1.101:5140$成电组域2
 四川新闻,http://lacool.tk:8086/udp/239.93.0.47:5140$成电组域2
@@ -333,22 +333,15 @@ CETV早期教育,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 四川乡村,http://vl15191373.imwork.net:8880/udp/239.93.0.52:5140$成都电信组播4
 康巴卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.41:5140$成都电信组播4
 峨眉电影,http://vl15191373.imwork.net:8880/udp/239.93.0.252:5140$成都电信组播4
-//南充移动
-四川卫视,http://183.223.157.33:9901/tsfile/live/0123_1.m3u8$南充jd
-四川经济,http://183.223.157.33:9901/tsfile/live/1000_1.m3u8$南充jd
-四川文化旅游,http://183.223.157.33:9901/tsfile/live/1001_1.m3u8$南充jd
-四川新闻,http://183.223.157.33:9901/tsfile/live/1003_1.m3u8$南充jd
-四川科教,http://183.223.157.33:9901/tsfile/live/1005_1.m3u8$南充jd
-峨眉电影,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8$南充jd
-//美国加利福尼亚旧金山 172.67.147.135
-四川经济,http://kjrzxhb.top:2086/udp/239.11.0.2:5140
-四川文化旅游,http://kjrzxhb.top:2086/udp/239.11.0.3:5140
-四川乡村,http://kjrzxhb.top:2086/udp/239.11.0.4:5140
-四川新闻,http://kjrzxhb.top:2086/udp/239.11.0.5:5140
-四川影视文艺,http://kjrzxhb.top:2086/udp/239.11.0.8:5140
-峨眉电影,http://kjrzxhb.top:2086/udp/239.11.0.11:5140
-
-峨眉电影,http://r.jdshipin.com/XIjta
+//移动
+四川文化旅游,http://blog.mybiwin.top:4022/udp/239.11.0.3:5140
+四川乡村,http://blog.mybiwin.top:4022/udp/239.11.0.4:5140
+四川经济,http://blog.mybiwin.top:4022/udp/239.11.0.2:5140
+四川新闻,http://blog.mybiwin.top:4022/udp/239.11.0.5:5140
+四川影视文艺,http://blog.mybiwin.top:4022/udp/239.11.0.77:5140
+四川妇女儿童,http://blog.mybiwin.top:4022/udp/239.11.0.8:5140
+四川科教,http://blog.mybiwin.top:4022/udp/239.11.0.194:5140
+峨眉电影,http://blog.mybiwin.top:4022/udp/239.11.0.11:5140
 
 成都,#genre#
 成都新闻综合,http://dqr028.oicp.net:4022/udp/239.93.0.16:5140$成都电信组播
