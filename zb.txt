@@ -1024,7 +1024,7 @@ CHC家庭影院,http://117.174.81.63:50080/newlive/live/hls/47/live.m3u8
 CHC动作电影,http://117.174.81.63:50080/newlive/live/hls/48/live.m3u8
 
 备用2（移动组播）,#genre#
-//成都：183.221.31.230:4088  blog.mybiwin.top:4022   www.waverjiang.fun:4088  117.176.241.206:4022 183.221.31.230:4088
+//成都：183.221.31.230:4088  blog.mybiwin.top:4022   www.waverjiang.fun:4088  117.176.241.206:4022
 //阿坝：183.222.72.116:6868
 咪咕体育,http://blog.mybiwin.top:4022/udp/239.11.0.122:5140
 爱上4K,http://blog.mybiwin.top:4022/udp/239.11.0.120:5140
