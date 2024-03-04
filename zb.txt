@@ -240,7 +240,6 @@ CHC家庭影院,http://majian.ixiaobai.net:58888/rtp/239.37.0.188:5540$吉林长
 文化精品,http://61.55.78.10:4022/rtp/239.253.93.175:6439$石家庄联通
 中华美食,http://61.55.78.10:4022/rtp/239.253.93.248:6426$石家庄联通
 
-央视移动,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
