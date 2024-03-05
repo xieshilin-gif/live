@@ -263,7 +263,7 @@ CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
 CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
-卫生健康,http://47.115.231.242/tv/live/ysp.php?/PLTV/&token=pA1iL2aL8zY5rQ0z&id=wsjk
+卫生健康,http://47.115.231.242/tv/live/ysp.php?/PLTV/&token=uU8hD1fH9vO8qF9o&id=wsjk
 CETV早期教育,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226304/1/index.m3u8?fmt=ts2hls
 
 四川,#genre#
@@ -344,6 +344,13 @@ CETV早期教育,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 峨眉电影,http://blog.mybiwin.top:4022/udp/239.11.0.11:5140
 
 成都,#genre#
+成都新闻综合,http://47.115.231.242/tv/live/cds.php?token=uU8hD1fH9vO8qF9o&id=cdzh
+成都经济资讯,http://47.115.231.242/tv/live/cds.php?token=uU8hD1fH9vO8qF9o&id=cdjj
+成都都市生活,http://47.115.231.242/tv/live/cds.php?token=uU8hD1fH9vO8qF9o&id=cdsh
+成都影视文艺,http://47.115.231.242/tv/live/cds.php?token=uU8hD1fH9vO8qF9o&id=cdys
+成都公共频道,http://47.115.231.242/tv/live/cds.php?token=uU8hD1fH9vO8qF9o&id=cdgg
+成都少儿频道,http://47.115.231.242/tv/live/cds.php?token=uU8hD1fH9vO8qF9o&id=cdse
+
 成都新闻综合,http://dqr028.oicp.net:4022/udp/239.93.0.16:5140$成都电信组播
 成都经济资讯,http://dqr028.oicp.net:4022/udp/239.93.0.17:1239$成都电信组播
 成都都市生活,http://dqr028.oicp.net:4022/udp/239.93.0.18:1238$成都电信组播
@@ -645,7 +652,7 @@ GDTV 蓉城先锋,http://19890216.xyz:4000/udp/239.93.0.91:2101$成电组域3
 内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
 河北少儿,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=35e8479f6ac81ee25729454e88afa17c
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
-成都少儿,http://47.115.231.242/tv/live/cds.php?token=pA1iL2aL8zY5rQ0z&id=cdse
+成都少儿,http://47.115.231.242/tv/live/cds.php?token=uU8hD1fH9vO8qF9o&id=cdse
 济南少儿,http://47.115.231.242/tv/live/jns.php?token=pA1iL2aL8zY5rQ0z&id=se
 宝宝动画,https://taijitv.zhonglong1.repl.co/bestv.php?id=bbdh8m/8000000
 韩国EBS少儿童,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
@@ -658,9 +665,9 @@ GDTV 蓉城先锋,http://19890216.xyz:4000/udp/239.93.0.91:2101$成电组域3
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 
 🎬电影频道👉全网,#genre#
-CCTV6,http://47.115.231.242/tv/live/dy.php?token=pA1iL2aL8zY5rQ0z&id=1
-功夫影院,http://47.115.231.242/tv/live/dy.php?token=pA1iL2aL8zY5rQ0z&id=2
-环球经典,http://47.115.231.242/tv/live/dy.php?token=pA1iL2aL8zY5rQ0z&id=3
+CCTV6,http://47.115.231.242/tv/live/dy.php?token=uU8hD1fH9vO8qF9o&id=1
+1905力量影院,http://47.115.231.242/tv/live/dy.php?token=uU8hD1fH9vO8qF9o&id=2
+1905环球经典,http://47.115.231.242/tv/live/dy.php?token=uU8hD1fH9vO8qF9o&id=3
 邵氏影院代,http://159.75.85.63:35455/douyu/4246519
 邵氏影院代,http://epg.112114.xyz/douyu/4246519
 邵氏影院代,http://43.138.170.29:35455/douyu/4246519
@@ -780,7 +787,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 澳视澳门,http://tdm.jdshipin.com/ch1/ch1.live/playlist.m3u8
-莲花卫视,http://47.115.231.242/tv/live/lh.php?token=pA1iL2aL8zY5rQ0z
+莲花卫视,http://47.115.231.242/tv/live/lh.php?token=uU8hD1fH9vO8qF9o
 澳视卫星,http://tdm.jdshipin.com/ch3/ch3.live/playlist.m3u8
 澳门资讯,http://tdm.jdshipin.com/ch5/info_ch5.live/playlist.m3u8
 澳门体育,http://tdm.jdshipin.com/ch4/sport_ch4.live/playlist.m3u8
