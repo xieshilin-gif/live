@@ -15,25 +15,6 @@
 重温经典,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=636
 
 央视,#genre#
-CCTV1,https://v2z86jslzr9jb4m6ofwq8vn5urgf948tn.mobgslb.tbcache.com/liveali-tpgq.cctv.cn/live/cctv1.m3u8
-CCTV2,https://v2z86jslzr9jb4m6ofwq8vn5urgf948tn.mobgslb.tbcache.com/liveali-tpgq.cctv.cn/live/cctv2.m3u8
-CCTV3,https://v2z86jslzr9jb4m6ofwq8vn5urgf948tn.mobgslb.tbcache.com/liveali-tpgq.cctv.cn/live/cctv3.m3u8
-CCTV4,https://v2z86jslzr9jb4m6ofwq8vn5urgf948tn.mobgslb.tbcache.com/liveali-tpgq.cctv.cn/live/cctv4.m3u8
-CCTV5,https://v2z86jslzr9jb4m6ofwq8vn5urgf948tn.mobgslb.tbcache.com/liveali-tpgq.cctv.cn/live/cctv5.m3u8
-CCTV5+,https://v2z86jslzr9jb4m6ofwq8vn5urgf948tn.mobgslb.tbcache.com/liveali-tpgq.cctv.cn/live/cctv5p.m3u8
-CCTV6,https://v2z86jslzr9jb4m6ofwq8vn5urgf948tn.mobgslb.tbcache.com/liveali-tpgq.cctv.cn/live/cctv6.m3u8
-CCTV7,https://v2z86jslzr9jb4m6ofwq8vn5urgf948tn.mobgslb.tbcache.com/liveali-tpgq.cctv.cn/live/cctv7.m3u8
-CCTV8,https://v2z86jslzr9jb4m6ofwq8vn5urgf948tn.mobgslb.tbcache.com/liveali-tpgq.cctv.cn/live/cctv8.m3u8
-CCTV9,https://v2z86jslzr9jb4m6ofwq8vn5urgf948tn.mobgslb.tbcache.com/liveali-tpgq.cctv.cn/live/cctv9.m3u8
-CCTV10,https://v2z86jslzr9jb4m6ofwq8vn5urgf948tn.mobgslb.tbcache.com/liveali-tpgq.cctv.cn/live/cctv10.m3u8
-CCTV11,https://v2z86jslzr9jb4m6ofwq8vn5urgf948tn.mobgslb.tbcache.com/liveali-tpgq.cctv.cn/live/cctv11.m3u8
-CCTV12,https://v2z86jslzr9jb4m6ofwq8vn5urgf948tn.mobgslb.tbcache.com/liveali-tpgq.cctv.cn/live/cctv12.m3u8
-CCTV13,https://v2z86jslzr9jb4m6ofwq8vn5urgf948tn.mobgslb.tbcache.com/liveali-tpgq.cctv.cn/live/cctv13.m3u8
-CCTV14,https://v2z86jslzr9jb4m6ofwq8vn5urgf948tn.mobgslb.tbcache.com/liveali-tpgq.cctv.cn/live/cctv14.m3u8
-CCTV15,https://v2z86jslzr9jb4m6ofwq8vn5urgf948tn.mobgslb.tbcache.com/liveali-tpgq.cctv.cn/live/cctv15.m3u8
-CCTV16,https://v2z86jslzr9jb4m6ofwq8vn5urgf948tn.mobgslb.tbcache.com/liveali-tpgq.cctv.cn/live/cctv16.m3u8
-CCTV17,https://v2z86jslzr9jb4m6ofwq8vn5urgf948tn.mobgslb.tbcache.com/liveali-tpgq.cctv.cn/live/cctv17.m3u8
-
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,https://0472.org/hls/cctv13.m3u8
