@@ -92,9 +92,9 @@ CCTV14,http://dqr028.oicp.net:4022/udp/239.93.1.29:6000$成电组域
 CCTV15,http://dqr028.oicp.net:4022/udp/239.93.0.103:5140$成电组域
 CCTV17,http://dqr028.oicp.net:4022/udp/239.93.0.92:5140$成电组域
 CCTV5+,http://dqr028.oicp.net:4022/udp/239.93.1.36:8004$成电组域
-CETV-1,http://dqr028.oicp.net:4022/udp/239.93.1.111:5140$成电组域
-CETV-2,http://dqr028.oicp.net:4022/udp/239.93.0.113:5140$成电组域
-CETV-4,http://dqr028.oicp.net:4022/udp/239.93.0.50:5140$成电组域
+CETV1,http://dqr028.oicp.net:4022/udp/239.93.1.111:5140$成电组域
+CETV2,http://dqr028.oicp.net:4022/udp/239.93.0.113:5140$成电组域
+CETV4,http://dqr028.oicp.net:4022/udp/239.93.0.50:5140$成电组域
 CHC高清电影,http://dqr028.oicp.net:4022/udp/239.93.42.5:5140$成电组域
 CHC家庭影院,http://dqr028.oicp.net:4022/udp/239.93.42.6:5140$成电组域
 CHC动作电影,http://dqr028.oicp.net:4022/udp/239.93.42.7:5140$成电组域
@@ -119,9 +119,9 @@ CCTV17,http://lacool.tk:8086/udp/239.93.0.92:5140$成电组域2
 CHC高清电影,http://lacool.tk:8086/udp/239.93.42.5:5140$成电组域2
 CHC家庭影院,http://lacool.tk:8086/udp/239.93.42.6:5140$成电组域2
 CHC动作电影,http://lacool.tk:8086/udp/239.93.42.7:5140$成电组域2
-CETV-1,http://lacool.tk:8086/udp/239.93.1.111:5140$成电组域2
-CETV-2,http://lacool.tk:8086/udp/239.93.0.113:5140$成电组域2
-CETV-4,http://lacool.tk:8086/udp/239.93.0.50:5140$成电组域2
+CETV1,http://lacool.tk:8086/udp/239.93.1.111:5140$成电组域2
+CETV2,http://lacool.tk:8086/udp/239.93.0.113:5140$成电组域2
+CETV4,http://lacool.tk:8086/udp/239.93.0.50:5140$成电组域2
 //成都电信
 CCTV1,http://19890216.xyz:4000/udp/239.93.0.184:5140$成电组域3
 CCTV2,http://19890216.xyz:4000/udp/239.93.1.23:6000$成电组域3
@@ -143,9 +143,9 @@ CCTV17,http://19890216.xyz:4000/udp/239.93.0.92:5140$成电组域3
 CHC高清电影,http://19890216.xyz:4000/udp/239.93.42.5:5140$成电组域3
 CHC家庭影院,http://19890216.xyz:4000/udp/239.93.42.6:5140$成电组域3
 CHC动作电影,http://19890216.xyz:4000/udp/239.93.42.7:5140$成电组域3
-CETV-1,http://19890216.xyz:4000/udp/239.93.1.111:5140$成电组域3
-CETV-2,http://19890216.xyz:4000/udp/239.93.0.113:5140$成电组域3
-CETV-4,http://19890216.xyz:4000/udp/239.93.0.50:5140$成电组域3
+CETV1,http://19890216.xyz:4000/udp/239.93.1.111:5140$成电组域3
+CETV2,http://19890216.xyz:4000/udp/239.93.0.113:5140$成电组域3
+CETV4,http://19890216.xyz:4000/udp/239.93.0.50:5140$成电组域3
 
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/index.m3u8
 CCTV13,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227926/index.m3u8
