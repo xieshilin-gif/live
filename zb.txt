@@ -737,15 +737,14 @@ CHC高清影ipv6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 凤凰资讯,http://dqr028.oicp.net:4022/udp/239.93.0.118:2191$dqr028
 凤凰中文,http://dqr028.oicp.net:4022/udp/239.93.0.162:2192$dqr028
 
-凤凰资讯,http://xindu125.myds.me:4000/udp/239.93.0.118:2191$xindu125
-凤凰中文,http://xindu125.myds.me:4000/udp/239.93.0.162:2192$xindu125
+凤凰资讯,http://tom028.top:55555/udp/239.93.0.118:2191$tom028
+凤凰中文,http://tom028.top:55555/udp/239.93.0.162:2192$tom028
 
 凤凰资讯,http://cdtriot.cn:9999/udp/239.93.0.162:2192$cdtriot电
 凤凰资讯,http://cdtriot.cn:9999/udp/239.93.0.118:2191$cdtriot电
 
-凤凰资讯,http://tom028.top:55555/udp/239.93.0.118:2191$tom028
-凤凰中文,http://tom028.top:55555/udp/239.93.0.162:2192$tom028
-
+凤凰资讯,http://xindu125.myds.me:4000/udp/239.93.0.118:2191$xindu125
+凤凰中文,http://xindu125.myds.me:4000/udp/239.93.0.162:2192$xindu125
 
 翡翠台,http://202.168.187.208:2024/tsfile/live/1006_1.m3u8
 明珠台,http://202.168.187.208:2024/tsfile/live/1007_1.m3u8
@@ -822,6 +821,8 @@ CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 
 
 成都组播其他,#genre#
+星空,http://dqr028.oicp.net:4022/udp/239.93.0.156:2193
+星空,http://dqr028.oicp.net:4022/udp/239.93.1.10:2193
 精彩导视,http://dqr028.oicp.net:4022/udp/239.93.1.39:5140
 CCTV-4K,http://dqr028.oicp.net:4022/udp/239.93.42.42:5140
 爱上4K专区,http://dqr028.oicp.net:4022/udp/239.93.0.97:5140
