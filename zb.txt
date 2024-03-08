@@ -1097,6 +1097,7 @@ CCTV1[768*576],http://mybiwin.top:4022/udp/239.11.0.130:5140
 四川影视,http://mybiwin.top:4022/udp/239.11.0.77:5140
 四川妇女,http://mybiwin.top:4022/udp/239.11.0.8:5140
 四川科教,http://mybiwin.top:4022/udp/239.11.0.194:5140
+四川乡村,http://mybiwin.top:4022/udp/239.11.0.176:5140
 康巴卫视,http://mybiwin.top:4022/udp/239.11.0.10:5140
 峨眉电影,http://mybiwin.top:4022/udp/239.11.0.11:5140
 达州新闻,http://mybiwin.top:4022/udp/239.10.0.54:5140
@@ -1165,7 +1166,6 @@ NewTV金牌综艺,http://mybiwin.top:4022/udp/239.11.0.152:5140
 优视影院,http://mybiwin.top:4022/udp/239.11.0.172:5140
 经典影视,http://mybiwin.top:4022/udp/239.11.0.173:5140
 舞蹈视界,http://mybiwin.top:4022/udp/239.11.0.174:5140
-纪实天下,http://mybiwin.top:4022/udp/239.11.0.176:5140
 都市剧场[768*576],http://mybiwin.top:4022/udp/239.11.0.175:5140
 经典剧场,http://mybiwin.top:4022/udp/239.11.0.178:5140
 电影天地,http://mybiwin.top:4022/udp/239.11.0.177:5140
