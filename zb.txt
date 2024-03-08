@@ -79,6 +79,22 @@ CETV4,http://dqr028.oicp.net:4022/udp/239.93.0.50:5140$成电组域
 CHC高清电影,http://dqr028.oicp.net:4022/udp/239.93.42.5:5140$成电组域
 CHC家庭影院,http://dqr028.oicp.net:4022/udp/239.93.42.6:5140$成电组域
 CHC动作电影,http://dqr028.oicp.net:4022/udp/239.93.42.7:5140$成电组域
+风云足球,http://dqr028.oicp.net:4022/rtp/239.93.0.235:5140
+高尔夫网球,http://dqr028.oicp.net:4022/rtp/239.93.1.54:5140
+文化精品,http://dqr028.oicp.net:4022/rtp/239.93.42.47:5140
+风云音乐,http://dqr028.oicp.net:4022/rtp/239.93.0.224:5140
+怀旧剧场,http://dqr028.oicp.net:4022/rtp/239.93.1.198:5140
+第一剧场,http://dqr028.oicp.net:4022/rtp/239.93.1.197:5140
+风云剧场,http://dqr028.oicp.net:4022/rtp/239.93.1.156:5140
+世界地理,http://dqr028.oicp.net:4022/rtp/239.93.1.157:5140
+兵器科技,http://dqr028.oicp.net:4022/rtp/239.93.1.235:5140
+女性时尚,http://dqr028.oicp.net:4022/rtp/239.93.42.62:5140
+央视台球,http://dqr028.oicp.net:4022/rtp/239.93.0.218:5140
+法治天地,http://dqr028.oicp.net:4022/rtp/239.93.42.96:5140
+都市剧场,http://dqr028.oicp.net:4022/rtp/239.93.42.30:5140
+天元围棋,http://dqr028.oicp.net:4022/rtp/239.93.42.55:5140
+先锋乒羽,http://dqr028.oicp.net:4022/rtp/239.93.42.56:5140
+乐龄学堂专区,http://dqr028.oicp.net:4022/rtp/239.93.1.179:5140
 //成都电信
 CCTV1,http://lacool.tk:8086/udp/239.93.0.184:5140$成电组域2
 CCTV2,http://lacool.tk:8086/udp/239.93.1.23:6000$成电组域2
@@ -270,6 +286,11 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 CETV早期教育,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226304/1/index.m3u8?fmt=ts2hls
 
 四川,#genre#
+四川经济,http://live2.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+四川文化旅游,http://live2.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8?E=1705227938&U=417cccfd-ffa6-4483-b309-5f955b0f0f41&A=2&K=14&P=011&S=f75bb3791b5ca4ab0df7a8c3ad02f599
+四川新闻,http://live2.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8?E=1705228069&U=439326a6-60ed-40f8-99ca-d1d7b797a97d&A=2&K=8&P=011&S=4919e88916c360f17627ea0d8e787b36
+四川影视文艺,http://cdn-out.iqy.sc96655.com/tslive/prod/SCTV-5-scysH265_4000/SCTV-5-scysH265_4000.m3u8?key=0b46c89e741dea71d800d0f08d68a6c73&dis_k=24ea3058f25a3379f3d1d02eaef40a6ee&dis_t=1705210096&dis_dz=CT-SiChuan_ChengDu&dis_st=93&z=live_box_sichuan_other&pv=0.2&live_box=1
+四川妇女儿童,http://live2.rxip.sc96655.com/live/SCTV-7-_4000.m3u8?E=1705228207&U=689ed02d-db2d-4448-bd47-310e9ca285e8&A=1&K=11&P=011&S=e0b7a0ff98d3813f7a93e455b50225de96dd6f5b
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四川乡村,http://dcpull.sctvcloud.com/live/6bcbdd9501881000b1f5f6b400000000/playlist.m3u8
 //达州 电信
