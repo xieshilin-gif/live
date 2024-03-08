@@ -16,7 +16,6 @@
 
 央视,#genre#
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,https://0472.org/hls/cctv13.m3u8
 //达州电信备用
 CCTV1,http://ikuai4.zzy789.xyz:6600/rtp/239.93.22.133:9260$达州电信
