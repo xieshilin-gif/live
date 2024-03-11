@@ -367,13 +367,6 @@ CETV早期教育,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 峨眉电影,http://blog.mybiwin.top:4022/udp/239.11.0.11:5140
 
 成都,#genre#
-成都新闻综合,http://47.115.231.242/tv/live/cds.php?token=uU8hD1fH9vO8qF9o&id=cdzh
-成都经济资讯,http://47.115.231.242/tv/live/cds.php?token=uU8hD1fH9vO8qF9o&id=cdjj
-成都都市生活,http://47.115.231.242/tv/live/cds.php?token=uU8hD1fH9vO8qF9o&id=cdsh
-成都影视文艺,http://47.115.231.242/tv/live/cds.php?token=uU8hD1fH9vO8qF9o&id=cdys
-成都公共频道,http://47.115.231.242/tv/live/cds.php?token=uU8hD1fH9vO8qF9o&id=cdgg
-成都少儿频道,http://47.115.231.242/tv/live/cds.php?token=uU8hD1fH9vO8qF9o&id=cdse
-
 成都新闻综合,http://dqr028.oicp.net:4022/udp/239.93.0.16:5140$成都电信组播
 成都经济资讯,http://dqr028.oicp.net:4022/udp/239.93.0.17:1239$成都电信组播
 成都都市生活,http://dqr028.oicp.net:4022/udp/239.93.0.18:1238$成都电信组播
