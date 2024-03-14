@@ -358,14 +358,14 @@ CETV早期教育,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 四川乡村,http://jjx.icu:8888/udp/239.93.6.52:5140$广元电组
 峨眉电影,http://jjx.icu:8888/udp/239.93.6.252:5140$广元电组
 //移动
-四川文化旅游,http://blog.mybiwin.top:4022/udp/239.11.0.3:5140
-四川乡村,http://blog.mybiwin.top:4022/udp/239.11.0.4:5140
-四川经济,http://blog.mybiwin.top:4022/udp/239.11.0.2:5140
-四川新闻,http://blog.mybiwin.top:4022/udp/239.11.0.5:5140
-四川影视文艺,http://blog.mybiwin.top:4022/udp/239.11.0.77:5140
-四川妇女儿童,http://blog.mybiwin.top:4022/udp/239.11.0.8:5140
-四川科教,http://blog.mybiwin.top:4022/udp/239.11.0.194:5140
-峨眉电影,http://blog.mybiwin.top:4022/udp/239.11.0.11:5140
+四川文化旅游,http://blog.mybiwin.top:4022/udp/239.11.0.3:5140$移动组播
+四川乡村,http://blog.mybiwin.top:4022/udp/239.11.0.4:5140$移动组播
+四川经济,http://blog.mybiwin.top:4022/udp/239.11.0.2:5140$移动组播
+四川新闻,http://blog.mybiwin.top:4022/udp/239.11.0.5:5140$移动组播
+四川影视文艺,http://blog.mybiwin.top:4022/udp/239.11.0.77:5140$移动组播
+四川妇女儿童,http://blog.mybiwin.top:4022/udp/239.11.0.8:5140$移动组播
+四川科教,http://blog.mybiwin.top:4022/udp/239.11.0.194:5140$移动组播
+峨眉电影,http://blog.mybiwin.top:4022/udp/239.11.0.11:5140$移动组播
 
 成都,#genre#
 成都新闻综合,http://xcarchain.com:8888/udp/239.93.0.16:5140$成都电信组播
