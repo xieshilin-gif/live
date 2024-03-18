@@ -765,12 +765,6 @@ CHC高清影ipv6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 星空卫视,http://n1.jimgo.win:4022/udp/239.93.0.156:2193
 星空卫视,http://xcarchain.com:8888/udp/239.93.0.156:2193
 
-TVB翡翠台,http://202.168.187.208:2024/tsfile/live/1006_1.m3u8
-TVB明珠台,http://202.168.187.208:2024/tsfile/live/1007_1.m3u8
-星空卫视,http://202.168.187.208:2024/tsfile/live/1008_1.m3u8
-凤凰中文,http://202.168.187.208:2024/tsfile/live/1009_1.m3u8
-澳亚卫视,http://202.168.187.208:2024/tsfile/live/1010_1.m3u8
-
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 喀秋莎中文台,http://sz123.ueuo.com/kqs.php
