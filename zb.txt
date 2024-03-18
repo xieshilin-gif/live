@@ -653,6 +653,11 @@ GDTV 蓉城先锋,http://183.222.206.14:8096/udp/239.93.0.91:2101$成电组域3
 百视通4K,http://223.166.61.142:4022/rtp/239.45.3.107:5140
 
 少儿,#genre#
+金鹰卡通,http://119.62.142.2:9901/tsfile/live/1003_1.m3u8?key=txiptv&url=tvzb.com
+优漫卡通,http://119.62.142.2:9901/tsfile/live/0115_1.m3u8?key=txiptv&url=tvzb.com
+嘉佳卡通,http://119.62.142.2:9901/tsfile/live/1005_1.m3u8?key=txiptv&url=tvzb.com
+哈哈炫动,http://119.62.142.2:9901/tsfile/live/1007_1.m3u8?key=txiptv&url=tvzb.com
+北京卡通,http://119.62.142.2:9901/tsfile/live/1008_1.m3u8?key=txiptv&url=tvzb.com
 //中国 河北 邢台 电信
 卡酷少儿,http://222.223.119.21:8888/newlive/live/hls/56/live.m3u8
 金鹰卡通,http://222.223.119.21:8888/newlive/live/hls/57/live.m3u8
