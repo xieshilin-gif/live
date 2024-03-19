@@ -687,9 +687,9 @@ GDTV 蓉城先锋,http://183.222.206.14:8096/udp/239.93.0.91:2101$成电组域3
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 
 🎬电影频道👉全网,#genre#
-CCTV6,http://47.115.231.242/tv/live/dy.php?token=uU8hD1fH9vO8qF9o&id=1
-1905力量影院,http://47.115.231.242/tv/live/dy.php?token=uU8hD1fH9vO8qF9o&id=2
-1905环球经典,http://47.115.231.242/tv/live/dy.php?token=uU8hD1fH9vO8qF9o&id=3
+CCTV6,http://locmjj.cloudns.org/v/1905.php?id=cctv6
+1905电影(亚洲),http://locmjj.cloudns.org/v/1905.php?id=1905b
+1905电影(国际),http://locmjj.cloudns.org/v/1905.php?id=1905a
 邵氏影院代,http://159.75.85.63:35455/douyu/4246519
 邵氏影院代,http://epg.112114.xyz/douyu/4246519
 邵氏影院代,http://43.138.170.29:35455/douyu/4246519
