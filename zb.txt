@@ -173,7 +173,6 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212269
 CCTV16,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV17,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227577/index.m3u8
 
-CCTV娱乐,http://110.72.79.92:808/hls/66/index.m3u8
 CCTV娱乐,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156405
 CHC家庭影院,http://60.208.113.114:8001/newlive/live/hls/87/live.m3u8$济南华视联
 CHC动作电影,http://60.208.113.114:8001/newlive/live/hls/88/live.m3u8$济南华视联
