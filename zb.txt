@@ -221,8 +221,8 @@ CHC高清电影,http://nas.alight.fun:8888/udp/239.77.0.27:5146$清远电组
 兵器科技,http://nas.alight.fun:8888/rtp/239.253.43.18:5146$清远电组
 女性时尚,http://nas.alight.fun:8888/rtp/239.253.43.23:5146$清远电组
 央视台球,http://nas.alight.fun:8888/rtp/239.253.43.21:5146$清远电组
-广东珠江,http://nas.alight.fun:8888/udp/239.77.0.3:5146$清远电组
-广东珠江高清,http://nas.alight.fun:8888/udp/239.77.0.1:5146$清远电组
+广东珠江,http://jyw3.jydjd.top:33333/udp/224.1.100.23:11111$广电
+广东珠江,http://nas.alight.fun:8888/udp/239.77.0.1:5146$清远电组
 
 CHC高清电影,http://iptv.awenxin.com:8888/udp/239.77.0.27:5146$深圳电组2
 风云足球,http://iptv.awenxin.com:8888/rtp/239.253.43.20:5146$深圳电组2
@@ -237,8 +237,7 @@ CHC高清电影,http://iptv.awenxin.com:8888/udp/239.77.0.27:5146$深圳电组2
 兵器科技,http://iptv.awenxin.com:8888/rtp/239.253.43.18:5146$深圳电组2
 女性时尚,http://iptv.awenxin.com:8888/rtp/239.253.43.23:5146$深圳电组2
 央视台球,http://iptv.awenxin.com:8888/rtp/239.253.43.21:5146$深圳电组2
-广东珠江,http://iptv.awenxin.com:8888/udp/239.77.0.3:5146$深圳电组2
-广东珠江高清,http://iptv.awenxin.com:8888/udp/239.77.0.1:5146$深圳电组2
+广东珠江,http://iptv.awenxin.com:8888/udp/239.77.0.1:5146$深圳电组2
 //中国吉林省长春市【电信】
 CHC动作电影,http://majian.ixiaobai.net:58888/rtp/239.37.0.186:5540$吉林长春电
 CHC高清电影,http://majian.ixiaobai.net:58888/rtp/239.37.0.187:5540$吉林长春电
@@ -1066,6 +1065,7 @@ i成都,http://xcarchain.com:8888/udp/239.93.1.104:1234
 热门卫视-体验,http://xcarchain.com:8888/udp/239.93.1.49:5140
 
 备用2（成都移动酒店）,#genre#
+CHC动作电影,http://jyw3.jydjd.top:33333/udp/224.1.100.131:11111
 四川文化旅游,http://171.221.40.25:808/hls/31/index.m3u8
 
 备用2（移动组播）,#genre#
