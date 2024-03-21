@@ -207,7 +207,7 @@ CCTV16,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 CCTV17,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227577/index.m3u8
 
 CCTV娱乐,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156405
-CHC家庭影院,http://60.208.113.114:8001/newlive/live/hls/87/live.m3u8$济南华视联
+CHC家庭影院,http://113.128.226.58:8888/newlive/live/hls/87/live.m3u8$济南华视联
 CHC动作电影,http://60.208.113.114:8001/newlive/live/hls/88/live.m3u8$济南华视联
 CHC高清电影,http://60.208.113.114:8001/newlive/live/hls/89/live.m3u8$济南华视联
 CHC动作电影,http://123.150.67.78:8888/newlive/live/hls/55/live.m3u8$天津华视电
@@ -945,7 +945,7 @@ CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 广东体育,http://nas.alight.fun:8888/rtp/239.77.0.168:5146
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
-山东体育,http://221.2.146.228:8888/newlive/live/hls/54/live.m3u8
+山东体育,http://60.208.75.26:8004/newlive/live/hls/55/live.m3u8
 辽宁体育,http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
 杭州体育,http://125.125.199.56:8888/udp/233.50.201.177:5140$浙江电信
 极限运动,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
