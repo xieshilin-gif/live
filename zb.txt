@@ -273,20 +273,20 @@ CHC家庭影院,http://majian.ixiaobai.net:58888/rtp/239.37.0.188:5540$吉林长
 文化精品,http://9988000.cn:4022/rtp/239.253.93.175:6439$邯郸联通
 中华美食,http://9988000.cn:4022/rtp/239.253.93.248:6426$邯郸联通
 
-CHC高清电影,http://iptv.awenxin.com:8888/udp/239.77.0.27:5146$深圳电组2
-风云足球,http://iptv.awenxin.com:8888/rtp/239.253.43.20:5146$深圳电组2
-高尔夫网球,http://iptv.awenxin.com:8888/rtp/239.253.43.22:5146$深圳电组2
-央视文化精品,http://iptv.awenxin.com:8888/rtp/239.253.43.27:5146$深圳电组2
-风云音乐,http://iptv.awenxin.com:8888/rtp/239.253.43.29:5146$深圳电组2
-第一剧场,http://iptv.awenxin.com:8888/rtp/239.253.43.28:5146$深圳电组2
-怀旧剧场,http://iptv.awenxin.com:8888/rtp/239.253.43.25:5146$深圳电组2
-风云剧场,http://iptv.awenxin.com:8888/rtp/239.253.43.26:5146$深圳电组2
-世界地理,http://iptv.awenxin.com:8888/rtp/239.253.43.24:5146$深圳电组2
-电视指南,http://iptv.awenxin.com:8888/rtp/239.253.43.19:5146$深圳电组2
-兵器科技,http://iptv.awenxin.com:8888/rtp/239.253.43.18:5146$深圳电组2
-女性时尚,http://iptv.awenxin.com:8888/rtp/239.253.43.23:5146$深圳电组2
-央视台球,http://iptv.awenxin.com:8888/rtp/239.253.43.21:5146$深圳电组2
-广东珠江,http://iptv.awenxin.com:8888/udp/239.77.0.1:5146$深圳电组2
+CHC高清电影,http://cloud.bytelife.top:4022/udp/239.77.0.27:5146$深圳电组2
+风云足球,http://cloud.bytelife.top:4022/rtp/239.253.43.20:5146$深圳电组2
+高尔夫网球,http://cloud.bytelife.top:4022/rtp/239.253.43.22:5146$深圳电组2
+央视文化精品,http://cloud.bytelife.top:4022/rtp/239.253.43.27:5146$深圳电组2
+风云音乐,http://cloud.bytelife.top:4022/rtp/239.253.43.29:5146$深圳电组2
+第一剧场,http://cloud.bytelife.top:4022/rtp/239.253.43.28:5146$深圳电组2
+怀旧剧场,http://cloud.bytelife.top:4022/rtp/239.253.43.25:5146$深圳电组2
+风云剧场,http://cloud.bytelife.top:4022/rtp/239.253.43.26:5146$深圳电组2
+世界地理,http://cloud.bytelife.top:4022/rtp/239.253.43.24:5146$深圳电组2
+电视指南,http://cloud.bytelife.top:4022/rtp/239.253.43.19:5146$深圳电组2
+兵器科技,http://cloud.bytelife.top:4022/rtp/239.253.43.18:5146$深圳电组2
+女性时尚,http://cloud.bytelife.top:4022/rtp/239.253.43.23:5146$深圳电组2
+央视台球,http://cloud.bytelife.top:4022/rtp/239.253.43.21:5146$深圳电组2
+广东珠江,http://cloud.bytelife.top:4022/udp/239.77.0.1:5146$深圳电组2
 
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
