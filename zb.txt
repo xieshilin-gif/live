@@ -222,6 +222,8 @@ CHC高清电影,http://nas.alight.fun:8888/udp/239.77.0.27:5146$清远电组
 女性时尚,http://nas.alight.fun:8888/rtp/239.253.43.23:5146$清远电组
 央视台球,http://nas.alight.fun:8888/rtp/239.253.43.21:5146$清远电组
 广东珠江,http://nas.alight.fun:8888/udp/239.77.0.1:5146$清远电组
+//qhmbltyg.v3n.szbdyd.com:8888
+//www.nas147.ltd:8888
 
 广东珠江,http://jyw3.jydjd.top:33333/udp/224.1.100.23:11111$广电
 CHC动作电影,http://jyw3.jydjd.top:33333/udp/224.1.100.131:11111$广电
