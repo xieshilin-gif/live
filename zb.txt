@@ -1069,10 +1069,6 @@ i成都,http://xcarchain.com:8888/udp/239.93.1.104:1234
 热门央视-体验,http://xcarchain.com:8888/udp/239.93.1.47:5140
 热门卫视-体验,http://xcarchain.com:8888/udp/239.93.1.49:5140
 
-备用2（成都移动酒店）,#genre#
-CHC动作电影,http://jyw3.jydjd.top:33333/udp/224.1.100.131:11111
-四川文化旅游,http://171.221.40.25:808/hls/31/index.m3u8
-
 备用2（移动组播）,#genre#
 //成都：bzlzm.eu.org:8888   www.waverjiang.fun:4088    iptvtest.nashiyun.cn:4022   112.45.192.49:9999
 //阿坝：183.222.72.116:6868
