@@ -715,34 +715,29 @@ CHC动作影ipv6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 CHC家庭影ipv6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$仅限ipv6线路
 CHC高清影ipv6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$仅限ipv6线路
 亚洲,#genre#
-//  xcarchain.com:8888
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-//凤凰卫视,http://jyw3.jydjd.top:33333/udp/224.1.100.3:11111
-//TVB翡翠台,http://jyw3.jydjd.top:33333/udp/224.1.100.121:11111
-//TVB明珠台,http://jyw3.jydjd.top:33333/udp/224.1.100.123:11111
-//星空卫视,http://jyw3.jydjd.top:33333/udp/224.1.100.13:11111
-
 TVB翡翠台,https://cdn-iptv.hiper25.com/TVB/video.m3u8
-无线财经台,https://cdn-iptv.hiper25.com/Pearl/video.m3u8
+TVB明珠台,https://cdn-iptv.hiper25.com/Pearl/video.m3u8
 澳视澳门,https://cdn-iptv.hiper25.com/TDM/video.m3u8
-
-凤凰资讯,http://qb.lacool.top:8086/udp/239.93.0.118:2191
-凤凰中文,http://qb.lacool.top:8086/udp/239.93.0.162:2192
 
 凤凰资讯,http://n1.jimgo.win:4022/udp/239.93.0.118:2191$jimgo
 凤凰中文,http://n1.jimgo.win:4022/udp/239.93.0.162:2192$jimgo
+星空卫视,http://n1.jimgo.win:4022/udp/239.93.0.156:2193$jimgo
 
 凤凰资讯,http://xcarchain.com:8888/udp/239.93.0.118:2191$dqr028
 凤凰中文,http://xcarchain.com:8888/udp/239.93.0.162:2192$dqr028
+星空卫视,http://xcarchain.com:8888/udp/239.93.0.156:2193
 
 凤凰资讯,http://tom028.top:55555/udp/239.93.0.118:2191$tom028
 凤凰中文,http://tom028.top:55555/udp/239.93.0.162:2192$tom028
+
+凤凰资讯,http://qb.lacool.top:8086/udp/239.93.0.118:2191
+凤凰中文,http://qb.lacool.top:8086/udp/239.93.0.162:2192
+凤凰中文,http://qb.lacool.top:8086/udp/239.93.0.156:2193
 
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.162:2192$cdtriot电
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191$cdtriot电
 
 星空卫视,http://n1.jimgo.win:4022/udp/239.93.0.156:2193
-星空卫视,http://xcarchain.com:8888/udp/239.93.0.156:2193
 
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
