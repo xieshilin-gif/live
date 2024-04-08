@@ -510,6 +510,14 @@ CETV1,http://gd.ikhs.cn:8880/rtp/239.69.1.110:10298
 福建,#genre#
 厦门卫视,http://ha.tonyliangli.cn:4022/udp/239.3.1.143:4120
 河北,#genre#
+河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58#http://tv.pull.hebtv.com/jishi/weishipindao.flv?t=2510710360&k=689e494c226aa7038632a897aa3dbd27#rtmp://tv.pull.hebtv.com/jishi/weishipindao?t=2510710360&k=6cdf3c059a496f8c8375f86e1fb53346
+河北经济生活,http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=878ace626abc063571a3ddff9ec396a3#http://tv.pull.hebtv.com/jishi/jingjishenghuo.flv?t=2510710360&k=fa8a788d96df5d75e67186f6b6864b40#rtmp://tv.pull.hebtv.com/jishi/jingjishenghuo?t=2510710360&k=40e221dfe1145000d2b17dfbec914ce7
+河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38#http://tv.pull.hebtv.com/jishi/nongminpindao.flv?t=2510710360&k=61bdf654828c9db6c20fbb4717fc6dee#rtmp://tv.pull.hebtv.com/jishi/nongminpindao?t=2510710360&k=a3c2c0f740a31dc24d48ad098cd1eec3
+河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=4380da13735a230c080ce8ff404033af#http://tv.pull.hebtv.com/jishi/dushipindao.flv?t=2510710360&k=82fa2120c1c91f181bbdf82de498faad#rtmp://tv.pull.hebtv.com/jishi/dushipindao?t=2510710360&k=b43f406360a945d199904faf3b6e2c18
+河北影视剧,http://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=2510710360&k=2d3ada9117a7f1c3f7c11b67671bbe3c#http://tv.pull.hebtv.com/jishi/yingshijupindao.flv?t=2510710360&k=acc030f5a46fa7ec8a6794ce0f3bee42#rtmp://tv.pull.hebtv.com/jishi/yingshijupindao?t=2510710360&k=51b17a5611b40e6a36395d0129c85ec6
+河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2#http://tv.pull.hebtv.com/jishi/shaoerkejiao.flv?t=2510710360&k=87b12e4fe703265f4f59538a2399246c#rtmp://tv.pull.hebtv.com/jishi/shaoerkejiao?t=2510710360&k=1c62f2efbb83251f173978255f47079d
+河北公共,http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=6c7672b94bb3940303bd8f5b81d4bdb6#http://tv.pull.hebtv.com/jishi/gonggongpindao.flv?t=2510710360&k=3656451936184a7500239d3ba501cf7f#rtmp://tv.pull.hebtv.com/jishi/gonggongpindao?t=2510710360&k=6201048dbf6392c9f95d779a8783ce96
+河北三佳购物,http://tv.pull.hebtv.com/zhibo/sanjiagouwu.m3u8?t=2510710360&k=13d8a0c69ef0817e26d7e9ce7304701e#http://tv.pull.hebtv.com/jishi/sanjiagouwu.flv?t=2510710360&k=70170523773b5f7147ee5b28c6e36d9f#rtmp://tv.pull.hebtv.com/jishi/sanjiagouwu?t=2510710360&k=34ef10c67205a18084245127bd2e2240
 河北卫视,http://121.29.111.117:8888/udp/239.253.92.154:6011
 河北经济生活,http://121.29.111.117:8888/udp/239.253.92.171:6001
 河北都市,http://121.29.111.117:8888/udp/239.253.92.172:6002
