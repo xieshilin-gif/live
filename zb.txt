@@ -411,6 +411,7 @@ GDTV 蓉城先锋,http://dqr028.oicp.net:4022/udp/239.93.0.91:2101$成电组域3
 安徽卫视,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829313317020.m3u8
 重庆卫视,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_2.stream/chunklist.m3u8
 吉林卫视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
+兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 黄河卫视,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
