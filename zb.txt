@@ -9,9 +9,6 @@
 苍溪综合,http://livecx.cxxrmt.com:80/cxdst/zb03.m3u8?auth_key=1692864295-0-0-4edeb8a8702116ab36f44606c26719f4
 重温经典,http://tv.dlwmkj.com/php2021/bfy.php?id=635
 重温经典标清,http://tv.dlwmkj.com/php2021/bfy.php?id=636
-五哈4第一期上,https://ikcdn01.ikzybf.com/20240323/D2wiL5XN/index.m3u8
-五哈4第一期下,https://ikcdn01.ikzybf.com/20240324/GdQKk7Di/index.m3u8
-五哈4第一期会员版,https://ikcdn01.ikzybf.com/20240325/acTHQXKi/index.m3u8
 
 央视,#genre#
 CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
