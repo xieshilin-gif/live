@@ -60,7 +60,7 @@ CCTV16,http://hack.xicp.cn:4000/udp/239.93.23.219:8436$达州电信1
 CCTV17,http://hack.xicp.cn:4000/udp/239.93.22.154:7832$达州电信1
 CCTV5+,http://hack.xicp.cn:4000/udp/239.93.22.78:8462$达州电信1
 第一财经,http://hack.xicp.cn:4000/udp/239.93.22.202:9684$达州电信1
-//成都电信    qb.lacool.top:8086  118.122.103.235:4022  175.152.138.55:6066
+//成都电信    wouu.net:9977  118.122.103.235:4022
 CCTV1,http://xcarchain.com:8888/udp/239.93.0.184:5140$成电组域
 CCTV2,http://xcarchain.com:8888/udp/239.93.1.23:6000$成电组域
 CCTV3,http://xcarchain.com:8888/udp/239.93.1.11:2223$成电组域
