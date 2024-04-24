@@ -899,6 +899,7 @@ TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+五星体育,http://php.jdshipin.com:8880/bst.php?id=ssty/4000000
 广东体育,http://ddns.cyruslee.top:8888/rtp/239.77.0.168:5146
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 山东体育,http://60.208.75.26:8004/newlive/live/hls/55/live.m3u8
@@ -1067,7 +1068,7 @@ i成都,http://xcarchain.com:8888/rtp/239.93.1.104:1234
 热门卫视-体验,http://xcarchain.com:8888/rtp/239.93.1.49:5140
 
 备用2（移动）,#genre#
-//成都：iptvtest.nashiyun.cn:4022   112.45.192.49:9999
+//成都：iptvtest.nashiyun.cn:4022  183.222.206.14:8096
 咪咕体育,http://bzlzm.eu.org:8888/rtp/239.11.0.122:5140
 爱上4K,http://bzlzm.eu.org:8888/rtp/239.11.0.120:5140
 CCTV1,http://bzlzm.eu.org:8888/rtp/239.11.0.65:5140
