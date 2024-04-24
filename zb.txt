@@ -899,6 +899,8 @@ TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+五星体育,http://php.jdshipin.com:8880/bst.php?id=wxty
+五星体育,http://php.jdshipin.com:8880/bst.php?id=wxtyhd8m/8000000
 五星体育,http://php.jdshipin.com:8880/bst.php?id=ssty/4000000
 五星体育,http://tv.twwhwn.cn:4022/rtp/239.45.3.210:5140
 广东体育,http://ddns.cyruslee.top:8888/rtp/239.77.0.168:5146
