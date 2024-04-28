@@ -14,7 +14,7 @@
 CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV13,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
-//移动
+//移动    117.176.241.206:4022
 CCTV1,http://bzlzm.eu.org:8888/rtp/239.11.0.65:5140$移动
 CCTV2,http://bzlzm.eu.org:8888/rtp/239.11.0.108:5140$移动
 CCTV3,http://bzlzm.eu.org:8888/rtp/239.11.0.101:5140$移动
@@ -62,7 +62,7 @@ CETV4,http://iptvtest.nashiyun.cn:4022/rtp/239.11.0.248:5140$移动2
 欢笑剧场4K,http://1.032000.xyz:8848/rtp/239.93.30.145:5140$自贡电信
 中录动漫4K,http://1.032000.xyz:8848/rtp/239.93.31.188:5140$自贡电信
 世界地理,http://1.032000.xyz:8848/rtp/239.93.31.157:5140
-//成都电信    wouu.net:9977 xcarchain.com:8888  182.148.73.194:58888    2024-04-28 03:32
+//成都电信    wouu.net:9977 xcarchain.com:8888  182.148.73.194:58888 2024-04-28 03:32  183.222.206.14:8096 2023-12-02 12:07
 CCTV1,http://vl15191373.imwork.net:8880/rtp/239.93.0.184:5140$成电组域
 CCTV2,http://vl15191373.imwork.net:8880/rtp/239.93.1.23:6000$成电组域
 CCTV3,http://vl15191373.imwork.net:8880/rtp/239.93.1.11:2223$成电组域
