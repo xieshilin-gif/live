@@ -1,14 +1,15 @@
 本地,#genre#
 利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
 利州综合,http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv
-广元文化生活,https://m3u8.channel.dzsm.com:443/nmip-media/channellive/channel101257/playlist.m3u8
-广元综合,https://m3u8.channel.dzsm.com:443/nmip-media/channellive/channel100999/playlist.m3u8
-剑阁综合,https://m3u8.channel.dzsm.com:443/nmip-media/channellive/channel105549/playlist.m3u8
-朝天综合,https://m3u8.channel.dzsm.com:443/nmip-media/channellive/channel104601/playlist.m3u8
-朝天综合,https://m3u8.channel.dzsm.com:443/nmip-media/channellive/channel104601/playlist.m3u8
+广元文化生活,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
+广元新闻综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
+剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
+朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
+朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 苍溪综合,http://livecx.cxxrmt.com:80/cxdst/zb03.m3u8?auth_key=1692864295-0-0-4edeb8a8702116ab36f44606c26719f4
 重温经典,http://tv.dlwmkj.com/php2021/bfy.php?id=635
 重温经典标清,http://tv.dlwmkj.com/php2021/bfy.php?id=636
+广元交通旅游广播,https://iovliveplay.radio.cn/fm/1600000003636.m3u8
 
 央视,#genre#
 CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
