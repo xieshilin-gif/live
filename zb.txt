@@ -796,7 +796,7 @@ StarHD台,http://livestar.siliconweb.com/media/star1/star1.m3u8
 韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 日语新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 日本华语,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
+澳门莲花,http://p.ggiptv.com/v/macaulotustv.php
 环球频道,http://live.cgtn.com/500/prog_index.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 CNA频道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
