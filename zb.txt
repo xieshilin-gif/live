@@ -16,7 +16,7 @@
 CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-//移动    117.176.241.206:4022
+//移动    117.176.241.206:4022  112.44.6.47:4022
 CCTV1,http://bzlzm.eu.org:8888/rtp/239.11.0.65:5140$移动
 CCTV2,http://bzlzm.eu.org:8888/rtp/239.11.0.108:5140$移动
 CCTV3,http://bzlzm.eu.org:8888/rtp/239.11.0.101:5140$移动
