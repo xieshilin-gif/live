@@ -7,7 +7,6 @@
 朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 苍溪综合,http://livecx.cxxrmt.com:80/cxdst/zb03.m3u8?auth_key=1692864295-0-0-4edeb8a8702116ab36f44606c26719f4
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://tv.dlwmkj.com/php2021/bfy.php?id=635
 重温经典标清,http://tv.dlwmkj.com/php2021/bfy.php?id=636
 广元交通旅游广播,https://iovliveplay.radio.cn/fm/1600000003636.m3u8
@@ -685,9 +684,7 @@ GDTV 蓉城先锋,http://www.xcarchain.com:8888/rtp/239.93.0.91:2101$成电组�
 
 🎬电影频道👉全网,#genre#
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-1905电影网1(国内电影),http://php.jdshipin.com:8880/1905.php?id=1905dy
-1905电影网2(国外电影),http://php.jdshipin.com:8880/1905.php?id=1905dy2
-重温经典,http://1.62.64.80/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+重温经典,http://tv.dlwmkj.com/php2021/bfy.php?id=635
 赵本山经典小品标清,http://159.75.85.63:35455/douyu/9817716
 宋小宝小品,http://159.75.85.63:35455/douyu/9817729
 开心麻花经典小品,http://159.75.85.63:35455/douyu/10153463
