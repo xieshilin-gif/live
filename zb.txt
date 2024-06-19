@@ -766,6 +766,7 @@ CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 五星体育,http://tv.twwhwn.cn:4022/rtp/239.45.3.210:5140
+广东体育,http://113.109.241.170:8889/rtp/239.77.0.112:5146
 广东体育,http://120.234.49.37:7000/udp/239.20.0.103:2004
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 极限运动,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
