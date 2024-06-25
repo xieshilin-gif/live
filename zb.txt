@@ -694,7 +694,6 @@ CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 电视剧频道8,http://zby.xjqxz.top/gzdsj4/live.m3u8
 电视剧频道9,http://zby.xjqxz.top/gzdsj5/live.m3u8
 电视剧频道10,http://zby.xjqxz.top/dzzypd/live.m3u8
-电视剧频道11,http://zby.xjqxz.top/dzzypd2/live.m3u8
 豆瓣TOP250,http://allinone.netsite.cc/douyu/8770422
 高分电影,http://allinone.netsite.cc/douyu/52787
 60帧蓝光,http://allinone.netsite.cc/douyu/747764
