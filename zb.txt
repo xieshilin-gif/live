@@ -242,18 +242,18 @@ CETV1,http://wddpmpc.sosos.run:4022/rtp/239.109.205.47:8312$陕西电信
 CETV2,http://wddpmpc.sosos.run:4022/rtp/239.109.205.48:8320$陕西电信
 CETV4,http://wddpmpc.sosos.run:4022/rtp/239.109.205.49:8328$陕西电信
 
-第一剧场,http://home.fusen.work:8888/rtp/239.253.93.138:6428$邯郸联通
-怀旧剧场,http://home.fusen.work:8888/rtp/239.253.93.252:6430$邯郸联通
-风云剧场,http://home.fusen.work:8888/rtp/239.253.93.251:6429$邯郸联通
-风云音乐,http://home.fusen.work:8888/rtp/239.253.93.253:6431$邯郸联通
-风云足球,http://home.fusen.work:8888/rtp/239.253.93.254:6432$邯郸联通
-高尔夫网球,http://home.fusen.work:8888/rtp/239.253.93.122:6465$邯郸联通
-兵器科技,http://home.fusen.work:8888/rtp/239.253.93.47:6435$邯郸联通
-世界地理,http://home.fusen.work:8888/rtp/239.253.92.131:6113$邯郸联通
-女性时尚,http://home.fusen.work:8888/rtp/239.253.92.144:6114$邯郸联通
-央视台球,http://home.fusen.work:8888/rtp/239.253.93.231:6409$邯郸联通
-央视文化精品,http://home.fusen.work:8888/rtp/239.253.93.175:6439$邯郸联通
-中华美食,http://home.fusen.work:8888/rtp/239.253.93.248:6426$邯郸联通
+//第一剧场,http://home.fusen.work:8888/rtp/239.253.93.138:6428$邯郸联通
+//怀旧剧场,http://home.fusen.work:8888/rtp/239.253.93.252:6430$邯郸联通
+//风云剧场,http://home.fusen.work:8888/rtp/239.253.93.251:6429$邯郸联通
+//风云音乐,http://home.fusen.work:8888/rtp/239.253.93.253:6431$邯郸联通
+//风云足球,http://home.fusen.work:8888/rtp/239.253.93.254:6432$邯郸联通
+//高尔夫网球,http://home.fusen.work:8888/rtp/239.253.93.122:6465$邯郸联通
+//兵器科技,http://home.fusen.work:8888/rtp/239.253.93.47:6435$邯郸联通
+//世界地理,http://home.fusen.work:8888/rtp/239.253.92.131:6113$邯郸联通
+//女性时尚,http://home.fusen.work:8888/rtp/239.253.92.144:6114$邯郸联通
+//央视台球,http://home.fusen.work:8888/rtp/239.253.93.231:6409$邯郸联通
+//央视文化精品,http://home.fusen.work:8888/rtp/239.253.93.175:6439$邯郸联通
+//中华美食,http://home.fusen.work:8888/rtp/239.253.93.248:6426$邯郸联通
 
 CHC影迷电影,http://120.234.49.37:7000/rtp/239.21.0.119:3820$广东移动
 风云足球,http://120.234.49.37:7000/rtp/239.21.0.70:3620$广东移动
