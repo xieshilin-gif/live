@@ -661,30 +661,18 @@ GDTV 蓉城先锋,http://ayolee.com:5253/rtp/239.93.0.91:2101$成电组域3
 百视通4K,http://223.166.61.142:4022/rtp/239.45.3.107:5140
 
 少儿,#genre#
-卡酷少儿,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
+江西少儿,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-嘉佳卡通,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
-哈哈炫动,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
+嘉佳卡通,http://yulang132.cn:4022/rtp/239.93.0.246:5140
+哈哈炫动,http://bzlzm.eu.org:8888/rtp/239.11.0.64:5140
 河北少儿科教,http://152.70.36.39:8080/jishi/shaoerkejiao.m3u8
-山东少儿,rtmp://livealone.iqilu.com/iqilu/sepdhjOF03kn
 动漫秀场,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226211/1/index.m3u8?fmt=ts2hls
-山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
-河北少儿,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=35e8479f6ac81ee25729454e88afa17c
+河北少儿,http://op.sev7.net:4022/rtp/239.254.200.21:6000
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
-成都少儿,http://47.115.231.242/tv/live/cds.php?token=uU8hD1fH9vO8qF9o&id=cdse
-济南少儿,http://47.115.231.242/tv/live/jns.php?token=pA1iL2aL8zY5rQ0z&id=se
-宝宝动画,https://taijitv.zhonglong1.repl.co/bestv.php?id=bbdh8m/8000000
+成都少儿,http://yulang132.cn:4022/rtp/239.93.0.21:1251
 韩国EBS少儿童,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
-
-熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
-倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
-狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 
 🎬电影频道👉全网,#genre#
 //www.goodiptv.club
