@@ -566,7 +566,7 @@ GDTV 蓉城先锋,http://aqp.x3322.net:4000/rtp/239.93.0.91:2101$成电组域2
 韩国EBS少儿童,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
 
 🎬电影频道👉全网,#genre#
-//www.goodiptv.club
+//www.goodiptv.club 159.75.85.63:35455
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 芒果独播电视剧1,http://zby.xjqxz.top/dsdsj1/live.m3u8
 芒果独播电视剧2,http://zby.xjqxz.top/dsdsj2/live.m3u8
