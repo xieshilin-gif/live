@@ -448,7 +448,7 @@ CHC动作电影,http://jjx.icu:8888/rtp/239.93.46.7:5140$利州电信
 辽宁卫视,http://yulang132.cn:4022/rtp/239.93.1.108:5140$成都电信组播
 河南卫视,http://yulang132.cn:4022/rtp/239.93.42.45:5140$成都电信组播
 广西卫视,http://yulang132.cn:4022/rtp/239.93.42.46:5140$成都电信组播
-云南卫视,http://yulang132.cn:4022/rtp/239.93.0.174:5140$成都电信组播
+云南卫视,http://yulang132.cn:4022/rtp/239.93.1.174:5140$成都电信组播
 吉林卫视,http://yulang132.cn:4022/rtp/239.93.0.248:5140$成都电信组播
 陕西卫视,http://yulang132.cn:4022/rtp/239.93.0.176:5140$成都电信组播
 山西卫视,http://yulang132.cn:4022/rtp/239.93.0.6:5140$成都电信组播
@@ -487,7 +487,7 @@ CHC动作电影,http://jjx.icu:8888/rtp/239.93.46.7:5140$利州电信
 辽宁卫视,http://zhyfans.mycloudnas.com:8000/rtp/239.93.1.108:5140$成电组域2
 河南卫视,http://zhyfans.mycloudnas.com:8000/rtp/239.93.42.45:5140$成电组域2
 广西卫视,http://zhyfans.mycloudnas.com:8000/rtp/239.93.42.46:5140$成电组域2
-云南卫视,http://zhyfans.mycloudnas.com:8000/rtp/239.93.0.174:5140$成电组域2
+云南卫视,http://zhyfans.mycloudnas.com:8000/rtp/239.93.1.174:5140$成电组域2
 吉林卫视,http://zhyfans.mycloudnas.com:8000/rtp/239.93.0.248:5140$成电组域2
 陕西卫视,http://zhyfans.mycloudnas.com:8000/rtp/239.93.0.176:5140$成电组域2
 山西卫视,http://zhyfans.mycloudnas.com:8000/rtp/239.93.0.6:5140$成电组域2
