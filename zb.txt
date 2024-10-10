@@ -200,26 +200,26 @@ CETV1,http://www.gwiily.com:8888/rtp/239.109.205.47:8312$陕西电信
 CETV2,http://www.gwiily.com:8888/rtp/239.109.205.48:8320$陕西电信
 CETV4,http://www.gwiily.com:8888/rtp/239.109.205.49:8328$陕西电信
 
-都市剧场,http://host.gaoxincloud.cn:4000/rtp/239.111.205.2:5140$陕西电信2
-欢笑剧场,http://host.gaoxincloud.cn:4000/rtp/239.112.205.236:5140$陕西电信2
-游戏风云,http://host.gaoxincloud.cn:4000/rtp/239.111.205.4:5140$陕西电信2
-CHC家庭影院,http://host.gaoxincloud.cn:4000/rtp/239.112.205.205:5140$陕西电信2
-CHC影迷电影,http://host.gaoxincloud.cn:4000/rtp/239.112.205.206:5140$陕西电信2
-CHC动作电影,http://host.gaoxincloud.cn:4000/rtp/239.112.205.207:5140$陕西电信2
-第一剧场,http://host.gaoxincloud.cn:4000/rtp/239.111.205.65:5140$陕西电信2
-风云剧场,http://host.gaoxincloud.cn:4000/rtp/239.111.205.66:5140$陕西电信2
-怀旧剧场,http://host.gaoxincloud.cn:4000/rtp/239.111.205.67:5140$陕西电信2
-风云足球,http://host.gaoxincloud.cn:4000/rtp/239.111.205.68:5140$陕西电信2
-风云音乐,http://host.gaoxincloud.cn:4000/rtp/239.111.205.69:5140$陕西电信2
-央视台球,http://host.gaoxincloud.cn:4000/rtp/239.111.205.70:5140$陕西电信2
-世界地理,http://host.gaoxincloud.cn:4000/rtp/239.111.205.71:5140$陕西电信2
-女性时尚,http://host.gaoxincloud.cn:4000/rtp/239.111.205.72:5140$陕西电信2
-高尔夫网球,http://host.gaoxincloud.cn:4000/rtp/239.111.205.73:5140$陕西电信2
-兵器科技,http://host.gaoxincloud.cn:4000/rtp/239.111.205.74:5140$陕西电信2
-央视文化精品,http://host.gaoxincloud.cn:4000/rtp/239.111.205.75:5140$陕西电信2
-CETV1,http://host.gaoxincloud.cn:4000/rtp/239.109.205.47:8312$陕西电信2
-CETV2,http://host.gaoxincloud.cn:4000/rtp/239.109.205.48:8320$陕西电信2
-CETV4,http://host.gaoxincloud.cn:4000/rtp/239.109.205.49:8328$陕西电信2
+都市剧场,http://www.gwiily.com:8888/rtp/239.111.205.2:5140$陕西电信2
+欢笑剧场,http://www.gwiily.com:8888/rtp/239.112.205.236:5140$陕西电信2
+游戏风云,http://www.gwiily.com:8888/rtp/239.111.205.4:5140$陕西电信2
+CHC家庭影院,http://www.gwiily.com:8888/rtp/239.112.205.205:5140$陕西电信2
+CHC影迷电影,http://www.gwiily.com:8888/rtp/239.112.205.206:5140$陕西电信2
+CHC动作电影,http://www.gwiily.com:8888/rtp/239.112.205.207:5140$陕西电信2
+第一剧场,http://www.gwiily.com:8888/rtp/239.111.205.65:5140$陕西电信2
+风云剧场,http://www.gwiily.com:8888/rtp/239.111.205.66:5140$陕西电信2
+怀旧剧场,http://www.gwiily.com:8888/rtp/239.111.205.67:5140$陕西电信2
+风云足球,http://www.gwiily.com:8888/rtp/239.111.205.68:5140$陕西电信2
+风云音乐,http://www.gwiily.com:8888/rtp/239.111.205.69:5140$陕西电信2
+央视台球,http://www.gwiily.com:8888/rtp/239.111.205.70:5140$陕西电信2
+世界地理,http://www.gwiily.com:8888/rtp/239.111.205.71:5140$陕西电信2
+女性时尚,http://www.gwiily.com:8888/rtp/239.111.205.72:5140$陕西电信2
+高尔夫网球,http://www.gwiily.com:8888/rtp/239.111.205.73:5140$陕西电信2
+兵器科技,http://www.gwiily.com:8888/rtp/239.111.205.74:5140$陕西电信2
+央视文化精品,http://www.gwiily.com:8888/rtp/239.111.205.75:5140$陕西电信2
+CETV1,http://www.gwiily.com:8888/rtp/239.109.205.47:8312$陕西电信2
+CETV2,http://www.gwiily.com:8888/rtp/239.109.205.48:8320$陕西电信2
+CETV4,http://www.gwiily.com:8888/rtp/239.109.205.49:8328$陕西电信2
 
 CCTV1,http://jjx.icu:8888/udp/239.93.6.184:5140$利州电信
 CCTV2,http://jjx.icu:8888/udp/239.93.7.23:6000$利州电信
@@ -728,9 +728,6 @@ THrill_电影英,http://ali.hlspull.yximgs.com/live/tboxproecvqweqqosvoqqqsqqqde
 番薯音乐[1920*1080],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u
 面包台[1280*720],https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港卫视HKS[1024*576],http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-半岛新闻[1280*720],http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-泰国ASTV[1920*1080],http://news1.live14.com/stream/news1_hi.m3u8
-日语新闻[854*480],https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 
 眉山电信,#genre#
 凤凰中文,http://cdut520.x3322.net:8008/udp/239.93.26.9:2192
