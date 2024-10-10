@@ -271,8 +271,8 @@ CHC动作电影,http://jjx.icu:8888/rtp/239.93.46.7:5140$利州电信
 四川妇女儿童,http://live2.rxip.sc96655.com/live/SCTV-7-_4000.m3u8?E=1705228207&U=689ed02d-db2d-4448-bd47-310e9ca285e8&A=1&K=11&P=011&S=e0b7a0ff98d3813f7a93e455b50225de96dd6f5b
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四川康定,http://kdfile.ganzitv.com/nmip-media/channellive/channel100663/playlist.m3u8
-四川乡村,
-峨眉电影,
+四川乡村,http://aqp.x3322.net:4000/rtp/239.93.0.52:5140
+峨眉电影,http://aqp.x3322.net:4000/rtp/239.93.0.252:5140
 
 四川经济,http://kuanglong1314.site:2121/rtp/239.93.16.71:8420$南充电信
 四川文化旅游,http://kuanglong1314.site:2121/rtp/239.93.16.41:8240$南充电信
