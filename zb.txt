@@ -912,8 +912,8 @@ CGTN法语,http://cdut520.x3322.net:8008/udp/239.93.56.50:5140
 中国体育3,http://cdut520.x3322.net:8008/udp/239.93.56.27:5140
 精彩推荐,http://cdut520.x3322.net:8008/udp/239.93.27.5:5140
 
-
-乐山电信,#genre#    xeace.cn:8888   hhska.3322.org:8096
+//xeace.cn:8888   hhska.3322.org:8096
+乐山电信,#genre#
 四川卫视,http://hhska.3322.org:8096/udp/239.93.0.169:5140
 四川卫视,http://zhyfans.mycloudnas.com:8000/udp/239.93.1.188:5140
 四川康巴卫视,http://zhyfans.mycloudnas.com:8000/udp/239.93.0.41:5140
