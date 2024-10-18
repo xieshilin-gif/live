@@ -30,6 +30,7 @@ CCTV15,http://kuanglong1314.site:2121/rtp/239.93.16.131:7918$南充电信
 CCTV16,http://kuanglong1314.site:2121/rtp/239.93.17.219:8436$南充电信
 CCTV17,http://kuanglong1314.site:2121/rtp/239.93.16.154:7832$南充电信
 
+//ds918.cafeng.top:9080
 CCTV1,http://1.032000.xyz:8848/udp/239.93.30.184:5140$自贡电信
 CCTV2,http://1.032000.xyz:8848/udp/239.93.31.23:6000$自贡电信
 CCTV3,http://1.032000.xyz:8848/udp/239.93.31.11:2223$自贡电信
@@ -77,7 +78,7 @@ CETV2,http://117.177.180.53:8888/rtp/239.11.0.246:5140$移动
 CETV3,http://117.177.180.53:8888/rtp/239.11.0.247:5140$移动
 CETV4,http://117.177.180.53:8888/rtp/239.11.0.248:5140$移动
 
-//成都电信   yulang132.cn:4022  wqeeeee.x3322.net:4000  aqp.x3322.net:4000 nas.cafeng.top:9080
+//成都电信   yulang132.cn:4022  wqeeeee.x3322.net:4000  aqp.x3322.net:4000 nas.cafeng.top:9080  ds918.cafeng.top:9080
 CCTV1,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.0.184:5140$成电组域
 CCTV2,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.1.23:6000$成电组域
 CCTV3,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.1.11:2223$成电组域
