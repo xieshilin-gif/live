@@ -79,7 +79,7 @@ CETV2,http://112.45.192.49:9999/rtp/239.11.0.246:5140$移动
 CETV3,http://112.45.192.49:9999/rtp/239.11.0.247:5140$移动
 CETV4,http://112.45.192.49:9999/rtp/239.11.0.248:5140$移动
 
-//成都电信   yulang132.cn:4022  wqeeeee.x3322.net:4000  aqp.x3322.net:4000
+//成都电信  wqeeeee.x3322.net:4000
 CCTV1,http://yulang132.cn:4022/rtp/239.93.0.184:5140$成电组域
 CCTV2,http://yulang132.cn:4022/rtp/239.93.1.23:6000$成电组域
 CCTV3,http://yulang132.cn:4022/rtp/239.93.1.11:2223$成电组域
@@ -872,7 +872,7 @@ CGTN法语,http://cdut520.x3322.net:8008/udp/239.93.56.50:5140
 中国体育3,http://cdut520.x3322.net:8008/udp/239.93.56.27:5140
 精彩推荐,http://cdut520.x3322.net:8008/udp/239.93.27.5:5140
 
-//ppcnas.nas-cab.com:55555
+//aqp.x3322.net:4000  dqr028.x3322.net:4000 wqeeeee.x3322.net:4000 zhaoming10233.asuscomm.com:8585
 乐山电信,#genre#
 四川卫视,http://wqeeeee.x3322.net:4000/udp/239.93.0.169:5140
 中录动漫4K,http://wqeeeee.x3322.net:4000/udp/239.93.1.188:5140
