@@ -291,11 +291,10 @@ CHC动作电影,http://jjx.icu:8888/rtp/239.93.46.7:5140$利州电信
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-甘肃卫视,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 
-四川卫视,http://zqh2333.top:2222/rtp/239.93.24.20:1235
-湖南卫视,http://zqh2333.top:2222/rtp/239.93.24.88:5140
+四川卫视,http://zqh2333.top:2222/rtp/239.93.24.20:1235$雅安电信
+湖南卫视,http://zqh2333.top:2222/rtp/239.93.24.88:5140$雅安电信
 江苏卫视,http://zqh2333.top:2222/rtp/239.93.24.89:5140$雅安电信
 浙江卫视,http://zqh2333.top:2222/rtp/239.93.24.124:5140$雅安电信
 东方卫视,http://zqh2333.top:2222/rtp/239.93.24.123:5140$雅安电信
