@@ -509,7 +509,67 @@ UFC 格斗精选,https://api.livednow.org/migu/788818804?sign=gAAAAABnJcJq5jFTcg
 金鹰纪实,http://jjx.icu:8888/udp/239.93.6.130:5140$利州电信
 中国交通·四川,http://jjx.icu:8888/udp/239.93.6.142:5140$利州电信
 
-百视通4K,
+经典电视剧,#genre#
+庆余年,http://allinone.netsite.cc/huya/11352960
+庆余年-,http://allinone.netsite.cc/douyu/5062195
+庆余年.,http://allinone.netsite.cc/douyu/7812810
+神话,http://allinone.netsite.cc/douyu/4373285
+寻秦记,http://allinone.netsite.cc/huya/29465848
+爱情公寓,http://allinone.netsite.cc/huya/11336726
+鹿鼎记,http://allinone.netsite.cc/huya/23865080
+铁齿铜牙纪晓岚,http://allinone.netsite.cc/huya/11342396
+雪中悍刀行,http://allinone.netsite.cc/huya/11336592
+新楚留香,http://allinone.netsite.cc/huya/26355848
+且试天下,http://allinone.netsite.cc/huya/21059630
+花千骨,http://allinone.netsite.cc/huya/26355839
+清平乐,http://allinone.netsite.cc/huya/21059631
+陈情令,http://allinone.netsite.cc/huya/29465862
+梦华录,http://allinone.netsite.cc/huya/11336590
+美人心计,http://allinone.netsite.cc/huya/26355837
+绝代双骄,http://allinone.netsite.cc/huya/29465867
+刁蛮公主,http://allinone.netsite.cc/huya/29465879
+还珠格格,http://allinone.netsite.cc/huya/30080241
+水月洞天,http://allinone.netsite.cc/huya/21059567
+笑傲江湖,http://allinone.netsite.cc/huya/26355858
+风云,http://allinone.netsite.cc/huya/21059612
+士兵突击,http://allinone.netsite.cc/huya/11342430
+天龙八部,http://allinone.netsite.cc/huya/23903123
+雍正皇帝,http://allinone.netsite.cc/huya/11342439
+家有儿女,http://allinone.netsite.cc/huya/11352872
+新三国,http://allinone.netsite.cc/huya/11352944
+龙门镖局,http://allinone.netsite.cc/huya/11352874
+神医喜来乐,http://allinone.netsite.cc/huya/11601978
+张卫健西游记,http://allinone.netsite.cc/huya/11342395
+倚天屠龙记,http://allinone.netsite.cc/huya/11342403
+虎符传奇,http://allinone.netsite.cc/huya/11342415
+斗罗大陆2021,,http://allinone.netsite.cc/huya/11352892
+瑶山大剿匪,http://allinone.netsite.cc/huya/11342392
+白鹿原,http://allinone.netsite.cc/huya/11342416
+金庸,http://allinone.netsite.cc/huya/11336579
+猎罪图鉴,http://allinone.netsite.cc/huya/11601962
+扫黑风暴,http://allinone.netsite.cc/huya/11342404
+邻里一家亲,http://allinone.netsite.cc/huya/11342426
+父母爱情,http://allinone.netsite.cc/huya/11602071
+医馆笑传,http://allinone.netsite.cc/huya/11352891
+大秦赋,http://allinone.netsite.cc/huya/11352881
+盗墓笔记,http://allinone.netsite.cc/huya/11352871
+芈月传,http://allinone.netsite.cc/huya/11352975
+法证先锋,http://allinone.netsite.cc/huya/23863804
+神探狄仁杰,http://allinone.netsite.cc/huya/11352958
+宝莲灯,http://allinone.netsite.cc/huya/21059563
+神雕侠侣1995,http://allinone.netsite.cc/huya/23865171
+新神雕侠侣,http://allinone.netsite.cc/huya/11352964
+大唐双龙传,http://allinone.netsite.cc/huya/23728674
+新水浒传,http://allinone.netsite.cc/huya/11342384
+旧三国,http://allinone.netsite.cc/huya/11602081
+活佛济公,http://allinone.netsite.cc/huya/11342400
+倩女幽魂,http://allinone.netsite.cc/huya/26355822
+铁梨花,http://allinone.netsite.cc/huya/11352912
+青岛往事,http://allinone.netsite.cc/huya/11342434
+雪豹后传,http://allinone.netsite.cc/huya/20599549
+漫长的季节,http://allinone.netsite.cc/huya/11342393
+风筝,http://allinone.netsite.cc/huya/30080225
+问心,http://allinone.netsite.cc/huya/11352890
 
 🎬电影频道👉全网,#genre#
 // 159.75.85.63:35455
