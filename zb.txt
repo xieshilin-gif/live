@@ -30,24 +30,24 @@ CCTV17,https://api.livednow.org/migu/673168256?sign=gAAAAABnJQaJNTXcJtxn-CFX1UTr
 CCTV4欧洲,https://api.livednow.org/migu/608807419?sign=gAAAAABnJQaJkFSWUgKS0jalog7Q-He9Bmz-cETp8cN4YGOMkQ948TNb_5JtgpNLrOZceijik8XEjcLUE0drzQc6NBWIfskhLYa2C37UZ4i_Cq84hEX00I7DNUrbB_SEGOfNwXvyntKxS_9tsx3qgGWHvTN3qObpU_U52j_-dfDKJZ5rSbwbvqU9E5LhOhWITMJSSSy_1OiXPuIrcmctSM1-eboUpxco9Q%3D%3D
 CCTV4美洲,https://api.livednow.org/migu/608807416?sign=gAAAAABnJQaJdUGd2KKNwlEGf3m2hCWISsS-3WSPeTFhCyzx453dFGBhVRpIeJIpjXtdsr4M-dH-oN-phlJ3nl4Z1tEvfNgGXfGB1XHQg_ElZON9kZyM7Dhl1zsIamX0kcO5pIPmdZA8UkoWE2YOzlIraHCFVIg9d-C3ZTC_KmIpfyUZ9Puuy_Vaza6e9M6ofj5xx6adSfJLGU9Tf6bq0rDi_o9IEaVFGA%3D%3D
 
-CCTV1,http://kuanglong1314.site:2121/rtp/239.93.16.133:9260$南充电信
-CCTV2,http://kuanglong1314.site:2121/rtp/239.93.16.60:8354$南充电信
-CCTV3,http://kuanglong1314.site:2121/rtp/239.93.16.141:9320$南充电信
-CCTV4,http://kuanglong1314.site:2121/rtp/239.93.17.186:7728$南充电信
-CCTV5,http://kuanglong1314.site:2121/rtp/239.93.16.143:9332$南充电信
-CCTV5+,http://kuanglong1314.site:2121/rtp/239.93.16.78:8462$南充电信
-CCTV6,http://kuanglong1314.site:2121/rtp/239.93.16.144:9338$南充电信
-CCTV7,http://kuanglong1314.site:2121/rtp/239.93.16.64:8378$南充电信
-CCTV8,http://kuanglong1314.site:2121/rtp/239.93.16.145:9344$南充电信
-CCTV9,http://kuanglong1314.site:2121/rtp/239.93.16.61:8360$南充电信
-CCTV10,http://kuanglong1314.site:2121/rtp/239.93.16.65:8384$南充电信
-CCTV11,http://kuanglong1314.site:2121/rtp/239.93.16.129:7914$南充电信
-CCTV12,http://kuanglong1314.site:2121/rtp/239.93.16.68:8402$南充电信
-CCTV13,http://kuanglong1314.site:2121/rtp/239.93.17.210:8278$南充电信
-CCTV14,http://kuanglong1314.site:2121/rtp/239.93.16.69:8408$南充电信
-CCTV15,http://kuanglong1314.site:2121/rtp/239.93.16.131:7918$南充电信
-CCTV16,http://kuanglong1314.site:2121/rtp/239.93.17.219:8436$南充电信
-CCTV17,http://kuanglong1314.site:2121/rtp/239.93.16.154:7832$南充电信
+CCTV1,http://118.122.34.134:8888/rtp/239.93.16.133:9260$南充电信
+CCTV2,http://118.122.34.134:8888/rtp/239.93.16.60:8354$南充电信
+CCTV3,http://118.122.34.134:8888/rtp/239.93.16.141:9320$南充电信
+CCTV4,http://118.122.34.134:8888/rtp/239.93.17.186:7728$南充电信
+CCTV5,http://118.122.34.134:8888/rtp/239.93.16.143:9332$南充电信
+CCTV5+,http://118.122.34.134:8888/rtp/239.93.16.78:8462$南充电信
+CCTV6,http://118.122.34.134:8888/rtp/239.93.16.144:9338$南充电信
+CCTV7,http://118.122.34.134:8888/rtp/239.93.16.64:8378$南充电信
+CCTV8,http://118.122.34.134:8888/rtp/239.93.16.145:9344$南充电信
+CCTV9,http://118.122.34.134:8888/rtp/239.93.16.61:8360$南充电信
+CCTV10,http://118.122.34.134:8888/rtp/239.93.16.65:8384$南充电信
+CCTV11,http://118.122.34.134:8888/rtp/239.93.16.129:7914$南充电信
+CCTV12,http://118.122.34.134:8888/rtp/239.93.16.68:8402$南充电信
+CCTV13,http://118.122.34.134:8888/rtp/239.93.17.210:8278$南充电信
+CCTV14,http://118.122.34.134:8888/rtp/239.93.16.69:8408$南充电信
+CCTV15,http://118.122.34.134:8888/rtp/239.93.16.131:7918$南充电信
+CCTV16,http://118.122.34.134:8888/rtp/239.93.17.219:8436$南充电信
+CCTV17,http://118.122.34.134:8888/rtp/239.93.16.154:7832$南充电信
 
 CCTV1,http://1.032000.xyz:8848/udp/239.93.30.184:5140$自贡电信
 CCTV2,http://1.032000.xyz:8848/udp/239.93.31.23:6000$自贡电信
@@ -230,14 +230,14 @@ CHC动作电影,http://jjx.icu:8888/rtp/239.93.46.7:5140$利州电信
 四川乡村,http://aqp.x3322.net:4000/rtp/239.93.0.52:5140
 峨眉电影,http://aqp.x3322.net:4000/rtp/239.93.0.252:5140
 
-四川经济,http://kuanglong1314.site:2121/rtp/239.93.16.71:8420$南充电信
-四川文化旅游,http://kuanglong1314.site:2121/rtp/239.93.16.41:8240$南充电信
-四川新闻,http://kuanglong1314.site:2121/rtp/239.93.17.179:7720$南充电信
-四川影视文艺,http://kuanglong1314.site:2121/rtp/239.93.16.188:9600$南充电信
-四川妇女儿童,http://kuanglong1314.site:2121/rtp/239.93.17.87:7348$南充电信
-四川科教,http://kuanglong1314.site:2121/rtp/239.93.16.209:8274$南充电信
-四川乡村,http://kuanglong1314.site:2121/rtp/239.93.16.97:7820$南充电信
-峨眉电影,http://kuanglong1314.site:2121/rtp/239.93.16.116:8696$南充电信
+四川经济,http://118.122.34.134:8888/rtp/239.93.16.71:8420$南充电信
+四川文化旅游,http://118.122.34.134:8888/rtp/239.93.16.41:8240$南充电信
+四川新闻,http://118.122.34.134:8888/rtp/239.93.17.179:7720$南充电信
+四川影视文艺,http://118.122.34.134:8888/rtp/239.93.16.188:9600$南充电信
+四川妇女儿童,http://118.122.34.134:8888/rtp/239.93.17.87:7348$南充电信
+四川科教,http://118.122.34.134:8888/rtp/239.93.16.209:8274$南充电信
+四川乡村,http://118.122.34.134:8888/rtp/239.93.16.97:7820$南充电信
+峨眉电影,http://118.122.34.134:8888/rtp/239.93.16.116:8696$南充电信
 
 四川经济,http://1.032000.xyz:8848/udp/239.93.31.62:5140$自贡电信
 四川文化旅游,http://1.032000.xyz:8848/udp/239.93.31.102:5140$自贡电信
@@ -610,8 +610,8 @@ PDD影院,http://allinone.netsite.cc/douyu/1274132
 新昌休闲影院,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 
 亚洲,#genre#
-凤凰资讯,http://kuanglong1314.site:2121/rtp/239.93.16.118:8708$南充电信
-凤凰中文,http://kuanglong1314.site:2121/rtp/239.93.16.31:8012$南充电信
+凤凰资讯,http://118.122.34.134:8888/rtp/239.93.16.118:8708$南充电信
+凤凰中文,http://118.122.34.134:8888/rtp/239.93.16.31:8012$南充电信
 
 凤凰资讯,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.0.118:2191$zhaoming10233
 凤凰中文,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.0.162:2192$zhaoming10233
