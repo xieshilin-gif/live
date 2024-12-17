@@ -16,7 +16,6 @@ CCTV2,http://xeace.cn:8888/rtp/239.93.1.23:6000$成电组域
 CCTV3,http://xeace.cn:8888/rtp/239.93.1.11:2223$成电组域
 CCTV4,http://xeace.cn:8888/rtp/239.93.1.105:5140$成电组域
 CCTV5,http://xeace.cn:8888/rtp/239.93.1.12:2224$成电组域
-CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 CCTV6,http://xeace.cn:8888/rtp/239.93.1.13:2226$成电组域
 CCTV7,http://xeace.cn:8888/rtp/239.93.1.67:5140$成电组域
 CCTV8,http://xeace.cn:8888/rtp/239.93.42.39:5140$成电组域
@@ -29,7 +28,6 @@ CCTV14,http://xeace.cn:8888/rtp/239.93.1.29:6000$成电组域
 CCTV15,http://xeace.cn:8888/rtp/239.93.0.103:5140$成电组域
 CCTV17,http://xeace.cn:8888/rtp/239.93.0.92:5140$成电组域
 CCTV5+,http://xeace.cn:8888/rtp/239.93.1.36:8004$成电组域
-CETV1,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0
 CETV1,http://xeace.cn:8888/rtp/239.93.1.111:5140$成电组域
 CETV2,http://xeace.cn:8888/rtp/239.93.0.113:5140$成电组域
 CETV4,http://xeace.cn:8888/rtp/239.93.0.50:5140$成电组域
@@ -263,7 +261,6 @@ CHC动作电影,http://jjx.icu:8888/rtp/239.93.46.7:5140$利州电信
 甘肃卫视,http://xeace.cn:8888/rtp/239.93.0.81:5140$成都电信组播
 海南卫视,http://xeace.cn:8888/rtp/239.93.0.80:5140$成都电信组播
 陕西农林,http://xeace.cn:8888/rtp/239.93.0.100:5140$成都电信组播
-兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0
 兵团卫视,http://xeace.cn:8888/rtp/239.93.42.43:5140$成都电信组播
 厦门卫视,http://xeace.cn:8888/rtp/239.93.42.57:5140$成都电信组播
 三沙卫视,http://xeace.cn:8888/rtp/239.93.42.58:5140$成都电信组播
