@@ -16,7 +16,14 @@ Now星影台,http://ali.hlspull.yximgs.com/live/7771ddsshabibscbmlnnnowxyyty00eq
 CHC动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
 CHC家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
 CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 TVB功夫[国],http://ali.hlspull.yximgs.com/live/7771ddsshabibscbmlgudouzhujiangeqoklhdjhflhfsdfagksh-9999547666-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbkasdfsbiiilllll1llllllllllllllllllilldfsldhfsfjlfjfdsklf4dlkfdfgksfhskfsfddlafakfhajdfsaad.flv
+TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+TVB星河台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
+TVBS歡樂台,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 广元交通旅游广播,https://iovliveplay.radio.cn/fm/1600000003636.m3u8
 
 央视,#genre#
