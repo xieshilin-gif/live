@@ -424,8 +424,8 @@ CHC动作电影,http://jjx.icu:8888/rtp/239.93.46.7:5140$利州电信
 问心,http://huanqiuzhibo.cn/manifest/huya.php?id=11352890
 
 🎬电影频道👉全网,#genre#
-1905国外电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
 1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
+1905国外电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
 邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
 豆瓣TOP250,http://zzy789.xyz/douyu1.php?id=8770422
