@@ -26,7 +26,7 @@ TVBS歡樂台,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208
 广元交通旅游广播,https://iovliveplay.radio.cn/fm/1600000003636.m3u8
 
 央视,#genre#
-//成都电信 xeace.cn:8888
+//成都电信 xeace.cn:8888 zhyfans.mycloudnas.com:8000
 CCTV1,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.0.184:5140$成电组域
 CCTV2,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.1.23:6000$成电组域
 CCTV3,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.1.11:2223$成电组域
