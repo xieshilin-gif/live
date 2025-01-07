@@ -25,7 +25,6 @@ TVB娱乐新闻台,http://extraott.com:80/live/6772191932/1654508883/473570.m3u8
 广元交通旅游广播,https://iovliveplay.radio.cn/fm/1600000003636.m3u8
 
 央视,#genre#
-//成都电信 ik.hjb.mba:8999 home.sunruilin.com:4443  youankj.synology.me:8888
 CCTV1,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.0.184:5140$成电组域
 CCTV2,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.1.23:6000$成电组域
 CCTV3,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.1.11:2223$成电组域
@@ -194,6 +193,16 @@ CHC动作电影,http://jjx.icu:8888/rtp/239.93.46.7:5140$利州电信
 四川乡村,http://youankj.synology.me:8888/rtp/239.93.0.52:5140$成电组域2
 康巴卫视,http://youankj.synology.me:8888/rtp/239.93.0.41:5140$成电组域2
 峨眉电影,http://youankj.synology.me:8888/rtp/239.93.0.252:5140$成电组域2
+
+四川文化旅游,http://yulang132.cn:4022/rtp/239.93.1.102:5140$成电组域2
+四川经济,http://yulang132.cn:4022/rtp/239.93.1.101:5140$成电组域2
+四川新闻,http://yulang132.cn:4022/rtp/239.93.0.47:5140$成电组域2
+四川影视文艺,http://yulang132.cn:4022/rtp/239.93.0.166:5140$成电组域2
+四川妇女儿童,http://yulang132.cn:4022/rtp/239.93.0.219:5140$成电组域2
+四川科教,http://yulang132.cn:4022/rtp/239.93.42.44:5140$成电组域2
+四川乡村,http://yulang132.cn:4022/rtp/239.93.0.52:5140$成电组域2
+康巴卫视,http://yulang132.cn:4022/rtp/239.93.0.41:5140$成电组域2
+峨眉电影,http://yulang132.cn:4022/rtp/239.93.0.252:5140$成电组域2
 
 四川经济,http://kuanglong1314.site:2121/rtp/239.93.16.71:8420$南充电信
 四川文化旅游,http://kuanglong1314.site:2121/rtp/239.93.16.41:8240$南充电信
@@ -508,13 +517,29 @@ LOL•云顶之弈,http://tc-tct.douyucdn2.cn/dyliveflv1/522423rw7NgKaYl9_2000p.
 凤凰资讯,http://kuanglong1314.site:2121/rtp/239.93.16.118:8708$南充电信
 凤凰中文,http://kuanglong1314.site:2121/rtp/239.93.16.31:8012$南充电信
 
-凤凰资讯,http://youankj.synology.me:8888/rtp/239.93.0.118:2191$zhaoming10233
-凤凰中文,http://youankj.synology.me:8888/rtp/239.93.0.162:2192$zhaoming10233
-星空卫视,http://youankj.synology.me:8888/rtp/239.93.0.156:2193$zhaoming10233
+凤凰资讯,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.0.118:2191
+凤凰中文,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.0.162:2192
+星空卫视,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.0.156:2193
 
-凤凰资讯,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.0.118:2191$x3322
-凤凰中文,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.0.162:2192$x3322
-星空卫视,http://zhaoming10233.asuscomm.com:8585/rtp/239.93.0.156:2193$x3322
+凤凰资讯,http://youankj.synology.me:8888/rtp/239.93.0.118:2191
+凤凰中文,http://youankj.synology.me:8888/rtp/239.93.0.162:2192
+星空卫视,http://youankj.synology.me:8888/rtp/239.93.0.156:2193
+
+凤凰资讯,http://www.leo-nas.cn:9991/rtp/239.93.0.118:2191
+凤凰中文,http://www.leo-nas.cn:9991/rtp/239.93.0.162:2192
+星空卫视,http://www.leo-nas.cn:9991/rtp/239.93.0.156:2193
+
+凤凰资讯,http://yulang132.cn:4022/rtp/239.93.0.118:2191
+凤凰中文,http://yulang132.cn:4022/rtp/239.93.0.162:2192
+星空卫视,http://yulang132.cn:4022/rtp/239.93.0.156:2193
+
+凤凰资讯,http://zx4400.myds.me:12322/rtp/239.93.0.118:2191
+凤凰中文,http://zx4400.myds.me:12322/rtp/239.93.0.162:2192
+星空卫视,http://zx4400.myds.me:12322/rtp/239.93.0.156:2193
+
+凤凰资讯,http://iptv.nanomi.cn:4000/rtp/239.93.0.118:2191
+凤凰中文,http://iptv.nanomi.cn:4000/rtp/239.93.0.162:2192
+星空卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.156:2193
 
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
