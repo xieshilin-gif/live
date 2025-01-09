@@ -224,7 +224,7 @@ CHC动作电影,http://jjx.icu:8888/rtp/239.93.46.7:5140$利州电信
 乐龄学堂专区,http://jjx.icu:8888/rtp/239.93.7.179:5140$利州电信
 
 四川,#genre#
-四川卫视,http://ik.hjb.mba:8999/rtp/239.93.0.20:1235
+四川卫视,http://iptv.nanomi.cn/rtp/239.93.0.20:1235
 四川经济,http://live2.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
 四川文化旅游,http://live2.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8?E=1705227938&U=417cccfd-ffa6-4483-b309-5f955b0f0f41&A=2&K=14&P=011&S=f75bb3791b5ca4ab0df7a8c3ad02f599
 四川新闻,http://live2.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8?E=1705228069&U=439326a6-60ed-40f8-99ca-d1d7b797a97d&A=2&K=8&P=011&S=4919e88916c360f17627ea0d8e787b36
@@ -302,7 +302,7 @@ CHC动作电影,http://jjx.icu:8888/rtp/239.93.46.7:5140$利州电信
 熊猫频道2,http://youankj.synology.me:8888/rtp/239.93.1.178:5140$成电组域2
 
 卫视,#genre#
-四川卫视,http://iptv.nanomi.cn/rtp/239.93.0.20:1235
+四川卫视,http://roxette119.asuscomm.com:5555/rtp/239.93.0.20:1235
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8
