@@ -1,612 +1,1206 @@
-本地,#genre#
-利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
-利州综合,http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv
+{
+  "spider": "./pg.jar",
+  "sites": [
+    {
+      "key": "豆瓣",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "changeable": 1,
+      "indexs": 1,
+      "ext": "./lib/tokenm.json$$$./lib/douban.json"
+    },
+    {
+      "key": "流氓兔",
+      "name": "🐇流氓┃兔兔",
+      "type": 3,
+      "jar": "./lib/xyqxbpq.jar",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "主页url": "https://fyu.lmt4.monster/cn/home/web/",
+        "数组": "<article>&&</article>",
+        "标题": "alt=\"&&\"",
+        "副标题": "actress\">&&</div>",
+        "图片": "img src=\"&&\"",
+        "链接": "href=\"&&\"",
+        "跳转播放链接": "var player_*\"url\":\"&&\"",
+        "简介": "description\" content=\"&&\"",
+        "搜索url": "https://fyu.lmt4.monster/cn/home/web/index.php/vod/search/page/{pg}/wd/{wd}.html",
+        "分类url": "https://fyu.lmt4.monster/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+        "分类数组": "<a&&a>",
+        "分类标题": ">&&<",
+        "分类ID": "/cn/home/web/index.php/vod/type/id/&&.html"
+      }
+    },
+    {
+      "key": "果冻破解版",
+      "name": "🍮果冻┃破解",
+      "type": 3,
+      "jar": "./lib/xyqxbpq.jar",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "主页url": "https://zvz.gdpjb8.work/cn/home/web/",
+        "数组": "well well-sm&&/a>",
+        "标题": "m-t-5\">&&<",
+        "副标题": "duration\">&&</div>",
+        "图片": "img src=\"&&\"",
+        "链接": "href=\"&&\"",
+        "跳转播放链接": "var player_*\"url\":\"&&\"",
+        "简介": "description\" content=\"&&\"",
+        "搜索url": "https://zvz.gdpjb8.work/cn/home/web/index.php/vod/search/page/{pg}/wd/{wd}.html",
+        "分类url": "https://zvz.gdpjb8.work/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+        "分类二次截取": "<ul>&&ul>",
+        "分类数组": "<a&&a>",
+        "分类标题": "title=\"&&\"",
+        "分类ID": "/cn/home/web/index.php/vod/type/id/&&.html"
+      }
+    },
+    {
+      "key": "百草香",
+      "name": "☘️百草┃视频",
+      "type": 3,
+      "jar": "./lib/xyqxbpq.jar",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "主页url": "https://kcd.bxc7.one/cn/home/web/",
+        "数组": "lazyload\"&&/a>",
+        "标题": "title=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "链接": "href=\"&&\"",
+        "跳转播放链接": "vod_play_url = '&&'",
+        "简介": "description\" content=\"&&\"",
+        "搜索url": "https://kcd.bxc7.one/s/{wd}/page/{pg}.html",
+        "分类url": "https://kcd.bxc7.one/vodtype/{cateId}-{catePg}.html;;z",
+        "分类二次截取": "<ul&&ul>",
+        "分类数组": "<a&&a>",
+        "分类标题": ">&&<",
+        "分类ID": "/vodtype/&&.html"
+      }
+    },
+    {
+      "key": "风流视频",
+      "name": "🤤风流┃视频",
+      "type": 3,
+      "jar": "./lib/xyqxbpq.jar",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "主页url": "https://djtzph.flsp8.cyou/cn/",
+        "数组": "container&&</li>",
+        "标题": "title=\"&&\"",
+        "图片": "src=\"&&\"",
+        "副标题": "icoplay\">&&</",
+        "链接": "href=\"&&\"",
+        "跳转播放链接": "vod_play_url = '&&'",
+        "简介": "description\" content=\"&&\"",
+        "搜索url": "https://djtzph.flsp8.cyou/s/{wd}/page/{pg}.html",
+        "分类url": "https://djtzph.flsp8.cyou/vodtype/{cateId}-{catePg}.html;;z",
+        "分类二次截取": "<ul>&&ul>",
+        "分类数组": "<a&&a>",
+        "分类标题": ">&&<",
+        "分类ID": "/vodtype/&&.html"
+      }
+    },
+    {
+      "key": "Youtube",
+      "name": "Youtube",
+      "type": 3,
+      "api": "csp_Youtube",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "timeout": 120,
+      "ext": {
+        "token": "./lib/tokenm.json",
+        "json": "./lib/youtube.json",
+        "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+        "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+        "codecs": "",
+        "proxy": "proxy",
+        "danmu": true
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.77
+      }
+    },
+    {
+      "key": "网盘配置",
+      "name": "网盘及彈幕配置",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "./lib/tokenm.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      }
+    },
+    {
+      "key": "Local",
+      "name": "本地",
+      "type": 3,
+      "api": "csp_Local"
+    },
+    {
+      "key": "PushShare",
+      "name": "我的资源分享",
+      "type": 3,
+      "api": "csp_PushShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
+      }
+    },
+    {
+      "key": "直播转点播",
+      "name": "🐼️┃电视┃直播",
+      "type": 3,
+      "searchable": 0,
+      "api": "./lib/live2vod.js",
+      "ext": "./lib/feimaolive.json"
+    },
+    {
+      "key": "FirstAid",
+      "name": "🚑 急救知识 ",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
+    {
+      "key": "drpy_js_磁力熊",
+      "name": "磁力熊[js]|索引",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/cilixiongp.js",
+      "playerType": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 1,
+      "indexs": 1
+    },
+    {
+      "key": "bili",
+      "name": "B站 | Bili[jar]",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "type": "演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
+        "cookie": ""
+      }
+    },
+    {
+      "key": "TGYunPanLocal",
+      "name": "TG频道搜索",
+      "type": 3,
+      "api": "csp_TGYunPanLocal",
+      "timeout": 120,
+      "ext": {
+        "token": "./lib/tokenm.json",
+        "json": "./lib/tgsearch.json",
+        "keywords": "名称,片名,推荐",
+        "tgsearch_url": "http://127.0.0.1:10199",
+        "tgsearch_media_url": "http://127.0.0.1:10199",
+        "channellist": "leoziyuan,ucpanpan,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
+        "proxy": "proxy",
+        "danmu": true
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.77
+      }
+    },
+    {
+      "key": "TGYunPan",
+      "name": "TG群组搜索",
+      "type": 3,
+      "api": "csp_TGYunPan",
+      "timeout": 120,
+      "ext": {
+        "token": "./lib/tokenm.json",
+        "json": "./lib/tgsearch.json",
+        "keywords": "名称,片名,推荐",
+        "tgsearch_url": "http://127.0.0.1:10199",
+        "tgsearch_media_url": "http://127.0.0.1:10199",
+        "channellist": "alypzyhzq|1000,Mbox115|1000,shares_115|1000,NewQuark|1000,New_Sharing|1000,wanwansubchat|1000",
+        "proxy": "noproxy",
+        "danmu": true
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.77
+      }
+    },
+    {
+      "key": "Bt0",
+      "name": "不太灵|磁力",
+      "type": 3,
+      "api": "csp_Bt0",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$null$$$noproxy$$$1",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
+      }
+    },
+    {
+      "key": "Bdys_spider",
+      "name": "修罗┃磁力",
+      "api": "csp_Bdys01",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://www.xlys01.com/$$$noproxy$$$1"
+    },
+    {
+      "key": "賤賤",
+      "name": "荐片",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./lib/jianpian.json$$$1",
+      "timeout": 60
+    },
+    {
+      "key": "NanGua",
+      "name": "南瓜|弹幕",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "null$$$1"
+    },
+    {
+      "key": "天天",
+      "name": "天天┃App",
+      "type": 3,
+      "api": "csp_TTian",
+      "ext": "http://op.ysdqjs.cn$$$null$$$1"
+    },
+    {
+      "key": "追剧",
+      "name": "追剧┃App",
+      "type": 3,
+      "api": "csp_TTian",
+      "ext": "http://app.kzjtv.com$$$null$$$1"
+    },
+    {
+      "key": "黑木耳",
+      "name": "黑木耳",
+      "type": 1,
+      "api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "索尼资源",
+      "name": "索尼┃资源",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "台剧",
+        "泰剧",
+        "海外剧",
+        "纪录片",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "动画片",
+        "港台动漫",
+        "海外动漫",
+        "演唱会",
+        "体育赛事",
+        "篮球",
+        "足球",
+        "预告片",
+        "斯诺克",
+        "影视解说"
+      ],
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "drpy_js_人人影视",
+      "name": "人人影视[js]|搜",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/yyets.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "style": {
+        "type": "list",
+        "ratio": 1.1
+      }
+    },
+    {
+      "key": "drpy_js_MP4US",
+      "name": "MP4电影[js]|磁",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/mp4us.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "drpy_js_88ball",
+      "name": "88看球[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/88ball.js",
+      "quickSearch": 0,
+      "searchable": 0,
+      "changeable": 0,
+      "timeout": 30
+    },
+    {
+      "key": "4KHDR",
+      "name": "4KHDR|网盘",
+      "type": 3,
+      "api": "csp_FourKHDR",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$./lib/4khdr.txt$$$1",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
+      }
+    },
+    {
+      "key": "JustLive",
+      "name": "JustLive",
+      "type": 3,
+      "api": "csp_JustLive",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "drpy_js_酷吧",
+      "name": "酷吧[js]|磁",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/kuba.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "BLSGod",
+      "name": "BLSGod|磁",
+      "type": 3,
+      "api": "csp_BLSGod",
+      "changeable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "Xunlei8",
+      "name": "Xunlei8|磁",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "changeable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "SeedHub",
+      "name": "SeedHub|磁",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "changeable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "快看",
+      "name": "快看",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1
+    },
+    {
+      "key": "Ikanbot",
+      "name": "爱看机器人",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://v.aikanbot.com$$$proxy"
+    },
+    {
+      "key": "csp_YingShi",
+      "name": "影视|海外",
+      "type": 3,
+      "api": "csp_YingShi",
+      "ext": "proxy"
+    },
+    {
+      "key": "星星",
+      "name": "星星 | 海外",
+      "type": 3,
+      "api": "csp_Star",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "proxy"
+    },
+    {
+      "key": "獨播",
+      "name": "獨播 | 海外",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "./lib/duboku.json$$$proxy"
+    },
+    {
+      "key": "haiwaikan",
+      "name": "海外看",
+      "type": 1,
+      "api": "http://127.0.0.1:10079/p/0/proxy/https://haiwaikan.com/api.php/provide/vod?",
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "日本动漫",
+        "国产动漫",
+        "欧美动漫",
+        "国产剧",
+        "韩剧",
+        "日剧",
+        "台剧",
+        "泰剧",
+        "港剧",
+        "欧美剧",
+        "动画电影",
+        "韩国综艺",
+        "国产综艺",
+        "日本综艺",
+        "欧美综艺",
+        "冒险片",
+        "剧情片",
+        "动作片",
+        "同性片",
+        "喜剧片",
+        "奇幻片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "战争片",
+        "歌舞片",
+        "灾难片",
+        "爱情片",
+        "犯罪片",
+        "科幻片",
+        "纪录片",
+        "经典片"
+      ]
+    },
+    {
+      "key": "ikun",
+      "name": "ikun",
+      "type": 1,
+      "api": "http://127.0.0.1:10079/p/0/proxy/https://ikunzyapi.com/api.php/provide/vod/?",
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "飞速资源",
+      "name": "飞速资源",
+      "type": 1,
+      "api": "http://127.0.0.1:10079/p/0/proxy/http://fszy1.com/api.php/provide/vod/?",
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "暴風",
+      "name": "暴風",
+      "type": 1,
+      "api": "http://127.0.0.1:10079/p/0/proxy/https://bfzyapi.com/api.php/provide/vod?",
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "索尼",
+      "name": "索尼 ",
+      "type": 1,
+      "api": "http://127.0.0.1:10079/p/0/proxy/https://suoniapi.com/api.php/provide/vod?",
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "快帆",
+      "name": "快帆",
+      "type": 1,
+      "api": "http://127.0.0.1:10079/p/0/proxy/https://api.kuaifan.tv/api.php/provide/vod?",
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "量子",
+      "name": "量子",
+      "type": 1,
+      "api": "http://127.0.0.1:10079/p/0/proxy/http://cj.lziapi.com/api.php/provide/vod/?",
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "非凡",
+      "name": "非凡",
+      "type": 1,
+      "api": "http://127.0.0.1:10079/p/0/proxy/http://cj.ffzyapi.com/api.php/provide/vod/?",
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "国产剧",
+        "韩国剧",
+        "日本剧",
+        "电影片",
+        "连续剧",
+        "综艺片",
+        "动漫片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "香港剧",
+        "欧美剧",
+        "记录片",
+        "台湾剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫"
+      ]
+    },
+    {
+      "key": "櫻花",
+      "name": "櫻花",
+      "type": 3,
+      "api": "csp_Ying",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "巴士",
+      "name": "巴士",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "異界",
+      "name": "異界",
+      "type": 3,
+      "api": "csp_Ysj",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "短剧",
+      "name": "短剧",
+      "type": 3,
+      "api": "csp_Duanju",
+      "searchable": 0,
+      "changeable": 1,
+      "ext": "https://www.duanjutv.icu"
+    },
+    {
+      "key": "drpy_js_Alist",
+      "name": "网盘 | Alist[js]",
+      "type": 3,
+      "api": "./lib/alist.min.js",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./js/alist.json"
+    },
+    {
+      "key": "MV_vod",
+      "name": "电视┃MTV",
+      "type": 1,
+      "api": "https://mv.wogg.link/mv/vod",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "酷狗",
+      "name": "酷狗",
+      "type": 3,
+      "api": "csp_Kugou",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "hipy_js_KTV歌厅[听]1",
+      "name": "🎤KTV歌厅在线",
+      "type": 3,
+      "api": "http://kxrj.site:55/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "http://kxrj.site:55/lib/js/KTV歌厅[听].js"
+    },
+    {
+      "key": "Yinyuetai",
+      "name": "音悦台",
+      "type": 3,
+      "api": "csp_Yinyuetai",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "changeable": 0,
+      "timeout": 30,
+      "ext": "./lib/tokenm.json"
+    },
+    {
+      "key": "應用商店",
+      "name": "應用商店",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://fm.t4tv.hz.cz/json/market.json"
+    }
+  ],
+  "lives": [
+    {
+      "name": "最强国内直播",
+      "type": 0,
+      "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "肥羊B站直播",
+      "type": 0,
+      "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/bililive.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "肥羊虎牙一起看",
+      "type": 0,
+      "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/huyayqk.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "肥羊斗鱼一起看",
+      "type": 0,
+      "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/douyuyqk.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "肥羊YY轮播",
+      "type": 0,
+      "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/yylunbo.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "Gather.电视直播",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Gather",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "Gather.网络直播",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Live",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "Gather.MyTV",
+      "type": 0,
+      "url": "http://127.0.0.1:10079/c/60/proxy/https://tv.iill.top/m3u/MyTV",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "PixMan.4GTV",
+      "type": 0,
+      "url": "http://127.0.0.1:10079/p/0/proxy/http://192.168.101.2:5050/4gtv.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "PixMan.BeeSport",
+      "type": 0,
+      "url": "http://127.0.0.1:10079/p/0/proxy/http://192.168.101.2:5050/beesport.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "PixMan.TheTV",
+      "type": 0,
+      "url": "http://127.0.0.1:10079/p/0/proxy/http://192.168.101.2:5050/thetv.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "PixMan.DLHD",
+      "type": 0,
+      "url": "http://127.0.0.1:10079/p/0/proxy/http://192.168.101.2:5050/dlhd.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "PixMan.ITV",
+      "type": 0,
+      "url": "http://127.0.0.1:10079/c/3600/null/http://192.168.101.2:5050/itv_proxy.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "PixMan.TPTV",
+      "type": 0,
+      "url": "http://127.0.0.1:10079/c/3600/null/http://192.168.101.2:5050/tptv.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "PixMan.MyTVSuper",
+      "type": 0,
+      "url": "http://127.0.0.1:10079/p/0/proxy/http://192.168.101.2:5050/mytvsuper.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "PixMan.Hami",
+      "type": 0,
+      "url": "http://127.0.0.1:10079/p/0/proxy/http://192.168.101.2:5050/hami.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "zouming.ipv6",
+      "type": 0,
+      "url": "http://127.0.0.1:10079/c/3600/proxy/http://ww.zouming.com/ipv6.txt",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "fmm.live.com.ipv6.m3u",
+      "type": 0,
+      "url": "http://127.0.0.1:10079/p/0/proxy/https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "fmm.live.cn.ipv6",
+      "type": 0,
+      "url": "http://127.0.0.1:10079/c/3600/proxy/https://fanmingming.cn/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "live.ipv6.local",
+      "type": 0,
+      "url": "./lib/live.ipv6.txt",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "live.fan",
+      "type": 0,
+      "url": "http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "YTLive",
+      "type": 0,
+      "url": "./lib/yo21.txt"
+    },
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "TXT",
+      "type": 0,
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+    },
+    {
+      "name": "Json",
+      "type": 1,
+      "url": "http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+    },
+    {
+      "name": "live.feimao",
+      "type": 0,
+      "url": "http://127.0.0.1:10079/p/0/proxy/http://我不是.肥猫.live/TV/tvzb.txt",
+      "ua": "okhttp/3.12.13",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "redirect",
+          "urls": [
+            "proxy://do=live&type=live&proxy=&url="
+          ]
+        }
+      ]
+    }
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "name": "proxy",
+      "hosts": [
+        "raw.githubusercontent.com",
+        "googlevideo.com",
+        "cdn.v82u1l.com",
+        "cdn.iz8qkg.com",
+        "cdn.kin6c1.com",
+        "c.biggggg.com",
+        "c.olddddd.com",
+        "haiwaikan.com",
+        "www.histar.tv",
+        "youtube.com",
+        "uhibo.com",
+        ".*boku.*",
+        ".*nivod.*",
+        "*.t4tv.hz.cz",
+        ".*ulivetv.*"
+      ]
+    },
+    {
+      "host": "www.djuu.com",
+      "rule": [
+        "mp4.djuu.com",
+        "m4a"
+      ]
+    },
+    {
+      "host": "www.sharenice.net",
+      "rule": [
+        "huoshan.com",
+        "/item/video/"
+      ],
+      "filter": [
 
-广元文化生活,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
-广元综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
-剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
-朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
+      ]
+    },
+    {
+      "host": "www.sharenice.net",
+      "rule": [
+        "sovv.qianpailive.com",
+        "vid="
+      ],
+      "filter": [
 
-广元文化生活,https://taijitv.zhonglong1.repl.co/sxg.php?id=gyggH265_4000
-广元综合,https://taijitv.zhonglong1.repl.co/sxg.php?id=gyzhH265_4000
-苍溪综合,https://taijitv.zhonglong1.repl.co/sxg.php?id=cxxwgqH265_4000
+      ]
+    },
+    {
+      "host": "www.sharenice.net",
+      "rule": [
+        "douyin.com",
+        "/play/"
+      ]
+    },
+    {
+      "host": "m.ysxs8.vip",
+      "rule": [
+        "ysting.ysxs8.vip:81",
+        "xmcdn.com"
+      ],
+      "filter": [
 
-央视,#genre#
-CCTV1,http://14.135.72.206:8888/rtp/239.121.4.113:8636
-CCTV2,http://14.135.72.206:8888/rtp/239.121.4.155:8914
-CCTV3,http://14.135.72.206:8888/rtp/239.121.4.151:8890
-CCTV4,http://14.135.72.206:8888/rtp/239.121.4.134:8786
-CCTV5,http://14.135.72.206:8888/rtp/239.121.4.152:8896
-CCTV6,http://14.135.72.206:8888/rtp/239.121.4.153:8902
-CCTV7,http://14.135.72.206:8888/rtp/239.121.4.156:8920
-CCTV8,http://14.135.72.206:8888/rtp/239.121.4.154:8908
-CCTV9,http://14.135.72.206:8888/rtp/239.121.4.157:8926
-CCTV11,http://14.135.72.206:8888/rtp/239.121.4.150:9202
-CCTV12,http://14.135.72.206:8888/rtp/239.121.4.159:8938
-CCTV13,http://14.135.72.206:8888/rtp/239.121.4.13:8028
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV14,http://14.135.72.206:8888/rtp/239.121.4.160:8944
-CCTV15,http://14.135.72.206:8888/rtp/239.121.4.202:9208
-CCTV16,http://14.135.72.206:8888/rtp/239.121.4.122:8008
-CCTV17,http://14.135.72.206:8888/rtp/239.121.4.61:8340
-CCTV5+,http://14.135.72.206:8888/rtp/239.121.4.140:8852
-CETV1,http://14.135.72.206:8888/rtp/239.121.4.180:9064
-CETV2,http://14.135.72.206:8888/rtp/239.121.4.60:8334
-CETV4,http://14.135.72.206:8888/rtp/239.121.4.199:9178
+      ]
+    },
+    {
+      "host": "hdmoli.com",
+      "rule": [
+        ".m3u8"
+      ]
+    },
+    {
+      "host": "https://api.live.bilibili.com",
+      "rule": [
+        "bilivideo.com",
+        "/index.m3u8"
+      ],
+      "filter": [
+        "data.bilibili.com/log/web",
+        "i0.hdslb.com/bfs/live/"
+      ]
+    },
+    {
+      "host": "www.agemys.cc",
+      "rule": [
+        "cdn-tos",
+        "obj/tos-cn"
+      ]
+    },
+    {
+      "host": "www.fun4k.com",
+      "rule": [
+        "https://hd.ijycnd.com/play",
+        "index.m3u8"
+      ]
+    },
+    {
+      "host": "zjmiao.com",
+      "rule": [
+        "play.videomiao.vip/API.php",
+        "time=",
+        "key=",
+        "path="
+      ]
+    },
+    {
+      "name": "火山嗅探",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音嗅探",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "農民嗅探",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "夜市",
+      "hosts": [
+        "yeslivetv.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+      ]
+    },
+    {
+      "name": "毛驢",
+      "hosts": [
+        "www.maolvys.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+      ]
+    },
+    {
+      "name": "磁力广告",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "更多",
+        "社 區",
+        "x u u",
+        "最 新",
+        "直 播",
+        "更 新",
+        "社 区",
+        "有 趣",
+        "英皇体育",
+        "全中文AV在线",
+        "澳门皇冠赌场",
+        "哥哥快来",
+        "美女荷官",
+        "裸聊",
+        "新片首发",
+        "UUE29"
+      ]
+    }
+  ],
+  "parses": [
 
-CCTV1,http://dqr028.oicp.net:4022/udp/239.93.0.184:5140
-CCTV2,http://dqr028.oicp.net:4022/udp/239.93.1.23:6000
-CCTV2,http://dqr028.oicp.net:4022/udp/239.93.0.59:5140
-CCTV3,http://dqr028.oicp.net:4022/udp/239.93.1.11:2223
-CCTV3,http://dqr028.oicp.net:4022/udp/239.93.0.109:5140
-CCTV4,http://dqr028.oicp.net:4022/udp/239.93.1.105:5140
-CCTV4,http://dqr028.oicp.net:4022/udp/239.93.0.60:5140
-CCTV5,http://dqr028.oicp.net:4022/udp/239.93.1.12:2224
-CCTV5,http://dqr028.oicp.net:4022/udp/239.93.42.37:5140
-CCTV5+,http://dqr028.oicp.net:4022/udp/239.93.1.36:8004
-CCTV6,http://dqr028.oicp.net:4022/udp/239.93.1.13:2226
-CCTV7,http://dqr028.oicp.net:4022/udp/239.93.1.67:5140
-CCTV7,http://dqr028.oicp.net:4022/udp/239.93.0.61:5140
-CCTV8,http://dqr028.oicp.net:4022/udp/239.93.1.14:2225
-CCTV8,http://dqr028.oicp.net:4022/udp/239.93.42.39:5140
-CCTV9,http://dqr028.oicp.net:4022/udp/239.93.1.24:5140
-CCTV10,http://dqr028.oicp.net:4022/udp/239.93.1.28:5140
-CCTV10,http://dqr028.oicp.net:4022/udp/239.93.0.63:5140
-CCTV11,http://dqr028.oicp.net:4022/udp/239.93.0.102:5140
-CCTV12,http://dqr028.oicp.net:4022/udp/239.93.1.30:8124
-CCTV12,http://dqr028.oicp.net:4022/udp/239.93.0.65:5140
-CCTV13,http://dqr028.oicp.net:4022/udp/239.93.0.66:5140
-CCTV14,http://dqr028.oicp.net:4022/udp/239.93.1.29:6000
-CCTV15,http://dqr028.oicp.net:4022/udp/239.93.0.103:5140
-CCTV16,http://dqr028.oicp.net:4022/udp/239.93.42.53:5140
-CCTV17,http://dqr028.oicp.net:4022/udp/239.93.0.92:5140
-
-CCTV1,http://xindu125.myds.me:4000/udp/239.93.0.184:5140
-CCTV2,http://xindu125.myds.me:4000/udp/239.93.1.23:6000
-CCTV2,http://xindu125.myds.me:4000/udp/239.93.0.59:5140
-CCTV3,http://xindu125.myds.me:4000/udp/239.93.1.11:2223
-CCTV3,http://xindu125.myds.me:4000/udp/239.93.0.109:5140
-CCTV4,http://xindu125.myds.me:4000/udp/239.93.1.105:5140
-CCTV4,http://xindu125.myds.me:4000/udp/239.93.0.60:5140
-CCTV5,http://xindu125.myds.me:4000/udp/239.93.1.12:2224
-CCTV5,http://xindu125.myds.me:4000/udp/239.93.42.37:5140
-CCTV5+,http://xindu125.myds.me:4000/udp/239.93.1.36:8004
-CCTV6,http://xindu125.myds.me:4000/udp/239.93.1.13:2226
-CCTV7,http://xindu125.myds.me:4000/udp/239.93.1.67:5140
-CCTV7,http://xindu125.myds.me:4000/udp/239.93.0.61:5140
-CCTV8,http://xindu125.myds.me:4000/udp/239.93.1.14:2225
-CCTV8,http://xindu125.myds.me:4000/udp/239.93.42.39:5140
-CCTV9,http://xindu125.myds.me:4000/udp/239.93.1.24:5140
-CCTV10,http://xindu125.myds.me:4000/udp/239.93.1.28:5140
-CCTV10,http://xindu125.myds.me:4000/udp/239.93.0.63:5140
-CCTV11,http://xindu125.myds.me:4000/udp/239.93.0.102:5140
-CCTV12,http://xindu125.myds.me:4000/udp/239.93.1.30:8124
-CCTV12,http://xindu125.myds.me:4000/udp/239.93.0.65:5140
-CCTV13,http://xindu125.myds.me:4000/udp/239.93.0.66:5140
-CCTV14,http://xindu125.myds.me:4000/udp/239.93.1.29:6000
-CCTV15,http://xindu125.myds.me:4000/udp/239.93.0.103:5140
-CCTV16,http://xindu125.myds.me:4000/udp/239.93.42.53:5140
-CCTV17,http://xindu125.myds.me:4000/udp/239.93.0.92:5140
-
-CCTV1,http://giwon.ddns.net:5555/udp/239.93.0.184:5140
-CCTV2,http://giwon.ddns.net:5555/udp/239.93.1.23:6000
-CCTV3,http://giwon.ddns.net:5555/udp/239.93.1.11:2223
-CCTV4,http://giwon.ddns.net:5555/udp/239.93.1.105:5140
-CCTV5,http://giwon.ddns.net:5555/udp/239.93.42.37:5140
-CCTV6,http://giwon.ddns.net:5555/udp/239.93.1.13:2226
-CCTV7,http://giwon.ddns.net:5555/udp/239.93.1.67:5140
-CCTV8,http://giwon.ddns.net:5555/udp/239.93.42.39:5140
-CCTV9,http://giwon.ddns.net:5555/udp/239.93.1.24:5140
-CCTV10,http://giwon.ddns.net:5555/udp/239.93.1.28:5140
-CCTV11,http://giwon.ddns.net:5555/udp/239.93.0.102:5140
-CCTV12,http://giwon.ddns.net:5555/udp/239.93.1.30:8124
-CCTV13,http://giwon.ddns.net:5555/udp/239.93.0.66:5140
-CCTV14,http://giwon.ddns.net:5555/udp/239.93.1.29:6000
-CCTV15,http://giwon.ddns.net:5555/udp/239.93.0.103:5140
-CCTV17,http://giwon.ddns.net:5555/udp/239.93.0.92:5140
-CCTV5+,http://giwon.ddns.net:5555/udp/239.93.1.36:8004
-CETV1,http://giwon.ddns.net:5555/udp/239.93.1.111:5140
-CETV2,http://giwon.ddns.net:5555/udp/239.93.0.113:5140
-CETV4,http://giwon.ddns.net:5555/udp/239.93.0.50:5140
-
-卫视,#genre#
-北京卫视,http://14.135.72.206:8888/rtp/239.121.4.117:8684
-广东卫视,http://14.135.72.206:8888/rtp/239.121.4.118:8690
-深圳卫视,http://14.135.72.206:8888/rtp/239.121.4.119:8696
-天津卫视,http://14.135.72.206:8888/rtp/239.121.4.72:8406
-重庆卫视,http://14.135.72.206:8888/udp/239.121.4.36:8190
-重庆卫视,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
-黑龙江卫视,http://14.135.72.206:8888/rtp/239.121.4.120:8702
-吉林卫视,http://14.135.72.206:8888/rtp/239.121.4.43:8232
-辽宁卫视,http://14.135.72.206:8888/rtp/239.121.4.163:8962
-河北卫视,http://14.135.72.206:8888/rtp/239.121.4.76:8430
-河南卫视,http://14.135.72.206:8888/rtp/239.121.4.40:8214
-山东卫视,http://14.135.72.206:8888/rtp/239.121.4.162:8956
-山西卫视,http://14.135.72.206:8888/rtp/239.121.4.32:8166
-陕西卫视,http://14.135.72.206:8888/rtp/239.121.4.38:8202
-江苏卫视,http://14.135.72.206:8888/rtp/239.121.4.115:8672
-安徽卫视,http://14.135.72.206:8888/rtp/239.121.4.161:8950
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://14.135.72.206:8888/udp/239.121.4.116:8678
-湖北卫视,http://14.135.72.206:8888/rtp/239.121.4.126:8738
-湖南卫视,http://14.135.72.206:8888/rtp/239.121.4.114:8666
-江西卫视,http://14.135.72.206:8888/rtp/239.121.4.111:8648
-东南卫视,http://14.135.72.206:8888/rtp/239.121.4.102:9226
-广西卫视,http://14.135.72.206:8888/rtp/239.121.4.47:8256
-四川卫视,http://14.135.72.206:8888/rtp/239.121.4.110:8642
-贵州卫视,http://14.135.72.206:8888/rtp/239.121.4.65:8364
-云南卫视,http://14.135.72.206:8888/udp/239.121.4.48:8262
-海南卫视,http://14.135.72.206:8888/rtp/239.121.4.50:8274
-三沙卫视,http://14.135.72.206:8888/rtp/239.121.4.101:9220
-宁夏卫视,http://14.135.72.206:8888/rtp/239.121.4.94:8538
-甘肃卫视,http://14.135.72.206:8888/rtp/239.121.4.25:8124
-青海卫视,http://14.135.72.206:8888/rtp/239.121.4.55:8304
-内蒙古卫视,http://14.135.72.206:8888/rtp/239.121.4.57:8316
-新疆卫视,http://14.135.72.206:8888/rtp/239.121.4.58:8322
-兵团卫视,http://14.135.72.206:8888/rtp/239.121.4.195:9154
-西藏卫视,http://14.135.72.206:8888/rtp/239.121.4.56:8310
-
-四川卫视,http://giwon.ddns.net:5555/udp/239.93.0.20:1235
-湖南卫视,http://giwon.ddns.net:5555/udp/239.93.0.88:5140
-江苏卫视,http://giwon.ddns.net:5555/udp/239.93.0.89:5140
-浙江卫视,http://giwon.ddns.net:5555/udp/239.93.0.124:5140
-东方卫视,http://giwon.ddns.net:5555/udp/239.93.0.123:5140
-北京卫视,http://giwon.ddns.net:5555/udp/239.93.0.180:5140
-深圳卫视,http://giwon.ddns.net:5555/udp/239.93.0.182:5140
-广东卫视,http://giwon.ddns.net:5555/udp/239.93.0.181:5140
-天津卫视,http://giwon.ddns.net:5555/udp/239.93.0.167:5140
-山东卫视,http://giwon.ddns.net:5555/udp/239.93.0.168:5140
-康巴卫视,http://giwon.ddns.net:5555/udp/239.93.0.41:5140
-江西卫视,http://giwon.ddns.net:5555/udp/239.93.0.134:5140
-东南卫视,http://giwon.ddns.net:5555/udp/239.93.0.42:5140
-黑龙江卫视,http://giwon.ddns.net:5555/udp/239.93.0.183:5140
-贵州卫视,http://giwon.ddns.net:5555/udp/239.93.0.131:5140
-湖北卫视,http://giwon.ddns.net:5555/udp/239.93.0.250:5140
-安徽卫视,http://giwon.ddns.net:5555/udp/239.93.1.106:5140
-河北卫视,http://giwon.ddns.net:5555/udp/239.93.0.132:5140
-辽宁卫视,http://giwon.ddns.net:5555/udp/239.93.1.108:5140
-河南卫视,http://giwon.ddns.net:5555/udp/239.93.42.45:5140
-广西卫视,http://giwon.ddns.net:5555/udp/239.93.42.46:5140
-云南卫视,http://giwon.ddns.net:5555/udp/239.93.0.174:5140
-吉林卫视,http://giwon.ddns.net:5555/udp/239.93.0.248:5140
-陕西卫视,http://giwon.ddns.net:5555/udp/239.93.0.176:5140
-山西卫视,http://giwon.ddns.net:5555/udp/239.93.0.6:5140
-内蒙古卫视,http://giwon.ddns.net:5555/udp/239.93.0.8:5140
-青海卫视,http://giwon.ddns.net:5555/udp/239.93.0.192:5140
-宁夏卫视,http://giwon.ddns.net:5555/udp/239.93.0.247:5140
-西藏卫视,http://giwon.ddns.net:5555/udp/239.93.0.175:5140
-新疆卫视,http://giwon.ddns.net:5555/udp/239.93.0.194:5140
-甘肃卫视,http://giwon.ddns.net:5555/udp/239.93.0.81:5140
-海南卫视,http://giwon.ddns.net:5555/udp/239.93.0.80:5140
-陕西农林,http://giwon.ddns.net:5555/udp/239.93.0.100:5140
-兵团卫视,http://giwon.ddns.net:5555/udp/239.93.42.43:5140
-峨眉电影,http://giwon.ddns.net:5555/udp/239.93.0.252:5140
-厦门卫视,http://giwon.ddns.net:5555/udp/239.93.42.57:5140
-三沙卫视,http://giwon.ddns.net:5555/udp/239.93.42.58:5140
-上海纪实,http://giwon.ddns.net:5555/udp/239.93.1.137:5140
-金鹰纪实,http://giwon.ddns.net:5555/udp/239.93.0.130:5140
-炫动卡通,http://giwon.ddns.net:5555/udp/239.93.0.173:5140
-嘉佳卡通,http://giwon.ddns.net:5555/udp/239.93.0.246:5140
-四川,#genre#
-四川卫视,http://cdn.swes.cn:8089/rtp/239.93.0.20:1235
-四川经济,http://cdn.swes.cn:8089/udp/239.93.1.101:5140
-四川文化旅游,http://cdn.swes.cn:8089/udp/239.93.1.102:5140
-四川新闻,http://cdn.swes.cn:8089/udp/239.93.0.47:5140
-四川影视文艺,http://cdn.swes.cn:8089/udp/239.93.0.166:5140
-四川妇女儿童,http://cdn.swes.cn:8089/udp/239.93.0.219:5140
-四川科教,http://cdn.swes.cn:8089/udp/239.93.42.44:5140
-四川乡村,http://cdn.swes.cn:8089/udp/239.93.0.52:5140
-康巴卫视,http://cdn.swes.cn:8089/udp/239.93.0.41:5140
-峨眉电影,http://cdn.swes.cn:8089/udp/239.93.0.252:5140
-成都 CDTV.1 综合,http://cdn.swes.cn:8089/udp/239.93.0.16:5140
-成都 CDTV.2 经济,http://cdn.swes.cn:8089/udp/239.93.0.17:1239
-成都 CDTV.3 生活,http://cdn.swes.cn:8089/udp/239.93.0.18:1238
-成都 CDTV.4 影视,http://cdn.swes.cn:8089/udp/239.93.0.19:1250
-成都 CDTV.5 公共,http://cdn.swes.cn:8089/udp/239.93.1.231:5140
-成都 CDTV.6 少儿,http://cdn.swes.cn:8089/udp/239.93.0.21:1251
-GDTV 蓉城先锋,http://cdn.swes.cn:8089/udp/239.93.0.91:2101
-成都体育,http://cdn.swes.cn:8089/udp/239.93.0.224:1281
-熊猫频道1,http://cdn.swes.cn:8089/udp/239.93.0.211:9148
-熊猫频道2,http://cdn.swes.cn:8089/udp/239.93.1.178:5140
-
-四川卫视,http://giwon.ddns.net:5555/rtp/239.93.0.20:1235
-四川经济,http://giwon.ddns.net:5555/rtp/239.93.1.101:5140
-四川文化旅游,http://giwon.ddns.net:5555/rtp/239.93.1.102:5140
-四川新闻,http://giwon.ddns.net:5555/rtp/239.93.0.47:5140
-四川影视文艺,http://giwon.ddns.net:5555/rtp/239.93.0.166:5140
-四川科教,http://giwon.ddns.net:5555/rtp/239.93.42.44:5140
-四川乡村,http://giwon.ddns.net:5555/rtp/239.93.0.52:5140
-四川妇女儿童,http://giwon.ddns.net:5555/rtp/239.93.0.219:5140
-峨眉电影,http://giwon.ddns.net:5555/rtp/239.93.0.252:5140
-成都 CDTV.1 综合,http://giwon.ddns.net:5555/rtp/239.93.0.16:5140
-成都 CDTV.2 经济,http://giwon.ddns.net:5555/rtp/239.93.0.17:1239
-成都 CDTV.3 生活://giwon.ddns.net:5555/rtp/239.93.0.18:1238
-成都 CDTV.4 影视,http://giwon.ddns.net:5555/rtp/239.93.0.19:1250
-成都 CDTV.5 公共,http://giwon.ddns.net:5555/rtp/239.93.1.231:5140
-成都 CDTV.6 少儿,http://giwon.ddns.net:5555/rtp/239.93.0.21:1251
-CHC高清电影,http://giwon.ddns.net:5555/udp/239.93.42.5:5140
-CHC家庭影院,http://giwon.ddns.net:5555/udp/239.93.42.6:5140
-CHC动作电影,http://giwon.ddns.net:5555/udp/239.93.42.7:5140
-凤凰中文,http://giwon.ddns.net:5555/rtp/239.93.1.9:2192,
-凤凰资讯,http://giwon.ddns.net:5555/rtp/239.93.1.4:2191
-CETV-1,http://giwon.ddns.net:5555/udp/239.93.1.111:5140$成电组域
-CETV-2,http://giwon.ddns.net:5555/udp/239.93.0.113:5140$成电组域
-CETV-4,http://giwon.ddns.net:5555/udp/239.93.0.50:5140$成电组域
-中录动漫4K,http://giwon.ddns.net:5555/udp/239.93.1.188:5140,
-亲子趣学4K,http://giwon.ddns.net:5555/udp/239.93.1.191:5140
-CDTV-8购物,http://giwon.ddns.net:5555/udp/239.93.0.22:1252
-浙江,#genre#
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-影视娱乐,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
-浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-留学世界,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
-浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-之江记录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江新闻,http://iptv.myxcwh.com:8888/udp/233.50.201.137:5140,
-浙江经济生活,http://iptv.myxcwh.com:8888/udp/233.50.201.133:5140
-浙江少儿,http://iptv.myxcwh.com:8888/udp/233.50.201.138:5140,
-浙江教科影视,http://iptv.myxcwh.com:8888/udp/233.50.201.134:5140
-浙江民生休闲,http://iptv.myxcwh.com:8888/udp/233.50.201.136:5140
-钱江都市,http://iptv.myxcwh.com:8888/udp/233.50.201.132:5140,
-之江记录,http://iptv.myxcwh.com:8888/udp/233.50.202.25:5140
-杭州明珠,http://iptv.myxcwh.com:8888/udp/233.50.201.174:5140
-杭州生活,http://iptv.myxcwh.com:8888/udp/233.50.201.175:5140
-杭州影视,http://iptv.myxcwh.com:8888/udp/233.50.201.176:5140
-杭州青少体育,http://iptv.myxcwh.com:8888/udp/233.50.201.177:5140
-杭州导视,http://iptv.myxcwh.com:8888/udp/233.50.201.182:5140
-北京,#genre#
-//联通组播备用：ha.tonyliangli.cn:4022
-北京卫视,http://ha.tonyliangli.cn:4022/udp/239.3.1.241:8000
-北京新闻,http://ha.tonyliangli.cn:4022/udp/239.3.1.159:8000
-北京新闻,http://live.funhillrm.com/5/playlist.m3u8
-北京财经,http://ha.tonyliangli.cn:4022/udp/239.3.1.116:8000
-北京生活,http://ha.tonyliangli.cn:4022/udp/239.3.1.117:8000
-北京纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-北京体育休闲,http://ha.tonyliangli.cn:4022/udp/239.3.1.243:8000
-北京国际,http://ha.tonyliangli.cn:4022/udp/239.3.1.235:8000
-北京淘娱乐,http://ha.tonyliangli.cn:4022/udp/239.3.1.100:8001
-北京萌宠TV,http://ha.tonyliangli.cn:4022/udp/239.3.1.102:8001
-北京淘精彩,http://ha.tonyliangli.cn:4022/udp/239.3.1.178:8001
-北京淘BABY,http://ha.tonyliangli.cn:4022/udp/239.3.1.238:8001
-北京淘电影,http://ha.tonyliangli.cn:4022/udp/239.3.1.250:8001
-北京文艺,http://ha.tonyliangli.cn:4022/udp/239.3.1.242:8000
-北京影视,http://ha.tonyliangli.cn:4022/udp/239.3.1.158:8000
-北京科教,http://ha.tonyliangli.cn:4022/udp/239.3.1.227:8000
-北京卡酷少儿,http://ha.tonyliangli.cn:4022/udp/239.3.1.189:8000
-朝阳,http://ha.tonyliangli.cn:4022/udp/239.3.1.163:8001
-房山,http://ha.tonyliangli.cn:4022/udp/239.3.1.96:8001
-房山,http://live.funhillrm.com/2/playlist.m3u8
-上海,#genre#
-东方财经,http://14.135.72.206:8888/rtp/239.121.4.71:8400
-纪实人文,http://221.217.128.165:8180/udp/239.3.1.212:8060
-纪实人文,http://106.45.2.105:8888/rtp/239.121.4.164:8968
-广东,#genre#
-广东珠江,http://windows.pinxuesoft.com:54321/rtp/239.77.0.3:5146
-广东珠江,http://tk9j1jk3.v3n.szbdyd.com:8000/rtp/239.77.0.3:5146
-广东新闻,http://windows.pinxuesoft.com:54321/rtp/239.77.0.4:5146
-广东新闻,http://tk9j1jk3.v3n.szbdyd.com:8000/rtp/239.77.0.4:5146
-广东体育,http://windows.pinxuesoft.com:54321/rtp/239.77.0.6:5146
-广东体育,http://tk9j1jk3.v3n.szbdyd.com:8000/rtp/239.77.0.6:5146
-广州综合,http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8
-广州新闻,http://tencentplaygzrb.gztv.com/sec/xinwen.m3u8
-广州竞赛,http://tencentplaygzrb.gztv.com/sec/jingsai.m3u8
-广州影视,http://tencentplaygzrb.gztv.com/sec/yingshi.m3u8
-广州法治,http://tencentplaygzrb.gztv.com/sec/fazhi.m3u8
-广州南国都市,http://tencentplaygzrb.gztv.com/sec/nanguodushi.m3u8
-深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
-珠海综合,http://windows.pinxuesoft.com:54321/rtp/239.77.1.230:5146
-珠海综合,http://tk9j1jk3.v3n.szbdyd.com:8000/rtp/239.77.1.230:5146
-珠海生活,http://windows.pinxuesoft.com:54321/rtp/239.77.1.231:5146
-珠海生活,http://tk9j1jk3.v3n.szbdyd.com:8000/rtp/239.77.1.231:5146
-佛山综合,http://windows.pinxuesoft.com:54321/rtp/239.253.43.52:5146
-佛山综合,http://tk9j1jk3.v3n.szbdyd.com:8000/rtp/239.253.43.52:5146
-佛山公共,http://windows.pinxuesoft.com:54321/rtp/239.253.43.48:5146
-佛山公共,http://tk9j1jk3.v3n.szbdyd.com:8000/rtp/239.253.43.48:5146
-汕头综合,http://windows.pinxuesoft.com:54321/rtp/239.253.43.30:5146
-汕头综合,http://tk9j1jk3.v3n.szbdyd.com:8000/rtp/239.253.43.30:5146
-汕头生活,http://windows.pinxuesoft.com:54321/rtp/239.253.43.43:5146
-汕头生活,http://tk9j1jk3.v3n.szbdyd.com:8000/rtp/239.253.43.43:5146
-汕尾综合,http://windows.pinxuesoft.com:54321/rtp/239.77.1.189:5146
-汕尾综合,http://tk9j1jk3.v3n.szbdyd.com:8000/rtp/239.77.1.189:5146
-汕尾生活,http://windows.pinxuesoft.com:54321/rtp/239.77.1.190:5146
-汕尾生活,http://tk9j1jk3.v3n.szbdyd.com:8000/rtp/239.77.1.190:5146
-揭阳综合,http://windows.pinxuesoft.com:54321/rtp/239.77.0.157:5146
-揭阳综合,http://tk9j1jk3.v3n.szbdyd.com:8000/rtp/239.77.0.157:5146
-揭阳生活,http://windows.pinxuesoft.com:54321/rtp/239.77.0.158:5146
-揭阳生活,http://tk9j1jk3.v3n.szbdyd.com:8000/rtp/239.77.0.158:5146
-大湾区卫视,http://ha.tonyliangli.cn:4022/udp/239.3.1.161:8001
-广东新闻,http://glive.grtn.cn/live/lizhi.m3u8
-上海电信,#genre#
-新闻综合HD,http://www.baopiqi.top:4022/udp/239.45.3.209:5140
-五星体育HD,http://www.baopiqi.top:4022/udp/239.45.3.210:5140
-东方影视HD,http://www.baopiqi.top:4022/udp/239.45.3.237:5140
-东方财经HD,http://www.baopiqi.top:4022/udp/239.45.0.17:5140
-第一财经HD,http://www.baopiqi.top:4022/udp/239.45.3.211:5140
-七彩戏剧HD,http://www.baopiqi.top:4022/udp/239.45.0.16:5140
-都市频道HD,http://www.baopiqi.top:4022/udp/239.45.3.236:5140
-上海教育HD,http://www.baopiqi.top:4022/udp/239.45.0.13:5140
-金色学堂HD,http://www.baopiqi.top:4022/udp/239.45.0.9:5140
-艺术人文HD,http://www.baopiqi.top:4022/udp/239.45.1.41:5140
-金鹰纪实HD,http://www.baopiqi.top:4022/udp/239.45.1.45:5140
-法治天地HD,http://www.baopiqi.top:4022/udp/239.45.1.46:5140
-外语频道HD,http://www.baopiqi.top:4022/udp/239.45.1.127:5140
-游戏风云HD,http://www.baopiqi.top:4022/udp/239.45.3.131:5140
-生活时尚HD,http://www.baopiqi.top:4022/udp/239.45.3.132:5140
-动漫秀场HD,http://www.baopiqi.top:4022/udp/239.45.3.134:5140
-都市剧场HD,http://www.baopiqi.top:4022/udp/239.45.3.136:5140
-乐游HD,http://www.baopiqi.top:4022/udp/239.45.3.135:5140
-纪实人文HD,http://www.baopiqi.top:4022/udp/239.45.3.212:5140
-纪实科教HD,http://www.baopiqi.top:4022/udp/239.45.1.14:5140
-中国教育-4HD,http://www.baopiqi.top:4022/udp/239.45.0.21:5140
-欢笑剧场HD,http://www.baopiqi.top:4022/udp/239.45.3.196:5140
-百事通动画4K,http://www.baopiqi.top:4022/udp/239.45.1.1:5140
-欢笑剧场4K,http://www.baopiqi.top:4022/udp/239.45.1.4:5140
-百事通4K-01,http://www.baopiqi.top:4022/udp/239.45.1.42:5140
-百事通4K-02,http://www.baopiqi.top:4022/udp/239.45.1.108:5140
-百事通4K-03,http://www.baopiqi.top:4022/udp/239.45.3.107:5140
-哈哈炫动HD,http://www.baopiqi.top:4022/udp/239.45.1.55:5140
-卡酷少儿HD,http://www.baopiqi.top:4022/udp/239.45.0.8:5140
-百事通体育HD-01,http://www.baopiqi.top:4022/udp/239.45.3.138:5140
-百事通体育HD-02,http://www.baopiqi.top:4022/udp/239.45.3.88:5140
-百事通体育HD-03,http://www.baopiqi.top:4022/udp/239.45.3.139:5140
-百事通体育HD-04,http://www.baopiqi.top:4022/udp/239.45.3.140:5140
-百事通体育HD-05,http://www.baopiqi.top:4022/udp/239.45.3.137:5140
-百事通体育HD-06,http://www.baopiqi.top:4022/udp/239.45.3.215:5140
-百事通体育HD-07,http://www.baopiqi.top:4022/udp/239.45.3.216:5140
-CCTV1,http://www.baopiqi.top:4022/udp/239.45.3.145:5140
-CCTV2,http://www.baopiqi.top:4022/udp/239.45.0.1:5140
-CCTV3,http://www.baopiqi.top:4022/udp/239.45.1.68:5140
-CCTV4,http://www.baopiqi.top:4022/udp/239.45.0.2:5140
-CCTV5,http://www.baopiqi.top:4022/udp/239.45.1.69:5140
-CCTV5+,http://www.baopiqi.top:4022/udp/239.45.0.34:5140
-CCTV6,http://www.baopiqi.top:4022/udp/239.45.1.70:5140
-CCTV7,http://www.baopiqi.top:4022/udp/239.45.3.56:5140
-CCTV8,http://www.baopiqi.top:4022/udp/239.45.1.71:5140
-CCTV9,http://www.baopiqi.top:4022/udp/239.45.3.4:5140
-CCTV10,http://www.baopiqi.top:4022/udp/239.45.3.8:5140
-CCTV11,http://www.baopiqi.top:4022/udp/239.45.0.18:5140
-CCTV12,http://www.baopiqi.top:4022/udp/239.45.3.10:5140
-CCTV13,http://www.baopiqi.top:4022/udp/239.45.0.19:5140
-CCTV14,http://www.baopiqi.top:4022/udp/239.45.3.23:5140
-CCTV15,http://www.baopiqi.top:4022/udp/239.45.0.20:5140
-CCTV16,http://www.baopiqi.top:4022/udp/239.45.0.10:5140
-CCTV16 4K,http://www.baopiqi.top:4022/udp/239.45.0.12:5140
-CCTV17,http://www.baopiqi.top:4022/udp/239.45.3.52:5140
-CETV1,http://www.baopiqi.top:4022/udp/239.45.1.125:5140
-CETV4,http://www.baopiqi.top:4022/udp/239.45.0.21:5140
-浙江卫视,http://www.baopiqi.top:4022/udp/239.45.3.178:5140
-广东卫视,http://www.baopiqi.top:4022/udp/239.45.3.230:5140
-安徽卫视,http://www.baopiqi.top:4022/udp/239.45.1.120:5140
-北京卫视,http://www.baopiqi.top:4022/udp/239.45.3.229:5140
-湖南卫视,http://www.baopiqi.top:4022/udp/239.45.3.228:5140
-东南卫视,http://www.baopiqi.top:4022/udp/239.45.1.121:5140
-甘肃卫视,http://www.baopiqi.top:4022/udp/239.45.0.15:5140
-广西卫视,http://www.baopiqi.top:4022/udp/239.45.0.5:5140
-贵州卫视,http://www.baopiqi.top:4022/udp/239.45.1.80:5140
-海南卫视,http://www.baopiqi.top:4022/udp/239.45.1.81:5140
-河北卫视,http://www.baopiqi.top:4022/udp/239.45.1.44:5140
-河南卫视,http://www.baopiqi.top:4022/udp/239.45.0.3:5140
-黑龙江卫视,http://www.baopiqi.top:4022/udp/239.45.3.232:5140
-湖北卫视,http://www.baopiqi.top:4022/udp/239.45.3.239:5140
-吉林卫视,http://www.baopiqi.top:4022/udp/239.45.0.6:5140
-江苏卫视,http://www.baopiqi.top:4022/udp/239.45.3.177:5140
-江西卫视,http://www.baopiqi.top:4022/udp/239.45.1.122:5140
-辽宁卫视,http://www.baopiqi.top:4022/udp/239.45.1.123:5140
-山东卫视,http://www.baopiqi.top:4022/udp/239.45.3.238:5140
-深圳卫视,http://www.baopiqi.top:4022/udp/239.45.3.231:5140
-四川卫视,http://www.baopiqi.top:4022/udp/239.45.1.83:5140
-天津卫视,http://www.baopiqi.top:4022/udp/239.45.1.124:5140
-云南卫视,http://www.baopiqi.top:4022/udp/239.45.0.4:5140
-重庆卫视,http://www.baopiqi.top:4022/udp/239.45.1.84:5140
-兵团卫视,http://www.baopiqi.top:4022/udp/239.45.1.117:5140
-内蒙古卫视,http://www.baopiqi.top:4022/udp/239.45.1.238:5140
-宁夏卫视,http://www.baopiqi.top:4022/udp/239.45.1.213:5140
-青海卫视,http://www.baopiqi.top:4022/udp/239.45.1.230:5140
-三沙卫视,http://www.baopiqi.top:4022/udp/239.45.1.82:5140
-陕西卫视,http://www.baopiqi.top:4022/udp/239.45.1.232:5140
-西藏卫视,http://www.baopiqi.top:4022/udp/239.45.1.231:5140
-新疆卫视,http://www.baopiqi.top:4022/udp/239.45.1.116:5140
-天津,#genre#
-天津新闻,http://tj.bh3bbb.com:40000/udp/225.1.1.130:5002
-天津文艺,http://tj.bh3bbb.com:40000/udp/225.1.1.131:5002
-天津影视,http://tj.bh3bbb.com:40000/udp/225.1.1.149:5002
-天津都市,http://tj.bh3bbb.com:40000/udp/225.1.1.128:5002
-天津体育,http://tj.bh3bbb.com:40000/udp/225.1.1.122:5002
-天津教育,http://tj.bh3bbb.com:40000/udp/225.1.1.129:5002
-天津少儿,http://tj.bh3bbb.com:40000/udp/225.1.1.125:5002
-天津IPTV,http://tj.bh3bbb.com:40000/udp/225.1.2.182:5002
-蓟州,http://tj.bh3bbb.com:40000/udp/225.1.1.82:5002
-大港油田企业频道,http://tj.bh3bbb.com:40000/udp/225.1.2.14:5002
-江苏,#genre#
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-湖北,#genre#
-湖北卫视,http://gd.ikhs.cn:8880/rtp/239.254.96.115:8664
-湖北公共新闻,http://gd.ikhs.cn:8880/rtp/239.69.1.40:9880
-湖北经视,http://gd.ikhs.cn:8880/rtp/239.69.1.41:9886
-湖北综合,http://gd.ikhs.cn:8880/rtp/239.69.1.42:9892
-湖北垄上,http://gd.ikhs.cn:8880/rtp/239.69.1.43:9898
-湖北影视,http://gd.ikhs.cn:8880/rtp/239.69.1.204:10866
-湖北生活,http://gd.ikhs.cn:8880/rtp/239.69.1.205:10872
-湖北教育,http://gd.ikhs.cn:8880/rtp/239.69.1.206:10878
-武汉一台新闻综合,http://gd.ikhs.cn:8880/rtp/239.69.1.145:10506
-武汉二台电视剧,http://gd.ikhs.cn:8880/rtp/239.69.1.146:10512
-武汉三台科技生活,http://gd.ikhs.cn:8880/rtp/239.69.1.251:11148
-武汉四台经济,http://gd.ikhs.cn:8880/rtp/239.69.1.35:9850
-武汉五台文体,http://gd.ikhs.cn:8880/rtp/239.69.1.147:10518
-武汉六台外语,http://gd.ikhs.cn:8880/rtp/239.69.1.36:9856
-武汉教育,http://gd.ikhs.cn:8880/rtp/239.69.1.60:9994
-CCTV1综合,http://gd.ikhs.cn:8880/rtp/239.254.96.96:8550
-CCTV2财经,http://gd.ikhs.cn:8880/rtp/239.69.1.102:10250
-CCTV3综艺,http://gd.ikhs.cn:8880/rtp/239.69.1.122:10370
-CCTV4中文国际,http://gd.ikhs.cn:8880/rtp/239.69.1.138:10466
-CCTV4中文国际欧洲,http://gd.ikhs.cn:8880/rtp/239.69.1.231:11028
-CCTV4中文国际美洲,http://gd.ikhs.cn:8880/rtp/239.69.1.232:11034
-CCTV5体育,http://gd.ikhs.cn:8880/rtp/239.69.1.123:10376
-CCTV5+体育赛事,http://gd.ikhs.cn:8880/rtp/239.254.96.234:9484
-CCTV6电影,http://gd.ikhs.cn:8880/rtp/239.69.1.124:10382
-CCTV7国防军事,http://gd.ikhs.cn:8880/rtp/239.69.1.103:10256
-CCTV8电视剧,http://gd.ikhs.cn:8880/rtp/239.69.1.125:10388
-CCTV9记录,http://gd.ikhs.cn:8880/rtp/239.69.1.104:10262
-CCTV10科教,http://gd.ikhs.cn:8880/rtp/239.69.1.105:10268
-CCTV11戏曲,http://gd.ikhs.cn:8880/rtp/239.69.1.154:10560
-CCTV12社会与法,http://gd.ikhs.cn:8880/rtp/239.69.1.106:10274
-CCTV13新闻,http://gd.ikhs.cn:8880/rtp/239.254.96.161:9040
-CCTV14少儿,http://gd.ikhs.cn:8880/rtp/239.69.1.107:10280
-CCTV15音乐,http://gd.ikhs.cn:8880/rtp/239.69.1.155:10566
-CCTV16奥林匹克,http://gd.ikhs.cn:8880/rtp/239.69.1.247:11124
-CCTV16奥林匹克-4K,http://gd.ikhs.cn:8880/rtp/239.69.1.249:11136
-CCTV17农业农村,http://gd.ikhs.cn:8880/rtp/239.69.1.152:10548
-CCTV4K超高清,http://gd.ikhs.cn:8880/rtp/239.69.1.12:9712
-CCTV第一剧场,http://gd.ikhs.cn:8880/rtp/239.69.1.74:10084
-CCTV兵器科技,http://gd.ikhs.cn:8880/rtp/239.69.1.79:10114
-CCTV风云足球,http://gd.ikhs.cn:8880/rtp/239.69.1.81:10126
-CCTV高尔夫网球,http://gd.ikhs.cn:8880/rtp/239.69.1.83:10138
-CCTV世界地理,http://gd.ikhs.cn:8880/rtp/239.69.1.91:10186
-CCTV央视台球,http://gd.ikhs.cn:8880/rtp/239.69.1.98:10224
-河北卫视,http://gd.ikhs.cn:8880/rtp/239.254.96.113:9616
-深圳卫视,http://gd.ikhs.cn:8880/rtp/239.254.96.137:8896
-黑龙江卫视,http://gd.ikhs.cn:8880/rtp/239.254.96.138:8902
-湖南卫视,http://gd.ikhs.cn:8880/rtp/239.254.96.139:8908
-广东卫视,http://gd.ikhs.cn:8880/rtp/239.254.96.140:8914
-北京卫视,http://gd.ikhs.cn:8880/rtp/239.254.96.141:8920
-东方卫视,http://gd.ikhs.cn:8880/rtp/239.254.96.142:8926
-浙江卫视,http://gd.ikhs.cn:8880/rtp/239.254.96.143:8932
-江苏卫视,http://gd.ikhs.cn:8880/rtp/239.254.96.144:8938
-天津卫视,http://gd.ikhs.cn:8880/rtp/239.69.1.68:10048
-山东卫视,http://gd.ikhs.cn:8880/rtp/239.69.1.69:10054
-安徽卫视,http://gd.ikhs.cn:8880/rtp/239.69.1.70:10060
-辽宁卫视,http://gd.ikhs.cn:8880/rtp/239.69.1.71:10066
-东南卫视,http://gd.ikhs.cn:8880/rtp/239.69.1.108:10286
-江西卫视,http://gd.ikhs.cn:8880/rtp/239.69.1.126:10394
-重庆卫视,http://gd.ikhs.cn:8880/rtp/239.69.1.149:10530
-贵州卫视,http://gd.ikhs.cn:8880/rtp/239.69.1.150:10536
-海南卫视,http://gd.ikhs.cn:8880/rtp/239.69.1.151:10542
-河南卫视,http://gd.ikhs.cn:8880/rtp/239.69.1.168:10644
-四川卫视,http://gd.ikhs.cn:8880/rtp/239.69.1.169:10650
-广西卫视,http://gd.ikhs.cn:8880/rtp/239.69.1.191:10788
-吉林卫视,http://gd.ikhs.cn:8880/rtp/239.69.1.212:10914
-CHC-高清电影,http://gd.ikhs.cn:8880/rtp/239.69.1.241:11088
-CHC-动作电影,http://gd.ikhs.cn:8880/rtp/239.69.1.242:11094
-CHC-家庭影院,http://gd.ikhs.cn:8880/rtp/239.69.1.243:11100
-卡酷少儿,http://gd.ikhs.cn:8880/rtp/239.69.1.193:10800
-梨园频道,http://gd.ikhs.cn:8880/rtp/239.69.1.33:9838
-武术世界,http://gd.ikhs.cn:8880/rtp/239.69.1.47:9922
-快乐垂钓,http://gd.ikhs.cn:8880/rtp/239.69.1.142:10488
-茶频道,http://gd.ikhs.cn:8880/rtp/239.69.1.144:10500
-金鹰卡通,http://gd.ikhs.cn:8880/rtp/239.69.1.248:11130
-金鹰纪实,http://gd.ikhs.cn:8880/rtp/239.69.1.109:10292
-CETV1,http://gd.ikhs.cn:8880/rtp/239.69.1.110:10298
-
-湖南,#genre#
-金鹰纪实,http://ha.tonyliangli.cn:4022/udp/239.3.1.58:8156
-金鹰纪实,http://14.135.72.206:8888/rtp/239.121.4.167:8986
-快乐垂钓,http://ha.tonyliangli.cn:4022/udp/239.3.1.164:8001
-茶频道,http://ha.tonyliangli.cn:4022/udp/239.3.1.165:8001
-福建,#genre#
-厦门卫视,http://ha.tonyliangli.cn:4022/udp/239.3.1.143:4120
-河北,#genre#
-河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58#http://tv.pull.hebtv.com/jishi/weishipindao.flv?t=2510710360&k=689e494c226aa7038632a897aa3dbd27#rtmp://tv.pull.hebtv.com/jishi/weishipindao?t=2510710360&k=6cdf3c059a496f8c8375f86e1fb53346
-河北经济生活,http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=878ace626abc063571a3ddff9ec396a3#http://tv.pull.hebtv.com/jishi/jingjishenghuo.flv?t=2510710360&k=fa8a788d96df5d75e67186f6b6864b40#rtmp://tv.pull.hebtv.com/jishi/jingjishenghuo?t=2510710360&k=40e221dfe1145000d2b17dfbec914ce7
-河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38#http://tv.pull.hebtv.com/jishi/nongminpindao.flv?t=2510710360&k=61bdf654828c9db6c20fbb4717fc6dee#rtmp://tv.pull.hebtv.com/jishi/nongminpindao?t=2510710360&k=a3c2c0f740a31dc24d48ad098cd1eec3
-河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=4380da13735a230c080ce8ff404033af#http://tv.pull.hebtv.com/jishi/dushipindao.flv?t=2510710360&k=82fa2120c1c91f181bbdf82de498faad#rtmp://tv.pull.hebtv.com/jishi/dushipindao?t=2510710360&k=b43f406360a945d199904faf3b6e2c18
-河北影视剧,http://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=2510710360&k=2d3ada9117a7f1c3f7c11b67671bbe3c#http://tv.pull.hebtv.com/jishi/yingshijupindao.flv?t=2510710360&k=acc030f5a46fa7ec8a6794ce0f3bee42#rtmp://tv.pull.hebtv.com/jishi/yingshijupindao?t=2510710360&k=51b17a5611b40e6a36395d0129c85ec6
-河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2#http://tv.pull.hebtv.com/jishi/shaoerkejiao.flv?t=2510710360&k=87b12e4fe703265f4f59538a2399246c#rtmp://tv.pull.hebtv.com/jishi/shaoerkejiao?t=2510710360&k=1c62f2efbb83251f173978255f47079d
-河北公共,http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=6c7672b94bb3940303bd8f5b81d4bdb6#http://tv.pull.hebtv.com/jishi/gonggongpindao.flv?t=2510710360&k=3656451936184a7500239d3ba501cf7f#rtmp://tv.pull.hebtv.com/jishi/gonggongpindao?t=2510710360&k=6201048dbf6392c9f95d779a8783ce96
-河北三佳购物,http://tv.pull.hebtv.com/zhibo/sanjiagouwu.m3u8?t=2510710360&k=13d8a0c69ef0817e26d7e9ce7304701e#http://tv.pull.hebtv.com/jishi/sanjiagouwu.flv?t=2510710360&k=70170523773b5f7147ee5b28c6e36d9f#rtmp://tv.pull.hebtv.com/jishi/sanjiagouwu?t=2510710360&k=34ef10c67205a18084245127bd2e2240
-河北卫视,http://121.29.111.117:8888/udp/239.253.92.154:6011
-河北经济生活,http://121.29.111.117:8888/udp/239.253.92.171:6001
-河北都市,http://121.29.111.117:8888/udp/239.253.92.172:6002
-河北影视剧,http://121.29.111.117:8888/udp/239.253.92.173:6003
-河北少儿科教,http://121.29.111.117:8888/udp/239.253.92.174:6004
-河北公共,http://121.29.111.117:8888/udp/239.253.92.175:6005
-河北农民,http://121.29.111.117:8888/udp/239.253.92.176:6006
-三佳购物,http://121.29.111.117:8888/udp/239.253.92.24:8130
-睛彩河北,http://121.29.111.117:8888/udp/239.253.92.104:6221
-石家庄新闻综合,http://121.29.111.117:8888/udp/239.253.92.149:6035
-石家庄娱乐,http://121.29.111.117:8888/udp/239.253.92.93:8120
-石家庄生活,http://121.29.111.117:8888/udp/239.253.92.94:8121
-石家庄都市,http://121.29.111.117:8888/udp/239.253.92.95:8122
-唐山新闻综合,http://121.29.111.117:8888/udp/239.253.92.245:6089
-唐山生活服务,http://121.29.111.117:8888/udp/239.253.92.126:6026
-唐山影视,http://121.29.111.117:8888/udp/239.253.92.127:6027
-唐山公共,http://121.29.111.117:8888/udp/239.253.92.128:6028
-张家口新闻综合,http://121.29.111.117:8888/udp/239.253.92.225:8115
-秦皇岛新闻综合,http://121.29.111.117:8888/udp/239.253.92.52:6021
-秦皇岛公共,http://121.29.111.117:8888/udp/239.253.92.53:6022
-秦皇岛影视,http://121.29.111.117:8888/udp/239.253.92.54:6023
-廊坊新闻,http://121.29.111.117:8888/udp/239.253.92.164:6036
-廊坊公共,http://121.29.111.117:8888/udp/239.253.92.166:6037
-保定新闻综合,http://121.29.111.117:8888/udp/239.253.93.2:6153
-衡水新闻综合,http://121.29.111.117:8888/udp/239.253.93.3:6154
-衡水公共,http://121.29.111.117:8888/udp/239.253.93.7:6160
-邢台综合,http://121.29.111.117:8888/udp/239.253.93.8:6161
-邢台城市生活,http://121.29.111.117:8888/udp/239.253.93.10:6163
-邯郸新闻综合,http://121.29.111.117:8888/udp/239.253.93.11:6164
-邯郸公共,http://121.29.111.117:8888/udp/239.253.93.12:6165
-邯郸科技教育,http://121.29.111.117:8888/udp/239.253.93.13:6166
-元氏电视,http://121.29.111.117:8888/udp/239.253.92.142:6040
-高邑电视,http://121.29.111.117:8888/udp/239.253.92.160:6041
-井陉电视,http://121.29.111.117:8888/udp/239.253.93.205:6383
-井陉矿区电视,http://121.29.111.117:8888/udp/239.253.92.215:6067
-赵县电视,http://121.29.111.117:8888/udp/239.253.93.140:6308
-晋州电视,http://121.29.111.117:8888/udp/239.253.93.156:6324
-平泉电视,http://121.29.111.117:8888/udp/239.253.92.156:6012
-兴隆电视,http://121.29.111.117:8888/udp/239.253.93.104:6271
-隆化电视,http://121.29.111.117:8888/udp/239.253.93.174:6342
-承德电视,http://121.29.111.117:8888/udp/239.253.94.28:6627
-崇礼电视,http://121.29.111.117:8888/udp/239.253.93.147:6315
-海南,#genre#
-海口1,http://153.0.158.159:16080/live/hktv1.m3u8
-海口2,http://153.0.158.159:16080/live/hktv2.m3u8
-海口3,http://153.0.158.159:16080/live/hktv3.m3u8
-青海宁夏,#genre#
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
-青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
-西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
-西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
-宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.flv
-宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.flv
-宁夏经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.flv
-宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.flv
-宁夏文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.flv
-宁夏卫视,http://14.135.72.206:8888/udp/239.121.4.94:8538
-宁夏公共,http://14.135.72.206:8888/udp/239.121.4.97:8556
-宁夏经济,http://14.135.72.206:8888/udp/239.121.4.91:8520
-宁夏少儿,http://14.135.72.206:8888/udp/239.121.4.63:8352
-宁夏文旅,http://14.135.72.206:8888/udp/239.121.4.93:8532
-宁夏教育,http://14.135.72.206:8888/udp/239.121.4.200:9184
-银川公共,http://14.135.72.206:8888/udp/239.121.4.21:8100
-银川生活,http://14.135.72.206:8888/udp/239.121.4.106:8610
-银川文体,http://14.135.72.206:8888/udp/239.121.4.22:8106
-内蒙古,#genre#
-内蒙古卫视频道,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
-内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
-内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
-内蒙古少儿频道,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
-内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
-内蒙古农牧频道,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
-内蒙古蒙古语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
-内蒙古蒙古语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
-内蒙古卫视频道,http://www.btjg.net:4432/hls/19/index.m3u8
-内蒙古新闻综合,http://www.btjg.net:4432/hls/23/index.m3u8
-内蒙古经济生活,http://www.btjg.net:4432/hls/20/index.m3u8
-内蒙古少儿频道,http://www.btjg.net:4432/hls/25/index.m3u8
-内蒙古文体娱乐,http://www.btjg.net:4432/hls/21/index.m3u8
-内蒙古农牧频道,http://www.btjg.net:4432/hls/22/index.m3u8
-内蒙古蒙古语文化,http://www.btjg.net:4432/hls/24/index.m3u8
-内蒙古蒙古语卫视,http://www.btjg.net:4432/hls/18/index.m3u8
-内蒙古蒙古语文化,http://hhnas.eu.org:10000/udp/239.29.0.210:5000
-呼和浩特都市生活,http://hhnas.eu.org:10000/udp/239.29.0.36:5000
-呼和浩特呼市新闻综合,http://hhnas.eu.org:10000/udp/239.29.0.35:5000
-呼和浩特呼市影视娱乐,http://hhnas.eu.org:10000/udp/239.29.0.37:5000
-香港,#genre#
-凤凰卫视中文台,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
-凤凰卫视资讯台,http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8?
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu"
+  ],
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img"
+}
