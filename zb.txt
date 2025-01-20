@@ -7,6 +7,9 @@
 朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 //苍溪综合,
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典,http://mtw.so/5NPX0U
+重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 星光公共台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 美亚电影,https://ali.hlspull.yximgs.com/live/moa41.flv
 凤凰资讯,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
