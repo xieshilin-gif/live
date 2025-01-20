@@ -7,7 +7,8 @@
 朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 //苍溪综合,
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-星光视界台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+星光公共台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+美亚电影,https://ali.hlspull.yximgs.com/live/moa41.flv
 凤凰资讯,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 凤凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
@@ -23,7 +24,6 @@ TVB娱乐新闻台,http://extraott.com:80/live/6772191932/1654508883/473570.m3u8
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 黄金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
