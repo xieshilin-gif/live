@@ -91,6 +91,7 @@ CCTV2,http://iptv.nanomi.cn:4000/rtp/239.93.1.23:6000$成电组域
 CCTV3,http://iptv.nanomi.cn:4000/rtp/239.93.0.109:5140$成电组域
 CCTV4,http://iptv.nanomi.cn:4000/rtp/239.93.1.105:5140$成电组域
 CCTV5,http://iptv.nanomi.cn:4000/rtp/239.93.1.12:2224$成电组域
+CCTV5+,http://iptv.nanomi.cn:4000/rtp/239.93.1.173:5140$成电组域
 CCTV6,http://iptv.nanomi.cn:4000/rtp/239.93.42.38:5140$成电组域
 CCTV7,http://iptv.nanomi.cn:4000/rtp/239.93.1.67:5140$成电组域
 CCTV8,http://iptv.nanomi.cn:4000/rtp/239.93.42.39:5140$成电组域
@@ -102,7 +103,6 @@ CCTV13,http://iptv.nanomi.cn:4000/rtp/239.93.0.66:5140$成电组域
 CCTV14,http://iptv.nanomi.cn:4000/rtp/239.93.1.29:6000$成电组域
 CCTV15,http://iptv.nanomi.cn:4000/rtp/239.93.0.103:5140$成电组域
 CCTV17,http://iptv.nanomi.cn:4000/rtp/239.93.0.92:5140$成电组域
-CCTV5+,http://iptv.nanomi.cn:4000/rtp/239.93.1.36:8004$成电组域
 CETV1,http://iptv.nanomi.cn:4000/rtp/239.93.1.111:5140$成电组域
 CETV2,http://iptv.nanomi.cn:4000/rtp/239.93.0.113:5140$成电组域
 CETV4,http://iptv.nanomi.cn:4000/rtp/239.93.0.50:5140$成电组域
@@ -131,6 +131,7 @@ CCTV2,http://zx4400.myds.me:12322/rtp/239.93.1.23:6000$成电组域2
 CCTV3,http://zx4400.myds.me:12322/rtp/239.93.0.109:5140$成电组域2
 CCTV4,http://zx4400.myds.me:12322/rtp/239.93.1.105:5140$成电组域2
 CCTV5,http://zx4400.myds.me:12322/rtp/239.93.1.12:2224$成电组域2
+CCTV5+,http://zx4400.myds.me:12322/rtp/239.93.1.173:5140$成电组域2
 CCTV6,http://zx4400.myds.me:12322/rtp/239.93.42.38:5140$成电组域2
 CCTV7,http://zx4400.myds.me:12322/rtp/239.93.1.67:5140$成电组域2
 CCTV8,http://zx4400.myds.me:12322/rtp/239.93.42.39:5140$成电组域2
@@ -318,7 +319,6 @@ CHC动作电影,http://jjx.icu:8888/rtp/239.93.46.7:5140$利州电信
 四川卫视,http://nas.xlnas.com:4022/rtp/239.93.0.169:5140
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 
@@ -372,7 +372,7 @@ CHC动作电影,http://jjx.icu:8888/rtp/239.93.46.7:5140$利州电信
 山东卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.168:5140$成都电信组播
 康巴卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.41:5140$成都电信组播
 江西卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.134:5140$成都电信组播
-东南卫视 ,http://iptv.nanomi.cn:4000/rtp/239.93.0.42:5140$成都电信组播
+东南卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.42:5140$成都电信组播
 黑龙江卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.183:5140$成都电信组播
 重庆卫视,http://iptv.nanomi.cn:4000/rtp/239.93.1.107:5140$成都电信组播
 贵州卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.131:5140$成都电信组播
@@ -384,19 +384,22 @@ CHC动作电影,http://jjx.icu:8888/rtp/239.93.46.7:5140$利州电信
 广西卫视,http://iptv.nanomi.cn:4000/rtp/239.93.42.46:5140$成都电信组播
 云南卫视,http://iptv.nanomi.cn:4000/rtp/239.93.1.174:5140$成都电信组播
 吉林卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.248:5140$成都电信组播
-陕西卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.176:5140$成都电信组播
-山西卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.6:5140$成都电信组播
-内蒙古卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.8:5140$成都电信组播
-青海卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.192:5140$成都电信组播
-宁夏卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.247:5140$成都电信组播
+陕西卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.143:5140$成都电信组播
+山西卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.127:5140$成都电信组播
+内蒙古卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.87:5140$成都电信组播
+青海卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.85:5140$成都电信组播
+宁夏卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.74:5140$成都电信组播
 西藏卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.175:5140$成都电信组播
-新疆卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.194:5140$成都电信组播
+新疆卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.83:5140$成都电信组播
 甘肃卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.81:5140$成都电信组播
 海南卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.80:5140$成都电信组播
 陕西农林,http://iptv.nanomi.cn:4000/rtp/239.93.0.100:5140$成都电信组播
 兵团卫视,http://iptv.nanomi.cn:4000/rtp/239.93.42.43:5140$成都电信组播
 厦门卫视,http://iptv.nanomi.cn:4000/rtp/239.93.42.57:5140$成都电信组播
 三沙卫视,http://iptv.nanomi.cn:4000/rtp/239.93.42.58:5140$成都电信组播
+安多卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.234:5140$成都电信组播
+延边卫视,http://iptv.nanomi.cn:4000/rtp/239.93.0.249:5140$成都电信组播
+北京纪实科教,http://iptv.nanomi.cn:4000/rtp/239.93.0.141:5140$成都电信组播
 山东教育卫视,http://iptv.nanomi.cn:4000/rtp/239.93.1.196:5140$成都电信组播
 //成都电信
 四川卫视,http://zx4400.myds.me:12322/rtp/239.93.0.169:5140$成电组域2
@@ -423,19 +426,22 @@ CHC动作电影,http://jjx.icu:8888/rtp/239.93.46.7:5140$利州电信
 广西卫视,http://zx4400.myds.me:12322/rtp/239.93.42.46:5140$成电组域2
 云南卫视,http://zx4400.myds.me:12322/rtp/239.93.1.174:5140$成电组域2
 吉林卫视,http://zx4400.myds.me:12322/rtp/239.93.0.248:5140$成电组域2
-陕西卫视,http://zx4400.myds.me:12322/rtp/239.93.0.176:5140$成电组域2
-山西卫视,http://zx4400.myds.me:12322/rtp/239.93.0.6:5140$成电组域2
-内蒙古卫视,http://zx4400.myds.me:12322/rtp/239.93.0.8:5140$成电组域2
-青海卫视,http://zx4400.myds.me:12322/rtp/239.93.0.192:5140$成电组域2
-宁夏卫视,http://zx4400.myds.me:12322/rtp/239.93.0.247:5140$成电组域2
+陕西卫视,http://zx4400.myds.me:12322/rtp/239.93.0.143:5140$成电组域2
+山西卫视,http://zx4400.myds.me:12322/rtp/239.93.0.127:5140$成电组域2
+内蒙古卫视,http://zx4400.myds.me:12322/rtp/239.93.0.87:5140$成电组域2
+青海卫视,http://zx4400.myds.me:12322/rtp/239.93.0.85:5140$成电组域2
+宁夏卫视,http://zx4400.myds.me:12322/rtp/239.93.0.74:5140$成电组域2
 西藏卫视,http://zx4400.myds.me:12322/rtp/239.93.0.175:5140$成电组域2
-新疆卫视,http://zx4400.myds.me:12322/rtp/239.93.0.194:5140$成电组域2
+新疆卫视,http://zx4400.myds.me:12322/rtp/239.93.0.83:5140$成电组域2
 甘肃卫视,http://zx4400.myds.me:12322/rtp/239.93.0.81:5140$成电组域2
 海南卫视,http://zx4400.myds.me:12322/rtp/239.93.0.80:5140$成电组域2
 陕西农林,http://zx4400.myds.me:12322/rtp/239.93.0.100:5140$成电组域2
 兵团卫视,http://zx4400.myds.me:12322/rtp/239.93.42.43:5140$成电组域2
 厦门卫视,http://zx4400.myds.me:12322/rtp/239.93.42.57:5140$成电组域2
 三沙卫视,http://zx4400.myds.me:12322/rtp/239.93.42.58:5140$成电组域2
+安多卫视,http://zx4400.myds.me:12322/rtp/239.93.0.234:5140$成都电信组播2
+延边卫视,http://zx4400.myds.me:12322/rtp/239.93.0.249:5140$成都电信组播
+北京纪实科教,http://zx4400.myds.me:12322/rtp/239.93.0.141:5140$成都电信组播
 山东教育卫视,http://zx4400.myds.me:12322/rtp/239.93.1.196:5140$成电组域2
 
 四川卫视,http://jjx.icu:8888/udp/239.93.6.169:5140$利州电信
@@ -625,6 +631,7 @@ LOL•云顶之弈,http://tc-tct.douyucdn2.cn/dyliveflv1/522423rw7NgKaYl9_2000p.
 绝地求生•PGC,http://tc-tct.douyucdn2.cn/dyliveflv1/100rPCLP_2000.flv?wsAuth=57c9e2f98378658f92fd61fc2a7c50f0&token=cpn-androidmpro-0-100-7280476511a877c27e63dccc58624acea75be41362f58e9c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 
 亚洲,#genre#
+//youankj.synology.me:8888  roxette119.asuscomm.com:5555
 凤凰资讯,http://kuanglong1314.site:2121/rtp/239.93.16.118:8708$南充电信
 凤凰中文,http://kuanglong1314.site:2121/rtp/239.93.16.31:8012$南充电信
 
