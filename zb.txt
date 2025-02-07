@@ -502,6 +502,8 @@ CCTV17,http://kuanglong1314.site:2121/rtp/239.93.16.154:7832$南充电信
 🎬电影频道👉全网,#genre#
 1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
 1905国外电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
+1905国内电影,https://tv.myukj.cn/1905.php?id=1905a
+1905国外电影,https://tv.myukj.cn/1905.php?id=1905b
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
 邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 豆瓣TOP250,http://huanqiuzhibo.cn/manifest/douyu.php?id=8770422
