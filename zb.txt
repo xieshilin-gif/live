@@ -86,7 +86,7 @@ PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 
 央视,#genre#
-CCTV1,http://home.sunruilin.com:4443/rtp/239.93.0.58:5140$成电组域
+CCTV1,http://jgw.ddns.iuxs.info:9999/rtp/239.93.0.58:5140$成电组域
 CCTV2,http://home.sunruilin.com:4443/rtp/239.93.1.23:6000$成电组域
 CCTV3,http://home.sunruilin.com:4443/rtp/239.93.0.109:5140$成电组域
 CCTV4,http://home.sunruilin.com:4443/rtp/239.93.1.105:5140$成电组域
@@ -579,12 +579,17 @@ LOL•云顶之弈,http://tc-tct.douyucdn2.cn/dyliveflv1/522423rw7NgKaYl9_2000p.
 绝地求生•PGC,http://tc-tct.douyucdn2.cn/dyliveflv1/100rPCLP_2000.flv?wsAuth=57c9e2f98378658f92fd61fc2a7c50f0&token=cpn-androidmpro-0-100-7280476511a877c27e63dccc58624acea75be41362f58e9c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 
 亚洲,#genre#
+//jgw.ddns.iuxs.info:9999 stw3l.tpddns.cn:55555
 凤凰资讯,http://kuanglong1314.site:2121/rtp/239.93.16.118:8708$南充电信
 凤凰中文,http://kuanglong1314.site:2121/rtp/239.93.16.31:8012$南充电信
 
 凤凰资讯,http://home.sunruilin.com:4443/rtp/239.93.0.118:2191$成都电信组播
 凤凰中文,http://home.sunruilin.com:4443/rtp/239.93.0.162:2192$成都电信组播
 星空卫视,http://home.sunruilin.com:4443/rtp/239.93.0.156:2193$成都电信组播
+
+凤凰资讯,http://youankj.synology.me:8888/rtp/239.93.0.118:2191$成电组域2
+凤凰中文,http://youankj.synology.me:8888/rtp/239.93.0.162:2192$成电组域2
+星空卫视,http://youankj.synology.me:8888/rtp/239.93.0.156:2193$成电组域2
 
 凤凰资讯,http://yulang132.cn:4022/rtp/239.93.0.118:2191$成电组域3
 凤凰中文,http://yulang132.cn:4022/rtp/239.93.0.162:2192$成电组域3
