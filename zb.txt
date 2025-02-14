@@ -168,46 +168,46 @@ CETV4,http://router.goody.icu:4000/rtp/239.93.0.50:5140$成电组域2
 先锋乒羽,http://router.goody.icu:4000/rtp/239.93.42.56:5140$成电组域2
 乐龄学堂专区,http://router.goody.icu:4000/rtp/239.93.1.179:5140$成电组域2
 
-CCTV1,http://youankj.synology.me:8888/rtp/239.93.0.58:5140$成电组域3
-CCTV2,http://youankj.synology.me:8888/rtp/239.93.1.23:6000$成电组域3
-CCTV3,http://youankj.synology.me:8888/rtp/239.93.0.109:5140$成电组域3
-CCTV4,http://youankj.synology.me:8888/rtp/239.93.1.105:5140$成电组域3
-CCTV5,http://youankj.synology.me:8888/rtp/239.93.1.12:2224$成电组域3
-CCTV5+,http://youankj.synology.me:8888/rtp/239.93.1.173:5140$成电组域3
-CCTV6,http://youankj.synology.me:8888/rtp/239.93.42.38:5140$成电组域3
-CCTV7,http://youankj.synology.me:8888/rtp/239.93.1.67:5140$成电组域3
-CCTV8,http://youankj.synology.me:8888/rtp/239.93.42.39:5140$成电组域3
-CCTV9,http://youankj.synology.me:8888/rtp/239.93.1.24:5140$成电组域3
-CCTV10,http://youankj.synology.me:8888/rtp/239.93.1.28:5140$成电组域3
-CCTV11,http://youankj.synology.me:8888/rtp/239.93.0.102:5140$成电组域3
-CCTV12,http://youankj.synology.me:8888/rtp/239.93.1.30:8124$成电组域3
-CCTV13,http://youankj.synology.me:8888/rtp/239.93.0.66:5140$成电组域3
-CCTV14,http://youankj.synology.me:8888/rtp/239.93.1.29:6000$成电组域3
-CCTV15,http://youankj.synology.me:8888/rtp/239.93.0.103:5140$成电组域3
-CCTV16,http://youankj.synology.me:8888/rtp/239.93.42.53:5140$成电组域3
-CCTV17,http://youankj.synology.me:8888/rtp/239.93.0.92:5140$成电组域3
-CHC影迷电影,http://youankj.synology.me:8888/rtp/239.93.42.5:5140$成电组域3
-CHC家庭影院,http://youankj.synology.me:8888/rtp/239.93.42.6:5140$成电组域3
-CHC动作电影,http://youankj.synology.me:8888/rtp/239.93.42.7:5140$成电组域3
-CETV1,http://youankj.synology.me:8888/rtp/239.93.1.111:5140$成电组域3
-CETV2,http://youankj.synology.me:8888/rtp/239.93.0.113:5140$成电组域3
-CETV4,http://youankj.synology.me:8888/rtp/239.93.0.50:5140$成电组域3
-风云足球,http://youankj.synology.me:8888/rtp/239.93.0.235:5140$成电组域3
-高尔夫网球,http://youankj.synology.me:8888/rtp/239.93.1.54:5140$成电组域3
-央视文化精品,http://youankj.synology.me:8888/rtp/239.93.42.47:5140$成电组域3
-风云音乐,http://youankj.synology.me:8888/rtp/239.93.0.224:5140$成电组域3
-怀旧剧场,http://youankj.synology.me:8888/rtp/239.93.1.198:5140$成电组域3
-第一剧场,http://youankj.synology.me:8888/rtp/239.93.1.197:5140$成电组域3
-风云剧场,http://youankj.synology.me:8888/rtp/239.93.1.156:5140$成电组域3
-世界地理,http://youankj.synology.me:8888/rtp/239.93.1.157:5140$成电组域3
-兵器科技,http://youankj.synology.me:8888/rtp/239.93.1.235:5140$成电组域3
-女性时尚,http://youankj.synology.me:8888/rtp/239.93.42.62:5140$成电组域3
-央视台球,http://youankj.synology.me:8888/rtp/239.93.0.218:5140$成电组域3
-法治天地,http://youankj.synology.me:8888/rtp/239.93.42.96:5140$成电组域3
-都市剧场,http://youankj.synology.me:8888/rtp/239.93.42.30:5140$成电组域3
-天元围棋,http://youankj.synology.me:8888/rtp/239.93.42.55:5140$成电组域3
-先锋乒羽,http://youankj.synology.me:8888/rtp/239.93.42.56:5140$成电组域3
-乐龄学堂专区,http://youankj.synology.me:8888/rtp/239.93.1.179:5140$成电组域3
+CCTV1,http://www.syswareonline.com:7088/rtp/239.93.0.58:5140$成电组域3
+CCTV2,http://www.syswareonline.com:7088/rtp/239.93.1.23:6000$成电组域3
+CCTV3,http://www.syswareonline.com:7088/rtp/239.93.0.109:5140$成电组域3
+CCTV4,http://www.syswareonline.com:7088/rtp/239.93.1.105:5140$成电组域3
+CCTV5,http://www.syswareonline.com:7088/rtp/239.93.1.12:2224$成电组域3
+CCTV5+,http://www.syswareonline.com:7088/rtp/239.93.1.173:5140$成电组域3
+CCTV6,http://www.syswareonline.com:7088/rtp/239.93.42.38:5140$成电组域3
+CCTV7,http://www.syswareonline.com:7088/rtp/239.93.1.67:5140$成电组域3
+CCTV8,http://www.syswareonline.com:7088/rtp/239.93.42.39:5140$成电组域3
+CCTV9,http://www.syswareonline.com:7088/rtp/239.93.1.24:5140$成电组域3
+CCTV10,http://www.syswareonline.com:7088/rtp/239.93.1.28:5140$成电组域3
+CCTV11,http://www.syswareonline.com:7088/rtp/239.93.0.102:5140$成电组域3
+CCTV12,http://www.syswareonline.com:7088/rtp/239.93.1.30:8124$成电组域3
+CCTV13,http://www.syswareonline.com:7088/rtp/239.93.0.66:5140$成电组域3
+CCTV14,http://www.syswareonline.com:7088/rtp/239.93.1.29:6000$成电组域3
+CCTV15,http://www.syswareonline.com:7088/rtp/239.93.0.103:5140$成电组域3
+CCTV16,http://www.syswareonline.com:7088/rtp/239.93.42.53:5140$成电组域3
+CCTV17,http://www.syswareonline.com:7088/rtp/239.93.0.92:5140$成电组域3
+CHC影迷电影,http://www.syswareonline.com:7088/rtp/239.93.42.5:5140$成电组域3
+CHC家庭影院,http://www.syswareonline.com:7088/rtp/239.93.42.6:5140$成电组域3
+CHC动作电影,http://www.syswareonline.com:7088/rtp/239.93.42.7:5140$成电组域3
+CETV1,http://www.syswareonline.com:7088/rtp/239.93.1.111:5140$成电组域3
+CETV2,http://www.syswareonline.com:7088/rtp/239.93.0.113:5140$成电组域3
+CETV4,http://www.syswareonline.com:7088/rtp/239.93.0.50:5140$成电组域3
+风云足球,http://www.syswareonline.com:7088/rtp/239.93.0.235:5140$成电组域3
+高尔夫网球,http://www.syswareonline.com:7088/rtp/239.93.1.54:5140$成电组域3
+央视文化精品,http://www.syswareonline.com:7088/rtp/239.93.42.47:5140$成电组域3
+风云音乐,http://www.syswareonline.com:7088/rtp/239.93.0.224:5140$成电组域3
+怀旧剧场,http://www.syswareonline.com:7088/rtp/239.93.1.198:5140$成电组域3
+第一剧场,http://www.syswareonline.com:7088/rtp/239.93.1.197:5140$成电组域3
+风云剧场,http://www.syswareonline.com:7088/rtp/239.93.1.156:5140$成电组域3
+世界地理,http://www.syswareonline.com:7088/rtp/239.93.1.157:5140$成电组域3
+兵器科技,http://www.syswareonline.com:7088/rtp/239.93.1.235:5140$成电组域3
+女性时尚,http://www.syswareonline.com:7088/rtp/239.93.42.62:5140$成电组域3
+央视台球,http://www.syswareonline.com:7088/rtp/239.93.0.218:5140$成电组域3
+法治天地,http://www.syswareonline.com:7088/rtp/239.93.42.96:5140$成电组域3
+都市剧场,http://www.syswareonline.com:7088/rtp/239.93.42.30:5140$成电组域3
+天元围棋,http://www.syswareonline.com:7088/rtp/239.93.42.55:5140$成电组域3
+先锋乒羽,http://www.syswareonline.com:7088/rtp/239.93.42.56:5140$成电组域3
+乐龄学堂专区,http://www.syswareonline.com:7088/rtp/239.93.1.179:5140$成电组域3
 
 CCTV1,http://kuanglong1314.site:2121/rtp/239.93.16.133:9260$南充电信
 CCTV2,http://kuanglong1314.site:2121/rtp/239.93.16.60:8354$南充电信
@@ -266,15 +266,15 @@ CCTV17,http://kuanglong1314.site:2121/rtp/239.93.16.154:7832$南充电信
 康巴卫视,http://router.goody.icu:4000/rtp/239.93.0.41:5140$成电组域2
 峨眉电影,http://router.goody.icu:4000/rtp/239.93.0.252:5140$成电组域2
 
-四川文化旅游,http://youankj.synology.me:8888/rtp/239.93.1.102:5140$成电组域3
-四川经济,http://youankj.synology.me:8888/rtp/239.93.1.101:5140$成电组域3
-四川新闻,http://youankj.synology.me:8888/rtp/239.93.0.47:5140$成电组域3
-四川影视文艺,http://youankj.synology.me:8888/rtp/239.93.0.166:5140$成电组域3
-四川妇女儿童,http://youankj.synology.me:8888/rtp/239.93.0.219:5140$成电组域3
-四川科教,http://youankj.synology.me:8888/rtp/239.93.42.44:5140$成电组域3
-四川乡村,http://youankj.synology.me:8888/rtp/239.93.0.52:5140$成电组域3
-康巴卫视,http://youankj.synology.me:8888/rtp/239.93.0.41:5140$成电组域3
-峨眉电影,http://youankj.synology.me:8888/rtp/239.93.0.252:5140$成电组域3
+四川文化旅游,http://www.syswareonline.com:7088/rtp/239.93.1.102:5140$成电组域3
+四川经济,http://www.syswareonline.com:7088/rtp/239.93.1.101:5140$成电组域3
+四川新闻,http://www.syswareonline.com:7088/rtp/239.93.0.47:5140$成电组域3
+四川影视文艺,http://www.syswareonline.com:7088/rtp/239.93.0.166:5140$成电组域3
+四川妇女儿童,http://www.syswareonline.com:7088/rtp/239.93.0.219:5140$成电组域3
+四川科教,http://www.syswareonline.com:7088/rtp/239.93.42.44:5140$成电组域3
+四川乡村,http://www.syswareonline.com:7088/rtp/239.93.0.52:5140$成电组域3
+康巴卫视,http://www.syswareonline.com:7088/rtp/239.93.0.41:5140$成电组域3
+峨眉电影,http://www.syswareonline.com:7088/rtp/239.93.0.252:5140$成电组域3
 
 四川经济,http://kuanglong1314.site:2121/rtp/239.93.16.71:8420$南充电信
 四川文化旅游,http://kuanglong1314.site:2121/rtp/239.93.16.41:8240$南充电信
@@ -306,6 +306,7 @@ CCTV17,http://kuanglong1314.site:2121/rtp/239.93.16.154:7832$南充电信
 熊猫频道2,http://router.goody.icu:4000/rtp/239.93.1.178:5140$成电组域2
 
 卫视,#genre#
+四川卫视,http://mail.syswareonline.com:7088/rtp/239.93.0.169:5140
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
@@ -591,9 +592,9 @@ LOL•云顶之弈,http://tc-tct.douyucdn2.cn/dyliveflv1/522423rw7NgKaYl9_2000p.
 凤凰中文,http://router.goody.icu:4000/rtp/239.93.0.162:2192$成电组域2
 星空卫视,http://router.goody.icu:4000/rtp/239.93.0.156:2193$成电组域2
 
-凤凰资讯,http://youankj.synology.me:8888/rtp/239.93.0.118:2191$成电组域3
-凤凰中文,http://youankj.synology.me:8888/rtp/239.93.0.162:2192$成电组域3
-星空卫视,http://youankj.synology.me:8888/rtp/239.93.0.156:2193$成电组域3
+凤凰资讯,http://www.syswareonline.com:7088/rtp/239.93.0.118:2191$成电组域3
+凤凰中文,http://www.syswareonline.com:7088/rtp/239.93.0.162:2192$成电组域3
+星空卫视,http://www.syswareonline.com:7088/rtp/239.93.0.156:2193$成电组域3
 
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
