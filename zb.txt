@@ -246,7 +246,7 @@ CCTV17,http://kuanglong1314.site:2121/rtp/239.93.16.154:7832$南充电信
 熊猫频道2,http://router.goody.icu:4000/rtp/239.93.1.178:5140$成电组域2
 
 卫视,#genre#
-四川卫视,http://mail.syswareonline.com:7088/rtp/239.93.0.169:5140
+四川卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.169:5140
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
