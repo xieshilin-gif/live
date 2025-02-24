@@ -6,7 +6,6 @@
 朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 苍溪综合,http://live2.rxip.sc96655.com/live/cxxwgqH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
-苍溪综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/cxxwgqH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 央视,#genre#
