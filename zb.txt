@@ -1108,6 +1108,7 @@ TVB娱乐新闻台,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3
 TVB星河,http://v2hcdn.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 ViuTV,https://cdn5.163189.xyz/live/viu/stream.m3u8
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
+明珠台(中字),https://cdn5.163189.xyz/live/mzt/stream.m3u8
 
 
 成都组播其他,#genre#
