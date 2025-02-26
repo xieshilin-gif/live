@@ -303,7 +303,8 @@ CETV4,http://www.syswareonline.com:7088/rtp/239.93.0.50:5140$成电组域3
 
 卫视,#genre#
 四川卫视,http://tet.yy000.tk:80/TVOD/5000000004000006119/bestzb/index.m3u8$7.5M1080_百视通
-四川卫视,http://itv.81156832.xyz/TVOD/1000000002000016825/ystenlive/index.m3u8$4M1080_易视腾
+四川卫视,http://vscode.lovescie.com:5000/TVOD/1000000002000016825/ystenlive/index.m3u8$4M1080_易视腾
+四川卫视,http://tduck.siwsal.com:5000/TVOD/1000000002000016825/ystenlive/index.m3u8$4M1080_易视腾
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
