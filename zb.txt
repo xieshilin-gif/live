@@ -302,7 +302,7 @@ CETV4,http://www.syswareonline.com:7088/rtp/239.93.0.50:5140$成电组域3
 熊猫频道2,http://yulang132.cn:4022/rtp/239.93.1.178:5140$成电组域2
 
 卫视,#genre#
-四川卫视,http://tet.yy000.tk:80/TVOD/1000000002000016825/FifastbLive/index.m3u8
+四川卫视,http://chat.aigoo.xyz:5000/TVOD/1000000002000016825/FifastbLive/index.m3u8
 四川卫视,http://vscode.lovescie.com:5000/TVOD/1000000002000016825/FifastbLive/index.m3u8
 四川卫视,http://pa.ikimpa.com:5000/TVOD/1000000002000016825/FifastbLive/index.m3u8$4M1080_易视腾
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -1066,6 +1066,7 @@ LOL•云顶之弈,http://tc-tct.douyucdn2.cn/dyliveflv1/522423rw7NgKaYl9_2000p.
 凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 中天新聞,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___CTI_2_HD.flv
 凤凰资讯,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___Phx_HD.flv
+龙祥时代,http://ali.hlspull.yximgs.com:80/live/dbb0b40c1fcea01ceedb0be4df58958e.flv
 
 TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 TVBS亚洲,http://extraott.com:80/live/6772191932/1654508883/5496.m3u8
