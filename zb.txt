@@ -1050,6 +1050,10 @@ LOL•云顶之弈,http://tc-tct.douyucdn2.cn/dyliveflv1/522423rw7NgKaYl9_2000p.
 凤凰中文,http://www.syswareonline.com:7088/rtp/239.93.0.162:2192$成电组域3
 星空卫视,http://www.syswareonline.com:7088/rtp/239.93.0.156:2193$成电组域3
 
+凤凰资讯,http://sckonlan.3322.org:8888/rtp/239.93.0.118:2191
+凤凰中文,http://sckonlan.3322.org:8888/rtp/239.93.0.162:2192
+星空卫视,http://sckonlan.3322.org:8888/rtp/239.93.0.156:2193
+
 环球电视台[1920*1080],http://zb.xzxwhcb.com:9999/hls/world.m3u8
 人间卫视[1280*720],https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 番薯音乐[1920*1080],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u
