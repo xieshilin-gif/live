@@ -100,7 +100,6 @@ CCTV17 农业农村,http://chat.aigoo.xyz:5000/TVOD/1000000006000268004/FifastbL
 CCTV17 农业农村,http://chat.aigoo.xyz:5000/TVOD/1000000005000265015/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
 CCTV17 农业农村,http://chat.aigoo.xyz:5000/TVOD/1000000005000056836/FifastbLive/index.m3u8$4M1080_易视腾
 
-//youankj.synology.me:8888
 CCTV1,http://sckonlan.3322.org:8888/rtp/239.93.0.58:5140$成电组域
 CCTV2,http://sckonlan.3322.org:8888/rtp/239.93.1.23:6000$成电组域
 CCTV3,http://sckonlan.3322.org:8888/rtp/239.93.0.109:5140$成电组域
@@ -897,128 +896,244 @@ CGTN-俄语,http://live2.rxip.sc96655.com/live/ey_2000.m3u8?E=1705228046&U=74179
 家有购物,http://live2.rxip.sc96655.com/live/jygw.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
 
 经典电视剧,#genre#
-茶啊二中,http://huanqiuzhibo.cn/manifest/huya.php?id=11213191
-庆余年,http://huanqiuzhibo.cn/manifest/huya.php?id=11352960
-寻秦记,http://huanqiuzhibo.cn/manifest/huya.php?id=29465848
-爱情公寓,http://huanqiuzhibo.cn/manifest/huya.php?id=11336726
-鹿鼎记,http://huanqiuzhibo.cn/manifest/huya.php?id=23865080
-铁齿铜牙纪晓岚,http://huanqiuzhibo.cn/manifest/huya.php?id=11342396
-雪中悍刀行,http://huanqiuzhibo.cn/manifest/huya.php?id=11336592
-新楚留香,http://huanqiuzhibo.cn/manifest/huya.php?id=26355848
-且试天下,http://huanqiuzhibo.cn/manifest/huya.php?id=21059630
-花千骨,http://huanqiuzhibo.cn/manifest/huya.php?id=26355839
-清平乐,http://huanqiuzhibo.cn/manifest/huya.php?id=21059631
-陈情令,http://huanqiuzhibo.cn/manifest/huya.php?id=29465862
-梦华录,http://huanqiuzhibo.cn/manifest/huya.php?id=11336590
-美人心计,http://huanqiuzhibo.cn/manifest/huya.php?id=26355837
-绝代双骄,http://huanqiuzhibo.cn/manifest/huya.php?id=29465867
-刁蛮公主,http://huanqiuzhibo.cn/manifest/huya.php?id=29465879
-还珠格格,http://huanqiuzhibo.cn/manifest/huya.php?id=30080241
-水月洞天,http://huanqiuzhibo.cn/manifest/huya.php?id=21059567
-笑傲江湖,http://huanqiuzhibo.cn/manifest/huya.php?id=26355858
-风云,http://huanqiuzhibo.cn/manifest/huya.php?id=21059612
-士兵突击,http://huanqiuzhibo.cn/manifest/huya.php?id=11342430
-天龙八部,http://huanqiuzhibo.cn/manifest/huya.php?id=23903123
-雍正皇帝,http://huanqiuzhibo.cn/manifest/huya.php?id=11342439
-家有儿女,http://huanqiuzhibo.cn/manifest/huya.php?id=11352872
-新三国,http://huanqiuzhibo.cn/manifest/huya.php?id=11352944
-龙门镖局,http://huanqiuzhibo.cn/manifest/huya.php?id=11352874
-神医喜来乐,http://huanqiuzhibo.cn/manifest/huya.php?id=11601978
-张卫健西游记,http://huanqiuzhibo.cn/manifest/huya.php?id=11342395
-倚天屠龙记,http://huanqiuzhibo.cn/manifest/huya.php?id=11342403
-虎符传奇,http://huanqiuzhibo.cn/manifest/huya.php?id=11342415
-斗罗大陆2021,,http://huanqiuzhibo.cn/manifest/huya.php?id=11352892
-瑶山大剿匪,http://huanqiuzhibo.cn/manifest/huya.php?id=11342392
-白鹿原,http://huanqiuzhibo.cn/manifest/huya.php?id=11342416
-金庸,http://huanqiuzhibo.cn/manifest/huya.php?id=11336579
-猎罪图鉴,http://huanqiuzhibo.cn/manifest/huya.php?id=11601962
-扫黑风暴,http://huanqiuzhibo.cn/manifest/huya.php?id=11342404
-邻里一家亲,http://huanqiuzhibo.cn/manifest/huya.php?id=11342426
-父母爱情,http://huanqiuzhibo.cn/manifest/huya.php?id=11602071
-医馆笑传,http://huanqiuzhibo.cn/manifest/huya.php?id=11352891
-大秦赋,http://huanqiuzhibo.cn/manifest/huya.php?id=11352881
-盗墓笔记,http://huanqiuzhibo.cn/manifest/huya.php?id=11352871
-芈月传,http://huanqiuzhibo.cn/manifest/huya.php?id=11352975
-法证先锋,http://huanqiuzhibo.cn/manifest/huya.php?id=23863804
-神探狄仁杰,http://huanqiuzhibo.cn/manifest/huya.php?id=11352958
-宝莲灯,http://huanqiuzhibo.cn/manifest/huya.php?id=21059563
-神雕侠侣1995,http://huanqiuzhibo.cn/manifest/huya.php?id=23865171
-新神雕侠侣,http://huanqiuzhibo.cn/manifest/huya.php?id=11352964
-大唐双龙传,http://huanqiuzhibo.cn/manifest/huya.php?id=23728674
-新水浒传,http://huanqiuzhibo.cn/manifest/huya.php?id=11342384
-旧三国,http://huanqiuzhibo.cn/manifest/huya.php?id=11602081
-活佛济公,http://huanqiuzhibo.cn/manifest/huya.php?id=11342400
-倩女幽魂,http://huanqiuzhibo.cn/manifest/huya.php?id=26355822
-铁梨花,http://huanqiuzhibo.cn/manifest/huya.php?id=11352912
-青岛往事,http://huanqiuzhibo.cn/manifest/huya.php?id=11342434
-雪豹后传,http://huanqiuzhibo.cn/manifest/huya.php?id=20599549
-漫长的季节,http://huanqiuzhibo.cn/manifest/huya.php?id=11342393
-风筝,http://huanqiuzhibo.cn/manifest/huya.php?id=30080225
-问心,http://huanqiuzhibo.cn/manifest/huya.php?id=11352890
+茶啊二中,http://3501776.xyz:35455/huya/11213191
+庆余年,http://3501776.xyz:35455/huya/11352960
+寻秦记,http://3501776.xyz:35455/huya/29465848
+爱情公寓,http://3501776.xyz:35455/huya/11336726
+鹿鼎记,http://3501776.xyz:35455/huya/23865080
+铁齿铜牙纪晓岚,http://3501776.xyz:35455/huya/11342396
+雪中悍刀行,http://3501776.xyz:35455/huya/11336592
+新楚留香,http://3501776.xyz:35455/huya/26355848
+且试天下,http://3501776.xyz:35455/huya/21059630
+花千骨,http://3501776.xyz:35455/huya/26355839
+清平乐,http://3501776.xyz:35455/huya/21059631
+陈情令,http://3501776.xyz:35455/huya/29465862
+梦华录,http://3501776.xyz:35455/huya/11336590
+美人心计,http://3501776.xyz:35455/huya/26355837
+绝代双骄,http://3501776.xyz:35455/huya/29465867
+刁蛮公主,http://3501776.xyz:35455/huya/29465879
+还珠格格,http://3501776.xyz:35455/huya/30080241
+水月洞天,http://3501776.xyz:35455/huya/21059567
+笑傲江湖,http://3501776.xyz:35455/huya/26355858
+风云,http://3501776.xyz:35455/huya/21059612
+士兵突击,http://3501776.xyz:35455/huya/11342430
+天龙八部,http://3501776.xyz:35455/huya/23903123
+雍正皇帝,http://3501776.xyz:35455/huya/11342439
+家有儿女,http://3501776.xyz:35455/huya/11352872
+新三国,http://3501776.xyz:35455/huya/11352944
+龙门镖局,http://3501776.xyz:35455/huya/11352874
+神医喜来乐,http://3501776.xyz:35455/huya/11601978
+张卫健西游记,http://3501776.xyz:35455/huya/11342395
+倚天屠龙记,http://3501776.xyz:35455/huya/11342403
+虎符传奇,http://3501776.xyz:35455/huya/11342415
+斗罗大陆2021,,http://3501776.xyz:35455/huya/11352892
+瑶山大剿匪,http://3501776.xyz:35455/huya/11342392
+白鹿原,http://3501776.xyz:35455/huya/11342416
+金庸,http://3501776.xyz:35455/huya/11336579
+猎罪图鉴,http://3501776.xyz:35455/huya/11601962
+扫黑风暴,http://3501776.xyz:35455/huya/11342404
+邻里一家亲,http://3501776.xyz:35455/huya/11342426
+父母爱情,http://3501776.xyz:35455/huya/11602071
+医馆笑传,http://3501776.xyz:35455/huya/11352891
+大秦赋,http://3501776.xyz:35455/huya/11352881
+盗墓笔记,http://3501776.xyz:35455/huya/11352871
+芈月传,http://3501776.xyz:35455/huya/11352975
+法证先锋,http://3501776.xyz:35455/huya/23863804
+神探狄仁杰,http://3501776.xyz:35455/huya/11352958
+宝莲灯,http://3501776.xyz:35455/huya/21059563
+神雕侠侣1995,http://3501776.xyz:35455/huya/23865171
+新神雕侠侣,http://3501776.xyz:35455/huya/11352964
+大唐双龙传,http://3501776.xyz:35455/huya/23728674
+新水浒传,http://3501776.xyz:35455/huya/11342384
+旧三国,http://3501776.xyz:35455/huya/11602081
+活佛济公,http://3501776.xyz:35455/huya/11342400
+倩女幽魂,http://3501776.xyz:35455/huya/26355822
+铁梨花,http://3501776.xyz:35455/huya/11352912
+青岛往事,http://3501776.xyz:35455/huya/11342434
+雪豹后传,http://3501776.xyz:35455/huya/20599549
+漫长的季节,http://3501776.xyz:35455/huya/11342393
+风筝,http://3501776.xyz:35455/huya/30080225
+问心,http://3501776.xyz:35455/huya/11352890
+
+茶啊二中,http://mvfn.zhch1968.com:35455/huya/11213191
+庆余年,http://mvfn.zhch1968.com:35455/huya/11352960
+寻秦记,http://mvfn.zhch1968.com:35455/huya/29465848
+爱情公寓,http://mvfn.zhch1968.com:35455/huya/11336726
+鹿鼎记,http://mvfn.zhch1968.com:35455/huya/23865080
+铁齿铜牙纪晓岚,http://mvfn.zhch1968.com:35455/huya/11342396
+雪中悍刀行,http://mvfn.zhch1968.com:35455/huya/11336592
+新楚留香,http://mvfn.zhch1968.com:35455/huya/26355848
+且试天下,http://mvfn.zhch1968.com:35455/huya/21059630
+花千骨,http://mvfn.zhch1968.com:35455/huya/26355839
+清平乐,http://mvfn.zhch1968.com:35455/huya/21059631
+陈情令,http://mvfn.zhch1968.com:35455/huya/29465862
+梦华录,http://mvfn.zhch1968.com:35455/huya/11336590
+美人心计,http://mvfn.zhch1968.com:35455/huya/26355837
+绝代双骄,http://mvfn.zhch1968.com:35455/huya/29465867
+刁蛮公主,http://mvfn.zhch1968.com:35455/huya/29465879
+还珠格格,http://mvfn.zhch1968.com:35455/huya/30080241
+水月洞天,http://mvfn.zhch1968.com:35455/huya/21059567
+笑傲江湖,http://mvfn.zhch1968.com:35455/huya/26355858
+风云,http://mvfn.zhch1968.com:35455/huya/21059612
+士兵突击,http://mvfn.zhch1968.com:35455/huya/11342430
+天龙八部,http://mvfn.zhch1968.com:35455/huya/23903123
+雍正皇帝,http://mvfn.zhch1968.com:35455/huya/11342439
+家有儿女,http://mvfn.zhch1968.com:35455/huya/11352872
+新三国,http://mvfn.zhch1968.com:35455/huya/11352944
+龙门镖局,http://mvfn.zhch1968.com:35455/huya/11352874
+神医喜来乐,http://mvfn.zhch1968.com:35455/huya/11601978
+张卫健西游记,http://mvfn.zhch1968.com:35455/huya/11342395
+倚天屠龙记,http://mvfn.zhch1968.com:35455/huya/11342403
+虎符传奇,http://mvfn.zhch1968.com:35455/huya/11342415
+斗罗大陆2021,,http://mvfn.zhch1968.com:35455/huya/11352892
+瑶山大剿匪,http://mvfn.zhch1968.com:35455/huya/11342392
+白鹿原,http://mvfn.zhch1968.com:35455/huya/11342416
+金庸,http://mvfn.zhch1968.com:35455/huya/11336579
+猎罪图鉴,http://mvfn.zhch1968.com:35455/huya/11601962
+扫黑风暴,http://mvfn.zhch1968.com:35455/huya/11342404
+邻里一家亲,http://mvfn.zhch1968.com:35455/huya/11342426
+父母爱情,http://mvfn.zhch1968.com:35455/huya/11602071
+医馆笑传,http://mvfn.zhch1968.com:35455/huya/11352891
+大秦赋,http://mvfn.zhch1968.com:35455/huya/11352881
+盗墓笔记,http://mvfn.zhch1968.com:35455/huya/11352871
+芈月传,http://mvfn.zhch1968.com:35455/huya/11352975
+法证先锋,http://mvfn.zhch1968.com:35455/huya/23863804
+神探狄仁杰,http://mvfn.zhch1968.com:35455/huya/11352958
+宝莲灯,http://mvfn.zhch1968.com:35455/huya/21059563
+神雕侠侣1995,http://mvfn.zhch1968.com:35455/huya/23865171
+新神雕侠侣,http://mvfn.zhch1968.com:35455/huya/11352964
+大唐双龙传,http://mvfn.zhch1968.com:35455/huya/23728674
+新水浒传,http://mvfn.zhch1968.com:35455/huya/11342384
+旧三国,http://mvfn.zhch1968.com:35455/huya/11602081
+活佛济公,http://mvfn.zhch1968.com:35455/huya/11342400
+倩女幽魂,http://mvfn.zhch1968.com:35455/huya/26355822
+铁梨花,http://mvfn.zhch1968.com:35455/huya/11352912
+青岛往事,http://mvfn.zhch1968.com:35455/huya/11342434
+雪豹后传,http://mvfn.zhch1968.com:35455/huya/20599549
+漫长的季节,http://mvfn.zhch1968.com:35455/huya/11342393
+风筝,http://mvfn.zhch1968.com:35455/huya/30080225
+问心,http://mvfn.zhch1968.com:35455/huya/11352890
 
 🎬电影频道👉全网,#genre#
 1905国内电影,http://php.jdshipin.com/1905.php?id=1905dy
 1905国外电影,http://php.jdshipin.com/1905.php?id=1905dy2
 1905国内电影,https://tv.myukj.cn/1905.php?id=1905a
 1905国外电影,https://tv.myukj.cn/1905.php?id=1905b
-邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
-周星驰,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
-豆瓣TOP250,http://huanqiuzhibo.cn/manifest/douyu.php?id=8770422
-60帧蓝光,http://huanqiuzhibo.cn/manifest/douyu.php?id=747764
-小宇60帧,http://huanqiuzhibo.cn/manifest/douyu.php?id=323876
-科幻Fans解说,http://huanqiuzhibo.cn/manifest/douyu.php?id=3508304
-神乐电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
-可乐电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
-奶虫电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=263824
-小鬼电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=3928
-冰城剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=74374
-贝贝电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=431460
-贝爷影厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
-贝爷影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=36337
-贝爷MAX厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
-漫威主线,http://huanqiuzhibo.cn/manifest/douyu.php?id=11673725
-经典电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=5668371
-蓝翔电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=276200
-粤语电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=6566671
-粤语电影2,http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741
-特辑电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
-PDD影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=1274132
-恐怖剧院,http://huanqiuzhibo.cn/manifest/douyu.php?id=2935323
-恐怖电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=218859
-恐怖剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=96577
-电影社,http://huanqiuzhibo.cn/manifest/douyu.php?id=11880223
-网神影厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=508118
-怡宝电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=434971
-欧美大片,http://huanqiuzhibo.cn/manifest/douyu.php?id=2793084
-欣欣影厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=11996166
-香港电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=315457
-龙门镖局,http://huanqiuzhibo.cn/manifest/douyu.php?id=9650860
-顺才少爷,http://huanqiuzhibo.cn/manifest/douyu.php?id=10084875
-怀旧剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=7119207
-港剧天地,http://huanqiuzhibo.cn/manifest/douyu.php?id=5522351
-记忆港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=11645048
-古装神剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=338759
-动漫剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=1174353
-动漫合集,http://huanqiuzhibo.cn/manifest/douyu.php?id=7620081
-成龙历险纪,http://huanqiuzhibo.cn/manifest/douyu.php?id=2287949
-草帽海贼团,http://huanqiuzhibo.cn/manifest/douyu.php?id=997925
-鼎香楼故事,http://huanqiuzhibo.cn/manifest/douyu.php?id=299854
-万合天宜,http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
-电影最TOP,http://huanqiuzhibo.cn/manifest/douyu.php?id=2164691
-刘老师说电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=8317926
-周扒片深度解说,http://huanqiuzhibo.cn/manifest/douyu.php?id=6434857
-1900影剧室,http://huanqiuzhibo.cn/manifest/douyu.php?id=7796193
-小片片说大片,http://huanqiuzhibo.cn/manifest/douyu.php?id=4258555
-牛叔解说,http://huanqiuzhibo.cn/manifest/douyu.php?id=2758565
-牛叔2台,http://huanqiuzhibo.cn/manifest/douyu.php?id=10010651
-虫哥解说,http://huanqiuzhibo.cn/manifest/douyu.php?id=8915074
-大蓝雀解说,http://huanqiuzhibo.cn/manifest/douyu.php?id=8656759
-老邪说电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=9222870
-刘哔讲电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=2632223
-科学黑历史,http://huanqiuzhibo.cn/manifest/douyu.php?id=9317739
-周杰伦MV,http://huanqiuzhibo.cn/manifest/douyu.php?id=7537296
-音乐MV,http://huanqiuzhibo.cn/manifest/douyu.php?id=3870925
+周星驰,http://zzy789.xyz/douyu1.php?id=122402
+豆瓣TOP250,http://zzy789.xyz/douyu1.php?id=8770422
+60帧蓝光,http://zzy789.xyz/douyu1.php?id=747764
+小宇60帧,http://zzy789.xyz/douyu1.php?id=323876
+科幻Fans解说,http://zzy789.xyz/douyu1.php?id=3508304
+神乐电影,http://zzy789.xyz/douyu1.php?id=85894
+可乐电影,http://zzy789.xyz/douyu1.php?id=20415
+奶虫电影,http://zzy789.xyz/douyu1.php?id=263824
+小鬼电影,http://zzy789.xyz/douyu1.php?id=3928
+冰城剧场,http://zzy789.xyz/douyu1.php?id=74374
+贝贝电影,http://zzy789.xyz/douyu1.php?id=431460
+贝爷影厅,http://zzy789.xyz/douyu1.php?id=252802
+贝爷影视,http://zzy789.xyz/douyu1.php?id=36337
+贝爷MAX厅,http://zzy789.xyz/douyu1.php?id=4332
+漫威主线,http://zzy789.xyz/douyu1.php?id=11673725
+经典电影,http://zzy789.xyz/douyu1.php?id=5668371
+蓝翔电影,http://zzy789.xyz/douyu1.php?id=276200
+粤语电影,http://zzy789.xyz/douyu1.php?id=6566671
+粤语电影2,http://zzy789.xyz/douyu1.php?id=1226741
+特辑电影,http://zzy789.xyz/douyu1.php?id=3637778
+PDD影院,http://zzy789.xyz/douyu1.php?id=1274132
+恐怖剧院,http://zzy789.xyz/douyu1.php?id=2935323
+恐怖电影,http://zzy789.xyz/douyu1.php?id=218859
+恐怖剧场,http://zzy789.xyz/douyu1.php?id=96577
+电影社,http://zzy789.xyz/douyu1.php?id=11880223
+网神影厅,http://zzy789.xyz/douyu1.php?id=508118
+怡宝电影,http://zzy789.xyz/douyu1.php?id=434971
+欧美大片,http://zzy789.xyz/douyu1.php?id=2793084
+欣欣影厅,http://zzy789.xyz/douyu1.php?id=11996166
+香港电影,http://zzy789.xyz/douyu1.php?id=315457
+龙门镖局,http://zzy789.xyz/douyu1.php?id=9650860
+顺才少爷,http://zzy789.xyz/douyu1.php?id=10084875
+怀旧剧场,http://zzy789.xyz/douyu1.php?id=7119207
+港剧天地,http://zzy789.xyz/douyu1.php?id=5522351
+记忆港剧,http://zzy789.xyz/douyu1.php?id=11645048
+古装神剧,http://zzy789.xyz/douyu1.php?id=338759
+动漫剧场,http://zzy789.xyz/douyu1.php?id=1174353
+动漫合集,http://zzy789.xyz/douyu1.php?id=7620081
+成龙历险纪,http://zzy789.xyz/douyu1.php?id=2287949
+草帽海贼团,http://zzy789.xyz/douyu1.php?id=997925
+鼎香楼故事,http://zzy789.xyz/douyu1.php?id=299854
+万合天宜,http://zzy789.xyz/douyu1.php?id=9220456
+电影最TOP,http://zzy789.xyz/douyu1.php?id=2164691
+刘老师说电影,http://zzy789.xyz/douyu1.php?id=8317926
+周扒片深度解说,http://zzy789.xyz/douyu1.php?id=6434857
+1900影剧室,http://zzy789.xyz/douyu1.php?id=7796193
+小片片说大片,http://zzy789.xyz/douyu1.php?id=4258555
+牛叔解说,http://zzy789.xyz/douyu1.php?id=2758565
+牛叔2台,http://zzy789.xyz/douyu1.php?id=10010651
+虫哥解说,http://zzy789.xyz/douyu1.php?id=8915074
+大蓝雀解说,http://zzy789.xyz/douyu1.php?id=8656759
+老邪说电影,http://zzy789.xyz/douyu1.php?id=9222870
+刘哔讲电影,http://zzy789.xyz/douyu1.php?id=2632223
+科学黑历史,http://zzy789.xyz/douyu1.php?id=9317739
+周杰伦MV,http://zzy789.xyz/douyu1.php?id=7537296
+音乐MV,http://zzy789.xyz/douyu1.php?id=3870925
+
+邵氏影院,http://3501776.xyz:35455/douyu/4246519
+周星驰,http://3501776.xyz:35455/douyu/122402
+豆瓣TOP250,http://3501776.xyz:35455/douyu/8770422
+60帧蓝光,http://3501776.xyz:35455/douyu/747764
+小宇60帧,http://3501776.xyz:35455/douyu/323876
+科幻Fans解说,http://3501776.xyz:35455/douyu/3508304
+神乐电影,http://3501776.xyz:35455/douyu/85894
+可乐电影,http://3501776.xyz:35455/douyu/20415
+奶虫电影,http://3501776.xyz:35455/douyu/263824
+小鬼电影,http://3501776.xyz:35455/douyu/3928
+冰城剧场,http://3501776.xyz:35455/douyu/74374
+贝贝电影,http://3501776.xyz:35455/douyu/431460
+贝爷影厅,http://3501776.xyz:35455/douyu/252802
+贝爷影视,http://3501776.xyz:35455/douyu/36337
+贝爷MAX厅,http://3501776.xyz:35455/douyu/4332
+漫威主线,http://3501776.xyz:35455/douyu/11673725
+经典电影,http://3501776.xyz:35455/douyu/5668371
+蓝翔电影,http://3501776.xyz:35455/douyu/276200
+粤语电影,http://3501776.xyz:35455/douyu/6566671
+粤语电影2,http://3501776.xyz:35455/douyu/1226741
+特辑电影,http://3501776.xyz:35455/douyu/3637778
+PDD影院,http://3501776.xyz:35455/douyu/1274132
+恐怖剧院,http://3501776.xyz:35455/douyu/2935323
+恐怖电影,http://3501776.xyz:35455/douyu/218859
+恐怖剧场,http://3501776.xyz:35455/douyu/96577
+电影社,http://3501776.xyz:35455/douyu/11880223
+网神影厅,http://3501776.xyz:35455/douyu/508118
+怡宝电影,http://3501776.xyz:35455/douyu/434971
+欧美大片,http://3501776.xyz:35455/douyu/2793084
+欣欣影厅,http://3501776.xyz:35455/douyu/11996166
+香港电影,http://3501776.xyz:35455/douyu/315457
+龙门镖局,http://3501776.xyz:35455/douyu/9650860
+顺才少爷,http://3501776.xyz:35455/douyu/10084875
+怀旧剧场,http://3501776.xyz:35455/douyu/7119207
+港剧天地,http://3501776.xyz:35455/douyu/5522351
+记忆港剧,http://3501776.xyz:35455/douyu/11645048
+古装神剧,http://3501776.xyz:35455/douyu/338759
+动漫剧场,http://3501776.xyz:35455/douyu/1174353
+动漫合集,http://3501776.xyz:35455/douyu/7620081
+成龙历险纪,http://3501776.xyz:35455/douyu/2287949
+草帽海贼团,http://3501776.xyz:35455/douyu/997925
+鼎香楼故事,http://3501776.xyz:35455/douyu/299854
+万合天宜,http://3501776.xyz:35455/douyu/9220456
+电影最TOP,http://3501776.xyz:35455/douyu/2164691
+刘老师说电影,http://3501776.xyz:35455/douyu/8317926
+周扒片深度解说,http://3501776.xyz:35455/douyu/6434857
+1900影剧室,http://3501776.xyz:35455/douyu/7796193
+小片片说大片,http://3501776.xyz:35455/douyu/4258555
+牛叔解说,http://3501776.xyz:35455/douyu/2758565
+牛叔2台,http://3501776.xyz:35455/douyu/10010651
+虫哥解说,http://3501776.xyz:35455/douyu/8915074
+大蓝雀解说,http://3501776.xyz:35455/douyu/8656759
+老邪说电影,http://3501776.xyz:35455/douyu/9222870
+刘哔讲电影,http://3501776.xyz:35455/douyu/2632223
+科学黑历史,http://3501776.xyz:35455/douyu/9317739
+周杰伦MV,http://3501776.xyz:35455/douyu/7537296
+音乐MV,http://3501776.xyz:35455/douyu/3870925
 绍兴影院✪另,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 新昌休闲影院,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 
