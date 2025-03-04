@@ -1189,7 +1189,6 @@ LOL•云顶之弈,http://tc-tct.douyucdn2.cn/dyliveflv1/522423rw7NgKaYl9_2000p.
 番薯音乐[1920*1080],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u
 香港卫视HKS[1024*576],http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8$2美VFD直
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 影渣好剧,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
@@ -1264,6 +1263,12 @@ TVB星河,http://v2hcdn.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u
 ViuTV,https://cdn5.163189.xyz/live/viu/stream.m3u8
 明珠台(中字),https://cdn5.163189.xyz/live/mzt/stream.m3u8
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
+
+凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
+CH5,https://cdn6.163189.xyz/live/ch5/stream.m3u8
+CH8,https://cdn6.163189.xyz/live/ch8/stream.m3u8
+CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
 
 
 成都组播其他,#genre#
