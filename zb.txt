@@ -1025,10 +1025,8 @@ CGTN-俄语,http://live2.rxip.sc96655.com/live/ey_2000.m3u8?E=1705228046&U=74179
 问心,http://mvfn.zhch1968.com:35455/huya/11352890
 
 🎬电影频道👉全网,#genre#
-1905国内电影,http://php.jdshipin.com/1905.php?id=1905dy
-1905国外电影,http://php.jdshipin.com/1905.php?id=1905dy2
-1905国内电影,https://tv.myukj.cn/1905.php?id=1905a
-1905国外电影,https://tv.myukj.cn/1905.php?id=1905b
+1905国内电影,
+1905国外电影,
 邵氏影院,http://1.94.31.214:35455/douyu/4246519
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
 周星驰,http://zzy789.xyz/douyu1.php?id=122402
@@ -1235,8 +1233,8 @@ ZooMoo,http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 香港卫视HKS[1024*576],http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
 重温经典,http://mtw.so/5NPX0U
-重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 影渣好剧,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 星光华剧台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 美亚电影,https://ali.hlspull.yximgs.com/live/moa41.flv
 凤凰资讯,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
@@ -1244,7 +1242,6 @@ ZooMoo,http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 中天新聞,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___CTI_2_HD.flv
 凤凰资讯,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___Phx_HD.flv
-龙祥时代,http://ali.hlspull.yximgs.com:80/live/dbb0b40c1fcea01ceedb0be4df58958e.flv
 
 TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 TVBS亚洲,http://extraott.com:80/live/6772191932/1654508883/5496.m3u8
@@ -1314,6 +1311,13 @@ ViuTV,https://cdn5.163189.xyz/live/viu/stream.m3u8
 CH5,https://cdn6.163189.xyz/live/ch5/stream.m3u8
 CH8,https://cdn6.163189.xyz/live/ch8/stream.m3u8
 CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
+
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 
 
 成都组播其他,#genre#
