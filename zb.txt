@@ -9,96 +9,73 @@
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 央视,#genre#
-CCTV1 综合,http://send.lovescie.com:5000/TVOD/6000000001000029752/wasusyt/index.m3u8$8M1080_华数
-CCTV1 综合,http://send.lovescie.com:5000/TVOD/1000000001000018602/FifastbLive/index.m3u8$8M1080_易视腾
-CCTV1 综合,http://send.lovescie.com:5000/TVOD/5000000004000002226/bestzb/index.m3u8$7.5M1080_百视通
-CCTV1 综合,http://send.lovescie.com:5000/TVOD/1000000005000265001/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-CCTV1 综合,http://send.lovescie.com:5000/TVOD/5000000010000030810/bestzb/index.m3u8$4M1080_百视通
-CCTV1 综合,http://send.lovescie.com:5000/TVOD/1000000001000021973/FifastbLive/index.m3u8$4M1080_易视腾
-CCTV2 财经,http://send.lovescie.com:5000/TVOD/6000000001000014161/wasusyt/index.m3u8$8M1080_华数
-CCTV2 财经,http://send.lovescie.com:5000/TVOD/1000000001000023315/FifastbLive/index.m3u8$8M1080_易视腾
-CCTV2 财经,http://send.lovescie.com:5000/TVOD/5000000011000031101/bestzb/index.m3u8$6.8M1080_百视通
-CCTV2 财经,http://send.lovescie.com:5000/TVOD/1000000005000265002/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-CCTV2 财经,http://send.lovescie.com:5000/TVOD/1000000001000012442/FifastbLive/index.m3u8$4M1080_易视腾
-CCTV3 综艺,http://send.lovescie.com:5000/TVOD/6000000001000022313/wasusyt/index.m3u8$8M1080_华数
-CCTV3 综艺,http://send.lovescie.com:5000/TVOD/1000000001000013682/FifastbLive/index.m3u8$8M1080_易视腾
-CCTV3 综艺,http://send.lovescie.com:5000/TVOD/5000000004000008883/bestzb/index.m3u8$6.8M1080_百视通
-CCTV3 综艺,http://send.lovescie.com:5000/TVOD/1000000005000265003/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-CCTV3 综艺,http://send.lovescie.com:5000/TVOD/5000000002000020548/bestzb/index.m3u8$4M1080_百视通
-CCTV3 综艺,http://send.lovescie.com:5000/TVOD/1000000001000011218/FifastbLive/index.m3u8$4M1080_易视腾
-CCTV4 中文国际,http://send.lovescie.com:5000/TVOD/5000000011000031102/bestzb/index.m3u8$6.8M1080_百视通
-CCTV4 中文国际,http://send.lovescie.com:5000/TVOD/1000000005000265004/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-CCTV4 中文国际,http://send.lovescie.com:5000/TVOD/1000000002000031664/FifastbLive/index.m3u8$4M1080_易视腾
-CCTV4 中文国际,http://send.lovescie.com:5000/TVOD/5000000005000030093/bestzb/index.m3u8$4M720_百视通
-CCTV5 体育,http://send.lovescie.com:5000/TVOD/1000000005000025222/FifastbLive/index.m3u8$12M1080_易视腾
-CCTV5 体育,http://send.lovescie.com:5000/TVOD/6000000001000016431/wasusyt/index.m3u8$8M1080_华数
-CCTV5 体育,http://send.lovescie.com:5000/TVOD/1000000003000030177/FifastbLive/index.m3u8$8M1080_易视腾
-CCTV5 体育,http://send.lovescie.com:5000/TVOD/5000000004000008885/bestzb/index.m3u8$6.8M1080_百视通
-CCTV5 体育,http://send.lovescie.com:5000/TVOD/1000000005000265005/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-CCTV5 体育,http://send.lovescie.com:5000/TVOD/5000000010000016619/bestzb/index.m3u8$4M1080_百视通
-CCTV5 体育,http://send.lovescie.com:5000/TVOD/1000000001000004794/FifastbLive/index.m3u8$4M1080_易视腾
-CCTV5+ 体育赛事,http://send.lovescie.com:5000/TVOD/6000000001000015875/wasusyt/index.m3u8$8M1080_华数
-CCTV5+ 体育赛事,http://send.lovescie.com:5000/TVOD/1000000001000018504/FifastbLive/index.m3u8$8M1080_易视腾
-CCTV5+ 体育赛事,http://send.lovescie.com:5000/TVOD/5000000011000031127/bestzb/index.m3u8$6.8M1080_百视通
-CCTV5+ 体育赛事,http://send.lovescie.com:5000/TVOD/1000000005000265016/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-CCTV5+ 体育赛事,http://send.lovescie.com:5000/TVOD/1000000001000020505/FifastbLive/index.m3u8$4M1080_易视腾
-CCTV6 电影,http://send.lovescie.com:5000/TVOD/6000000001000004574/wasusyt/index.m3u8$8M1080_华数
-CCTV6 电影,http://send.lovescie.com:5000/TVOD/1000000001000001737/FifastbLive/index.m3u8$8M1080_易视腾
-CCTV6 电影,http://send.lovescie.com:5000/TVOD/5000000004000008886/bestzb/index.m3u8$6.8M1080_百视通
-CCTV6 电影,http://send.lovescie.com:5000/TVOD/1000000005000265006/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-CCTV6 电影,http://send.lovescie.com:5000/TVOD/5000000010000018433/bestzb/index.m3u8$4M1080_百视通
-CCTV6 电影,http://send.lovescie.com:5000/TVOD/1000000001000016466/FifastbLive/index.m3u8$4M1080_易视腾
-CCTV7 国防军事,http://send.lovescie.com:5000/TVOD/6000000001000009055/wasusyt/index.m3u8$8M1080_华数
-CCTV7 国防军事,http://send.lovescie.com:5000/TVOD/1000000001000024341/FifastbLive/index.m3u8$8M1080_易视腾
-CCTV7 国防军事,http://send.lovescie.com:5000/TVOD/5000000011000031104/bestzb/index.m3u8$6.8M1080_百视通
-CCTV7 国防军事,http://send.lovescie.com:5000/TVOD/1000000005000265007/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-CCTV7 国防军事,http://send.lovescie.com:5000/TVOD/1000000001000017218/FifastbLive/index.m3u8$4M1080_易视腾
-CCTV7 国防军事,http://send.lovescie.com:5000/TVOD/5000000005000026715/bestzb/index.m3u8$4M720_百视通
-CCTV8 电视剧,http://send.lovescie.com:5000/TVOD/6000000001000001070/wasusyt/index.m3u8$8M1080_华数
-CCTV8 电视剧,http://send.lovescie.com:5000/TVOD/1000000001000031433/FifastbLive/index.m3u8$8M1080_易视腾
-CCTV8 电视剧,http://send.lovescie.com:5000/TVOD/5000000004000008888/bestzb/index.m3u8$6.8M1080_百视通
-CCTV8 电视剧,http://send.lovescie.com:5000/TVOD/1000000005000265008/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-CCTV8 电视剧,http://send.lovescie.com:5000/TVOD/5000000010000018377/bestzb/index.m3u8$4M1080_百视通
-CCTV8 电视剧,http://send.lovescie.com:5000/TVOD/1000000001000003736/FifastbLive/index.m3u8$4M1080_易视腾
-CCTV9 记录,http://send.lovescie.com:5000/TVOD/6000000001000032162/wasusyt/index.m3u8$8M1080_华数
-CCTV9 记录,http://send.lovescie.com:5000/TVOD/1000000001000014583/FifastbLive/index.m3u8$8M1080_易视腾
-CCTV9 记录,http://send.lovescie.com:5000/TVOD/1000000005000265009/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-CCTV9 记录,http://send.lovescie.com:5000/TVOD/5000000010000018384/bestzb/index.m3u8$4M1080_百视通
-CCTV9 记录,http://send.lovescie.com:5000/TVOD/1000000001000028286/FifastbLive/index.m3u8$4M1080_易视腾
-CCTV10 科教,http://send.lovescie.com:5000/TVOD/5000000004000012827/bestzb/index.m3u8$8M1080_百视通
-CCTV10 科教,http://send.lovescie.com:5000/TVOD/6000000001000031506/wasusyt/index.m3u8$8M1080_华数
-CCTV10 科教,http://send.lovescie.com:5000/TVOD/1000000001000023734/FifastbLive/index.m3u8$8M1080_易视腾
-CCTV10 科教,http://send.lovescie.com:5000/TVOD/1000000005000265010/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-CCTV10 科教,http://send.lovescie.com:5000/TVOD/5000000010000016738/bestzb/index.m3u8$4M1080_百视通
-CCTV10 科教,http://send.lovescie.com:5000/TVOD/1000000001000026367/FifastbLive/index.m3u8$4M1080_易视腾
-CCTV11 戏曲,http://send.lovescie.com:5000/TVOD/5000000011000031106/bestzb/index.m3u8$6.8M1080_百视通
-CCTV11 戏曲,http://send.lovescie.com:5000/TVOD/1000000005000265011/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-CCTV11 戏曲,http://send.lovescie.com:5000/TVOD/5000000006000040011/bestzb/index.m3u8$4M1080_百视通
-CCTV11 戏曲,http://send.lovescie.com:5000/TVOD/1000000002000019789/FifastbLive/index.m3u8$4M1080_易视腾
-CCTV12 社会与法,http://send.lovescie.com:5000/TVOD/6000000001000022586/wasusyt/index.m3u8$8M1080_华数
-CCTV12 社会与法,http://send.lovescie.com:5000/TVOD/1000000001000032494/FifastbLive/index.m3u8$8M1080_易视腾
-CCTV12 社会与法,http://send.lovescie.com:5000/TVOD/5000000011000031107/bestzb/index.m3u8$6.8M1080_百视通
-CCTV12 社会与法,http://send.lovescie.com:5000/TVOD/1000000005000265012/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-CCTV12 社会与法,http://send.lovescie.com:5000/TVOD/1000000001000001640/FifastbLive/index.m3u8$4M1080_易视腾
-CCTV12 社会与法,http://send.lovescie.com:5000/TVOD/5000000006000040012/bestzb/index.m3u8$4M540_百视通
-CCTV13 新闻,http://send.lovescie.com:5000/TVOD/5000000011000031108/bestzb/index.m3u8$6.8M1080_百视通
-CCTV13 新闻,http://send.lovescie.com:5000/TVOD/5000000005000001827/bestzb/index.m3u8$4M1080_百视通
-CCTV13 新闻,http://send.lovescie.com:5000/TVOD/1000000002000021303/FifastbLive/index.m3u8$4M1080_易视腾
-CCTV14 少儿,http://send.lovescie.com:5000/TVOD/5000000004000006673/bestzb/index.m3u8$8M1080_百视通
-CCTV14 少儿,http://send.lovescie.com:5000/TVOD/6000000001000013647/wasusyt/index.m3u8$8M1080_华数
-CCTV14 少儿,http://send.lovescie.com:5000/TVOD/1000000001000008170/FifastbLive/index.m3u8$8M1080_易视腾
-CCTV14 少儿,http://send.lovescie.com:5000/TVOD/1000000005000265013/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-CCTV14 少儿,http://send.lovescie.com:5000/TVOD/5000000010000023358/bestzb/index.m3u8$4M1080_百视通
-CCTV14 少儿,http://send.lovescie.com:5000/TVOD/1000000001000021349/FifastbLive/index.m3u8$4M1080_易视腾
-CCTV15 音乐,http://send.lovescie.com:5000/TVOD/5000000011000031109/bestzb/index.m3u8$6.8M1080_百视通
-CCTV15 音乐,http://send.lovescie.com:5000/TVOD/1000000005000265014/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-CCTV15 音乐,http://send.lovescie.com:5000/TVOD/1000000002000008163/FifastbLive/index.m3u8$4M1080_易视腾
-CCTV16 奥林匹克,http://send.lovescie.com:5000/TVOD/1000000006000233002/FifastbLive/index.m3u8$8M1080_易视腾
-CCTV16 奥林匹克,http://send.lovescie.com:5000/TVOD/5000000008000023253/bestzb/index.m3u8$6.8M1080_百视通
-CCTV16 奥林匹克,http://send.lovescie.com:5000/TVOD/1000000006000233001/FifastbLive/index.m3u8$4M1080_易视腾
-CCTV17 农业农村,http://send.lovescie.com:5000/TVOD/1000000006000268004/FifastbLive/index.m3u8$8M1080_易视腾
-CCTV17 农业农村,http://send.lovescie.com:5000/TVOD/1000000005000265015/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-CCTV17 农业农村,http://send.lovescie.com:5000/TVOD/1000000005000056836/FifastbLive/index.m3u8$4M1080_易视腾
+CCTV1,http://hmjnas.drdjhmj.top:35455/gaoma/cctv1.m3u8
+CCTV1,http://hmjnas.drdjhmj.top:35455/itv/6000000001000029752.m3u8?cdn=wasusyt
+CCTV1,http://hmjnas.drdjhmj.top:35455/itv/5000000004000002226.m3u8?cdn=bestzb
+CCTV1,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265001.m3u8?cdn=FifastbLive
+CCTV2,http://hmjnas.drdjhmj.top:35455/gaoma/cctv2.m3u8
+CCTV2,http://hmjnas.drdjhmj.top:35455/itv/1000000001000023315.m3u8?cdn=FifastbLive
+CCTV2,http://hmjnas.drdjhmj.top:35455/itv/6000000001000014161.m3u8?cdn=wasusyt
+CCTV2,http://hmjnas.drdjhmj.top:35455/itv/1000000001000023315.m3u8?cdn=FifastbLive
+CCTV3,http://hmjnas.drdjhmj.top:35455/gaoma/cctv3.m3u8
+CCTV3,http://hmjnas.drdjhmj.top:35455/itv/6000000001000022313.m3u8?cdn=wasusyt
+CCTV3,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265003.m3u8?cdn=FifastbLive
+CCTV4,http://hmjnas.drdjhmj.top:35455/gaoma/cctv4.m3u8
+CCTV4,http://hmjnas.drdjhmj.top:35455/itv/5000000011000031102.m3u8?cdn=bestzb
+CCTV4,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265004.m3u8?cdn=FifastbLive
+CCTV5,http://hmjnas.drdjhmj.top:35455/gaoma/cctv5.m3u8
+CCTV5,http://hmjnas.drdjhmj.top:35455/itv/1000000005000025222.m3u8?cdn=FifastbLive
+CCTV5,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265005.m3u8?cdn=FifastbLive
+CCTV5+,http://hmjnas.drdjhmj.top:35455/gaoma/cctv5p.m3u8
+CCTV5+,http://hmjnas.drdjhmj.top:35455/itv/6000000001000015875.m3u8?cdn=wasusyt
+CCTV5+,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265016.m3u8?cdn=FifastbLive
+CCTV6,http://hmjnas.drdjhmj.top:35455/itv/1000000001000001737.m3u8?cdn=FifastbLive
+CCTV6,http://hmjnas.drdjhmj.top:35455/itv/6000000001000004574.m3u8?cdn=wasusyt
+CCTV6,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265006.m3u8?cdn=FifastbLive
+CCTV7,http://hmjnas.drdjhmj.top:35455/gaoma/cctv7.m3u8
+CCTV7,http://hmjnas.drdjhmj.top:35455/itv/1000000001000024341.m3u8?cdn=FifastbLive
+CCTV7,http://hmjnas.drdjhmj.top:35455/itv/6000000001000009055.m3u8?cdn=wasusyt
+CCTV7,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265007.m3u8?cdn=FifastbLive
+CCTV8,http://hmjnas.drdjhmj.top:35455/gaoma/cctv8.m3u8
+CCTV8,http://hmjnas.drdjhmj.top:35455/itv/6000000001000001070.m3u8?cdn=wasusyt
+CCTV8,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265008.m3u8?cdn=FifastbLive
+CCTV9,http://hmjnas.drdjhmj.top:35455/gaoma/cctv9.m3u8
+CCTV9,http://hmjnas.drdjhmj.top:35455/itv/1000000001000014583.m3u8?cdn=FifastbLive
+CCTV9,http://hmjnas.drdjhmj.top:35455/itv/6000000001000032162.m3u8?cdn=wasusyt
+CCTV9,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265009.m3u8?cdn=FifastbLive
+CCTV10,http://hmjnas.drdjhmj.top:35455/gaoma/cctv10.m3u8
+CCTV10,http://hmjnas.drdjhmj.top:35455/itv/1000000001000023734.m3u8?cdn=FifastbLive
+CCTV10,http://hmjnas.drdjhmj.top:35455/itv/5000000004000012827.m3u8?cdn=bestzb
+CCTV10,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265010.m3u8?cdn=FifastbLive
+CCTV11,http://hmjnas.drdjhmj.top:35455/gaoma/cctv11.m3u8
+CCTV11,http://hmjnas.drdjhmj.top:35455/itv/5000000011000031106.m3u8?cdn=bestzb
+CCTV11,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265011.m3u8?cdn=FifastbLive
+CCTV12,http://hmjnas.drdjhmj.top:35455/gaoma/cctv12.m3u8
+CCTV12,http://hmjnas.drdjhmj.top:35455/itv/1000000001000032494.m3u8?cdn=FifastbLive
+CCTV12,http://hmjnas.drdjhmj.top:35455/itv/6000000001000022586.m3u8?cdn=wasusyt
+CCTV12,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265012.m3u8?cdn=FifastbLive
+CCTV13,http://hmjnas.drdjhmj.top:35455/gaoma/cctv13.m3u8
+CCTV13,http://hmjnas.drdjhmj.top:35455/itv/5000000011000031108.m3u8?cdn=bestzb
+CCTV14,http://hmjnas.drdjhmj.top:35455/gaoma/cctv14.m3u8
+CCTV14,http://hmjnas.drdjhmj.top:35455/itv/1000000001000008170.m3u8?cdn=FifastbLive
+CCTV14,http://hmjnas.drdjhmj.top:35455/itv/5000000004000006673.m3u8?cdn=bestzb
+CCTV14,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265013.m3u8?cdn=FifastbLive
+CCTV15,http://hmjnas.drdjhmj.top:35455/gaoma/cctv15.m3u8
+CCTV15,http://hmjnas.drdjhmj.top:35455/itv/5000000011000031109.m3u8?cdn=bestzb
+CCTV15,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265014.m3u8?cdn=FifastbLive
+CCTV16,http://hmjnas.drdjhmj.top:35455/gaoma/cctv16.m3u8
+CCTV16,http://hmjnas.drdjhmj.top:35455/itv/1000000006000233002.m3u8?cdn=FifastbLive
+CCTV17,http://hmjnas.drdjhmj.top:35455/gaoma/cctv17.m3u8
+CCTV17,http://hmjnas.drdjhmj.top:35455/itv/1000000006000268004.m3u8?cdn=FifastbLive
+CCTV17,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265015.m3u8?cdn=FifastbLive
+CGTN记录,http://hmjnas.drdjhmj.top:35455/itv/7745129417417101820.m3u8?cdn=hnbblive
+CGTN记录,http://hmjnas.drdjhmj.top:35455/itv/7114647837765104058.m3u8?cdn=hnbblive
+CGTNALBY,http://hmjnas.drdjhmj.top:35455/gaoma/cgtnar.m3u8
+cgtndocumentary,http://hmjnas.drdjhmj.top:35455/gaoma/cgtndoc.m3u8
+CGTNEN,http://hmjnas.drdjhmj.top:35455/gaoma/cgtnen.m3u8
+cgtnfrench,http://hmjnas.drdjhmj.top:35455/gaoma/cgtnfr.m3u8
+cgtnru,http://hmjnas.drdjhmj.top:35455/gaoma/cgtnru.m3u8
+cgtnsp,http://hmjnas.drdjhmj.top:35455/gaoma/cgtnsp.m3u8
 
 CCTV1,http://sckonlan.3322.org:8888/rtp/239.93.0.58:5140$成电组域
 CCTV2,http://sckonlan.3322.org:8888/rtp/239.93.1.23:6000$成电组域
@@ -181,7 +158,7 @@ CETV4,http://yulang132.cn:4022/rtp/239.93.0.50:5140$成电组域2
 先锋乒羽,http://yulang132.cn:4022/rtp/239.93.42.56:5140$成电组域2
 乐龄学堂专区,http://yulang132.cn:4022/rtp/239.93.1.179:5140$成电组域2
 
-//stw3l.tpddns.cn:55555 dsm.ccb912.top:9998
+//dsm.ccb912.top:9998
 CCTV1,http://www.syswareonline.com:7088/rtp/239.93.0.58:5140$成电组域3
 CCTV2,http://www.syswareonline.com:7088/rtp/239.93.1.23:6000$成电组域3
 CCTV3,http://www.syswareonline.com:7088/rtp/239.93.0.109:5140$成电组域3
@@ -306,248 +283,89 @@ CETV4,http://www.syswareonline.com:7088/rtp/239.93.0.50:5140$成电组域3
 卫视,#genre#
 四川卫视,http://chat.aigoo.xyz:5000/TVOD/1000000002000016825/FifastbLive/index.m3u8
 四川卫视,http://www.yaozhenguo.top:5000/TVOD/1000000002000016825/FifastbLive/index.m3u8
-四川卫视,http://pa.ikimpa.com:5000/TVOD/1000000002000016825/FifastbLive/index.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 
-安徽卫视,http://send.lovescie.com:5000/TVOD/6000000001000009954/wasusyt/index.m3u8$8M1080_华数
-安徽卫视,http://send.lovescie.com:5000/TVOD/1000000001000030159/FifastbLive/index.m3u8$8M1080_易视腾
-安徽卫视,http://send.lovescie.com:5000/TVOD/5000000004000023002/bestzb/index.m3u8$7.5M1080_百视通
-安徽卫视,http://send.lovescie.com:5000/TVOD/1000000005000265025/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-安徽卫视,http://send.lovescie.com:5000/TVOD/5000000001000027288/bestzb/index.m3u8$4M1080_百视通
-安徽卫视,http://send.lovescie.com:5000/TVOD/1000000001000020780/FifastbLive/index.m3u8$4M1080_易视腾
-北京纪实科教,http://send.lovescie.com:5000/TVOD/1000000001000001910/FifastbLive/index.m3u8$8M1080_易视腾
-北京纪实科教,http://send.lovescie.com:5000/TVOD/5000000011000031204/bestzb/index.m3u8$6.8M1080_百视通
-北京纪实科教,http://send.lovescie.com:5000/TVOD/2000000002000000065/hnbblive/index.m3u8$6.8M1080_湖南bblive
-北京纪实科教,http://send.lovescie.com:5000/TVOD/1000000005000265020/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-北京纪实科教,http://send.lovescie.com:5000/TVOD/2000000003000000026/hnbblive/index.m3u8$4M1080_湖南bblive
-北京纪实科教,http://send.lovescie.com:5000/TVOD/1000000001000028380/FifastbLive/index.m3u8$4M1080_易视腾
-北京卡酷少儿,http://send.lovescie.com:5000/TVOD/7851974109718180595/bestzb/index.m3u8$6.8M1080_百视通
-北京卡酷少儿,http://send.lovescie.com:5000/TVOD/1000000002000002413/FifastbLive/index.m3u8$4M576_易视腾
-北京卡酷少儿,http://send.lovescie.com:5000/TVOD/6000000003000002709/wasusyt/index.m3u8$1.8M576_华数
-北京卫视,http://send.lovescie.com:5000/TVOD/6000000001000020451/wasusyt/index.m3u8$8M1080_华数
-北京卫视,http://send.lovescie.com:5000/TVOD/1000000001000021288/FifastbLive/index.m3u8$8M1080_易视腾
-北京卫视,http://send.lovescie.com:5000/TVOD/5000000004000031556/bestzb/index.m3u8$7.5M1080_百视通
-北京卫视,http://send.lovescie.com:5000/TVOD/1000000005000265027/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-北京卫视,http://send.lovescie.com:5000/TVOD/5000000010000011502/bestzb/index.m3u8$4M1080_百视通
-北京卫视,http://send.lovescie.com:5000/TVOD/1000000001000017156/FifastbLive/index.m3u8$4M1080_易视腾
-兵团卫视,http://send.lovescie.com:5000/TVOD/1000000005000266005/FifastbLive/index.m3u8$4M576_易视腾
-兵团卫视,http://send.lovescie.com:5000/TVOD/5000000006000040020/bestzb/index.m3u8$4M540_百视通
-福建东南卫视,http://send.lovescie.com:5000/TVOD/5000000004000010584/bestzb/index.m3u8$8M1080_百视通
-福建东南卫视,http://send.lovescie.com:5000/TVOD/1000000005000265033/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-福建东南卫视,http://send.lovescie.com:5000/TVOD/5000000001000005829/bestzb/index.m3u8$4M1080_百视通
-福建东南卫视,http://send.lovescie.com:5000/TVOD/1000000002000009263/FifastbLive/index.m3u8$4M1080_易视腾
-甘肃卫视,http://send.lovescie.com:5000/TVOD/5000000011000031121/bestzb/index.m3u8$6.8M1080_百视通
-甘肃卫视,http://send.lovescie.com:5000/TVOD/1000000002000017827/FifastbLive/index.m3u8$4M1080_易视腾
-甘肃卫视,http://send.lovescie.com:5000/TVOD/5000000006000040021/bestzb/index.m3u8$4M540_百视通
-广东大湾区卫视,http://send.lovescie.com:5000/TVOD/2000000003000000045/hnbblive/index.m3u8$4M576_湖南bblive
-广东大湾区卫视,http://send.lovescie.com:5000/TVOD/1000000002000011619/FifastbLive/index.m3u8$4M576_易视腾
-广东嘉佳卡通,http://send.lovescie.com:5000/TVOD/1000000002000025964/FifastbLive/index.m3u8$4M576_易视腾
-广东嘉佳卡通,http://send.lovescie.com:5000/TVOD/6000000003000025508/wasusyt/index.m3u8$1.8M576_华数
-广东卫视,http://send.lovescie.com:5000/TVOD/5000000004000014694/bestzb/index.m3u8$8M1080_百视通
-广东卫视,http://send.lovescie.com:5000/TVOD/6000000001000031076/wasusyt/index.m3u8$8M1080_华数
-广东卫视,http://send.lovescie.com:5000/TVOD/1000000001000014176/FifastbLive/index.m3u8$8M1080_易视腾
-广东卫视,http://send.lovescie.com:5000/TVOD/1000000005000265034/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-广东卫视,http://send.lovescie.com:5000/TVOD/5000000010000030417/bestzb/index.m3u8$4M1080_百视通
-广东卫视,http://send.lovescie.com:5000/TVOD/1000000001000028357/FifastbLive/index.m3u8$4M1080_易视腾
-广东珠江,http://send.lovescie.com:5000/TVOD/2000000003000000033/hnbblive/index.m3u8$2.5M720_湖南bblive
-广东珠江,http://send.lovescie.com:5000/TVOD/1000000004000011655/FifastbLive/index.m3u8$2.5M720_易视腾
-广西卫视,http://send.lovescie.com:5000/TVOD/5000000011000031118/bestzb/index.m3u8$6.8M1080_百视通
-广西卫视,http://send.lovescie.com:5000/TVOD/1000000002000019837/FifastbLive/index.m3u8$4M1080_易视腾
-广西卫视,http://send.lovescie.com:5000/TVOD/5000000006000040014/bestzb/index.m3u8$4M540_百视通
-贵州卫视,http://send.lovescie.com:5000/TVOD/5000000004000025843/bestzb/index.m3u8$8M1080_百视通
-贵州卫视,http://send.lovescie.com:5000/TVOD/1000000002000003169/FifastbLive/index.m3u8$4M1080_易视腾
-海南卫视,http://send.lovescie.com:5000/TVOD/5000000004000006211/bestzb/index.m3u8$8M1080_百视通
-海南卫视,http://send.lovescie.com:5000/TVOD/1000000002000023773/FifastbLive/index.m3u8$4M1080_易视腾
-河北卫视,http://send.lovescie.com:5000/TVOD/5000000006000040016/bestzb/index.m3u8$8M1080_百视通
-河北卫视,http://send.lovescie.com:5000/TVOD/1000000002000017118/FifastbLive/index.m3u8$4M1080_易视腾
-河南卫视,http://send.lovescie.com:5000/TVOD/5000000011000031119/bestzb/index.m3u8$6.8M1080_百视通
-河南卫视,http://send.lovescie.com:5000/TVOD/1000000002000027731/FifastbLive/index.m3u8$4M1080_易视腾
-河南卫视,http://send.lovescie.com:5000/TVOD/5000000005000017925/bestzb/index.m3u8$4M720_百视通
-黑龙江卫视,http://send.lovescie.com:5000/TVOD/6000000001000016510/wasusyt/index.m3u8$8M1080_华数
-黑龙江卫视,http://send.lovescie.com:5000/TVOD/1000000001000001925/FifastbLive/index.m3u8$8M1080_易视腾
-黑龙江卫视,http://send.lovescie.com:5000/TVOD/5000000004000025203/bestzb/index.m3u8$6.8M1080_百视通
-黑龙江卫视,http://send.lovescie.com:5000/TVOD/1000000005000265029/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-黑龙江卫视,http://send.lovescie.com:5000/TVOD/5000000010000031107/bestzb/index.m3u8$4M1080_百视通
-黑龙江卫视,http://send.lovescie.com:5000/TVOD/1000000001000009082/FifastbLive/index.m3u8$4M1080_易视腾
-湖北卫视,http://send.lovescie.com:5000/TVOD/6000000001000015436/wasusyt/index.m3u8$8M1080_华数
-湖北卫视,http://send.lovescie.com:5000/TVOD/1000000001000024621/FifastbLive/index.m3u8$8M1080_易视腾
-湖北卫视,http://send.lovescie.com:5000/TVOD/5000000004000014954/bestzb/index.m3u8$6.8M1080_百视通
-湖北卫视,http://send.lovescie.com:5000/TVOD/1000000005000265023/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-湖北卫视,http://send.lovescie.com:5000/TVOD/5000000010000022140/bestzb/index.m3u8$4M1080_百视通
-湖北卫视,http://send.lovescie.com:5000/TVOD/1000000001000010355/FifastbLive/index.m3u8$4M1080_易视腾
-湖南茶频道,http://send.lovescie.com:5000/TVOD/5000000011000031209/bestzb/index.m3u8$6.8M1080_百视通
-湖南茶频道,http://send.lovescie.com:5000/TVOD/2000000002000000070/hnbblive/index.m3u8$6.8M1080_湖南bblive
-湖南金鹰纪实,http://send.lovescie.com:5000/TVOD/5000000011000031203/bestzb/index.m3u8$6.8M1080_百视通
-湖南金鹰纪实,http://send.lovescie.com:5000/TVOD/1000000002000011724/FifastbLive/index.m3u8$4M576_易视腾
-湖南金鹰卡通,http://send.lovescie.com:5000/TVOD/1000000002000016601/FifastbLive/index.m3u8$4M576_易视腾
-湖南金鹰卡通,http://send.lovescie.com:5000/TVOD/5000000006000040024/bestzb/index.m3u8$4M540_百视通
-湖南金鹰卡通,http://send.lovescie.com:5000/TVOD/6000000003000016791/wasusyt/index.m3u8$1.8M576_华数
-湖南快乐垂钓,http://send.lovescie.com:5000/TVOD/5000000011000031206/bestzb/index.m3u8$6.8M1080_百视通
-湖南快乐垂钓,http://send.lovescie.com:5000/TVOD/2000000002000000067/hnbblive/index.m3u8$6.8M1080_湖南bblive
-湖南卫视,http://send.lovescie.com:5000/TVOD/5000000004000006692/bestzb/index.m3u8$8M1080_百视通
-湖南卫视,http://send.lovescie.com:5000/TVOD/6000000001000018044/wasusyt/index.m3u8$8M1080_华数
-湖南卫视,http://send.lovescie.com:5000/TVOD/1000000001000032695/FifastbLive/index.m3u8$8M1080_易视腾
-湖南卫视,http://send.lovescie.com:5000/TVOD/1000000005000265024/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-湖南卫视,http://send.lovescie.com:5000/TVOD/5000000010000030452/bestzb/index.m3u8$4M1080_百视通
-湖南卫视,http://send.lovescie.com:5000/TVOD/1000000001000009115/FifastbLive/index.m3u8$4M1080_易视腾
-吉林卫视,http://send.lovescie.com:5000/TVOD/5000000011000031117/bestzb/index.m3u8$6.8M1080_百视通
-吉林卫视,http://send.lovescie.com:5000/TVOD/1000000002000027730/FifastbLive/index.m3u8$4M1080_易视腾
-吉林卫视,http://send.lovescie.com:5000/TVOD/5000000006000040013/bestzb/index.m3u8$4M540_百视通
-吉林延边卫视,http://send.lovescie.com:5000/TVOD/2000000003000000049/hnbblive/index.m3u8$4M576_湖南bblive
-吉林延边卫视,http://send.lovescie.com:5000/TVOD/1000000005000266008/FifastbLive/index.m3u8$4M576_易视腾
-江苏卫视,http://send.lovescie.com:5000/TVOD/6000000001000014861/wasusyt/index.m3u8$8M1080_华数
-江苏卫视,http://send.lovescie.com:5000/TVOD/1000000001000001828/FifastbLive/index.m3u8$8M1080_易视腾
-江苏卫视,http://send.lovescie.com:5000/TVOD/5000000004000019351/bestzb/index.m3u8$7.5M1080_百视通
-江苏卫视,http://send.lovescie.com:5000/TVOD/1000000005000265030/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-江苏卫视,http://send.lovescie.com:5000/TVOD/5000000010000018509/bestzb/index.m3u8$4M1080_百视通
-江苏卫视,http://send.lovescie.com:5000/TVOD/1000000001000004684/FifastbLive/index.m3u8$4M1080_易视腾
-江苏优漫卡通,http://send.lovescie.com:5000/TVOD/1000000002000010063/FifastbLive/index.m3u8$4M576_易视腾
-江苏优漫卡通,http://send.lovescie.com:5000/TVOD/6000000003000030492/wasusyt/index.m3u8$1.8M576_华数
-江西卫视,http://send.lovescie.com:5000/TVOD/1000000006000268001/FifastbLive/index.m3u8$8M1080_易视腾
-江西卫视,http://send.lovescie.com:5000/TVOD/5000000004000011210/bestzb/index.m3u8$6.8M1080_百视通
-江西卫视,http://send.lovescie.com:5000/TVOD/1000000005000265032/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-江西卫视,http://send.lovescie.com:5000/TVOD/5000000001000032154/bestzb/index.m3u8$4M1080_百视通
-江西卫视,http://send.lovescie.com:5000/TVOD/1000000001000013731/FifastbLive/index.m3u8$4M1080_易视腾
-辽宁卫视,http://send.lovescie.com:5000/TVOD/5000000004000011671/bestzb/index.m3u8$8M1080_百视通
-辽宁卫视,http://send.lovescie.com:5000/TVOD/1000000001000001945/FifastbLive/index.m3u8$8M1080_易视腾
-辽宁卫视,http://send.lovescie.com:5000/TVOD/1000000005000265022/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-辽宁卫视,http://send.lovescie.com:5000/TVOD/5000000001000008940/bestzb/index.m3u8$4M1080_百视通
-辽宁卫视,http://send.lovescie.com:5000/TVOD/1000000002000024033/FifastbLive/index.m3u8$4M1080_易视腾
-内蒙古卫视,http://send.lovescie.com:5000/TVOD/1000000002000014080/FifastbLive/index.m3u8$4M576_易视腾
-宁夏卫视,http://send.lovescie.com:5000/TVOD/1000000002000031451/FifastbLive/index.m3u8$4M576_易视腾
-宁夏卫视,http://send.lovescie.com:5000/TVOD/5000000006000040022/bestzb/index.m3u8$4M540_百视通
-青海安多卫视,http://send.lovescie.com:5000/TVOD/1000000005000266001/FifastbLive/index.m3u8$4M576_易视腾
-青海安多卫视,http://send.lovescie.com:5000/TVOD/5000000006000022124/bestzb/index.m3u8$2.5M576_百视通
-青海卫视,http://send.lovescie.com:5000/TVOD/1000000002000013359/FifastbLive/index.m3u8$4M1080_易视腾
-青海卫视,http://send.lovescie.com:5000/TVOD/5000000006000040015/bestzb/index.m3u8$4M540_百视通
-厦门卫视,http://send.lovescie.com:5000/TVOD/1000000005000266006/FifastbLive/index.m3u8$4M576_易视腾
-山东教育卫视,http://send.lovescie.com:5000/TVOD/1000000002000004097/FifastbLive/index.m3u8$4M576_易视腾
-山东教育卫视,http://send.lovescie.com:5000/TVOD/2000000003000000013/hnbblive/index.m3u8$1.5M576_湖南bblive
-山东卫视,http://send.lovescie.com:5000/TVOD/6000000001000004134/wasusyt/index.m3u8$8M1080_华数
-山东卫视,http://send.lovescie.com:5000/TVOD/1000000001000016568/FifastbLive/index.m3u8$8M1080_易视腾
-山东卫视,http://send.lovescie.com:5000/TVOD/5000000004000020424/bestzb/index.m3u8$6.8M1080_百视通
-山东卫视,http://send.lovescie.com:5000/TVOD/1000000005000265019/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-山东卫视,http://send.lovescie.com:5000/TVOD/5000000010000027763/bestzb/index.m3u8$4M1080_百视通
-山东卫视,http://send.lovescie.com:5000/TVOD/1000000001000012807/FifastbLive/index.m3u8$4M1080_易视腾
-山西卫视,http://send.lovescie.com:5000/TVOD/1000000002000021220/FifastbLive/index.m3u8$4M576_易视腾
-山西卫视,http://send.lovescie.com:5000/TVOD/5000000006000040023/bestzb/index.m3u8$4M540_百视通
-陕西农林卫视,http://send.lovescie.com:5000/TVOD/2000000003000000046/hnbblive/index.m3u8$4M576_湖南bblive
-陕西农林卫视,http://send.lovescie.com:5000/TVOD/1000000005000266003/FifastbLive/index.m3u8$4M576_易视腾
-陕西卫视,http://send.lovescie.com:5000/TVOD/1000000002000007495/FifastbLive/index.m3u8$4M576_易视腾
-陕西卫视,http://send.lovescie.com:5000/TVOD/5000000006000040017/bestzb/index.m3u8$4M540_百视通
-上海ICS外语,http://send.lovescie.com:5000/TVOD/5000000010000030951/bestzb/index.m3u8$4M1080_百视通
-上海ICS外语,http://send.lovescie.com:5000/TVOD/2000000002000000001/hnbblive/index.m3u8$2.5M720_湖南bblive
-上海第一财经,http://send.lovescie.com:5000/TVOD/5000000010000027146/bestzb/index.m3u8$4M1080_百视通
-上海第一财经,http://send.lovescie.com:5000/TVOD/2000000002000000004/hnbblive/index.m3u8$2.5M720_湖南bblive
-上海东方财经,http://send.lovescie.com:5000/TVOD/5000000007000010003/bestzb/index.m3u8$6.8M1080_百视通
-上海东方财经,http://send.lovescie.com:5000/TVOD/2000000002000000090/hnbblive/index.m3u8$6.8M1080_湖南bblive
-上海东方卫视,http://send.lovescie.com:5000/TVOD/5000000004000014098/bestzb/index.m3u8$8M1080_百视通
-上海东方卫视,http://send.lovescie.com:5000/TVOD/6000000001000003639/wasusyt/index.m3u8$8M1080_华数
-上海东方卫视,http://send.lovescie.com:5000/TVOD/1000000001000005866/FifastbLive/index.m3u8$8M1080_易视腾
-上海东方卫视,http://send.lovescie.com:5000/TVOD/1000000005000265018/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-上海东方卫视,http://send.lovescie.com:5000/TVOD/5000000010000032246/bestzb/index.m3u8$4M1080_百视通
-上海东方卫视,http://send.lovescie.com:5000/TVOD/1000000001000030202/FifastbLive/index.m3u8$4M1080_易视腾
-上海东方卫视,http://send.lovescie.com:5000/TVOD/2000000002000000056/hnbblive/index.m3u8$2M720_湖南bblive
-上海东方影视,http://send.lovescie.com:5000/TVOD/5000000010000032212/bestzb/index.m3u8$4M1080_百视通
-上海东方影视,http://send.lovescie.com:5000/TVOD/2000000002000000013/hnbblive/index.m3u8$2.5M720_湖南bblive
-上海都市,http://send.lovescie.com:5000/TVOD/5000000010000018926/bestzb/index.m3u8$4M1080_百视通
-上海都市,http://send.lovescie.com:5000/TVOD/2000000002000000012/hnbblive/index.m3u8$2.5M720_湖南bblive
-上海法治天地,http://send.lovescie.com:5000/TVOD/2000000002000000014/hnbblive/index.m3u8$7M1080_湖南bblive
-上海哈哈炫动,http://send.lovescie.com:5000/TVOD/5000000011000031123/bestzb/index.m3u8$7M1080_百视通
-上海哈哈炫动,http://send.lovescie.com:5000/TVOD/5000000005000031641/bestzb/index.m3u8$4M1080_百视通
-上海哈哈炫动,http://send.lovescie.com:5000/TVOD/1000000002000000172/FifastbLive/index.m3u8$4M576_易视腾
-上海纪实人文,http://send.lovescie.com:5000/TVOD/1000000001000016545/FifastbLive/index.m3u8$8M1080_易视腾
-上海纪实人文,http://send.lovescie.com:5000/TVOD/5000000004000010282/bestzb/index.m3u8$7M1080_百视通
-上海纪实人文,http://send.lovescie.com:5000/TVOD/1000000005000265021/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-上海纪实人文,http://send.lovescie.com:5000/TVOD/5000000001000021713/bestzb/index.m3u8$4M1080_百视通
-上海纪实人文,http://send.lovescie.com:5000/TVOD/1000000001000010606/FifastbLive/index.m3u8$4M1080_易视腾
-上海五星体育,http://send.lovescie.com:5000/TVOD/5000000010000017540/bestzb/index.m3u8$4M1080_百视通
-上海五星体育,http://send.lovescie.com:5000/TVOD/2000000002000000007/hnbblive/index.m3u8$2.5M720_湖南bblive
-上海新闻综合,http://send.lovescie.com:5000/TVOD/5000000011000031110/bestzb/index.m3u8$7M1080_百视通
-上海新闻综合,http://send.lovescie.com:5000/TVOD/2000000002000000005/hnbblive/index.m3u8$2.5M576_湖南bblive
-深圳卫视,http://send.lovescie.com:5000/TVOD/5000000004000007410/bestzb/index.m3u8$8M1080_百视通
-深圳卫视,http://send.lovescie.com:5000/TVOD/6000000001000002116/wasusyt/index.m3u8$8M1080_华数
-深圳卫视,http://send.lovescie.com:5000/TVOD/1000000001000009227/FifastbLive/index.m3u8$8M1080_易视腾
-深圳卫视,http://send.lovescie.com:5000/TVOD/1000000005000265028/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-深圳卫视,http://send.lovescie.com:5000/TVOD/5000000010000024026/bestzb/index.m3u8$4M1080_百视通
-深圳卫视,http://send.lovescie.com:5000/TVOD/1000000001000011645/FifastbLive/index.m3u8$4M1080_易视腾
-四川康巴卫视,http://send.lovescie.com:5000/TVOD/1000000005000266002/FifastbLive/index.m3u8$4M576_易视腾
-四川康巴卫视,http://send.lovescie.com:5000/TVOD/5000000003000001598/bestzb/index.m3u8$2.5M576_百视通
-四川卫视,http://send.lovescie.com:5000/TVOD/5000000004000006119/bestzb/index.m3u8$7.5M1080_百视通
-四川卫视,http://send.lovescie.com:5000/TVOD/1000000002000016825/FifastbLive/index.m3u8$4M1080_易视腾
-探索纪录,http://send.lovescie.com:5000/TVOD/2000000004000000007/hnbblive/index.m3u8$2.5M720_湖南bblive
-探索纪录,http://send.lovescie.com:5000/TVOD/5359008697329269813/wasusyt/index.m3u8$2.5M720_华数
-天津卫视,http://send.lovescie.com:5000/TVOD/5000000004000006827/bestzb/index.m3u8$8M1080_百视通
-天津卫视,http://send.lovescie.com:5000/TVOD/6000000001000009186/wasusyt/index.m3u8$8M1080_华数
-天津卫视,http://send.lovescie.com:5000/TVOD/1000000001000003475/FifastbLive/index.m3u8$8M1080_易视腾
-天津卫视,http://send.lovescie.com:5000/TVOD/1000000005000265026/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-天津卫视,http://send.lovescie.com:5000/TVOD/5000000001000030788/bestzb/index.m3u8$4M1080_百视通
-天津卫视,http://send.lovescie.com:5000/TVOD/1000000001000000831/FifastbLive/index.m3u8$4M1080_易视腾
-西藏藏语卫视,http://send.lovescie.com:5000/TVOD/5000000002000021549/bestzb/index.m3u8$2.5M576_百视通
-西藏卫视,http://send.lovescie.com:5000/TVOD/1000000002000015894/FifastbLive/index.m3u8$4M576_易视腾
-新海南,http://send.lovescie.com:5000/TVOD/2000000003000000011/hnbblive/index.m3u8$2.5M720_湖南bblive
-新疆卫视,http://send.lovescie.com:5000/TVOD/1000000002000029441/FifastbLive/index.m3u8$4M576_易视腾
-新疆卫视,http://send.lovescie.com:5000/TVOD/5000000006000040018/bestzb/index.m3u8$4M540_百视通
-炫动3D,http://send.lovescie.com:5000/TVOD/2000000004000000012/hnbblive/index.m3u8$2.5M720_湖南bblive
-炫动3D,http://send.lovescie.com:5000/TVOD/6000000003000000558/wasusyt/index.m3u8$2.5M720_华数
-云南卫视,http://send.lovescie.com:5000/TVOD/5000000011000031120/bestzb/index.m3u8$6.8M1080_百视通
-云南卫视,http://send.lovescie.com:5000/TVOD/1000000002000024694/FifastbLive/index.m3u8$4M1080_易视腾
-云南卫视,http://send.lovescie.com:5000/TVOD/5000000006000040019/bestzb/index.m3u8$4M540_百视通
-浙江教科影视,http://send.lovescie.com:5000/TVOD/2000000004000000001/hnbblive/index.m3u8$1.8M576_湖南bblive
-浙江卫视,http://send.lovescie.com:5000/TVOD/5000000004000007275/bestzb/index.m3u8$8M1080_百视通
-浙江卫视,http://send.lovescie.com:5000/TVOD/6000000001000032070/wasusyt/index.m3u8$8M1080_华数
-浙江卫视,http://send.lovescie.com:5000/TVOD/1000000001000014260/FifastbLive/index.m3u8$8M1080_易视腾
-浙江卫视,http://send.lovescie.com:5000/TVOD/1000000005000265031/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-浙江卫视,http://send.lovescie.com:5000/TVOD/5000000010000017320/bestzb/index.m3u8$4M1080_百视通
-浙江卫视,http://send.lovescie.com:5000/TVOD/1000000001000009806/FifastbLive/index.m3u8$4M1080_易视腾
-重庆卫视,http://send.lovescie.com:5000/TVOD/1000000001000001096/FifastbLive/index.m3u8$8M1080_易视腾
-重庆卫视,http://send.lovescie.com:5000/TVOD/5000000004000025797/bestzb/index.m3u8$6.8M1080_百视通
-重庆卫视,http://send.lovescie.com:5000/TVOD/1000000005000265017/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-重庆卫视,http://send.lovescie.com:5000/TVOD/1000000002000018937/FifastbLive/index.m3u8$4M1080_易视腾
-中国教育1,http://send.lovescie.com:5000/TVOD/5000000002000002652/bestzb/index.m3u8$4M1080_百视通
-中国教育1,http://send.lovescie.com:5000/TVOD/1000000002000027253/FifastbLive/index.m3u8$4M576_易视腾
-中国教育1,http://send.lovescie.com:5000/TVOD/6000000003000018981/wasusyt/index.m3u8$1.8M576_华数
-中国教育2,http://send.lovescie.com:5000/TVOD/2000000003000000047/hnbblive/index.m3u8$4M576_湖南bblive
-中国教育2,http://send.lovescie.com:5000/TVOD/1000000005000266004/FifastbLive/index.m3u8$4M576_易视腾
-中国教育2,http://send.lovescie.com:5000/TVOD/5000000011000031201/bestzb/index.m3u8$2.5M576_百视通
-中国教育4,http://send.lovescie.com:5000/TVOD/5000000011000031126/bestzb/index.m3u8$6.8M1080_百视通
-中国教育4,http://send.lovescie.com:5000/TVOD/1000000005000025333/FifastbLive/index.m3u8$4M576_易视腾
-中国教育4,http://send.lovescie.com:5000/TVOD/5000000006000012123/bestzb/index.m3u8$2.5M576_百视通
-中国教育4,http://send.lovescie.com:5000/TVOD/6000000005000042312/wasusyt/index.m3u8$1.8M576_华数
-中国天气,http://send.lovescie.com:5000/TVOD/5000000005000031974/bestzb/index.m3u8$3.5M576_百视通
-中国天气,http://send.lovescie.com:5000/TVOD/2000000002000000057/hnbblive/index.m3u8$3.5M540_湖南bblive
-中华美食,http://send.lovescie.com:5000/TVOD/2000000003000000052/hnbblive/index.m3u8$4M576_湖南bblive
-中华美食,http://send.lovescie.com:5000/TVOD/1000000005000266015/FifastbLive/index.m3u8$4M576_易视腾
-少儿动漫,http://send.lovescie.com:5000/TVOD/2000000004000000003/hnbblive/index.m3u8$2.5M720_湖南bblive
-少儿动漫,http://send.lovescie.com:5000/TVOD/8145334647720731271/wasusyt/index.m3u8$2.5M720_华数
-家庭理财频道,http://send.lovescie.com:5000/TVOD/5000000011000031210/bestzb/index.m3u8$2.5M576_百视通
-家庭理财频道,http://send.lovescie.com:5000/TVOD/2000000002000000064/hnbblive/index.m3u8$2.5M576_湖南bblive
-江苏财富天下,http://send.lovescie.com:5000/TVOD/5000000011000031208/bestzb/index.m3u8$3.5M540_百视通
-江苏财富天下,http://send.lovescie.com:5000/TVOD/2000000002000000069/hnbblive/index.m3u8$3.5M540_湖南bblive
-哒啵电竞,http://send.lovescie.com:5000/TVOD/2000000003000000066/hnbblive/index.m3u8$4M1080_湖南bblive
-哒啵电竞,http://send.lovescie.com:5000/TVOD/1000000006000032327/FifastbLive/index.m3u8$4M1080_易视腾
-哒啵赛事,http://send.lovescie.com:5000/TVOD/2000000003000000004/hnbblive/index.m3u8$4M1080_湖南bblive
-哒啵赛事,http://send.lovescie.com:5000/TVOD/2000000003000000039/hnbblive/index.m3u8$4M1080_湖南bblive
-哒啵赛事,http://send.lovescie.com:5000/TVOD/2000000003000000040/hnbblive/index.m3u8$4M1080_湖南bblive
-哒啵赛事,http://send.lovescie.com:5000/TVOD/1000000001000003775/FifastbLive/index.m3u8$4M1080_易视腾
-哒啵赛事,http://send.lovescie.com:5000/TVOD/1000000001000006906/FifastbLive/index.m3u8$4M1080_易视腾
-电子竞技,http://send.lovescie.com:5000/TVOD/2000000004000000015/hnbblive/index.m3u8$2.5M720_湖南bblive
-电子竞技,http://send.lovescie.com:5000/TVOD/6000000003000011654/wasusyt/index.m3u8$2.5M720_华数
-高清娱乐,http://send.lovescie.com:5000/TVOD/2000000004000000013/hnbblive/index.m3u8$2.5M720_湖南bblive
-高清娱乐,http://send.lovescie.com:5000/TVOD/6000000003000001569/wasusyt/index.m3u8$2.5M720_华数
-黑莓电影,http://send.lovescie.com:5000/TVOD/2000000003000000001/hnbblive/index.m3u8$4M1080_湖南bblive
-黑莓电影,http://send.lovescie.com:5000/TVOD/1000000004000019624/FifastbLive/index.m3u8$4M1080_易视腾
-黑莓动画,http://send.lovescie.com:5000/TVOD/2000000003000000002/hnbblive/index.m3u8$4M1080_湖南bblive
-黑莓动画,http://send.lovescie.com:5000/TVOD/1000000004000021734/FifastbLive/index.m3u8$4M1080_易视腾
-华数服务,http://send.lovescie.com:5000/TVOD/2000000004000000025/hnbblive/index.m3u8$4M720_湖南bblive
-精彩影视,http://send.lovescie.com:5000/TVOD/2000000004000000063/hnbblive/index.m3u8$7.2M1080_湖南bblive
-精彩影视,http://send.lovescie.com:5000/TVOD/6000000006000320630/wasusyt/index.m3u8$6.5M1080_华数
-聚鲨环球精选,http://send.lovescie.com:5000/TVOD/6000000004000014516/wasusyt/index.m3u8$1.8M576_华数
-漫游世界,http://send.lovescie.com:5000/TVOD/2000000004000000017/hnbblive/index.m3u8$2.5M720_湖南bblive
-漫游世界,http://send.lovescie.com:5000/TVOD/6000000003000028434/wasusyt/index.m3u8$2.5M720_华数
+北京卫视,http://hmjnas.drdjhmj.top:35455/itv/6000000001000020451.m3u8?cdn=wasusyt
+北京卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265027.m3u8?cdn=FifastbLive
+北京纪实科教,http://hmjnas.drdjhmj.top:35455/itv/1000000001000001910.m3u8?cdn=FifastbLive
+北京纪实科教,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265020.m3u8?cdn=FifastbLive
+北京卡酷少儿,http://hmjnas.drdjhmj.top:35455/itv/5000000011000265008.m3u8?cdn=bestzb
+BTV-重温经典,http://hmjnas.drdjhmj.top:35455/bptv/10000100000000050000000003887494.m3u8
+萌宠TV,http://hmjnas.drdjhmj.top:35455/bptv/10000100000000050000000003887495.m3u8
+淘BABY,http://hmjnas.drdjhmj.top:35455/bptv/10000100000000050000000003887496.m3u8
+淘剧场,http://hmjnas.drdjhmj.top:35455/bptv/10000100000000050000000003887497.m3u8
+淘电影,http://hmjnas.drdjhmj.top:35455/bptv/10000100000000050000000003887498.m3u8
+淘娱乐,http://hmjnas.drdjhmj.top:35455/bptv/10000100000000050000000003887499.m3u8
+北京体育休闲,http://hmjnas.drdjhmj.top:35455/bptv/10000100000000050000000003870779.m3u8
+北京新闻,http://hmjnas.drdjhmj.top:35455/bptv/10000100000000050000000003870780.m3u8
+安徽卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000001000030159.m3u8?cdn=FifastbLive
+安徽卫视,http://hmjnas.drdjhmj.top:35455/itv/6000000001000009954.m3u8?cdn=wasusyt
+安徽卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265025.m3u8?cdn=FifastbLive
+东南卫视,http://hmjnas.drdjhmj.top:35455/itv/5000000004000010584.m3u8?cdn=bestzb
+东南卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265033.m3u8?cdn=FifastbLive
+广西卫视,http://hmjnas.drdjhmj.top:35455/itv/5000000011000031118.m3u8?cdn=bestzb
+深圳卫视,http://hmjnas.drdjhmj.top:35455/itv/5000000004000007410.m3u8?cdn=bestzb
+深圳卫视,http://hmjnas.drdjhmj.top:35455/itv/6000000001000002116.m3u8?cdn=wasusyt
+深圳卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265028.m3u8?cdn=FifastbLive
+天津卫视,http://hmjnas.drdjhmj.top:35455/itv/5000000004000006827.m3u8?cdn=bestzb
+天津卫视,http://hmjnas.drdjhmj.top:35455/itv/6000000001000009186.m3u8?cdn=wasusyt
+天津卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265026.m3u8?cdn=FifastbLive
+甘肃卫视,http://hmjnas.drdjhmj.top:35455/itv/5000000011000031121.m3u8?cdn=bestzb
+广东卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000001000014176.m3u8?cdn=FifastbLive
+广东卫视,http://hmjnas.drdjhmj.top:35455/itv/6000000001000031076.m3u8?cdn=wasusyt
+广东卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265034.m3u8?cdn=FifastbLive
+贵州卫视,http://hmjnas.drdjhmj.top:35455/itv/5000000004000025843.m3u8?cdn=bestzb
+海南卫视,http://hmjnas.drdjhmj.top:35455/itv/5000000004000006211.m3u8?cdn=bestzb
+河北卫视,http://hmjnas.drdjhmj.top:35455/itv/5000000006000040016.m3u8?cdn=bestzb
+河南卫视,http://hmjnas.drdjhmj.top:35455/itv/5000000011000031119.m3u8?cdn=bestzb
+黑龙江卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000001000001925.m3u8?cdn=FifastbLive
+黑龙江卫视,http://hmjnas.drdjhmj.top:35455/itv/6000000001000016510.m3u8?cdn=wasusyt
+黑龙江卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265029.m3u8?cdn=FifastbLive
+湖北卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000001000024621.m3u8?cdn=FifastbLive
+湖北卫视,http://hmjnas.drdjhmj.top:35455/itv/6000000001000015436.m3u8?cdn=wasusyt
+湖北卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265023.m3u8?cdn=FifastbLive
+湖南卫视,http://hmjnas.drdjhmj.top:35455/itv/5000000004000006692.m3u8?cdn=bestzb
+湖南卫视,http://hmjnas.drdjhmj.top:35455/itv/6000000001000018044.m3u8?cdn=wasusyt
+湖南卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265024.m3u8?cdn=FifastbLive
+湖南金鹰纪实,http://hmjnas.drdjhmj.top:35455/itv/5000000011000031203.m3u8?cdn=bestzb
+湖南,http://hmjnas.drdjhmj.top:35455/itv/5000000011000031206.m3u8?cdn=bestzb
+湖南茶频道,http://hmjnas.drdjhmj.top:35455/itv/5000000011000031209.m3u8?cdn=bestzb
+吉林卫视,http://hmjnas.drdjhmj.top:35455/itv/5000000011000031117.m3u8?cdn=bestzb
+江苏卫视,http://hmjnas.drdjhmj.top:35455/itv/6000000001000014861.m3u8?cdn=wasusyt
+江苏卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000001000001828.m3u8?cdn=FifastbLive
+江苏卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265030.m3u8?cdn=FifastbLive
+江西卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000006000268001.m3u8?cdn=FifastbLive
+江西卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265032.m3u8?cdn=FifastbLive
+辽宁卫视,http://hmjnas.drdjhmj.top:35455/itv/5000000004000011671.m3u8?cdn=bestzb
+辽宁卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265022.m3u8?cdn=FifastbLive
+青海卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000002000013359.m3u8?cdn=FifastbLive
+山东卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000001000016568.m3u8?cdn=FifastbLive
+山东卫视,http://hmjnas.drdjhmj.top:35455/itv/6000000001000004134.m3u8?cdn=wasusyt
+山东卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265019.m3u8?cdn=FifastbLive
+东方卫视,http://hmjnas.drdjhmj.top:35455/itv/6000000001000003639.m3u8?cdn=wasusyt
+东方卫视,http://hmjnas.drdjhmj.top:35455/itv/5000000004000014098.m3u8?cdn=bestzb
+东方卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265018.m3u8?cdn=FifastbLive
+上海ICS,http://hmjnas.drdjhmj.top:35455/itv/5000000010000030951.m3u8?cdn=bestzb
+上海第一财经,http://hmjnas.drdjhmj.top:35455/itv/5000000010000027146.m3u8?cdn=bestzb
+东方财经,http://hmjnas.drdjhmj.top:35455/itv/5000000007000010003.m3u8?cdn=bestzb
+上海东方影视,http://hmjnas.drdjhmj.top:35455/itv/5000000010000032212.m3u8?cdn=bestzb
+上海都市,http://hmjnas.drdjhmj.top:35455/itv/5000000010000018926.m3u8?cdn=bestzb
+法治天地,http://hmjnas.drdjhmj.top:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
+哈哈炫动,http://hmjnas.drdjhmj.top:35455/itv/5000000011000031123.m3u8?cdn=bestzb
+纪实人文,http://hmjnas.drdjhmj.top:35455/itv/5000000004000010282.m3u8?cdn=bestzb
+纪实人文,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265021.m3u8?cdn=FifastbLive
+五星体育,http://hmjnas.drdjhmj.top:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+上海新闻综合,http://hmjnas.drdjhmj.top:35455/itv/5000000011000031110.m3u8?cdn=bestzb
+四川卫视,http://hmjnas.drdjhmj.top:35455/itv/5000000004000006119.m3u8?cdn=bestzb
+云南卫视,http://hmjnas.drdjhmj.top:35455/itv/5000000011000031120.m3u8?cdn=bestzb
+浙江卫视,http://hmjnas.drdjhmj.top:35455/itv/5000000004000007275.m3u8?cdn=bestzb
+浙江卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000001000014260.m3u8?cdn=FifastbLive
+浙江卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265031.m3u8?cdn=FifastbLive
+重庆卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000001000001096.m3u8?cdn=FifastbLive
+重庆卫视,http://hmjnas.drdjhmj.top:35455/itv/1000000005000265017.m3u8?cdn=FifastbLive
 
 四川卫视,http://sckonlan.3322.org:8888/rtp/239.93.0.169:5140$成都电信组播
 湖南卫视,http://sckonlan.3322.org:8888/rtp/239.93.0.88:5140$成都电信组播
@@ -1545,62 +1363,6 @@ i成都,http://sckonlan.3322.org:8888/rtp/239.93.1.104:1234
 热门本地-体验http://sckonlan.3322.org:8888/rtp/,239.93.1.53:5140
 
 migu,#genre#
-CCTV1,http://222.186.10.33:50002/migu.php?id=cctv1
-CCTV2,http://222.186.10.33:50002/migu.php?id=cctv2
-CCTV3,http://222.186.10.33:50002/migu.php?id=cctv3
-CCTV4,http://222.186.10.33:50002/migu.php?id=cctv4
-CCTV4,http://222.186.10.33:50002/migu.php?id=cctv4a
-CCTV4,http://222.186.10.33:50002/migu.php?id=cctv4o
-CCTV5,http://222.186.10.33:50002/migu.php?id=cctv5
-CCTV5+,http://222.186.10.33:50002/migu.php?id=cctv5p
-CCTV6,http://222.186.10.33:50002/migu.php?id=cctv6
-CCTV7,http://222.186.10.33:50002/migu.php?id=cctv7
-CCTV8,http://222.186.10.33:50002/migu.php?id=cctv8
-CCTV9,http://222.186.10.33:50002/migu.php?id=cctv9
-CCTV10,http://222.186.10.33:50002/migu.php?id=cctv10
-CCTV11,http://222.186.10.33:50002/migu.php?id=cctv11
-CCTV12,http://222.186.10.33:50002/migu.php?id=cctv12
-CCTV13,http://222.186.10.33:50002/migu.php?id=cctv13
-CCTV14,http://222.186.10.33:50002/migu.php?id=cctv14
-CCTV15,http://222.186.10.33:50002/migu.php?id=cctv15
-CCTV17,http://222.186.10.33:50002/migu.php?id=cctv17
-发现之旅,http://222.186.10.33:50002/migu.php?id=fxzl
-老故事,http://222.186.10.33:50002/migu.php?id=lgs
-中学生,http://222.186.10.33:50002/migu.php?id=zxs
-CGTN,http://222.186.10.33:50002/migu.php?id=cgtn
-CGTN纪录,http://222.186.10.33:50002/migu.php?id=cgtnjl
-CCTV西班牙语,http://222.186.10.33:50002/migu.php?id=cgtne
-CGTN法语,http://222.186.10.33:50002/migu.php?id=cgtnf
-CCTV阿拉伯语,http://222.186.10.33:50002/migu.php?id=cgtna
-CGTN俄语,http://222.186.10.33:50002/migu.php?id=cgtnr
-东方卫视,http://222.186.10.33:50002/migu.php?id=dfws
-重庆卫视,http://222.186.10.33:50002/migu.php?id=cqws
-吉林卫视,http://222.186.10.33:50002/migu.php?id=jlws
-辽宁卫视,http://222.186.10.33:50002/migu.php?id=lnws
-内蒙古卫视,http://222.186.10.33:50002/migu.php?id=nmws
-宁夏卫视,http://222.186.10.33:50002/migu.php?id=nxws
-甘肃卫视,http://222.186.10.33:50002/migu.php?id=gsws
-青海卫视,http://222.186.10.33:50002/migu.php?id=qhws
-陕西卫视,http://222.186.10.33:50002/migu.php?id=sxws
-山东卫视,http://222.186.10.33:50002/migu.php?id=sdws
-河南卫视,http://222.186.10.33:50002/migu.php?id=hnws
-湖北卫视,http://222.186.10.33:50002/migu.php?id=hubws
-湖南卫视,http://222.186.10.33:50002/migu.php?id=hunws
-江西卫视,http://222.186.10.33:50002/migu.php?id=jxws
-江苏卫视,http://222.186.10.33:50002/migu.php?id=jsws
-东南卫视,http://222.186.10.33:50002/migu.php?id=dnws
-海峡卫视,http://222.186.10.33:50002/migu.php?id=hxws
-广东卫视,http://222.186.10.33:50002/migu.php?id=gdws
-大湾区卫视,http://222.186.10.33:50002/migu.php?id=dwqws
-广西卫视,http://222.186.10.33:50002/migu.php?id=gxws
-云南卫视,http://222.186.10.33:50002/migu.php?id=ynws
-贵州卫视,http://222.186.10.33:50002/migu.php?id=gzws
-新疆卫视,http://222.186.10.33:50002/migu.php?id=xjws
-西藏卫视,http://222.186.10.33:50002/migu.php?id=xzws
-海南卫视,http://222.186.10.33:50002/migu.php?id=hinws
-广东影视,http://222.186.10.33:50002/migu.php?id=gdys
-经典香港电影,http://222.186.10.33:50002/migu.php?id=jdxgdy
-
 CCTV1,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv1
 CCTV2,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv2
 CCTV3,http://139.196.228.200:5678/公众号搞机大师/mg.php?id=cctv3
@@ -1832,242 +1594,119 @@ CCTV4K,http://148.135.93.213:81/live.php?id=CCTV4K-av3a
 CCTV16-4K,http://148.135.93.213:81/live.php?id=CCTV16-4K-av3a
 CCTV8K,http://148.135.93.213:81/live.php?id=CCTV8K-av3a
 
-HOT频道,#genre#
-Hot风尚音乐,http://send.lovescie.com:5000/TVOD/2000000004000000004/hnbblive/index.m3u8$2.5M720_湖南bblive
-Hot风尚音乐,http://send.lovescie.com:5000/TVOD/5529729098703832176/wasusyt/index.m3u8$2.5M720_华数
-Hot精品剧场,http://send.lovescie.com:5000/TVOD/2000000004000000002/hnbblive/index.m3u8$2.5M720_湖南bblive
-Hot精品剧场,http://send.lovescie.com:5000/TVOD/8230197131234717902/wasusyt/index.m3u8$2.5M720_华数
-Hot欧美影院,http://send.lovescie.com:5000/TVOD/2000000004000000005/hnbblive/index.m3u8$2.5M720_湖南bblive
-Hot欧美影院,http://send.lovescie.com:5000/TVOD/7185203501769528108/wasusyt/index.m3u8$2.5M720_华数
-Hot亚洲影院,http://send.lovescie.com:5000/TVOD/2000000004000000006/hnbblive/index.m3u8$2.5M720_湖南bblive
-Hot亚洲影院,http://send.lovescie.com:5000/TVOD/5841816227539527643/wasusyt/index.m3u8$2.5M720_华数
-NewTV频道,#genre#
-NewTV爱情喜剧,http://send.lovescie.com:5000/TVOD/2000000003000000010/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV超级电视剧,http://send.lovescie.com:5000/TVOD/1000000006000268003/FifastbLive/index.m3u8$8M1080_易视腾
-NewTV超级电视剧,http://send.lovescie.com:5000/TVOD/2000000003000000032/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV超级电视剧,http://send.lovescie.com:5000/TVOD/1000000001000008139/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV超级电视剧,http://send.lovescie.com:5000/TVOD/1000000004000024993/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV超级电影,http://send.lovescie.com:5000/TVOD/1000000003000012426/FifastbLive/index.m3u8$8M1080_易视腾
-NewTV超级电影,http://send.lovescie.com:5000/TVOD/2000000003000000031/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV超级电影,http://send.lovescie.com:5000/TVOD/1000000001000012884/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV超级电影,http://send.lovescie.com:5000/TVOD/1000000004000002120/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV超级体育,http://send.lovescie.com:5000/TVOD/1000000001000009601/FifastbLive/index.m3u8$8M1080_易视腾
-NewTV超级体育,http://send.lovescie.com:5000/TVOD/2000000003000000030/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV超级体育,http://send.lovescie.com:5000/TVOD/1000000001000009204/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV超级体育,http://send.lovescie.com:5000/TVOD/1000000004000007755/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV超级综艺,http://send.lovescie.com:5000/TVOD/1000000006000268002/FifastbLive/index.m3u8$8M1080_易视腾
-NewTV超级综艺,http://send.lovescie.com:5000/TVOD/2000000003000000029/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV超级综艺,http://send.lovescie.com:5000/TVOD/1000000001000025771/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV超级综艺,http://send.lovescie.com:5000/TVOD/1000000004000023658/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV潮妈辣婆,http://send.lovescie.com:5000/TVOD/2000000003000000018/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV东北剧场,http://send.lovescie.com:5000/TVOD/1000000005000266013/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV东北热剧,http://send.lovescie.com:5000/TVOD/2000000003000000051/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV动作电影,http://send.lovescie.com:5000/TVOD/2000000003000000017/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV动作电影,http://send.lovescie.com:5000/TVOD/1000000004000018653/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV古装剧场,http://send.lovescie.com:5000/TVOD/2000000003000000024/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV欢乐剧场,http://send.lovescie.com:5000/TVOD/2000000003000000050/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV欢乐剧场,http://send.lovescie.com:5000/TVOD/1000000005000266012/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV家庭剧场,http://send.lovescie.com:5000/TVOD/2000000003000000012/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV家庭剧场,http://send.lovescie.com:5000/TVOD/1000000004000008284/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV金牌综艺,http://send.lovescie.com:5000/TVOD/2000000003000000005/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV金牌综艺,http://send.lovescie.com:5000/TVOD/1000000004000026167/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV惊悚悬疑,http://send.lovescie.com:5000/TVOD/2000000003000000015/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV惊悚悬疑,http://send.lovescie.com:5000/TVOD/1000000004000024282/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV精品大剧,http://send.lovescie.com:5000/TVOD/2000000003000000020/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV精品大剧,http://send.lovescie.com:5000/TVOD/1000000004000013968/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV精品纪录,http://send.lovescie.com:5000/TVOD/1000000004000013730/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV精品记录,http://send.lovescie.com:5000/TVOD/2000000003000000019/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV精品萌宠,http://send.lovescie.com:5000/TVOD/2000000003000000067/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV精品萌宠,http://send.lovescie.com:5000/TVOD/1000000006000032328/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV精品体育,http://send.lovescie.com:5000/TVOD/2000000003000000021/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV精品体育,http://send.lovescie.com:5000/TVOD/1000000004000014634/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV精品综合,http://send.lovescie.com:5000/TVOD/2000000003000000008/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV精品综合,http://send.lovescie.com:5000/TVOD/1000000004000019008/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV军旅剧场,http://send.lovescie.com:5000/TVOD/2000000003000000014/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV军事评论,http://send.lovescie.com:5000/TVOD/2000000003000000022/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV魅力潇湘,http://send.lovescie.com:5000/TVOD/2000000003000000041/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV魅力潇湘,http://send.lovescie.com:5000/TVOD/1000000001000006197/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV魅力潇湘,http://send.lovescie.com:5000/TVOD/1000000005000266014/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV明星大片,http://send.lovescie.com:5000/TVOD/2000000003000000016/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV农业致富,http://send.lovescie.com:5000/TVOD/2000000003000000003/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV武博世界,http://send.lovescie.com:5000/TVOD/2000000003000000007/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV炫舞未来,http://send.lovescie.com:5000/TVOD/2000000003000000044/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV炫舞未来,http://send.lovescie.com:5000/TVOD/1000000001000000515/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV怡伴健康,http://send.lovescie.com:5000/TVOD/2000000003000000023/hnbblive/index.m3u8$4M1080_湖南bblive
-NewTV怡伴健康,http://send.lovescie.com:5000/TVOD/1000000005000266011/FifastbLive/index.m3u8$4M1080_易视腾
-NewTV中国功夫,http://send.lovescie.com:5000/TVOD/2000000003000000009/hnbblive/index.m3u8$4M1080_湖南bblive
-SiTV频道,#genre#
-SiTV动漫秀场,http://send.lovescie.com:5000/TVOD/5000000011000031113/bestzb/index.m3u8$7M1080_百视通
-SiTV动漫秀场,http://send.lovescie.com:5000/TVOD/5000000002000023636/bestzb/index.m3u8$4M1080_百视通
-SiTV动漫秀场,http://send.lovescie.com:5000/TVOD/2000000002000000009/hnbblive/index.m3u8$2.5M576_湖南bblive
-SiTV都市剧场,http://send.lovescie.com:5000/TVOD/5000000011000031111/bestzb/index.m3u8$7M1080_百视通
-SiTV都市剧场,http://send.lovescie.com:5000/TVOD/5000000002000004412/bestzb/index.m3u8$4M1080_百视通
-SiTV都市剧场,http://send.lovescie.com:5000/TVOD/2000000002000000015/hnbblive/index.m3u8$2.5M576_湖南bblive
-SiTV法治天地,http://send.lovescie.com:5000/TVOD/9001547084732463424/bestzb/index.m3u8$7M1080_百视通
-SiTV欢笑剧场,http://send.lovescie.com:5000/TVOD/5000000002000009455/bestzb/index.m3u8$4M1080_百视通
-SiTV欢笑剧场,http://send.lovescie.com:5000/TVOD/2000000002000000016/hnbblive/index.m3u8$3.5M1080_湖南bblive
-SiTV金色学堂,http://send.lovescie.com:5000/TVOD/5000000010000026105/bestzb/index.m3u8$7M1080_百视通
-SiTV金色学堂,http://send.lovescie.com:5000/TVOD/2000000002000000061/hnbblive/index.m3u8$7M1080_湖南bblive
-SiTV劲爆体育,http://send.lovescie.com:5000/TVOD/5000000002000029972/bestzb/index.m3u8$4M1080_百视通
-SiTV劲爆体育,http://send.lovescie.com:5000/TVOD/2000000002000000008/hnbblive/index.m3u8$1.2M540_湖南bblive
-SiTV乐游,http://send.lovescie.com:5000/TVOD/5000000011000031112/bestzb/index.m3u8$7M1080_百视通
-SiTV乐游,http://send.lovescie.com:5000/TVOD/2000000002000000092/hnbblive/index.m3u8$7M1080_湖南bblive
-SiTV乐游,http://send.lovescie.com:5000/TVOD/5000000006000040025/bestzb/index.m3u8$4M1080_百视通
-SiTV乐游,http://send.lovescie.com:5000/TVOD/2000000002000000059/hnbblive/index.m3u8$1.2M576_湖南bblive
-SiTV魅力足球,http://send.lovescie.com:5000/TVOD/5000000011000031207/bestzb/index.m3u8$7M1080_百视通
-SiTV魅力足球,http://send.lovescie.com:5000/TVOD/2000000002000000068/hnbblive/index.m3u8$7M1080_湖南bblive
-SiTV七彩戏剧,http://send.lovescie.com:5000/TVOD/5000000011000031116/bestzb/index.m3u8$7M1080_百视通
-SiTV七彩戏剧,http://send.lovescie.com:5000/TVOD/2000000002000000010/hnbblive/index.m3u8$7M1080_湖南bblive
-SiTV生活时尚,http://send.lovescie.com:5000/TVOD/5000000002000019634/bestzb/index.m3u8$4M1080_百视通
-SiTV生活时尚,http://send.lovescie.com:5000/TVOD/2000000002000000006/hnbblive/index.m3u8$2.5M720_湖南bblive
-SiTV游戏风云,http://send.lovescie.com:5000/TVOD/5000000011000031114/bestzb/index.m3u8$7M1080_百视通
-SiTV游戏风云,http://send.lovescie.com:5000/TVOD/5000000002000027005/bestzb/index.m3u8$4M1080_百视通
-SiTV游戏风云,http://send.lovescie.com:5000/TVOD/2000000002000000011/hnbblive/index.m3u8$2.5M576_湖南bblive
-iHOT频道,#genre#
-爱谍战,http://send.lovescie.com:5000/TVOD/6000000006000070630/wasusyt/index.m3u8$7.2M1080_华数
-爱谍战,http://send.lovescie.com:5000/TVOD/2000000004000000038/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱动漫,http://send.lovescie.com:5000/TVOD/6000000006000280630/wasusyt/index.m3u8$7.2M1080_华数
-爱动漫,http://send.lovescie.com:5000/TVOD/2000000004000000059/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱都市,http://send.lovescie.com:5000/TVOD/6000000006000080630/wasusyt/index.m3u8$7.2M1080_华数
-爱怀旧,http://send.lovescie.com:5000/TVOD/6000000006000260630/wasusyt/index.m3u8$7.2M1080_华数
-爱经典,http://send.lovescie.com:5000/TVOD/6000000006000060630/wasusyt/index.m3u8$7.2M1080_华数
-爱科幻,http://send.lovescie.com:5000/TVOD/6000000006000020630/wasusyt/index.m3u8$7.2M1080_华数
-爱科幻,http://send.lovescie.com:5000/TVOD/2000000004000000033/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱科学,http://send.lovescie.com:5000/TVOD/6000000006000160630/wasusyt/index.m3u8$7.2M1080_华数
-爱科学,http://send.lovescie.com:5000/TVOD/2000000004000000047/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱浪漫,http://send.lovescie.com:5000/TVOD/6000000006000040630/wasusyt/index.m3u8$7.2M1080_华数
-爱浪漫,http://send.lovescie.com:5000/TVOD/2000000004000000035/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱历史,http://send.lovescie.com:5000/TVOD/6000000006000150630/wasusyt/index.m3u8$7.2M1080_华数
-爱历史,http://send.lovescie.com:5000/TVOD/2000000004000000046/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱旅行,http://send.lovescie.com:5000/TVOD/6000000006000250630/wasusyt/index.m3u8$7.2M1080_华数
-爱旅行,http://send.lovescie.com:5000/TVOD/2000000004000000056/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱奇谈,http://send.lovescie.com:5000/TVOD/6000000006000270630/wasusyt/index.m3u8$7.2M1080_华数
-爱奇谈,http://send.lovescie.com:5000/TVOD/2000000004000000058/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱青春,http://send.lovescie.com:5000/TVOD/6000000006000100630/wasusyt/index.m3u8$7.2M1080_华数
-爱赛车,http://send.lovescie.com:5000/TVOD/6000000006000240630/wasusyt/index.m3u8$7.2M1080_华数
-爱赛车,http://send.lovescie.com:5000/TVOD/2000000004000000055/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱体育,http://send.lovescie.com:5000/TVOD/6000000006000290630/wasusyt/index.m3u8$7.2M1080_华数
-爱体育,http://send.lovescie.com:5000/TVOD/2000000004000000060/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱玩具,http://send.lovescie.com:5000/TVOD/6000000006000220630/wasusyt/index.m3u8$7.2M1080_华数
-爱玩具,http://send.lovescie.com:5000/TVOD/2000000004000000053/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱喜剧,http://send.lovescie.com:5000/TVOD/6000000006000010630/wasusyt/index.m3u8$7.2M1080_华数
-爱喜剧,http://send.lovescie.com:5000/TVOD/2000000004000000032/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱悬疑,http://send.lovescie.com:5000/TVOD/6000000006000050630/wasusyt/index.m3u8$7.2M1080_华数
-爱悬疑,http://send.lovescie.com:5000/TVOD/2000000004000000036/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱幼教,http://send.lovescie.com:5000/TVOD/6000000006000180630/wasusyt/index.m3u8$7.2M1080_华数
-爱幼教,http://send.lovescie.com:5000/TVOD/2000000004000000049/hnbblive/index.m3u8$6.8M1080_湖南bblive
-爱院线,http://send.lovescie.com:5000/TVOD/6000000006000030630/wasusyt/index.m3u8$7.2M1080_华数
-爱院线,http://send.lovescie.com:5000/TVOD/2000000004000000034/hnbblive/index.m3u8$6.8M1080_湖南bblive
-百视通频道,#genre#
-华语影院,http://send.lovescie.com:5000/TVOD/5000000011000288005/bestzb/index.m3u8
-星光影院,http://send.lovescie.com:5000/TVOD/5000000011000288013/bestzb/index.m3u8
-全球大片,http://send.lovescie.com:5000/TVOD/5000000011000288009/bestzb/index.m3u8
-热门剧场,http://send.lovescie.com:5000/TVOD/5000000011000288010/bestzb/index.m3u8
-谍战剧场,http://send.lovescie.com:5000/TVOD/5000000011000288004/bestzb/index.m3u8
-青春动漫,http://send.lovescie.com:5000/TVOD/5000000011000288008/bestzb/index.m3u8
-宝宝动画,http://send.lovescie.com:5000/TVOD/5000000011000288002/bestzb/index.m3u8
-戏曲精选,http://send.lovescie.com:5000/TVOD/5000000011000288012/bestzb/index.m3u8
-热门综艺,http://send.lovescie.com:5000/TVOD/5000000011000288011/bestzb/index.m3u8
-健康养生,http://send.lovescie.com:5000/TVOD/5000000011000288006/bestzb/index.m3u8
-百变课堂,http://send.lovescie.com:5000/TVOD/5000000011000288001/bestzb/index.m3u8
-看天下精选,http://send.lovescie.com:5000/TVOD/5000000011000288007/bestzb/index.m3u8
-电竞天堂,http://send.lovescie.com:5000/TVOD/5000000011000288003/bestzb/index.m3u8
-百视通,http://send.lovescie.com:5000/TVOD/5000000001000001116/bestzb/index.m3u8$4M1080_百视通
-百视通,http://send.lovescie.com:5000/TVOD/5000000001000002898/bestzb/index.m3u8$4M1080_百视通
-百视通,http://send.lovescie.com:5000/TVOD/5000000001000004876/bestzb/index.m3u8$4M1080_百视通
-百视通,http://send.lovescie.com:5000/TVOD/5000000001000004953/bestzb/index.m3u8$4M1080_百视通
-百视通,http://send.lovescie.com:5000/TVOD/5000000001000006777/bestzb/index.m3u8$4M1080_百视通
-百视通,http://send.lovescie.com:5000/TVOD/5000000001000017342/bestzb/index.m3u8$4M1080_百视通
-百视通,http://send.lovescie.com:5000/TVOD/5000000001000018009/bestzb/index.m3u8$4M1080_百视通
-百视通,http://send.lovescie.com:5000/TVOD/5000000001000019233/bestzb/index.m3u8$4M1080_百视通
-百视通,http://send.lovescie.com:5000/TVOD/5000000001000022620/bestzb/index.m3u8$4M1080_百视通
-百视通,http://send.lovescie.com:5000/TVOD/5000000001000023256/bestzb/index.m3u8$4M1080_百视通
-百视通,http://send.lovescie.com:5000/TVOD/5000000001000026930/bestzb/index.m3u8$4M1080_百视通
-百视通,http://send.lovescie.com:5000/TVOD/2000000002000000050/hnbblive/index.m3u8$2.5M720_湖南bblive
-百视通,http://send.lovescie.com:5000/TVOD/2000000002000000052/hnbblive/index.m3u8$2.5M720_湖南bblive
-百视通,http://send.lovescie.com:5000/TVOD/2000000002000000024/hnbblive/index.m3u8$1.2M576_湖南bblive
-百视通,http://send.lovescie.com:5000/TVOD/2000000002000000025/hnbblive/index.m3u8$1.2M576_湖南bblive
-百视通,http://send.lovescie.com:5000/TVOD/2000000002000000026/hnbblive/index.m3u8$1.2M576_湖南bblive
-百视通,http://send.lovescie.com:5000/TVOD/2000000002000000027/hnbblive/index.m3u8$1.2M576_湖南bblive
-百视通,http://send.lovescie.com:5000/TVOD/2000000002000000028/hnbblive/index.m3u8$1.2M576_湖南bblive
-百视通,http://send.lovescie.com:5000/TVOD/2000000002000000029/hnbblive/index.m3u8$1.2M576_湖南bblive
-百视通,http://send.lovescie.com:5000/TVOD/2000000002000000030/hnbblive/index.m3u8$1.2M576_湖南bblive
-百视通,http://send.lovescie.com:5000/TVOD/2000000002000000049/hnbblive/index.m3u8$1.2M576_湖南bblive
-百视通,http://send.lovescie.com:5000/TVOD/2000000002000000051/hnbblive/index.m3u8$1.2M576_湖南bblive
-咪咕频道,#genre#
-咪咕全民热练,http://send.lovescie.com:5000/TVOD/2000000003000000068/hnbblive/index.m3u8$8M1080_湖南bblive
-咪咕全民热练,http://send.lovescie.com:5000/TVOD/1000000006000270007/FifastbLive/index.m3u8$8M1080_易视腾
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000020000011528/FifastbLive/index.m3u8$8M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000020000011529/FifastbLive/index.m3u8$8M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000020000011530/FifastbLive/index.m3u8$8M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000020000011531/FifastbLive/index.m3u8$8M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/2000000003000000060/hnbblive/index.m3u8$8M1080_湖南bblive
-咪咕视频,http://send.lovescie.com:5000/TVOD/2000000003000000061/hnbblive/index.m3u8$8M1080_湖南bblive
-咪咕视频,http://send.lovescie.com:5000/TVOD/2000000003000000062/hnbblive/index.m3u8$8M1080_湖南bblive
-咪咕视频,http://send.lovescie.com:5000/TVOD/2000000003000000063/hnbblive/index.m3u8$8M1080_湖南bblive
-咪咕视频,http://send.lovescie.com:5000/TVOD/2000000003000000064/hnbblive/index.m3u8$8M1080_湖南bblive
-咪咕视频,http://send.lovescie.com:5000/TVOD/2000000003000000065/hnbblive/index.m3u8$8M1080_湖南bblive
-咪咕视频,http://send.lovescie.com:5000/TVOD/1000000006000270001/FifastbLive/index.m3u8$8M1080_易视腾
-咪咕视频,http://send.lovescie.com:5000/TVOD/1000000006000270002/FifastbLive/index.m3u8$8M1080_易视腾
-咪咕视频,http://send.lovescie.com:5000/TVOD/1000000006000270003/FifastbLive/index.m3u8$8M1080_易视腾
-咪咕视频,http://send.lovescie.com:5000/TVOD/1000000006000270004/FifastbLive/index.m3u8$8M1080_易视腾
-咪咕视频,http://send.lovescie.com:5000/TVOD/1000000006000270005/FifastbLive/index.m3u8$8M1080_易视腾
-咪咕视频,http://send.lovescie.com:5000/TVOD/1000000006000270006/FifastbLive/index.m3u8$8M1080_易视腾
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000010000000097/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000010000002019/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000010000002809/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000010000003915/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000010000004193/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000010000006077/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000010000006658/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000010000009788/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000010000010833/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000010000011297/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000010000011518/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000010000012558/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000010000012616/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000010000015470/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000010000015560/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000010000017678/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000010000019839/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000010000021904/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000010000023434/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000010000025380/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000010000027691/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频,http://send.lovescie.com:5000/TVOD/3000000010000031669/FifastbLive/index.m3u8$5M1080_咪视通
-求索频道,#genre#
-求索动物,http://send.lovescie.com:5000/TVOD/6000000002000010046/wasusyt/index.m3u8$8M1080_华数
-求索动物,http://send.lovescie.com:5000/TVOD/2000000004000000009/hnbblive/index.m3u8$7.5M1080_湖南bblive
-求索纪录,http://send.lovescie.com:5000/TVOD/6000000002000032052/wasusyt/index.m3u8$8M1080_华数
-求索纪录,http://send.lovescie.com:5000/TVOD/2000000004000000010/hnbblive/index.m3u8$7.5M1080_湖南bblive
-求索科学,http://send.lovescie.com:5000/TVOD/6000000002000032344/wasusyt/index.m3u8$8M1080_华数
-求索科学,http://send.lovescie.com:5000/TVOD/2000000004000000011/hnbblive/index.m3u8$7.5M1080_湖南bblive
-求索生活,http://send.lovescie.com:5000/TVOD/6000000002000003382/wasusyt/index.m3u8$8M1080_华数
-求索生活,http://send.lovescie.com:5000/TVOD/2000000004000000008/hnbblive/index.m3u8$7.5M1080_湖南bblive
-湖南频道,#genre#
-湖南卫视,http://send.lovescie.com:5000/TVOD/5000000004000006692/bestzb/index.m3u8$8M1080_百视通
-湖南卫视,http://send.lovescie.com:5000/TVOD/6000000001000018044/wasusyt/index.m3u8$8M1080_华数
-湖南卫视,http://send.lovescie.com:5000/TVOD/1000000001000032695/FifastbLive/index.m3u8$8M1080_易视腾
-湖南卫视,http://send.lovescie.com:5000/TVOD/1000000005000265024/FifastbLive/index.m3u8$5.5M1080HEVC_易视腾
-湖南卫视,http://send.lovescie.com:5000/TVOD/5000000010000030452/bestzb/index.m3u8$4M1080_百视通
-湖南卫视,http://send.lovescie.com:5000/TVOD/1000000001000009115/FifastbLive/index.m3u8$4M1080_易视腾
-湖南茶频道,http://send.lovescie.com:5000/TVOD/5000000011000031209/bestzb/index.m3u8$6.8M1080_百视通
-湖南茶频道,http://send.lovescie.com:5000/TVOD/2000000002000000070/hnbblive/index.m3u8$6.8M1080_湖南bblive
-湖南金鹰纪实,http://send.lovescie.com:5000/TVOD/5000000011000031203/bestzb/index.m3u8$6.8M1080_百视通
-湖南金鹰纪实,http://send.lovescie.com:5000/TVOD/1000000002000011724/FifastbLive/index.m3u8$4M576_易视腾
-湖南金鹰卡通,http://send.lovescie.com:5000/TVOD/1000000002000016601/FifastbLive/index.m3u8$4M576_易视腾
-湖南金鹰卡通,http://send.lovescie.com:5000/TVOD/5000000006000040024/bestzb/index.m3u8$4M540_百视通
-湖南金鹰卡通,http://send.lovescie.com:5000/TVOD/6000000003000016791/wasusyt/index.m3u8$1.8M576_华数
-湖南快乐垂钓,http://send.lovescie.com:5000/TVOD/5000000011000031206/bestzb/index.m3u8$6.8M1080_百视通
-湖南快乐垂钓,http://send.lovescie.com:5000/TVOD/2000000002000000067/hnbblive/index.m3u8$6.8M1080_湖南bblive
-湖南爱晚,http://send.lovescie.com:5000/TVOD/6307875884530512195/hnbblive/index.m3u8
-湖南电视剧,http://send.lovescie.com:5000/TVOD/8765482907954673867/hnbblive/index.m3u8
-湖南电影,http://send.lovescie.com:5000/TVOD/7884242846753128038/hnbblive/index.m3u8
-湖南都市,http://send.lovescie.com:5000/TVOD/4682579636905393407/hnbblive/index.m3u8
-湖南国际,http://send.lovescie.com:5000/TVOD/5015828848322021526/hnbblive/index.m3u8
-湖南经视,http://send.lovescie.com:5000/TVOD/6306119848317438256/hnbblive/index.m3u8
-湖南经视,http://send.lovescie.com:5000/TVOD/7766420291569067385/hnbblive/index.m3u8
-湖南娱乐,http://send.lovescie.com:5000/TVOD/6427893650335440392/hnbblive/index.m3u8
+NEWTV,#genre#
+NewTV精品综合,http://hmjnas.drdjhmj.top:35455/itv/1000000004000019008.m3u8?cdn=ystenlive
+newtv精品大剧,http://hmjnas.drdjhmj.top:35455/itv/1000000004000013968.m3u8?cdn=ystenlive
+newtv精品纪录,http://hmjnas.drdjhmj.top:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
+newtv精品体育,http://hmjnas.drdjhmj.top:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
+NEWTV精品萌宠,http://hmjnas.drdjhmj.top:35455/itv/1000000006000032328.m3u8?cdn=ystenlive
+newtv爱情喜剧,http://hmjnas.drdjhmj.top:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
+newtv超级电视剧,http://hmjnas.drdjhmj.top:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
+newtv超级电影,http://hmjnas.drdjhmj.top:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
+newtv超级体育,http://hmjnas.drdjhmj.top:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
+newtv超级综艺,http://hmjnas.drdjhmj.top:35455/itv/1000000006000268002.m3u8?cdn=ystenlive
+newtv潮妈辣婆,http://hmjnas.drdjhmj.top:35455/itv/2000000003000000018.m3u8?cdn=hnbblive
+NewTV东北热剧,http://hmjnas.drdjhmj.top:35455/itv/1000000005000266013.m3u8?cdn=ystenlive
+newtv动作电影,http://hmjnas.drdjhmj.top:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
+NewTV古装剧场,http://hmjnas.drdjhmj.top:35455/itv/2000000003000000024.m3u8?cdn=hnbblive
+NewTV欢乐剧场,http://hmjnas.drdjhmj.top:35455/itv/1000000005000266012.m3u8?cdn=ystenlive
+newtv家庭剧场,http://hmjnas.drdjhmj.top:35455/itv/1000000004000008284.m3u8?cdn=ystenlive
+NewTV金牌综艺,http://hmjnas.drdjhmj.top:35455/itv/1000000004000026167.m3u8?cdn=ystenlive
+newtv惊悚悬疑,http://hmjnas.drdjhmj.top:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
+newtv军旅剧场,http://hmjnas.drdjhmj.top:35455/itv/2000000003000000014.m3u8?cdn=hnbblive
+newtv军事评论,http://hmjnas.drdjhmj.top:35455/itv/2000000003000000022.m3u8?cdn=hnbblive
+NewTV魅力潇湘,http://hmjnas.drdjhmj.top:35455/itv/1000000001000006197.m3u8?cdn=ystenlive
+NewTV明星大片,http://hmjnas.drdjhmj.top:35455/itv/2000000003000000016.m3u8?cdn=hnbblive
+newtv农业致富,http://hmjnas.drdjhmj.top:35455/itv/2000000003000000003.m3u8?cdn=hnbblive
+NEWTV武博世界,http://hmjnas.drdjhmj.top:35455/itv/2000000003000000007.m3u8?cdn=hnbblive
+newtv炫舞未来,http://hmjnas.drdjhmj.top:35455/itv/1000000001000000515.m3u8?cdn=ystenlive
+newtv怡伴健康,http://hmjnas.drdjhmj.top:35455/itv/1000000005000266011.m3u8?cdn=ystenlive
+newtv中国功夫,http://hmjnas.drdjhmj.top:35455/itv/2000000003000000009.m3u8?cdn=hnbblive
+NEWTV黑莓电影,http://hmjnas.drdjhmj.top:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
+NEWTV黑莓动画,http://hmjnas.drdjhmj.top:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
+NEWTV哒啵电竞,http://hmjnas.drdjhmj.top:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
+NEWTV哒啵赛事,http://hmjnas.drdjhmj.top:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
+
+IHOT,#genre#
+IHOT爱电竞,http://hmjnas.drdjhmj.top:35455/itv/6000000006000230630.m3u8?cdn=wasusyt
+IHOT爱谍战,http://hmjnas.drdjhmj.top:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
+IHOT爱动漫,http://hmjnas.drdjhmj.top:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
+IHOT爱都市,http://hmjnas.drdjhmj.top:35455/itv/6000000006000080630.m3u8?cdn=wasusyt
+IHOT爱怀旧,http://hmjnas.drdjhmj.top:35455/itv/6000000006000260630.m3u8?cdn=wasusyt
+IHOT爱经典,http://hmjnas.drdjhmj.top:35455/itv/6000000006000060630.m3u8?cdn=wasusyt
+IHOT爱科幻,http://hmjnas.drdjhmj.top:35455/itv/6000000006000020630.m3u8?cdn=wasusyt
+IHOT爱科学,http://hmjnas.drdjhmj.top:35455/itv/6000000006000160630.m3u8?cdn=wasusyt
+IHOT爱浪漫,http://hmjnas.drdjhmj.top:35455/itv/6000000006000040630.m3u8?cdn=wasusyt
+IHOT爱历史,http://hmjnas.drdjhmj.top:35455/itv/6000000006000150630.m3u8?cdn=wasusyt
+IHOT爱旅行,http://hmjnas.drdjhmj.top:35455/itv/6000000006000250630.m3u8?cdn=wasusyt
+IHOT爱奇谈,http://hmjnas.drdjhmj.top:35455/itv/6000000006000270630.m3u8?cdn=wasusyt
+IHOT爱青春,http://hmjnas.drdjhmj.top:35455/itv/6000000006000100630.m3u8?cdn=wasusyt
+IHOT爱赛车,http://hmjnas.drdjhmj.top:35455/itv/6000000006000240630.m3u8?cdn=wasusyt
+IHOT爱体育,http://hmjnas.drdjhmj.top:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
+IHOT爱玩具,http://hmjnas.drdjhmj.top:35455/itv/6000000006000220630.m3u8?cdn=wasusyt
+IHOT爱喜剧,http://hmjnas.drdjhmj.top:35455/itv/6000000006000010630.m3u8?cdn=wasusyt
+IHOT爱悬疑,http://hmjnas.drdjhmj.top:35455/itv/6000000006000050630.m3u8?cdn=wasusyt
+IHOT爱幼教,http://hmjnas.drdjhmj.top:35455/itv/6000000006000180630.m3u8?cdn=wasusyt
+IHOT爱院线,http://hmjnas.drdjhmj.top:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
+
+咪咕体育,#genre#
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/2000000003000000060.m3u8?cdn=hnbblive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/2000000003000000063.m3u8?cdn=hnbblive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/2000000003000000064.m3u8?cdn=hnbblive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/2000000003000000065.m3u8?cdn=hnbblive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/1000000006000270001.m3u8?cdn=ystenlive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/1000000006000270003.m3u8?cdn=ystenlive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/1000000006000270004.m3u8?cdn=ystenlive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/1000000006000270005.m3u8?cdn=ystenlive
+咪咕4k,http://hmjnas.drdjhmj.top:35455/itv/1000000006000270006.m3u8?cdn=ystenlive
 
 不用维护,#genre#
 CCTV1,http://eastscreen.tv/ooooo.php?id=CCTV1HD
