@@ -1594,6 +1594,23 @@ CCTV4K,http://148.135.93.213:81/live.php?id=CCTV4K-av3a
 CCTV16-4K,http://148.135.93.213:81/live.php?id=CCTV16-4K-av3a
 CCTV8K,http://148.135.93.213:81/live.php?id=CCTV8K-av3a
 
+4K频道,#genre#
+cctv16,http://hmjnas.drdjhmj.top:35455/itv/5000000008000023254.m3u8?cdn=bestzb
+cctv16,http://hmjnas.drdjhmj.top:35455/gaoma/cctv4k16.m3u8
+cctv4k,http://hmjnas.drdjhmj.top:35455/gaoma/cctv4k.m3u8
+北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+cctv8k,http://www.hearti.fun:35455/gaoma/cctv8k_36m.m3u8
+北京IPTV4K,http://hmjnas.drdjhmj.top:35455/bptv/10000100000000050000000003887500.m3u8
+北京体育休闲,http://hmjnas.drdjhmj.top:35455/bptv/10000100000000050000000004270525.m3u8
+华数4K,http://hmjnas.drdjhmj.top:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
+纯享4K,http://hmjnas.drdjhmj.top:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
+咪咕4K,http://hmjnas.drdjhmj.top:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
+咪咕4K,http://hmjnas.drdjhmj.top:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
+LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+LOUPE4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+FASHIONONE,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+SITV欢笑剧场,http://hmjnas.drdjhmj.top:35455/itv/5000000007000010001.m3u8?cdn=bestzb
+
 NEWTV,#genre#
 NewTV精品综合,http://hmjnas.drdjhmj.top:35455/itv/1000000004000019008.m3u8?cdn=ystenlive
 newtv精品大剧,http://hmjnas.drdjhmj.top:35455/itv/1000000004000013968.m3u8?cdn=ystenlive
