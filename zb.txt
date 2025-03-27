@@ -158,7 +158,7 @@ CETV4,http://dsm.ccb912.top:9998/rtp/239.93.0.50:5140$成电组域2
 先锋乒羽,http://dsm.ccb912.top:9998/rtp/239.93.42.56:5140$成电组域2
 乐龄学堂专区,http://dsm.ccb912.top:9998/rtp/239.93.1.179:5140$成电组域2
 
-//772765777.xyz:27777   mail.syswareonline.com:7088
+//772765777.xyz:27777 jgw.ddns.iuxs.info:9999 j.daysky.com:8000
 CCTV1,http://www.syswareonline.com:7088/rtp/239.93.0.58:5140$成电组域3
 CCTV2,http://www.syswareonline.com:7088/rtp/239.93.1.23:6000$成电组域3
 CCTV3,http://www.syswareonline.com:7088/rtp/239.93.0.109:5140$成电组域3
