@@ -203,7 +203,6 @@ CETV4,http://www.syswareonline.com:7088/rtp/239.93.0.50:5140$成电组域3
 
 
 四川,#genre#
-四川卫视,http://www.zhaoyinmei.top:50001/TVOD/1000000002000016825/FifastbLive/index.m3u8
 四川经济,http://live2.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
 四川文化旅游,http://live2.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8?E=1705227938&U=417cccfd-ffa6-4483-b309-5f955b0f0f41&A=2&K=14&P=011&S=f75bb3791b5ca4ab0df7a8c3ad02f599
 四川新闻,http://live2.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8?E=1705228069&U=439326a6-60ed-40f8-99ca-d1d7b797a97d&A=2&K=8&P=011&S=4919e88916c360f17627ea0d8e787b36
@@ -281,8 +280,6 @@ CETV4,http://www.syswareonline.com:7088/rtp/239.93.0.50:5140$成电组域3
 熊猫频道2,http://dsm.ccb912.top:9998/rtp/239.93.1.178:5140$成电组域2
 
 卫视,#genre#
-四川卫视,http://chat.aigoo.xyz:5000/TVOD/1000000002000016825/FifastbLive/index.m3u8
-四川卫视,http://www.yaozhenguo.top:5000/TVOD/1000000002000016825/FifastbLive/index.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
@@ -720,7 +717,8 @@ CGTN-俄语,http://live2.rxip.sc96655.com/live/ey_2000.m3u8?E=1705228046&U=74179
 三国演义,http://3501776.xyz:35455/huya/11602081
 新三国,http://3501776.xyz:35455/huya/11352944
 新水浒传,http://zby.xjqxz.top/shz/live.m3u8
-茶啊二中,http://3501776.xyz:35455/huya/11213191$http://1.94.31.214:35455/huya/11213191
+茶啊二中,http://3501776.xyz:35455/huya/11213191
+茶啊二中,http://1.94.31.214:35455/huya/11213191
 庆余年,http://3501776.xyz:35455/huya/11352960
 寻秦记,http://3501776.xyz:35455/huya/29465848
 爱情公寓,http://3501776.xyz:35455/huya/11336726
@@ -1045,8 +1043,6 @@ ZooMoo,http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 東方衛視國際頻道,http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
 無線衛星新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 
-环球电视台[1920*1080],http://zb.xzxwhcb.com:9999/hls/world.m3u8
-人间卫视[1280*720],https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 番薯音乐[1920*1080],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u
 香港卫视HKS[1024*576],http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
@@ -1061,7 +1057,6 @@ ZooMoo,http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 中天新聞,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___CTI_2_HD.flv
 凤凰资讯,http://ali.hlspull.yximgs.com/live/_pa_chong_bo___Phx_HD.flv
 
-TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 TVBS亚洲,http://extraott.com:80/live/6772191932/1654508883/5496.m3u8
 TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 
