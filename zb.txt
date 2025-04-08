@@ -1366,6 +1366,7 @@ CHC家庭影院http://j.daysky.com:8000/rtp/239.93.42.6:5140
 CHC影迷电影http://j.daysky.com:8000/rtp/239.93.42.5:5140
 CHC动作电影http://j.daysky.com:8000/rtp/239.93.42.7:5140
 欢笑剧场4K,http://j.daysky.com:8000/rtp/239.93.0.145:5140
+北京卫视4K,http://j.daysky.com:8000/rtp/239.93.42.102:5140
 i成都,http://j.daysky.com:8000/rtp/239.93.1.104:1234
 中国体育1,http://j.daysky.com:8000/rtp/239.93.42.25:5140
 中国体育2,http://j.daysky.com:8000/rtp/239.93.42.26:5140
@@ -1578,7 +1579,7 @@ CCTV16-4K,http://148.135.93.213:81/live.php?id=CCTV16-4K-av3a
 CCTV8K,http://148.135.93.213:81/live.php?id=CCTV8K-av3a
 
 4K频道,#genre#
-北京卫视4k,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1743245208&sign=fdbb62ef4425a678cf010e53bd553d61
+北京卫视4k,http://124.222.114.206/bjtv.php?id=bjws4k
 cctv16,http://sykes.i234.me:35455/gaoma/cctv4k16.m3u8
 cctv4k,http://sykes.i234.me:35455/gaoma/cctv4k.m3u8
 cctv8k,http://www.hearti.fun:35455/gaoma/cctv8k_36m.m3u8
