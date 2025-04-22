@@ -559,131 +559,130 @@ CGTN-俄语,http://live2.rxip.sc96655.com/live/ey_2000.m3u8?E=1705228046&U=74179
 家有购物,http://live2.rxip.sc96655.com/live/jygw.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
 
 经典电视剧,#genre#
-西游记,http://live.nctv.top/huya.php?id=26355861
-西游记,http://itv.nctv.top:35455/huya/26355861
-西游记,http://3501776.xyz:35455/huya/26355861
-三国演义,http://3501776.xyz:35455/huya/11602081
-新三国,http://3501776.xyz:35455/huya/11352944
-新水浒传,http://3501776.xyz:35455/huya/11342384
-茶啊二中,http://3501776.xyz:35455/huya/11213191
-庆余年,http://3501776.xyz:35455/huya/11352960
-寻秦记,http://3501776.xyz:35455/huya/29465848
-爱情公寓,http://3501776.xyz:35455/huya/11336726
-鹿鼎记,http://3501776.xyz:35455/huya/23865080
-铁齿铜牙纪晓岚,http://3501776.xyz:35455/huya/11342396
-雪中悍刀行,http://3501776.xyz:35455/huya/11336592
-新楚留香,http://3501776.xyz:35455/huya/26355848
-且试天下,http://3501776.xyz:35455/huya/21059630
-花千骨,http://3501776.xyz:35455/huya/26355839
-清平乐,http://3501776.xyz:35455/huya/21059631
-陈情令,http://3501776.xyz:35455/huya/29465862
-梦华录,http://3501776.xyz:35455/huya/11336590
-美人心计,http://3501776.xyz:35455/huya/26355837
-绝代双骄,http://3501776.xyz:35455/huya/29465867
-刁蛮公主,http://3501776.xyz:35455/huya/29465879
-还珠格格,http://3501776.xyz:35455/huya/30080241
-水月洞天,http://3501776.xyz:35455/huya/21059567
-笑傲江湖,http://3501776.xyz:35455/huya/26355858
-风云,http://3501776.xyz:35455/huya/21059612
-士兵突击,http://3501776.xyz:35455/huya/11342430
-天龙八部,http://3501776.xyz:35455/huya/23903123
-雍正皇帝,http://3501776.xyz:35455/huya/11342439
-家有儿女,http://3501776.xyz:35455/huya/11352872
-新三国,http://3501776.xyz:35455/huya/11352944
-龙门镖局,http://3501776.xyz:35455/huya/11352874
-神医喜来乐,http://3501776.xyz:35455/huya/11601978
-张卫健西游记,http://3501776.xyz:35455/huya/11342395
-倚天屠龙记,http://3501776.xyz:35455/huya/11342403
-虎符传奇,http://3501776.xyz:35455/huya/11342415
-斗罗大陆2021,http://3501776.xyz:35455/huya/11352892
-瑶山大剿匪,http://3501776.xyz:35455/huya/11342392
-白鹿原,http://3501776.xyz:35455/huya/11342416
-金庸,http://3501776.xyz:35455/huya/11336579
-猎罪图鉴,http://3501776.xyz:35455/huya/11601962
-扫黑风暴,http://3501776.xyz:35455/huya/11342404
-邻里一家亲,http://3501776.xyz:35455/huya/11342426
-父母爱情,http://3501776.xyz:35455/huya/11602071
-医馆笑传,http://3501776.xyz:35455/huya/11352891
-大秦赋,http://3501776.xyz:35455/huya/11352881
-盗墓笔记,http://3501776.xyz:35455/huya/11352871
-芈月传,http://3501776.xyz:35455/huya/11352975
-法证先锋,http://3501776.xyz:35455/huya/23863804
-神探狄仁杰,http://3501776.xyz:35455/huya/11352958
-宝莲灯,http://3501776.xyz:35455/huya/21059563
-神雕侠侣1995,http://3501776.xyz:35455/huya/23865171
-新神雕侠侣,http://3501776.xyz:35455/huya/11352964
-大唐双龙传,http://3501776.xyz:35455/huya/23728674
-旧三国,http://3501776.xyz:35455/huya/11602081
-活佛济公,http://3501776.xyz:35455/huya/11342400
-倩女幽魂,http://3501776.xyz:35455/huya/26355822
-铁梨花,http://3501776.xyz:35455/huya/11352912
-青岛往事,http://3501776.xyz:35455/huya/11342434
-雪豹后传,http://3501776.xyz:35455/huya/20599549
-漫长的季节,http://3501776.xyz:35455/huya/11342393
-风筝,http://3501776.xyz:35455/huya/30080225
-问心,http://3501776.xyz:35455/huya/11352890
+西游记,http://live.iill.top/huya.php?id=26355861
+西游记2,http://live.nctv.top/huya.php?id=26355861
+三国演义,http://live.nctv.top/huya.php?id=11602081
+新三国,http://live.nctv.top/huya.php?id=11352944
+新水浒传,http://live.nctv.top/huya.php?id=11342384
+宝莲灯,http://live.nctv.top/huya.php?id=21059563
+茶啊二中,http://live.nctv.top/huya.php?id=11213191
+庆余年,http://live.nctv.top/huya.php?id=11352960
+寻秦记,http://live.nctv.top/huya.php?id=29465848
+爱情公寓,http://live.nctv.top/huya.php?id=11336726
+鹿鼎记,http://live.nctv.top/huya.php?id=23865080
+铁齿铜牙纪晓岚,http://live.nctv.top/huya.php?id=11342396
+雪中悍刀行,http://live.nctv.top/huya.php?id=11336592
+新楚留香,http://live.nctv.top/huya.php?id=26355848
+且试天下,http://live.nctv.top/huya.php?id=21059630
+花千骨,http://live.nctv.top/huya.php?id=26355839
+清平乐,http://live.nctv.top/huya.php?id=21059631
+陈情令,http://live.nctv.top/huya.php?id=29465862
+梦华录,http://live.nctv.top/huya.php?id=11336590
+美人心计,http://live.nctv.top/huya.php?id=26355837
+绝代双骄,http://live.nctv.top/huya.php?id=29465867
+刁蛮公主,http://live.nctv.top/huya.php?id=29465879
+还珠格格,http://live.nctv.top/huya.php?id=30080241
+水月洞天,http://live.nctv.top/huya.php?id=21059567
+笑傲江湖,http://live.nctv.top/huya.php?id=26355858
+风云,http://live.nctv.top/huya.php?id=21059612
+士兵突击,http://live.nctv.top/huya.php?id=11342430
+天龙八部,http://live.nctv.top/huya.php?id=23903123
+雍正皇帝,http://live.nctv.top/huya.php?id=11342439
+家有儿女,http://live.nctv.top/huya.php?id=11352872
+新三国,http://live.nctv.top/huya.php?id=11352944
+龙门镖局,http://live.nctv.top/huya.php?id=11352874
+神医喜来乐,http://live.nctv.top/huya.php?id=11601978
+张卫健西游记,http://live.nctv.top/huya.php?id=11342395
+倚天屠龙记,http://live.nctv.top/huya.php?id=11342403
+虎符传奇,http://live.nctv.top/huya.php?id=11342415
+斗罗大陆2021,http://live.nctv.top/huya.php?id=11352892
+瑶山大剿匪,http://live.nctv.top/huya.php?id=11342392
+白鹿原,http://live.nctv.top/huya.php?id=11342416
+金庸,http://live.nctv.top/huya.php?id=11336579
+猎罪图鉴,http://live.nctv.top/huya.php?id=11601962
+扫黑风暴,http://live.nctv.top/huya.php?id=11342404
+邻里一家亲,http://live.nctv.top/huya.php?id=11342426
+父母爱情,http://live.nctv.top/huya.php?id=11602071
+医馆笑传,http://live.nctv.top/huya.php?id=11352891
+大秦赋,http://live.nctv.top/huya.php?id=11352881
+盗墓笔记,http://live.nctv.top/huya.php?id=11352871
+芈月传,http://live.nctv.top/huya.php?id=11352975
+法证先锋,http://live.nctv.top/huya.php?id=23863804
+神探狄仁杰,http://live.nctv.top/huya.php?id=11352958
+神雕侠侣1995,http://live.nctv.top/huya.php?id=23865171
+新神雕侠侣,http://live.nctv.top/huya.php?id=11352964
+大唐双龙传,http://live.nctv.top/huya.php?id=23728674
+旧三国,http://live.nctv.top/huya.php?id=11602081
+活佛济公,http://live.nctv.top/huya.php?id=11342400
+倩女幽魂,http://live.nctv.top/huya.php?id=26355822
+铁梨花,http://live.nctv.top/huya.php?id=11352912
+青岛往事,http://live.nctv.top/huya.php?id=11342434
+雪豹后传,http://live.nctv.top/huya.php?id=20599549
+漫长的季节,http://live.nctv.top/huya.php?id=11342393
+风筝,http://live.nctv.top/huya.php?id=30080225
+问心,http://live.nctv.top/huya.php?id=11352890
 
-西游记,http://zourjke.eu.org:87/huya/26355861
-三国演义,http://zourjke.eu.org:87/huya/11602081
-新三国,http://zourjke.eu.org:87/huya/11352944
-新水浒传,http://zourjke.eu.org:87/huya/11342384
-茶啊二中,http://zourjke.eu.org:87/huya/11213191
-庆余年,http://zourjke.eu.org:87/huya/11352960
-寻秦记,http://zourjke.eu.org:87/huya/29465848
-爱情公寓,http://zourjke.eu.org:87/huya/11336726
-鹿鼎记,http://zourjke.eu.org:87/huya/23865080
-铁齿铜牙纪晓岚,http://zourjke.eu.org:87/huya/11342396
-雪中悍刀行,http://zourjke.eu.org:87/huya/11336592
-新楚留香,http://zourjke.eu.org:87/huya/26355848
-且试天下,http://zourjke.eu.org:87/huya/21059630
-花千骨,http://zourjke.eu.org:87/huya/26355839
-清平乐,http://zourjke.eu.org:87/huya/21059631
-陈情令,http://zourjke.eu.org:87/huya/29465862
-梦华录,http://zourjke.eu.org:87/huya/11336590
-美人心计,http://zourjke.eu.org:87/huya/26355837
-绝代双骄,http://zourjke.eu.org:87/huya/29465867
-刁蛮公主,http://zourjke.eu.org:87/huya/29465879
-还珠格格,http://zourjke.eu.org:87/huya/30080241
-水月洞天,http://zourjke.eu.org:87/huya/21059567
-笑傲江湖,http://zourjke.eu.org:87/huya/26355858
-风云,http://zourjke.eu.org:87/huya/21059612
-士兵突击,http://zourjke.eu.org:87/huya/11342430
-天龙八部,http://zourjke.eu.org:87/huya/23903123
-雍正皇帝,http://zourjke.eu.org:87/huya/11342439
-家有儿女,http://zourjke.eu.org:87/huya/11352872
-新三国,http://zourjke.eu.org:87/huya/11352944
-龙门镖局,http://zourjke.eu.org:87/huya/11352874
-神医喜来乐,http://zourjke.eu.org:87/huya/11601978
-张卫健西游记,http://zourjke.eu.org:87/huya/11342395
-倚天屠龙记,http://zourjke.eu.org:87/huya/11342403
-虎符传奇,http://zourjke.eu.org:87/huya/11342415
-斗罗大陆2021,http://zourjke.eu.org:87/huya/11352892
-瑶山大剿匪,http://zourjke.eu.org:87/huya/11342392
-白鹿原,http://zourjke.eu.org:87/huya/11342416
-金庸,http://zourjke.eu.org:87/huya/11336579
-猎罪图鉴,http://zourjke.eu.org:87/huya/11601962
-扫黑风暴,http://zourjke.eu.org:87/huya/11342404
-邻里一家亲,http://zourjke.eu.org:87/huya/11342426
-父母爱情,http://zourjke.eu.org:87/huya/11602071
-医馆笑传,http://zourjke.eu.org:87/huya/11352891
-大秦赋,http://zourjke.eu.org:87/huya/11352881
-盗墓笔记,http://zourjke.eu.org:87/huya/11352871
-芈月传,http://zourjke.eu.org:87/huya/11352975
-法证先锋,http://zourjke.eu.org:87/huya/23863804
-神探狄仁杰,http://zourjke.eu.org:87/huya/11352958
-宝莲灯,http://zourjke.eu.org:87/huya/21059563
-神雕侠侣1995,http://zourjke.eu.org:87/huya/23865171
-新神雕侠侣,http://zourjke.eu.org:87/huya/11352964
-大唐双龙传,http://zourjke.eu.org:87/huya/23728674
-旧三国,http://zourjke.eu.org:87/huya/11602081
-活佛济公,http://zourjke.eu.org:87/huya/11342400
-倩女幽魂,http://zourjke.eu.org:87/huya/26355822
-铁梨花,http://zourjke.eu.org:87/huya/11352912
-青岛往事,http://zourjke.eu.org:87/huya/11342434
-雪豹后传,http://zourjke.eu.org:87/huya/20599549
-漫长的季节,http://zourjke.eu.org:87/huya/11342393
-风筝,http://zourjke.eu.org:87/huya/30080225
-问心,http://zourjke.eu.org:87/huya/11352890
+西游记2,http://diyp.zxyxndc.top/huya/26355861
+三国演义,http://diyp.zxyxndc.top/huya/11602081
+新三国,http://diyp.zxyxndc.top/huya/11352944
+新水浒传,http://diyp.zxyxndc.top/huya/11342384
+茶啊二中,http://diyp.zxyxndc.top/huya/11213191
+庆余年,http://diyp.zxyxndc.top/huya/11352960
+寻秦记,http://diyp.zxyxndc.top/huya/29465848
+爱情公寓,http://diyp.zxyxndc.top/huya/11336726
+鹿鼎记,http://diyp.zxyxndc.top/huya/23865080
+铁齿铜牙纪晓岚,http://diyp.zxyxndc.top/huya/11342396
+雪中悍刀行,http://diyp.zxyxndc.top/huya/11336592
+新楚留香,http://diyp.zxyxndc.top/huya/26355848
+且试天下,http://diyp.zxyxndc.top/huya/21059630
+花千骨,http://diyp.zxyxndc.top/huya/26355839
+清平乐,http://diyp.zxyxndc.top/huya/21059631
+陈情令,http://diyp.zxyxndc.top/huya/29465862
+梦华录,http://diyp.zxyxndc.top/huya/11336590
+美人心计,http://diyp.zxyxndc.top/huya/26355837
+绝代双骄,http://diyp.zxyxndc.top/huya/29465867
+刁蛮公主,http://diyp.zxyxndc.top/huya/29465879
+还珠格格,http://diyp.zxyxndc.top/huya/30080241
+水月洞天,http://diyp.zxyxndc.top/huya/21059567
+笑傲江湖,http://diyp.zxyxndc.top/huya/26355858
+风云,http://diyp.zxyxndc.top/huya/21059612
+士兵突击,http://diyp.zxyxndc.top/huya/11342430
+天龙八部,http://diyp.zxyxndc.top/huya/23903123
+雍正皇帝,http://diyp.zxyxndc.top/huya/11342439
+家有儿女,http://diyp.zxyxndc.top/huya/11352872
+新三国,http://diyp.zxyxndc.top/huya/11352944
+龙门镖局,http://diyp.zxyxndc.top/huya/11352874
+神医喜来乐,http://diyp.zxyxndc.top/huya/11601978
+张卫健西游记,http://diyp.zxyxndc.top/huya/11342395
+倚天屠龙记,http://diyp.zxyxndc.top/huya/11342403
+虎符传奇,http://diyp.zxyxndc.top/huya/11342415
+斗罗大陆2021,http://diyp.zxyxndc.top/huya/11352892
+瑶山大剿匪,http://diyp.zxyxndc.top/huya/11342392
+白鹿原,http://diyp.zxyxndc.top/huya/11342416
+金庸,http://diyp.zxyxndc.top/huya/11336579
+猎罪图鉴,http://diyp.zxyxndc.top/huya/11601962
+扫黑风暴,http://diyp.zxyxndc.top/huya/11342404
+邻里一家亲,http://diyp.zxyxndc.top/huya/11342426
+父母爱情,http://diyp.zxyxndc.top/huya/11602071
+医馆笑传,http://diyp.zxyxndc.top/huya/11352891
+大秦赋,http://diyp.zxyxndc.top/huya/11352881
+盗墓笔记,http://diyp.zxyxndc.top/huya/11352871
+芈月传,http://diyp.zxyxndc.top/huya/11352975
+法证先锋,http://diyp.zxyxndc.top/huya/23863804
+神探狄仁杰,http://diyp.zxyxndc.top/huya/11352958
+宝莲灯,http://diyp.zxyxndc.top/huya/21059563
+神雕侠侣1995,http://diyp.zxyxndc.top/huya/23865171
+新神雕侠侣,http://diyp.zxyxndc.top/huya/11352964
+大唐双龙传,http://diyp.zxyxndc.top/huya/23728674
+旧三国,http://diyp.zxyxndc.top/huya/11602081
+活佛济公,http://diyp.zxyxndc.top/huya/11342400
+倩女幽魂,http://diyp.zxyxndc.top/huya/26355822
+铁梨花,http://diyp.zxyxndc.top/huya/11352912
+青岛往事,http://diyp.zxyxndc.top/huya/11342434
+雪豹后传,http://diyp.zxyxndc.top/huya/20599549
+漫长的季节,http://diyp.zxyxndc.top/huya/11342393
+风筝,http://diyp.zxyxndc.top/huya/30080225
+问心,http://diyp.zxyxndc.top/huya/11352890
 
 🎬电影频道👉全网,#genre#
 1905国内电影,
