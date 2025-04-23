@@ -215,7 +215,7 @@ CETV4,http://nas.zhangyu.zone:42424/rtp/239.93.0.50:5140$成电组域3
 熊猫频道2,http://nas.zhangyu.zone:42424/rtp/239.93.1.178:5140$成电组域3
 
 卫视,#genre#
-四川卫视,http://jgw.ddns.iuxs.info:9999/rtp/239.93.0.169:5140$syswareonline
+四川卫视,http://jgw.ddns.iuxs.info:9999/rtp/239.93.0.169:5140$jgw
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
