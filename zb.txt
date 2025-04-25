@@ -1391,12 +1391,12 @@ i成都,http://j.daysky.com:8000/rtp/239.93.1.104:1234
 927,http://j.daysky.com:8000/rtp/239.93.1.125:5140
 928,http://j.daysky.com:8000/rtp/239.93.1.126:5140
 929,http://j.daysky.com:8000/rtp/239.93.1.127:5140
-热门央视http://j.daysky.com:8000/rtp/239.93.1.33:5140
-热门卫视http://j.daysky.com:8000/rtp/239.93.1.34:5140
-热门本地http://j.daysky.com:8000/rtp/239.93.1.35:5140
-热门央视-体验http://j.daysky.com:8000/rtp/239.93.1.47:5140
-热门卫视-体验http://j.daysky.com:8000/rtp/239.93.1.49:5140
-热门本地-体验http://j.daysky.com:8000/rtp/239.93.1.53:5140
+热门央视,http://j.daysky.com:8000/rtp/239.93.1.33:5140
+热门卫视,http://j.daysky.com:8000/rtp/239.93.1.34:5140
+热门本地,http://j.daysky.com:8000/rtp/239.93.1.35:5140
+热门央视-体验,http://j.daysky.com:8000/rtp/239.93.1.47:5140
+热门卫视-体验,http://j.daysky.com:8000/rtp/239.93.1.49:5140
+热门本地-体验,http://j.daysky.com:8000/rtp/239.93.1.53:5140
 
 migu,#genre#
 CCTV1,http://goo.bkpcp.top/mg/cctv1
