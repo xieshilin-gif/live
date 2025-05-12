@@ -746,6 +746,7 @@ CGTN-俄语,http://live2.rxip.sc96655.com/live/ey_2000.m3u8?E=1705228046&U=74179
 🎬电影频道👉全网,#genre#
 1905国内电影,
 1905国外电影,
+邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 邵氏影院,http://lxajh.top/tv/douyu.php?id=4246519
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
 周星驰,http://zzy789.xyz/douyu1.php?id=122402
