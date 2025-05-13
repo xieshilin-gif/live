@@ -12,7 +12,7 @@
 
 
 央视,#genre#
-//z4s.cdbackup.cn:8888    www.minmiu.cn:18888   jgw.ddns.iuxs.info:9999
+//yulang132.cn:4022
 CCTV1,http://772765777.xyz:27777/rtp/239.93.0.58:5140$成电组域
 CCTV2,http://772765777.xyz:27777/rtp/239.93.1.23:6000$成电组域
 CCTV3,http://772765777.xyz:27777/rtp/239.93.0.109:5140$成电组域
