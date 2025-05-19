@@ -617,6 +617,7 @@ CGTN-俄语,http://live2.rxip.sc96655.com/live/ey_2000.m3u8?E=1705228046&U=74179
 家有购物,http://live2.rxip.sc96655.com/live/jygw.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
 
 经典电视剧,#genre#
+西游记,http://103.193.151.146/huya.php?id=26355861
 西游记,http://live.iill.top/huya.php?id=26355861
 西游记2,http://live.nctv.top/huya.php?id=26355861
 三国演义,http://live.nctv.top/huya.php?id=11602081
