@@ -625,7 +625,8 @@ CGTN-俄语,http://live2.rxip.sc96655.com/live/ey_2000.m3u8?E=1705228046&U=74179
 新水浒传,http://live.nctv.top/huya.php?id=11342384
 宝莲灯,http://live.nctv.top/huya.php?id=21059563
 茶啊二中,http://live.nctv.top/huya.php?id=11213191
-庆余年,http://live.nctv.top/huya.php?id=11352960
+庆余年1,http://live.nctv.top/huya.php?id=11352960
+庆余年2,http://live.nctv.top/huya.php?id=23740156
 寻秦记,http://live.nctv.top/huya.php?id=29465848
 爱情公寓,http://live.nctv.top/huya.php?id=11336726
 鹿鼎记,http://live.nctv.top/huya.php?id=23865080
@@ -686,7 +687,8 @@ CGTN-俄语,http://live2.rxip.sc96655.com/live/ey_2000.m3u8?E=1705228046&U=74179
 新三国,http://diyp.zxyxndc.top/huya/11352944
 新水浒传,http://diyp.zxyxndc.top/huya/11342384
 茶啊二中,http://diyp.zxyxndc.top/huya/11213191
-庆余年,http://diyp.zxyxndc.top/huya/11352960
+庆余年1,http://diyp.zxyxndc.top/huya/11352960
+庆余年2,http://diyp.zxyxndc.top/huya/23740156
 寻秦记,http://diyp.zxyxndc.top/huya/29465848
 爱情公寓,http://diyp.zxyxndc.top/huya/11336726
 鹿鼎记,http://diyp.zxyxndc.top/huya/23865080
